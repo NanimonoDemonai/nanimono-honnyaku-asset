@@ -305,7 +305,7 @@ Locke cut him off. "</source>
 
 「//写真を見る//だけなら気絶はしない。」
 
-「その日は暑かったんだ」ロックが付け加えた。</target>
+「その日は暑かったなあ」ロックが付け加えた。</target>
       </trans-unit>
       <trans-unit id="46" approved="yes">
         <source xml:space="preserve">
@@ -339,11 +339,11 @@ Dr. King was six years old, and he was back in the containment chamber for [[[SC
 @@@@
 キング博士は六歳の少年で、[[[SCP-261]]]の収容チャンバーに戻っていた。</target>
       </trans-unit>
-      <trans-unit id="48" approved="no">
+      <trans-unit id="48" approved="yes">
         <source xml:space="preserve">An endless cascade of apple seeds flowed from the vending machine's every orifice, pooling around King's feet and sucking him in like quicksand.</source>
-        <target xml:space="preserve">自販機のあらゆる孔からリンゴの種が尽きることなく滝のように流れ出し、キングの足元に溜まって流砂のように彼を飲み込んだ。</target>
+        <target xml:space="preserve">自販機のあらゆる穴からリンゴの種が尽きることなく滝のように流れ出し、キングの足元に溜まって流砂のように彼を飲み込んだ。</target>
       </trans-unit>
-      <trans-unit id="49" approved="no">
+      <trans-unit id="49" approved="yes">
         <source xml:space="preserve">
 
 "Stop eating the seeds," said the severed head of his father hovering above him. "</source>
@@ -351,23 +351,23 @@ Dr. King was six years old, and he was back in the containment chamber for [[[SC
 
 「種を食べるのはやめなさい」彼の頭上に浮かぶ父の生首が言った。「</target>
       </trans-unit>
-      <trans-unit id="50" approved="no">
+      <trans-unit id="50" approved="yes">
         <source xml:space="preserve">It's not normal."</source>
-        <target xml:space="preserve">普通じゃないんだ」</target>
+        <target xml:space="preserve">それは普通のことではないんだ」</target>
       </trans-unit>
-      <trans-unit id="51" approved="no">
+      <trans-unit id="51" approved="yes">
         <source xml:space="preserve">
 
 "But Dad, it's the best part!"</source>
         <target xml:space="preserve">
 
-「でもお父さん、そこが一番おいしいんだよ！」</target>
+「でもお父さん、そこが一番おいしいんだよ《it's the best part》！」</target>
       </trans-unit>
-      <trans-unit id="52" approved="no">
+      <trans-unit id="52" approved="yes">
         <source xml:space="preserve">King protested.</source>
         <target xml:space="preserve">キングは抗議した。</target>
       </trans-unit>
-      <trans-unit id="53" approved="no">
+      <trans-unit id="53" approved="yes">
         <source xml:space="preserve">
 
 His father's head turned dark and shriveled. "</source>
@@ -375,23 +375,23 @@ His father's head turned dark and shriveled. "</source>
 
 父の頭部は黒くしぼんでいった。「</target>
       </trans-unit>
-      <trans-unit id="54" approved="no">
-        <source xml:space="preserve">The //skin// is the best part.</source>
+      <trans-unit id="54" approved="yes">
+        <source xml:space="preserve">The //skin// is the best part《best part》.</source>
         <target xml:space="preserve">//皮//が一番なんだ。</target>
       </trans-unit>
-      <trans-unit id="55" approved="no">
+      <trans-unit id="55" approved="yes">
         <source xml:space="preserve">That's where all the nutrients are.</source>
         <target xml:space="preserve">栄養は全部そこにある。</target>
       </trans-unit>
-      <trans-unit id="56" approved="no">
+      <trans-unit id="56" approved="yes">
         <source xml:space="preserve">If you keep eating the seeds, they'll grow inside you.</source>
         <target xml:space="preserve">種を食べ続ければ体の中で育ってしまう。</target>
       </trans-unit>
-      <trans-unit id="57" approved="no">
+      <trans-unit id="57" approved="yes">
         <source xml:space="preserve">Do you want an apple tree growing out of your tummy?"</source>
         <target xml:space="preserve">お腹からリンゴの木が生えてきてほしいのか？」</target>
       </trans-unit>
-      <trans-unit id="58" approved="no">
+      <trans-unit id="58" approved="yes">
         <source xml:space="preserve">
 
 King looked at his father's body hunched over in a bloody corner of the room.</source>
@@ -399,19 +399,19 @@ King looked at his father's body hunched over in a bloody corner of the room.</s
 
 キングは部屋の血塗れの隅にうずくまる父の体を見た。</target>
       </trans-unit>
-      <trans-unit id="59" approved="no">
+      <trans-unit id="59" approved="yes">
         <source xml:space="preserve">A tangled mess of branches and intestines stretched from its stomach cavity.</source>
         <target xml:space="preserve">腹腔からは枝と腸が絡み合った塊が伸びていた。</target>
       </trans-unit>
-      <trans-unit id="60" approved="no">
+      <trans-unit id="60" approved="yes">
         <source xml:space="preserve">Terror gripped King's heart.</source>
         <target xml:space="preserve">恐怖がキングの心臓を鷲掴みにした。</target>
       </trans-unit>
-      <trans-unit id="61" approved="no">
+      <trans-unit id="61" approved="yes">
         <source xml:space="preserve">He had sunk to his neck in seeds.</source>
         <target xml:space="preserve">彼は首まで種に沈んでいた。</target>
       </trans-unit>
-      <trans-unit id="62" approved="no">
+      <trans-unit id="62" approved="yes">
         <source xml:space="preserve">
 
 "No!"</source>
@@ -419,27 +419,28 @@ King looked at his father's body hunched over in a bloody corner of the room.</s
 
 「いやだ！」</target>
       </trans-unit>
-      <trans-unit id="63" approved="no">
+      <trans-unit id="63" approved="yes">
         <source xml:space="preserve">he screamed. "</source>
         <target xml:space="preserve">彼は叫んだ。「</target>
       </trans-unit>
-      <trans-unit id="64" approved="no">
+      <trans-unit id="64" approved="yes">
         <source xml:space="preserve">I'll never eat apples again, I promise!"</source>
         <target xml:space="preserve">もう二度とリンゴは食べない、約束するよ！」</target>
       </trans-unit>
-      <trans-unit id="65" approved="no">
+      <trans-unit id="65" approved="yes">
         <source xml:space="preserve">
 
 A mottling of green and white fuzz sprouted on what was left of his father's eyes. "</source>
         <target xml:space="preserve">
 
-父の残った眼球に緑と白の綿毛のまだらが芽吹いた。「</target>
+父の目のなれの果てに、緑と白の綿毛が斑模様になって生じた。」</target>
+        <note>原文が写生文的であり、直訳にするべきだろう。</note>
       </trans-unit>
-      <trans-unit id="66" approved="no">
+      <trans-unit id="66" approved="yes">
         <source xml:space="preserve">You can still eat apples, son," it said, "just not the seeds."</source>
         <target xml:space="preserve">リンゴは食べてもいい、息子よ。ただ種だけはやめなさい」</target>
       </trans-unit>
-      <trans-unit id="67" approved="no">
+      <trans-unit id="67" approved="yes">
         <source xml:space="preserve">
 
 A pain shot through King's stomach.</source>
@@ -447,11 +448,12 @@ A pain shot through King's stomach.</source>
 
 キングの腹に鋭い痛みが走った。</target>
       </trans-unit>
-      <trans-unit id="68" approved="no">
+      <trans-unit id="68" approved="yes">
         <source xml:space="preserve">It rumbled with the sound of a thousand creaking floorboards as the ocean of seeds curled up around his chin.</source>
-        <target xml:space="preserve">無数の床板が軋むような轟きが腹から鳴り、種の海が顎の周りまで巻き上がった。</target>
+        <target xml:space="preserve">無数の床板がガタガタと軋む。種子の海が彼の顎のあたりまで渦を巻いてせり上がってきたのだった。</target>
+        <note>原文が写生文的であり、直訳にするべきだろう。</note>
       </trans-unit>
-      <trans-unit id="69" approved="no">
+      <trans-unit id="69" approved="yes">
         <source xml:space="preserve">
 
 "I don't want a tree in my tummy," he whispered. "</source>
@@ -459,27 +461,27 @@ A pain shot through King's stomach.</source>
 
 「お腹に木なんかいらないよ」彼はささやいた。「</target>
       </trans-unit>
-      <trans-unit id="70" approved="no">
+      <trans-unit id="70" approved="yes">
         <source xml:space="preserve">I want to make people happy."</source>
         <target xml:space="preserve">みんなを幸せにしたいんだ」</target>
       </trans-unit>
-      <trans-unit id="71" approved="no">
+      <trans-unit id="71" approved="yes">
         <source xml:space="preserve">
 
 And with that, he sank to oblivion.</source>
         <target xml:space="preserve">
 
-そう言って、彼は忘却へと沈んでいった。</target>
+言葉と共に彼は廃忘の淵に沈んでいった。</target>
       </trans-unit>
-      <trans-unit id="72" approved="no">
+      <trans-unit id="72" approved="yes">
         <source xml:space="preserve">Apple seeds rushed to fill his mouth and nose and ears, crushing every inch of his insides until his gut split open.</source>
         <target xml:space="preserve">リンゴの種が口、鼻、耳を埋め尽くし、内臓の一寸一寸を押し潰し、腹が裂けるまで続いた。</target>
       </trans-unit>
-      <trans-unit id="73" approved="no">
+      <trans-unit id="73" approved="yes">
         <source xml:space="preserve">Something new emerged from the where the boy had been--something red.</source>
         <target xml:space="preserve">少年がいた場所から新しい何かが現れた――赤い何かが。</target>
       </trans-unit>
-      <trans-unit id="74" approved="no">
+      <trans-unit id="74" approved="yes">
         <source xml:space="preserve">
 
 "After all these years" said his father, "you can finally breathe."</source>
@@ -487,19 +489,19 @@ And with that, he sank to oblivion.</source>
 
 「長い年月を経て」父は言った。「やっと息ができるようになったな」</target>
       </trans-unit>
-      <trans-unit id="75" approved="no">
+      <trans-unit id="75" approved="yes">
         <source xml:space="preserve">
 
 When King woke up, he was screaming.</source>
         <target xml:space="preserve">
 
-キングが目を覚ました時、彼は悲鳴を上げていた。</target>
+悲鳴をあげ、キングは目を覚ました。</target>
       </trans-unit>
-      <trans-unit id="76" approved="no">
+      <trans-unit id="76" approved="yes">
         <source xml:space="preserve">And ravenously hungry.</source>
-        <target xml:space="preserve">そして底知れず空腹だった。</target>
+        <target xml:space="preserve">そして、飢えに焦がれていた。</target>
       </trans-unit>
-      <trans-unit id="77" approved="no">
+      <trans-unit id="77" approved="yes">
         <source xml:space="preserve">
 @@@@
 @@@@
