@@ -70,7 +70,7 @@ Dr. King lifted an eyebrow. "</source>
       </trans-unit>
       <trans-unit id="7" approved="yes">
         <source xml:space="preserve">Because, like his father before him, Dr. Shia D. Locke was a dog.</source>
-        <target xml:space="preserve">というのも、父ロック博士と同じく、またシア・D・ロック博士も犬だったからである。</target>
+        <target xml:space="preserve">というのも、彼の父と同じく、またシア・D・ロック博士も犬だったからである。</target>
       </trans-unit>
       <trans-unit id="8" approved="yes">
         <source xml:space="preserve">
@@ -499,7 +499,7 @@ When King woke up, he was screaming.</source>
       </trans-unit>
       <trans-unit id="76" approved="yes">
         <source xml:space="preserve">And ravenously hungry.</source>
-        <target xml:space="preserve">そして、飢えに焦がれていた。</target>
+        <target xml:space="preserve">そして、猛烈に飢えていた。</target>
       </trans-unit>
       <trans-unit id="77" approved="yes">
         <source xml:space="preserve">
@@ -942,7 +942,7 @@ King winked and spun a McIntosh on his little finger. "</source>
 "And how many have you had?"</source>
         <target xml:space="preserve">
 
-「で、今何個目だ？」</target>
+「で、今何個目？」</target>
       </trans-unit>
       <trans-unit id="151" approved="yes">
         <source xml:space="preserve">asked Hippo.</source>
@@ -1028,7 +1028,7 @@ King squinted.</source>
 
 「まあ、それ自体は確かに、いや、でも――」
 
-「生産性は上がった。</target>
+「私の生産性は上がった。</target>
       </trans-unit>
       <trans-unit id="165" approved="yes">
         <source xml:space="preserve">I'm finally getting good sleep.</source>
@@ -1355,9 +1355,10 @@ Locke glanced at the doors of the elevator.</source>
         <source xml:space="preserve">And when one of his special projects strayed too far out of line..."
 
 Locke jerked himself out of King's grip and backed up against the steel elevator wall. "</source>
-        <target xml:space="preserve">そして特別プロジェクトの一つが規範から外れすぎると……」
+        <target xml:space="preserve">そして彼の特殊なプロジェクトの一つが想定外になると……」
 
 ロックはキングの手から身体を引きはがし、鋼鉄の壁に背をつけた。「</target>
+        <note>あまりうまく訳せていない気がする</note>
       </trans-unit>
       <trans-unit id="224" approved="yes">
         <source xml:space="preserve">Dylan, you watched me grow up.</source>
