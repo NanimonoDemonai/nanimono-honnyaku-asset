@@ -56,12 +56,12 @@ def export_sentences(input_file: Path, lang: str = "en", model: str | None = "en
     # Collect sentences (fallback to whole text if none)
     sentences: list[str] = []
     for sent in doc.sents:
-        line = sent.text.strip()
-        if line:
+        line = sent.text  # Preserve original whitespace and newlines
+        if line != "":
             sentences.append(line)
     if not sentences:
-        fallback = text.strip()
-        if fallback:
+        fallback = text  # Preserve original whitespace and newlines
+        if fallback != "":
             sentences.append(fallback)
 
     # Produce XLIFF 1.2 and write to translation.xml next to the input file
@@ -79,8 +79,8 @@ def export_sentences(input_file: Path, lang: str = "en", model: str | None = "en
 
     for i, s in enumerate(sentences, start=1):
         lines.append(f"      <trans-unit id=\"{i}\">")
-        lines.append(f"        <source>{escape(s)}</source>")
-        lines.append(f"        <target>{escape(s)}</target>")
+        lines.append(f"        <source xml:space=\"preserve\">{escape(s)}</source>")
+        lines.append(f"        <target xml:space=\"preserve\">{escape(s)}</target>")
         lines.append("      </trans-unit>")
 
     lines.append("    </body>")

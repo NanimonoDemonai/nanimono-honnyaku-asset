@@ -90,13 +90,17 @@ def main(argv: list[str] | None = None) -> int:
     elif sep == "\\t":
         sep = "\t"
 
-    ensure_stdout_utf8()
-
-    # Print without an extra trailing separator (join handles this)
-    sys.stdout.write(sep.join(targets))
-    # Always end with a newline for terminal friendliness when sep isn't newline
-    if not sep.endswith('\n'):
-        sys.stdout.write('\n')
+    # Write output to tgt.txt next to the input file
+    output_path = input_path.parent / 'tgt.txt'
+    try:
+        with output_path.open('w', encoding='utf-8', newline='') as f:
+            f.write(sep.join(targets))
+            # Always end with a newline for terminal friendliness when sep isn't newline
+            if not sep.endswith('\n'):
+                f.write('\n')
+    except Exception as e:
+        print(f"Error: Failed to write to {output_path}: {e}", file=sys.stderr)
+        return 2
 
     return 0
 
