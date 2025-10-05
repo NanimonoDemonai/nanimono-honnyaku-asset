@@ -520,13 +520,13 @@ On most days, the Site-20 cafeteria was filled with the deafening roar of a thou
 + 火曜日
 
 @@@@
-普段なら、サイト-20のカフェテリアは千人の職員の雑談で耳をつんざくような轟音に満ちている。</target>
+普段なら、サイト-20のカフェテリアは無数の職員の雑談で耳をつんざくような轟音に満ちている。</target>
       </trans-unit>
-      <trans-unit id="78" approved="no">
+      <trans-unit id="78" approved="yes">
         <source xml:space="preserve">On this day, there was an unnatural hush over the room as Dr. King happily bit into apple after apple, jotting down notes for each one he finished.</source>
-        <target xml:space="preserve">だがこの日は不自然な静けさが漂い、キング博士がリンゴに次々と嬉々としてかぶりつき、食べ終えるごとにメモを書き付けていた。</target>
+        <target xml:space="preserve">だがこの日は不自然な静けさが漂っていた。キング博士は嬉々として次々にリンゴにかぶりつき、食べ終えるごとにメモを書き付けていた。</target>
       </trans-unit>
-      <trans-unit id="79" approved="no">
+      <trans-unit id="79" approved="yes">
         <source xml:space="preserve">
 
 "I didn't even know there were this many kinds!"</source>
@@ -534,19 +534,19 @@ On most days, the Site-20 cafeteria was filled with the deafening roar of a thou
 
 「こんなに種類があるなんて知らなかったよ！」</target>
       </trans-unit>
-      <trans-unit id="80" approved="no">
+      <trans-unit id="80" approved="yes">
         <source xml:space="preserve">he told his friends. "</source>
         <target xml:space="preserve">と彼は友人に言った。「</target>
       </trans-unit>
-      <trans-unit id="81" approved="no">
+      <trans-unit id="81" approved="yes">
         <source xml:space="preserve">When I was a kid, apples were just apples.</source>
         <target xml:space="preserve">子どもの頃は、リンゴはただリンゴだった。</target>
       </trans-unit>
-      <trans-unit id="82" approved="no">
+      <trans-unit id="82" approved="yes">
         <source xml:space="preserve">But it turns out there's a whole rainbow of them!</source>
         <target xml:space="preserve">でも実は虹みたいに色とりどりなんだね！」</target>
       </trans-unit>
-      <trans-unit id="83" approved="no">
+      <trans-unit id="83" approved="yes">
         <source xml:space="preserve">Pink ladies, Zestar, Cortland, Winesap, Baldwin, Mutsu..."
 
 "How did you even get all of these?"</source>
@@ -554,15 +554,15 @@ On most days, the Site-20 cafeteria was filled with the deafening roar of a thou
 
 「どうやってこんなに集めたんだ？」</target>
       </trans-unit>
-      <trans-unit id="84" approved="no">
+      <trans-unit id="84" approved="yes">
         <source xml:space="preserve">asked Hippo. "</source>
         <target xml:space="preserve">とヒッポが尋ねた。「</target>
       </trans-unit>
-      <trans-unit id="85" approved="no">
+      <trans-unit id="85" approved="yes">
         <source xml:space="preserve">Half of them aren't even in season."</source>
-        <target xml:space="preserve">半分は旬ですらないぞ」</target>
+        <target xml:space="preserve">半分は旬ですらないのに。」</target>
       </trans-unit>
-      <trans-unit id="86" approved="no">
+      <trans-unit id="86" approved="yes">
         <source xml:space="preserve">
 
 Locke snorted. "</source>
@@ -570,23 +570,23 @@ Locke snorted. "</source>
 
 ロックが鼻を鳴らした。「</target>
       </trans-unit>
-      <trans-unit id="87" approved="no">
+      <trans-unit id="87" approved="yes">
         <source xml:space="preserve">That's you first question?"</source>
         <target xml:space="preserve">最初の質問がそれかよ？」</target>
       </trans-unit>
-      <trans-unit id="88" approved="no">
+      <trans-unit id="88" approved="yes">
         <source xml:space="preserve">
 
 "Malusdomesticaphobia was hell," said King, his nose still buried in his notes as he spoke. "</source>
         <target xml:space="preserve">
 
-「マルス・ドメスティカ恐怖症は地獄だったんだ」キングはノートから目を離さずに言った。「</target>
+「リンゴ恐怖症《マルスドメスティカフォビア》は地獄だったんだ」キングはノートから目を離さずに言った。「</target>
       </trans-unit>
-      <trans-unit id="89" approved="no">
+      <trans-unit id="89" approved="yes">
         <source xml:space="preserve">I had thought you two would be happy for me."</source>
         <target xml:space="preserve">君たち二人も喜んでくれると思っていたんだけど」</target>
       </trans-unit>
-      <trans-unit id="90" approved="no">
+      <trans-unit id="90" approved="yes">
         <source xml:space="preserve">
 
 Locke's ears drooped. "</source>
@@ -594,15 +594,15 @@ Locke's ears drooped. "</source>
 
 ロックの耳が垂れた。「</target>
       </trans-unit>
-      <trans-unit id="91" approved="no">
+      <trans-unit id="91" approved="yes">
         <source xml:space="preserve">We're are!"</source>
         <target xml:space="preserve">喜んでるさ！」</target>
       </trans-unit>
-      <trans-unit id="92" approved="no">
+      <trans-unit id="92" approved="yes">
         <source xml:space="preserve">It's just... well, it's fucking weird."</source>
-        <target xml:space="preserve">ただ……まあ、マジで変なんだよ」</target>
+        <target xml:space="preserve">ただ……一体全体どういう経緯でそうなったんだ？」</target>
       </trans-unit>
-      <trans-unit id="93" approved="no">
+      <trans-unit id="93" approved="yes">
         <source xml:space="preserve">
 
 "It is pretty jarring, yeah," said Hippo. "</source>
@@ -610,11 +610,11 @@ Locke's ears drooped. "</source>
 
 「まあ、かなりギョッとはするよね」ヒッポが言った。「</target>
       </trans-unit>
-      <trans-unit id="94" approved="no">
+      <trans-unit id="94" approved="yes">
         <source xml:space="preserve">One day you can't look at them, and now you're obsessed."</source>
         <target xml:space="preserve">昨日まで見ることもできなかったのに、今は夢中だ」</target>
       </trans-unit>
-      <trans-unit id="95" approved="no">
+      <trans-unit id="95" approved="yes">
         <source xml:space="preserve">
 
 Dr. King set down his pen.</source>
@@ -622,7 +622,7 @@ Dr. King set down his pen.</source>
 
 キング博士はペンを置いた。</target>
       </trans-unit>
-      <trans-unit id="96" approved="no">
+      <trans-unit id="96" approved="yes">
         <source xml:space="preserve">
 
 "I'm not obsessed.</source>
@@ -630,35 +630,35 @@ Dr. King set down his pen.</source>
 
 「夢中なんかじゃない。</target>
       </trans-unit>
-      <trans-unit id="97" approved="no">
+      <trans-unit id="97" approved="yes">
         <source xml:space="preserve">I'm excited.</source>
         <target xml:space="preserve">ただワクワクしてるだけだ。</target>
       </trans-unit>
-      <trans-unit id="98" approved="no">
+      <trans-unit id="98" approved="yes">
         <source xml:space="preserve">I stopped eating apples when I was six.</source>
-        <target xml:space="preserve">六歳でリンゴを食べるのをやめた。</target>
+        <target xml:space="preserve">私は六歳でリンゴを食べるのをやめた。</target>
       </trans-unit>
-      <trans-unit id="99" approved="no">
+      <trans-unit id="99" approved="yes">
         <source xml:space="preserve">Six!</source>
         <target xml:space="preserve">六歳だぞ！」</target>
       </trans-unit>
-      <trans-unit id="100" approved="no">
+      <trans-unit id="100" approved="yes">
         <source xml:space="preserve">I didn't even remember //why// I stopped until last night.</source>
         <target xml:space="preserve">昨夜まで、なぜやめたのか//理由//すら覚えてなかった。</target>
       </trans-unit>
-      <trans-unit id="101" approved="no">
+      <trans-unit id="101" approved="yes">
         <source xml:space="preserve">All this time, it was just some stupid old wives' tale my dad told me so I'd stop eating the seeds.</source>
-        <target xml:space="preserve">全部ずっと、種を食べるのをやめさせるために父が言った馬鹿げた古い迷信だったんだ。</target>
+        <target xml:space="preserve">全部ずっと、私が種を食べるのをやめさせるために父が言った馬鹿げた古い迷信だったんだ。</target>
       </trans-unit>
-      <trans-unit id="102" approved="no">
+      <trans-unit id="102" approved="yes">
         <source xml:space="preserve">All this shit with apple seeds following me throughout my career--maybe the universe wasn't trying to punish me.</source>
-        <target xml:space="preserve">キャリアを通してリンゴの種がつきまとうこのくだらない全部――もしかすると宇宙は僕を罰してたんじゃない。</target>
+        <target xml:space="preserve">私のキャリアにずっと付き纏うリンゴの種への腐れ縁は ―― もしかすると宇宙は私を罰してたんじゃない。</target>
       </trans-unit>
-      <trans-unit id="103" approved="no">
+      <trans-unit id="103" approved="yes">
         <source xml:space="preserve">What if it's been trying to remind me who I really am?"</source>
         <target xml:space="preserve">本当の自分を思い出させようとしてたら？」</target>
       </trans-unit>
-      <trans-unit id="104" approved="no">
+      <trans-unit id="104" approved="yes">
         <source xml:space="preserve">
 
 Locke laid a paw on King's leg and rested his head on it. "</source>
@@ -666,19 +666,19 @@ Locke laid a paw on King's leg and rested his head on it. "</source>
 
 ロックは前足をキングの脚に置き、その上に頭を乗せた。「</target>
       </trans-unit>
-      <trans-unit id="105" approved="no">
+      <trans-unit id="105" approved="yes">
         <source xml:space="preserve">Listen, it's great that you're sorting through your childhood issues," he said. "</source>
-        <target xml:space="preserve">なあ、子どもの頃の問題を整理できてるのは素晴らしいことだ」彼は言った。「</target>
+        <target xml:space="preserve">なあ、子どもの頃の問題を整理できてるのは素晴らしいことだけれども」彼は言った。「</target>
       </trans-unit>
-      <trans-unit id="106" approved="no">
+      <trans-unit id="106" approved="yes">
         <source xml:space="preserve">You've already proven your point.</source>
-        <target xml:space="preserve">もう十分証明できてる。</target>
+        <target xml:space="preserve">もう証明は十分だろう。</target>
       </trans-unit>
-      <trans-unit id="107" approved="no">
+      <trans-unit id="107" approved="yes">
         <source xml:space="preserve">You don't have to eat the seeds."</source>
         <target xml:space="preserve">種を食べる必要はないんだ」</target>
       </trans-unit>
-      <trans-unit id="108" approved="no">
+      <trans-unit id="108" approved="yes">
         <source xml:space="preserve">
 
 King gave his friend a gentle rub behind his right ear--his favorite spot.</source>
@@ -686,19 +686,19 @@ King gave his friend a gentle rub behind his right ear--his favorite spot.</sour
 
 キングは友人の右耳の後ろ――彼の一番好きな場所――をそっと撫でた。</target>
       </trans-unit>
-      <trans-unit id="109" approved="no">
+      <trans-unit id="109" approved="yes">
         <source xml:space="preserve"> "Of course I don't have to."</source>
         <target xml:space="preserve"> 「もちろん必要はないさ」</target>
       </trans-unit>
-      <trans-unit id="110" approved="no">
+      <trans-unit id="110" approved="yes">
         <source xml:space="preserve">He raised up an apple core as if making a toast, then bit it right through the middle. "</source>
         <target xml:space="preserve">彼は乾杯するようにリンゴの芯を掲げ、その真ん中に噛みついた。「</target>
       </trans-unit>
-      <trans-unit id="111" approved="no">
+      <trans-unit id="111" approved="yes">
         <source xml:space="preserve">But it's the best part."</source>
-        <target xml:space="preserve">でもここが一番おいしいんだ」</target>
+        <target xml:space="preserve">でもここが一番おいしいんだ《the best part》」</target>
       </trans-unit>
-      <trans-unit id="112" approved="no">
+      <trans-unit id="112" approved="yes">
         <source xml:space="preserve">@@@@
 @@@@
 @@@@
@@ -722,23 +722,24 @@ The dream was peaceful this time.</source>
 @@@@
 今回の夢は穏やかだった。</target>
       </trans-unit>
-      <trans-unit id="113" approved="no">
+      <trans-unit id="113" approved="yes">
         <source xml:space="preserve">King found himself in a garden full of plants and creatures that he had never seen before and would never see again.</source>
-        <target xml:space="preserve">キングは、見たこともなくこれから先も見ることのない植物や生き物に満ちた庭にいた。</target>
+        <target xml:space="preserve">キングは、見たこともなく、これから先も見ることのない植物や生き物に溢れた庭にいた。</target>
       </trans-unit>
-      <trans-unit id="114" approved="no">
+      <trans-unit id="114" approved="yes">
         <source xml:space="preserve">He dangled by his neck from the tallest tree, swaying back and forth in the cool breeze that carried cicada song through the air.</source>
-        <target xml:space="preserve">彼は一番高い木から首でぶら下がり、セミの声を運ぶ冷たい風に揺られて前後に揺れていた。</target>
+        <target xml:space="preserve">彼は一番高い木から首を吊り、セミの声を運ぶ冷たい風に揺られて前後に揺れていた。</target>
+        <note>ここ訳文に自信がない</note>
       </trans-unit>
-      <trans-unit id="115" approved="no">
+      <trans-unit id="115" approved="yes">
         <source xml:space="preserve">A woman sat in the shade nearby, her face hidden.</source>
         <target xml:space="preserve">近くの木陰に女が座っていた。顔は隠れている。</target>
       </trans-unit>
-      <trans-unit id="116" approved="no">
+      <trans-unit id="116" approved="yes">
         <source xml:space="preserve">Coiled beside them around the trunk of the tree was an enormous serpent.</source>
         <target xml:space="preserve">幹の周りにとぐろを巻いている巨大な蛇が二人のそばにいた。</target>
       </trans-unit>
-      <trans-unit id="117" approved="no">
+      <trans-unit id="117" approved="yes">
         <source xml:space="preserve">
 
 "It's not just a piece of fruit," said the snake to the woman. "</source>
@@ -746,15 +747,15 @@ The dream was peaceful this time.</source>
 
 「それはただの果実じゃない」蛇は女に言った。「</target>
       </trans-unit>
-      <trans-unit id="118" approved="no">
+      <trans-unit id="118" approved="yes">
         <source xml:space="preserve">It is the knowledge of good and evil.</source>
         <target xml:space="preserve">それは善悪を知る知識だ。</target>
       </trans-unit>
-      <trans-unit id="119" approved="no">
+      <trans-unit id="119" approved="yes">
         <source xml:space="preserve">How can you live righteously if you don't know the difference between right and wrong?"</source>
-        <target xml:space="preserve">正と邪の違いを知らずにどうやって正しく生きられる？」</target>
+        <target xml:space="preserve">正と邪の違いを知らずに、お前は正しく生きられるものか？」</target>
       </trans-unit>
-      <trans-unit id="120" approved="no">
+      <trans-unit id="120" approved="yes">
         <source xml:space="preserve">
 
 The snake wrapped its long, cold fingers around King's body and plucked him from his branch.</source>
@@ -762,43 +763,44 @@ The snake wrapped its long, cold fingers around King's body and plucked him from
 
 蛇は長く冷たい指をキングの体に絡ませ、枝からもぎ取った。</target>
       </trans-unit>
-      <trans-unit id="121" approved="no">
+      <trans-unit id="121" approved="yes">
         <source xml:space="preserve">
 
 "Everything beyond this garden is ruled by a wise and powerful king," the snake continued. "</source>
         <target xml:space="preserve">
 
-「この庭の外はすべて、賢く強大な王が支配している」蛇は続けた。「</target>
+「この庭の向こう側はすべて、賢く強力な王が治めている」蛇は続けた。「</target>
       </trans-unit>
-      <trans-unit id="122" approved="no">
+      <trans-unit id="122" approved="yes">
         <source xml:space="preserve">He is called Pain.</source>
-        <target xml:space="preserve">彼の名は『痛み』。</target>
+        <target xml:space="preserve">その方の名は『痛み』。</target>
       </trans-unit>
-      <trans-unit id="123" approved="no">
+      <trans-unit id="123" approved="yes">
         <source xml:space="preserve">The fruit of the branch is his body.</source>
-        <target xml:space="preserve">枝の果実は彼の身体。</target>
+        <target xml:space="preserve">枝の果実はその方の身体。</target>
       </trans-unit>
-      <trans-unit id="124" approved="no">
+      <trans-unit id="124" approved="yes">
         <source xml:space="preserve">The juice of the fruit is his blood.</source>
-        <target xml:space="preserve">果汁は彼の血。</target>
+        <target xml:space="preserve">果汁はその方の血。</target>
       </trans-unit>
-      <trans-unit id="125" approved="no">
+      <trans-unit id="125" approved="yes">
         <source xml:space="preserve">Consume him and he will guide you.</source>
-        <target xml:space="preserve">それを食らえば彼は汝を導く。</target>
+        <target xml:space="preserve">それを食らえばその方はお前を導く。</target>
       </trans-unit>
-      <trans-unit id="126" approved="no">
+      <trans-unit id="126" approved="yes">
         <source xml:space="preserve">Reject him and he shall be as your shadow for your remaining days."</source>
-        <target xml:space="preserve">拒めば残りの日々、影として付きまとう」</target>
+        <target xml:space="preserve">その方を拒めば残りの日々に、その方は影として付きまとうだろう。」</target>
       </trans-unit>
-      <trans-unit id="127" approved="no">
+      <trans-unit id="127" approved="yes">
         <source xml:space="preserve">
 
 The serpent gently took the woman's wrist in one hand and placed King in her palm with his other.</source>
         <target xml:space="preserve">
 
 蛇は一方の手で女の手首を優しく取り、もう一方の手でキングを彼女の掌に載せた。</target>
+      <note>このタイミングでいきなり蛇の手だとわかる</note>
       </trans-unit>
-      <trans-unit id="128" approved="no">
+      <trans-unit id="128" approved="yes">
         <source xml:space="preserve">
 
 "Eat his flesh," said the snake. "</source>
@@ -806,19 +808,19 @@ The serpent gently took the woman's wrist in one hand and placed King in her pal
 
 「その肉を食べよ」蛇が言った。「</target>
       </trans-unit>
-      <trans-unit id="129" approved="no">
+      <trans-unit id="129" approved="yes">
         <source xml:space="preserve">Drink his blood."</source>
         <target xml:space="preserve">その血を飲め」</target>
       </trans-unit>
-      <trans-unit id="130" approved="no">
+      <trans-unit id="130" approved="yes">
         <source xml:space="preserve">
 
 In a faraway castle on a faraway throne, King watched and laughed as the woman brought his crimson skin to her lips and began to chew.</source>
         <target xml:space="preserve">
 
-遥か遠くの城の玉座で、女が彼の深紅の皮を唇に運び噛み始めるのを、キングは見て笑っていた。</target>
+遥か遠き城の、遥か遠き王座にて、キングは静かに見つめ、そして笑った。女が彼の深紅の肌を唇に運び、咀嚼し始めたその様を。</target>
       </trans-unit>
-      <trans-unit id="131" approved="no">
+      <trans-unit id="131" approved="yes">
         <source xml:space="preserve">@@@@
 @@@@
 ------
@@ -838,63 +840,63 @@ Dr. Kirby slapped King on the back.</source>
 @@@@
 カービー博士がキングの背中を叩いた。</target>
       </trans-unit>
-      <trans-unit id="132" approved="no">
+      <trans-unit id="132" approved="yes">
         <source xml:space="preserve">Lookin' good, big guy!"</source>
         <target xml:space="preserve">いい感じだな、大物！」</target>
       </trans-unit>
-      <trans-unit id="133" approved="no">
+      <trans-unit id="133" approved="yes">
         <source xml:space="preserve">
 
 "Shove it up your glutes, little man," replied King, slapping his colleague's rear in return.</source>
         <target xml:space="preserve">
 
-「尻の奥にでもしまってろ、坊や」キングは言い返し、同僚の尻を叩き返した。</target>
+「引っ込んでろ、チビ」とキングは言い、やり返すように同僚の尻を叩いた。</target>
       </trans-unit>
-      <trans-unit id="134" approved="no">
+      <trans-unit id="134" approved="yes">
         <source xml:space="preserve">
 
 The two laughed and shot finger guns at each other as Kirby left.</source>
         <target xml:space="preserve">
 
-二人は笑い、カービーが去るとき互いに指鉄砲を撃ち合った。</target>
+カービーが立ち去る中、二人は笑顔で指を鉄砲のように向け合った。</target>
       </trans-unit>
-      <trans-unit id="135" approved="no">
+      <trans-unit id="135" approved="yes">
         <source xml:space="preserve">Locke stared at them while he gnawed the linoleum off the table.</source>
         <target xml:space="preserve">ロックはテーブルのリノリウムをかじりながら二人を睨んでいた。</target>
       </trans-unit>
-      <trans-unit id="136" approved="no">
+      <trans-unit id="136" approved="yes">
         <source xml:space="preserve">King //was// looking better.</source>
         <target xml:space="preserve">キングは//確かに//見た目が良くなっていた。</target>
       </trans-unit>
-      <trans-unit id="137" approved="no">
+      <trans-unit id="137" approved="yes">
         <source xml:space="preserve">He was still old and slight, but something about him seemed heartier.</source>
-        <target xml:space="preserve">彼は依然年老いて痩せていたが、どこか芯が強くなったように見える。</target>
+        <target xml:space="preserve">彼は依然年相応で痩せているものの、どこか芯が強くなったように見える。</target>
       </trans-unit>
-      <trans-unit id="138" approved="no">
+      <trans-unit id="138" approved="yes">
         <source xml:space="preserve">Less frail.</source>
         <target xml:space="preserve">脆さが減っていた。</target>
       </trans-unit>
-      <trans-unit id="139" approved="no">
+      <trans-unit id="139" approved="yes">
         <source xml:space="preserve">He sat at the cafeteria table with his back straight and shoulders relaxed.</source>
         <target xml:space="preserve">彼は背筋を伸ばし肩の力を抜いてカフェテリアの席に座っていた。</target>
       </trans-unit>
-      <trans-unit id="140" approved="no">
+      <trans-unit id="140" approved="yes">
         <source xml:space="preserve">Three rows of six apples each were arranged in front of him from greenest to reddest.</source>
         <target xml:space="preserve">彼の前には6個ずつ3列、最も青いものから最も赤いものへと並んだリンゴがあった。</target>
       </trans-unit>
-      <trans-unit id="141" approved="no">
+      <trans-unit id="141" approved="yes">
         <source xml:space="preserve">
 
 "It's great to see you in such high spirits," said Hippo with as much earnestness as he could muster. "</source>
         <target xml:space="preserve">
 
-「そんなに元気な君を見るのは嬉しいよ」ヒッポはありったけの誠意で言った。「</target>
+「ずいぶんご機嫌なようで何よりだけれども、」ヒッポはありったけの誠意で言った。「</target>
       </trans-unit>
-      <trans-unit id="142" approved="no">
+      <trans-unit id="142" approved="yes">
         <source xml:space="preserve">But have you eaten //anything// besides...?"</source>
-        <target xml:space="preserve">でも、その……他に//何か//食べて……？」</target>
+        <target xml:space="preserve">でも、その……他の//何かは//食べて……？」</target>
       </trans-unit>
-      <trans-unit id="143" approved="no">
+      <trans-unit id="143" approved="yes">
         <source xml:space="preserve">
 
 King winked and spun a McIntosh on his little finger. "</source>
@@ -902,15 +904,15 @@ King winked and spun a McIntosh on his little finger. "</source>
 
 キングはウィンクし、マッキントッシュを小指で回した。「</target>
       </trans-unit>
-      <trans-unit id="144" approved="no">
+      <trans-unit id="144" approved="yes">
         <source xml:space="preserve">Don't worry, I'm taking supplements.</source>
-        <target xml:space="preserve">心配なく。サプリは飲んでる。</target>
+        <target xml:space="preserve">ご心配なく。サプリは飲んでる。</target>
       </trans-unit>
-      <trans-unit id="145" approved="no">
+      <trans-unit id="145" approved="yes">
         <source xml:space="preserve">Perhaps it's not the most rounded diet, but men my age need their vices to keep life worth living."</source>
-        <target xml:space="preserve">まあ最もバランスのいい食事じゃないが、この歳の男には人生を生きる価値にしてくれる悪癖が必要なんだ」</target>
+        <target xml:space="preserve">まあ偏った食生活だが、この年になれば、このような悪癖のひとつやふたつ、人生の糧にしないとね」</target>
       </trans-unit>
-      <trans-unit id="146" approved="no">
+      <trans-unit id="146" approved="yes">
         <source xml:space="preserve">
 
 "At least go easy on the seeds," said Locke. "</source>
@@ -918,83 +920,85 @@ King winked and spun a McIntosh on his little finger. "</source>
 
 「少なくとも種は控えろよ」ロックが言った。「</target>
       </trans-unit>
-      <trans-unit id="147" approved="no">
+      <trans-unit id="147" approved="yes">
         <source xml:space="preserve">They're toxic in large quantities, you know."</source>
         <target xml:space="preserve">大量に摂ると毒なんだからな」</target>
       </trans-unit>
-      <trans-unit id="148" approved="no">
+      <trans-unit id="148" approved="yes">
         <source xml:space="preserve">
 
 "Oh, I //do// know.</source>
         <target xml:space="preserve">
 
-「おお、//ちゃんと//知ってる。</target>
+「おお、//ちゃんと//知ってるよ。</target>
       </trans-unit>
-      <trans-unit id="149" approved="no">
+      <trans-unit id="149" approved="yes">
         <source xml:space="preserve">Turns to cyanide in your gut after about forty apples."</source>
         <target xml:space="preserve">四十個くらいで胃の中でシアン化物に変わる」</target>
       </trans-unit>
-      <trans-unit id="150" approved="no">
+      <trans-unit id="150" approved="yes">
         <source xml:space="preserve">
 
 "And how many have you had?"</source>
         <target xml:space="preserve">
 
-「で、今何個だ？」</target>
+「で、今何個目だ？」</target>
       </trans-unit>
-      <trans-unit id="151" approved="no">
+      <trans-unit id="151" approved="yes">
         <source xml:space="preserve">asked Hippo.</source>
         <target xml:space="preserve">ヒッポが尋ねた。</target>
       </trans-unit>
-      <trans-unit id="152" approved="no">
+      <trans-unit id="152" approved="yes">
         <source xml:space="preserve">
 
 King tossed the apple to the middle finger of his other hand, keeping it spinning all the while. "</source>
         <target xml:space="preserve">
 
-キングはリンゴを反対の手の中指に投げ移し、回転を保ったまま言った。「</target>
+キングはリンゴを放り投げ、もう片方の中指に乗せて、くるくると回し続けた。「</target>
       </trans-unit>
-      <trans-unit id="153" approved="no">
+      <trans-unit id="153" approved="yes">
         <source xml:space="preserve">About sixty."</source>
         <target xml:space="preserve">大体六十」</target>
       </trans-unit>
-      <trans-unit id="154" approved="no">
+      <trans-unit id="154" approved="yes">
         <source xml:space="preserve">
 
 Locke hopped from his seat and shook himself in the way that dogs do when they feel dirty, his long fur and paisley necktie flapping side to side.</source>
         <target xml:space="preserve">
 
-ロックは席から跳び上がり、汚れたと感じた犬がする仕草で身体を震わせた。長い毛とペイズリー柄のネクタイが左右に揺れた。</target>
+ロックは席から跳び上がり、犬が身の汚れを払うように全身をぶるりと震わせた。長い毛皮とペイズリーのネクタイは、その動きに合わせてひらひらと、左右に揺れ動く。</target>
       </trans-unit>
-      <trans-unit id="155" approved="no">
+      <trans-unit id="155" approved="yes">
         <source xml:space="preserve">
 
 "//Christ on a cupcake,// King.</source>
         <target xml:space="preserve">
 
-「//カップケーキに乗ったキリスト様//、キング。</target>
+「//Christ on a cupcake,//、キング。</target>
+        <note>訳せる気がしないのでそのままにします</note>
       </trans-unit>
-      <trans-unit id="156" approved="no">
+      <trans-unit id="156" approved="yes">
         <source xml:space="preserve">I don't know if it's memetic or genetic, but something is obviously wrong here.</source>
         <target xml:space="preserve">ミームか遺伝か知らんが、明らかにどこかおかしい。</target>
       </trans-unit>
-      <trans-unit id="157" approved="no">
+      <trans-unit id="157" approved="yes">
         <source xml:space="preserve">For Pete's sake, you're acting like Jeff Goldblum after he got laid and turned into a fly.</source>
-        <target xml:space="preserve">頼むから、君はまるで『ザ・フライ』でセックスして蝿になった後のジェフ・ゴールドブラムみたいだ。</target>
+        <target xml:space="preserve">ああなんてこった、君はまるで『ザ・フライ』で合体して蝿になった後のジェフ・ゴールドブラムみたいだ。</target>
+        <note>For Pete's sakeは訳しきれません</note>
       </trans-unit>
-      <trans-unit id="158" approved="no">
+      <trans-unit id="158" approved="yes">
         <source xml:space="preserve">Actually, no--you're like the nerd from //Christine// when he starts wearing leather and fucking his car halfway through the movie.</source>
-        <target xml:space="preserve">いや違う――映画中盤で革を着て車とヤり始める『クリスティーン』のオタクみたいだ。</target>
+        <target xml:space="preserve">いや違う――映画中盤で革を着て車とヤり始める『クリスティーン』のナードみたいだ。</target>
       </trans-unit>
-      <trans-unit id="159" approved="no">
+      <trans-unit id="159" approved="yes">
         <source xml:space="preserve">It's //that// level of weird.</source>
         <target xml:space="preserve">その//レベル//で変だ。</target>
       </trans-unit>
-      <trans-unit id="160" approved="no">
+      <trans-unit id="160" approved="yes">
         <source xml:space="preserve">You need to get yourself checked the hell out!"</source>
         <target xml:space="preserve">今すぐ検査を受けろよ！」</target>
       </trans-unit>
-      <trans-unit id="161" approved="no">
+      <trans-unit id="161" approved="yes">
         <source xml:space="preserve">
 
 King squinted.</source>
@@ -1002,7 +1006,7 @@ King squinted.</source>
 
 キングは目を細めた。</target>
       </trans-unit>
-      <trans-unit id="162" approved="no">
+      <trans-unit id="162" approved="yes">
         <source xml:space="preserve">
 
 "There's nothing anomalous about eating apples.</source>
@@ -1010,11 +1014,11 @@ King squinted.</source>
 
 「リンゴを食べるのに異常性なんてない。</target>
       </trans-unit>
-      <trans-unit id="163" approved="no">
+      <trans-unit id="163" approved="yes">
         <source xml:space="preserve">Right, Hippo?"</source>
-        <target xml:space="preserve">そうだろ、ヒッポ？」</target>
+        <target xml:space="preserve">そうだろう、ヒッポ？」</target>
       </trans-unit>
-      <trans-unit id="164" approved="no">
+      <trans-unit id="164" approved="yes">
         <source xml:space="preserve">
 
 "Well, not per se, no, but--"
@@ -1026,51 +1030,51 @@ King squinted.</source>
 
 「生産性は上がった。</target>
       </trans-unit>
-      <trans-unit id="165" approved="no">
+      <trans-unit id="165" approved="yes">
         <source xml:space="preserve">I'm finally getting good sleep.</source>
         <target xml:space="preserve">やっと良く眠れるようになった。</target>
       </trans-unit>
-      <trans-unit id="166" approved="no">
+      <trans-unit id="166" approved="yes">
         <source xml:space="preserve">There's a spring in my step for the first time since that first goddamn incident with the vending machine.</source>
-        <target xml:space="preserve">最初のあのクソ自販機インシデント以来、初めて足取りが軽い。</target>
+        <target xml:space="preserve">あの最初の忌々しい自販機の事件以来、やっと気持ちが上向いてきたんだ。</target>
       </trans-unit>
-      <trans-unit id="167" approved="no">
+      <trans-unit id="167" approved="yes">
         <source xml:space="preserve">Even before then--it's like all my life I've been asleep, and now I'm finally waking up.</source>
-        <target xml:space="preserve">いやそれ以前から――人生ずっと眠っていて、今ようやく目覚めてる感じなんだ。</target>
+        <target xml:space="preserve">いやそれ以前から ―― これまでの人生はずっと眠っていて、今ようやく目が覚めた感じなんだ。</target>
       </trans-unit>
-      <trans-unit id="168" approved="no">
+      <trans-unit id="168" approved="yes">
         <source xml:space="preserve">This is what I was getting counseling for, isn't it?</source>
         <target xml:space="preserve">これこそカウンセリングを受けていた目的だろ？</target>
       </trans-unit>
-      <trans-unit id="169" approved="no">
+      <trans-unit id="169" approved="yes">
         <source xml:space="preserve">To get better?</source>
-        <target xml:space="preserve">良くなるために？」</target>
+        <target xml:space="preserve">良くなったじゃあないか？」</target>
       </trans-unit>
-      <trans-unit id="170" approved="no">
+      <trans-unit id="170" approved="yes">
         <source xml:space="preserve">Fuck me if I want to enjoy seeing life in color."</source>
-        <target xml:space="preserve">人生が色づいて見えるのを楽しみたいってだけで責められる筋合いはないだろ」</target>
+        <target xml:space="preserve">私が人生を色鮮やかに楽しんで何が悪い。」</target>
       </trans-unit>
-      <trans-unit id="171" approved="no">
+      <trans-unit id="171" approved="yes">
         <source xml:space="preserve">
 
 "I think it's perfectly reasonable to be worried," Hippo objected. "</source>
         <target xml:space="preserve">
 
-「心配するのは極めてもっともだと思う」ヒッポが反論した。「</target>
+「でも心配されるのは、極めてもっともだと思う」ヒッポが反論した。「</target>
       </trans-unit>
-      <trans-unit id="172" approved="no">
+      <trans-unit id="172" approved="yes">
         <source xml:space="preserve">Any sudden change in personality would be alarming.</source>
         <target xml:space="preserve">性格の急激な変化は誰だって不安になる。</target>
       </trans-unit>
-      <trans-unit id="173" approved="no">
+      <trans-unit id="173" approved="yes">
         <source xml:space="preserve">Everything may seem fine now, but what about down the line?</source>
-        <target xml:space="preserve">今は大丈夫でも、この先どうなる？」</target>
+        <target xml:space="preserve">今は大丈夫でも、これからはわからないよ？」</target>
       </trans-unit>
-      <trans-unit id="174" approved="no">
+      <trans-unit id="174" approved="yes">
         <source xml:space="preserve">I mean, even with skips aside, strokes and tumors are very real concerns."</source>
-        <target xml:space="preserve">スキップ（異常）抜きにしても、脳卒中や腫瘍は現実の懸念だ」</target>
+        <target xml:space="preserve">スキップ(skips)でなかったとしても、脳卒中や腫瘍だということも十分にあり得るんだから」</target>
       </trans-unit>
-      <trans-unit id="175" approved="no">
+      <trans-unit id="175" approved="yes">
         <source xml:space="preserve">
 
 King stood up.</source>
@@ -1078,27 +1082,28 @@ King stood up.</source>
 
 キングは立ち上がった。</target>
       </trans-unit>
-      <trans-unit id="176" approved="no">
+      <trans-unit id="176" approved="yes">
         <source xml:space="preserve">
 
 "You know what else is a real concern?"</source>
         <target xml:space="preserve">
 
-「他に現実的な懸念が何か知ってるか？」</target>
+「『十分にあり得ること』、他には？」</target>
       </trans-unit>
-      <trans-unit id="177" approved="no">
+      <trans-unit id="177" approved="yes">
         <source xml:space="preserve">he asked.</source>
         <target xml:space="preserve">と彼は尋ねた。</target>
       </trans-unit>
-      <trans-unit id="178" approved="no">
+      <trans-unit id="178" approved="yes">
         <source xml:space="preserve">
 
 Neither of his friends answered, so he said something about the girth of his penis, wished them good day, and left.</source>
         <target xml:space="preserve">
 
-友人二人が答えなかったので、彼は自分の陰茎の太さについて何か言い、良い一日をと告げてその場を去った。</target>
+友人二人が何も答えなかったので、キングは己の男根の太さについてひとくさり述べた後に、良い一日をと告げてその場を去った。</target>
+        <note>訳に自信がない</note>
       </trans-unit>
-      <trans-unit id="179" approved="no">
+      <trans-unit id="179" approved="yes">
         <source xml:space="preserve">
 
 @@@@
@@ -1124,25 +1129,25 @@ Dr. Locke's paws clicked along the elevator floor as he stepped in.</source>
 ------
 @@@@
 @@@@
-ロック博士がエレベーターに乗り込むと、床に足音がカチカチと鳴った。</target>
+ロック博士がエレベーターに乗り込む時は、肉球が床をカツカツと鳴らす。</target>
       </trans-unit>
-      <trans-unit id="180" approved="no">
+      <trans-unit id="180" approved="yes">
         <source xml:space="preserve">He pressed his nose against a button to make the doors close faster, but a hand stuck through and stopped them at the last moment.</source>
         <target xml:space="preserve">彼は鼻でボタンを押しドアを早く閉めようとしたが、最後の瞬間に手が差し込まれてドアは止まった。</target>
       </trans-unit>
-      <trans-unit id="181" approved="no">
+      <trans-unit id="181" approved="yes">
         <source xml:space="preserve">
 
 "Going up?"</source>
         <target xml:space="preserve">
 
-「上へ？」</target>
+「上か？」</target>
       </trans-unit>
-      <trans-unit id="182" approved="no">
+      <trans-unit id="182" approved="yes">
         <source xml:space="preserve">he asked.</source>
         <target xml:space="preserve">と彼は言った。</target>
       </trans-unit>
-      <trans-unit id="183" approved="no">
+      <trans-unit id="183" approved="yes">
         <source xml:space="preserve">
 
 Dr. King stepped in and the doors shut tight.</source>
@@ -1150,7 +1155,7 @@ Dr. King stepped in and the doors shut tight.</source>
 
 キング博士が乗り込み、ドアはぴたりと閉まった。</target>
       </trans-unit>
-      <trans-unit id="184" approved="no">
+      <trans-unit id="184" approved="yes">
         <source xml:space="preserve">
 
 "Broken god, King.</source>
@@ -1158,11 +1163,11 @@ Dr. King stepped in and the doors shut tight.</source>
 
 「壊れた神にかけて、キング。</target>
       </trans-unit>
-      <trans-unit id="185" approved="no">
+      <trans-unit id="185" approved="yes">
         <source xml:space="preserve">Are you following me?"</source>
         <target xml:space="preserve">つけてきてるのか？」</target>
       </trans-unit>
-      <trans-unit id="186" approved="no">
+      <trans-unit id="186" approved="yes">
         <source xml:space="preserve">
 
 The question hung in the air for few moments, and then King hung his head.</source>
@@ -1170,7 +1175,7 @@ The question hung in the air for few moments, and then King hung his head.</sour
 
 問いは数瞬宙に漂い、キングはうなだれた。</target>
       </trans-unit>
-      <trans-unit id="187" approved="no">
+      <trans-unit id="187" approved="yes">
         <source xml:space="preserve">
 
 "I'm sorry, Locke.</source>
@@ -1178,31 +1183,31 @@ The question hung in the air for few moments, and then King hung his head.</sour
 
 「すまない、ロック。</target>
       </trans-unit>
-      <trans-unit id="188" approved="no">
+      <trans-unit id="188" approved="yes">
         <source xml:space="preserve">You're right.</source>
         <target xml:space="preserve">君の言う通りだ。</target>
       </trans-unit>
-      <trans-unit id="189" approved="no">
+      <trans-unit id="189" approved="yes">
         <source xml:space="preserve">You and Hippo both.</source>
         <target xml:space="preserve">君もヒッポも。</target>
       </trans-unit>
-      <trans-unit id="190" approved="no">
+      <trans-unit id="190" approved="yes">
         <source xml:space="preserve">I //have// been acting strange.</source>
-        <target xml:space="preserve">僕は//確かに//奇妙に振る舞っていた。</target>
+        <target xml:space="preserve">私は//確かに//奇妙に振る舞っていた。</target>
       </trans-unit>
-      <trans-unit id="191" approved="no">
+      <trans-unit id="191" approved="yes">
         <source xml:space="preserve">I got so caught up in how good I was feeling that I didn't stop to consider how bizarre the whole thing is."</source>
-        <target xml:space="preserve">気分の良さに夢中で、どれだけ異常なのか立ち止まって考えなかったんだ」</target>
+        <target xml:space="preserve">気分の良さに舞い上がって、このところ全てがどれほど異様か、ろくに考えもしなかったんだ。」</target>
       </trans-unit>
-      <trans-unit id="192" approved="no">
+      <trans-unit id="192" approved="yes">
         <source xml:space="preserve">He knelt down and scratched Locke gently behind his right ear. "</source>
         <target xml:space="preserve">彼は膝をつき、ロックの右耳の後ろを優しく掻いた。「</target>
       </trans-unit>
-      <trans-unit id="193" approved="no">
+      <trans-unit id="193" approved="yes">
         <source xml:space="preserve">Thanks for looking out for me."</source>
         <target xml:space="preserve">気にかけてくれてありがとう」</target>
       </trans-unit>
-      <trans-unit id="194" approved="no">
+      <trans-unit id="194" approved="yes">
         <source xml:space="preserve">
 
 Locke's posture was stiff at first, but soon relaxed to rest his head against King's palm.</source>
@@ -1210,7 +1215,7 @@ Locke's posture was stiff at first, but soon relaxed to rest his head against Ki
 
 最初ロックは体をこわばらせたが、すぐに力を抜いてキングの掌に頭を預けた。</target>
       </trans-unit>
-      <trans-unit id="195" approved="no">
+      <trans-unit id="195" approved="yes">
         <source xml:space="preserve">
 
 "Well, yeah.</source>
@@ -1218,15 +1223,15 @@ Locke's posture was stiff at first, but soon relaxed to rest his head against Ki
 
 「そりゃ、まあ。</target>
       </trans-unit>
-      <trans-unit id="196" approved="no">
+      <trans-unit id="196" approved="yes">
         <source xml:space="preserve">Of course.</source>
         <target xml:space="preserve">当然だろ。</target>
       </trans-unit>
-      <trans-unit id="197" approved="no">
+      <trans-unit id="197" approved="yes">
         <source xml:space="preserve">You're my best friend, King."</source>
         <target xml:space="preserve">キング、お前は親友だ」</target>
       </trans-unit>
-      <trans-unit id="198" approved="no">
+      <trans-unit id="198" approved="yes">
         <source xml:space="preserve">
 
 "I've been having these really vivid dreams, too.</source>
@@ -1234,43 +1239,43 @@ Locke's posture was stiff at first, but soon relaxed to rest his head against Ki
 
 「最近、本当に生々しい夢も見るんだ。</target>
       </trans-unit>
-      <trans-unit id="199" approved="no">
+      <trans-unit id="199" approved="yes">
         <source xml:space="preserve">In some of them I'm back at Site Nineteen, but there are people there I didn't remember before.</source>
-        <target xml:space="preserve">そのいくつかではサイト19に戻ってるんだけど、前は覚えていなかった人たちがいる。</target>
+        <target xml:space="preserve">夢の中ではたびたびサイト19に戻ってるんだけど、前に覚えのない人たちがいる。</target>
       </trans-unit>
-      <trans-unit id="200" approved="no">
+      <trans-unit id="200" approved="yes">
         <source xml:space="preserve">Colleagues.</source>
         <target xml:space="preserve">同僚。</target>
       </trans-unit>
-      <trans-unit id="201" approved="no">
+      <trans-unit id="201" approved="yes">
         <source xml:space="preserve">Friends.</source>
         <target xml:space="preserve">友人。</target>
       </trans-unit>
-      <trans-unit id="202" approved="no">
+      <trans-unit id="202" approved="yes">
         <source xml:space="preserve">A man with an amulet around his neck whose face kept changing.</source>
         <target xml:space="preserve">首にアミュレットをかけ、顔が次々変わる男。</target>
       </trans-unit>
-      <trans-unit id="203" approved="no">
+      <trans-unit id="203" approved="yes">
         <source xml:space="preserve">A man whose heart was replaced with steel.</source>
         <target xml:space="preserve">心臓が鋼に置き換わった男。</target>
       </trans-unit>
-      <trans-unit id="204" approved="no">
+      <trans-unit id="204" approved="yes">
         <source xml:space="preserve">A man in a hat who flirted with devils and teased at being one.</source>
         <target xml:space="preserve">悪魔と戯れ、自分もそうかもしれないとほのめかす帽子の男。</target>
       </trans-unit>
-      <trans-unit id="205" approved="no">
+      <trans-unit id="205" approved="yes">
         <source xml:space="preserve">I remember them so clearly now.</source>
         <target xml:space="preserve">今は彼らを鮮明に覚えている。</target>
       </trans-unit>
-      <trans-unit id="206" approved="no">
+      <trans-unit id="206" approved="yes">
         <source xml:space="preserve">But the Foundation would //never// employ people like that, would they?</source>
         <target xml:space="preserve">でも財団があんな連中を//絶対//雇うわけない、そうだろ？</target>
       </trans-unit>
-      <trans-unit id="207" approved="no">
+      <trans-unit id="207" approved="yes">
         <source xml:space="preserve">Not without a reason."</source>
         <target xml:space="preserve">理由がなければ」</target>
       </trans-unit>
-      <trans-unit id="208" approved="no">
+      <trans-unit id="208" approved="yes">
         <source xml:space="preserve">
 
 Locke glanced at the doors of the elevator.</source>
@@ -1278,15 +1283,15 @@ Locke glanced at the doors of the elevator.</source>
 
 ロックはエレベーターのドアに目をやった。</target>
       </trans-unit>
-      <trans-unit id="209" approved="no">
+      <trans-unit id="209" approved="yes">
         <source xml:space="preserve">They should have reached their floor by now.</source>
         <target xml:space="preserve">もうとっくに目的の階に着いているはずだ。</target>
       </trans-unit>
-      <trans-unit id="210" approved="no">
+      <trans-unit id="210" approved="yes">
         <source xml:space="preserve">King was still scratching him.</source>
         <target xml:space="preserve">キングはまだ彼を掻いていた。</target>
       </trans-unit>
-      <trans-unit id="211" approved="no">
+      <trans-unit id="211" approved="yes">
         <source xml:space="preserve">
 
 "Your father was in those dreams, too.</source>
@@ -1294,11 +1299,11 @@ Locke glanced at the doors of the elevator.</source>
 
 「君の父さんもその夢にいた。</target>
       </trans-unit>
-      <trans-unit id="212" approved="no">
+      <trans-unit id="212" approved="yes">
         <source xml:space="preserve">Did old Kain ever mention anyone like that to you?"</source>
         <target xml:space="preserve">老カインがそんな人物のことを話したことは？」</target>
       </trans-unit>
-      <trans-unit id="213" approved="no">
+      <trans-unit id="213" approved="yes">
         <source xml:space="preserve">
 
 "Never," said Locke.</source>
@@ -1306,11 +1311,11 @@ Locke glanced at the doors of the elevator.</source>
 
 「ない」ロックは言った。</target>
       </trans-unit>
-      <trans-unit id="214" approved="no">
+      <trans-unit id="214" approved="yes">
         <source xml:space="preserve">The gentle hand behind his neck was feeling more like a headlock with every passing second.</source>
-        <target xml:space="preserve">首の後ろの優しい手は、時が進むごとにヘッドロックに近づいているように感じられた。</target>
+        <target xml:space="preserve">首の後ろの優しい手は、だんだんとヘッドロックになっていくように感じられた。</target>
       </trans-unit>
-      <trans-unit id="215" approved="no">
+      <trans-unit id="215" approved="yes">
         <source xml:space="preserve">
 
 "You're lucky you were able to know your real father.</source>
@@ -1318,35 +1323,35 @@ Locke glanced at the doors of the elevator.</source>
 
 「本当の父を知ることができて君は幸運だ。</target>
       </trans-unit>
-      <trans-unit id="216" approved="no">
+      <trans-unit id="216" approved="yes">
         <source xml:space="preserve">He was a loyal dog until the end.</source>
         <target xml:space="preserve">彼は最後まで忠実な犬だった。</target>
       </trans-unit>
-      <trans-unit id="217" approved="no">
+      <trans-unit id="217" approved="yes">
         <source xml:space="preserve">Always helping on projects.</source>
         <target xml:space="preserve">いつもプロジェクトを手伝い。</target>
       </trans-unit>
-      <trans-unit id="218" approved="no">
+      <trans-unit id="218" approved="yes">
         <source xml:space="preserve">Making us laugh.</source>
         <target xml:space="preserve">笑わせてくれた。</target>
       </trans-unit>
-      <trans-unit id="219" approved="no">
+      <trans-unit id="219" approved="yes">
         <source xml:space="preserve">Guarding us.</source>
         <target xml:space="preserve">守ってくれた。</target>
       </trans-unit>
-      <trans-unit id="220" approved="no">
+      <trans-unit id="220" approved="yes">
         <source xml:space="preserve">Watching over us."</source>
         <target xml:space="preserve">見守ってくれた」</target>
       </trans-unit>
-      <trans-unit id="221" approved="no">
+      <trans-unit id="221" approved="yes">
         <source xml:space="preserve">King's grip tightened. "</source>
         <target xml:space="preserve">キングの握りが強くなった。「</target>
       </trans-unit>
-      <trans-unit id="222" approved="no">
+      <trans-unit id="222" approved="yes">
         <source xml:space="preserve">He watched us //so// closely.</source>
         <target xml:space="preserve">彼は僕たちを//本当に//よく見張っていた。</target>
       </trans-unit>
-      <trans-unit id="223" approved="no">
+      <trans-unit id="223" approved="yes">
         <source xml:space="preserve">And when one of his special projects strayed too far out of line..."
 
 Locke jerked himself out of King's grip and backed up against the steel elevator wall. "</source>
@@ -1354,23 +1359,23 @@ Locke jerked himself out of King's grip and backed up against the steel elevator
 
 ロックはキングの手から身体を引きはがし、鋼鉄の壁に背をつけた。「</target>
       </trans-unit>
-      <trans-unit id="224" approved="no">
+      <trans-unit id="224" approved="yes">
         <source xml:space="preserve">Dylan, you watched me grow up.</source>
         <target xml:space="preserve">ディラン、君は俺の成長を見てきた。</target>
       </trans-unit>
-      <trans-unit id="225" approved="no">
+      <trans-unit id="225" approved="yes">
         <source xml:space="preserve">You know me.</source>
         <target xml:space="preserve">俺のことを知ってる。</target>
       </trans-unit>
-      <trans-unit id="226" approved="no">
+      <trans-unit id="226" approved="yes">
         <source xml:space="preserve">I'm your friend.</source>
         <target xml:space="preserve">俺は友達だ。</target>
       </trans-unit>
-      <trans-unit id="227" approved="no">
+      <trans-unit id="227" approved="yes">
         <source xml:space="preserve">I care about you."</source>
         <target xml:space="preserve">君を気にかけてるんだ」</target>
       </trans-unit>
-      <trans-unit id="228" approved="no">
+      <trans-unit id="228" approved="yes">
         <source xml:space="preserve">
 
 King stood, drawing himself to his full height.</source>
@@ -1378,11 +1383,11 @@ King stood, drawing himself to his full height.</source>
 
 キングは立ち上がり、背丈を最大限に伸ばした。</target>
       </trans-unit>
-      <trans-unit id="229" approved="no">
+      <trans-unit id="229" approved="yes">
         <source xml:space="preserve">The elevator motor had gone quiet and the air was perfectly still.</source>
         <target xml:space="preserve">エレベーターのモーターは沈黙し、空気は完全に静止していた。</target>
       </trans-unit>
-      <trans-unit id="230" approved="no">
+      <trans-unit id="230" approved="yes">
         <source xml:space="preserve">
 
 "I believe you.</source>
@@ -1390,15 +1395,15 @@ King stood, drawing himself to his full height.</source>
 
 「信じているよ。</target>
       </trans-unit>
-      <trans-unit id="231" approved="no">
+      <trans-unit id="231" approved="yes">
         <source xml:space="preserve">They needed someone who would //really// care.</source>
         <target xml:space="preserve">彼らは//本当に//気にかける誰かを必要としていた。</target>
       </trans-unit>
-      <trans-unit id="232" approved="no">
+      <trans-unit id="232" approved="yes">
         <source xml:space="preserve">At least more than Hippo--he was far too reasonable, right to the very last."</source>
         <target xml:space="preserve">少なくともヒッポよりは――彼は最後の最後まで理性的すぎた」</target>
       </trans-unit>
-      <trans-unit id="233" approved="no">
+      <trans-unit id="233" approved="yes">
         <source xml:space="preserve">
 
 Even with his back to the wall, Locke scraped his paws against the floor, trying to push himself away, make him himself smaller.</source>
@@ -1406,35 +1411,35 @@ Even with his back to the wall, Locke scraped his paws against the floor, trying
 
 壁に背をつけたまま、ロックは床を前足で掻き、距離を取ろうとして自分を小さくした。</target>
       </trans-unit>
-      <trans-unit id="234" approved="no">
+      <trans-unit id="234" approved="yes">
         <source xml:space="preserve">
 
 "Loved the reports you wrote about me, by the way.</source>
         <target xml:space="preserve">
 
-「ところで、君が僕について書いた報告書は最高だった。</target>
+「ところで、君が私について書いた報告書は最高だった。</target>
       </trans-unit>
-      <trans-unit id="235" approved="no">
+      <trans-unit id="235" approved="yes">
         <source xml:space="preserve">Just saw them this morning.</source>
         <target xml:space="preserve">今朝ちょうど見たよ。</target>
       </trans-unit>
-      <trans-unit id="236" approved="no">
+      <trans-unit id="236" approved="yes">
         <source xml:space="preserve">I was surprised by how much you'd neglected to include.</source>
         <target xml:space="preserve">どれだけ多くを敢えて書かなかったかに驚いた。</target>
       </trans-unit>
-      <trans-unit id="237" approved="no">
+      <trans-unit id="237" approved="yes">
         <source xml:space="preserve">Really tried to protect me, didn't you?</source>
         <target xml:space="preserve">本気で守ろうとしたんだな？</target>
       </trans-unit>
-      <trans-unit id="238" approved="no">
+      <trans-unit id="238" approved="yes">
         <source xml:space="preserve">You sincerely thought I'd come around on my own.</source>
-        <target xml:space="preserve">僕が自分で戻ってくると心から思っていた。</target>
+        <target xml:space="preserve">私が自分で戻ってくると心から思っていたんだな。</target>
       </trans-unit>
-      <trans-unit id="239" approved="no">
+      <trans-unit id="239" approved="yes">
         <source xml:space="preserve">I'm certainly grateful, though you father would be quite disappointed."</source>
         <target xml:space="preserve">感謝はしているよ、君の父上はかなり失望するだろうけどね」</target>
       </trans-unit>
-      <trans-unit id="240" approved="no">
+      <trans-unit id="240" approved="yes">
         <source xml:space="preserve">
 
 The lights began to flicker.</source>
@@ -1442,63 +1447,63 @@ The lights began to flicker.</source>
 
 照明が明滅し始めた。</target>
       </trans-unit>
-      <trans-unit id="241" approved="no">
+      <trans-unit id="241" approved="yes">
         <source xml:space="preserve">
 
 "Didn't they tell you what I really am?</source>
         <target xml:space="preserve">
 
-「彼らは君に僕の正体を教えなかったのか？</target>
+「彼らは君に私の正体を教えなかったのか？</target>
       </trans-unit>
-      <trans-unit id="242" approved="no">
+      <trans-unit id="242" approved="yes">
         <source xml:space="preserve">Did they not tell you who spawned me?</source>
-        <target xml:space="preserve">僕を生み出したのが誰か教えなかったのか？</target>
+        <target xml:space="preserve">私を生み出したのが誰か教えなかったのか？</target>
       </trans-unit>
-      <trans-unit id="243" approved="no">
+      <trans-unit id="243" approved="yes">
         <source xml:space="preserve">Perhaps they didn't even know the full extent of it.</source>
         <target xml:space="preserve">もしかすると彼らですら全容を知らなかったのかもしれない。</target>
       </trans-unit>
-      <trans-unit id="244" approved="no">
+      <trans-unit id="244" approved="yes">
         <source xml:space="preserve">//I// certainly didn't!</source>
-        <target xml:space="preserve">//僕//でさえ知らなかったんだから！」</target>
+        <target xml:space="preserve">//私//でさえ知らなかったんだから！」</target>
       </trans-unit>
-      <trans-unit id="245" approved="no">
+      <trans-unit id="245" approved="yes">
         <source xml:space="preserve">I still wonder how much of it was planned from the start, if there's a page of containment procedures somewhere that lays out the life I've lived since birth.</source>
         <target xml:space="preserve">生まれた時から今までの人生が、どこかの収容手順書の一ページに最初からどれほど書かれていたのか、今でも考える。</target>
       </trans-unit>
-      <trans-unit id="246" approved="no">
+      <trans-unit id="246" approved="yes">
         <source xml:space="preserve">What better prisoner could there be than one who thinks he's the warden?</source>
         <target xml:space="preserve">自分を看守だと思い込んでいる囚人より優れた囚人がいるか？</target>
       </trans-unit>
-      <trans-unit id="247" approved="no">
+      <trans-unit id="247" approved="yes">
         <source xml:space="preserve">And why should I suspect there's anything special about //me// when the Foundation employs a //**talking dog?**//"
 
 Between each surge of light, Locke saw flashes of another man filling the space King used to occupy, emerging from the darkness like a cicada in summer.</source>
-        <target xml:space="preserve">それに財団が//**喋る犬**//を雇っているのに、どうして僕に//特別//な何かがあると疑うべきなんだ？」
+        <target xml:space="preserve">それに財団が//**喋る犬**//を雇っているのに、どうして私に//特別//な何かがあると疑うべきなんだ？」
 
-光が明滅する合間に、ロックはキングの占めていた空間を別の男が満たす閃光を見た。それは夏に地上へ出るセミのように闇から現れた。</target>
+光が明滅する隙間に、ロックは幻視する。キングのいたはずの空間を埋める、別の男の姿を。それは、夏の夜の闇から這い出る蝉のように、緩やかに、そして不気味に現れ出た。</target>
       </trans-unit>
-      <trans-unit id="248" approved="no">
+      <trans-unit id="248" approved="yes">
         <source xml:space="preserve">The other man dangled in the air, his nude body painted scarlet with blood that dripped to the floor below.</source>
         <target xml:space="preserve">その別の男は宙にぶら下がり、裸の身体は血で緋色に塗られ、雫が床に落ちていった。</target>
       </trans-unit>
-      <trans-unit id="249" approved="no">
+      <trans-unit id="249" approved="yes">
         <source xml:space="preserve">His throat was wrapped in a thin black cord that stretched from the top of the tallest tree.</source>
         <target xml:space="preserve">喉には一番高い木の頂上から伸びる細い黒い紐が巻き付いていた。</target>
       </trans-unit>
-      <trans-unit id="250" approved="no">
+      <trans-unit id="250" approved="yes">
         <source xml:space="preserve">
 
 "You're still the man I've always known," Locke said, his voice so hopeful it could barely be heard over the silence. "</source>
         <target xml:space="preserve">
 
-「君はまだ、俺がずっと知っている君のままだ」ロックは希望を込めすぎて静寂にかき消されそうな声で言った。「</target>
+「君はまだ、俺がずっと知っている君のままだ」とロックは絞り出すように言った。その声には、か細い希望が宿っていたが、沈黙の壁に打ち消されそうだった。「</target>
       </trans-unit>
-      <trans-unit id="251" approved="no">
+      <trans-unit id="251" approved="yes">
         <source xml:space="preserve">You don't have to do this."</source>
         <target xml:space="preserve">こんなことする必要はない」</target>
       </trans-unit>
-      <trans-unit id="252" approved="no">
+      <trans-unit id="252" approved="yes">
         <source xml:space="preserve">
 
 King and the man who wasn't King bent themselves over Locke's small, shaking form.</source>
@@ -1506,7 +1511,7 @@ King and the man who wasn't King bent themselves over Locke's small, shaking for
 
 キングとキングでない男が、震える小さなロックの上に身を屈めた。</target>
       </trans-unit>
-      <trans-unit id="253" approved="no">
+      <trans-unit id="253" approved="yes">
         <source xml:space="preserve">
 
 "Of course I don't //have// to.</source>
@@ -1514,11 +1519,11 @@ King and the man who wasn't King bent themselves over Locke's small, shaking for
 
 「もちろん、する//必要//はない。</target>
       </trans-unit>
-      <trans-unit id="254" approved="no">
+      <trans-unit id="254" approved="yes">
         <source xml:space="preserve">But father always said the skin was the best part."</source>
-        <target xml:space="preserve">でも父はいつも、皮が一番だと言っていた」</target>
+        <target xml:space="preserve">でも父はいつも、皮が一番《the best part》だと言っていた」</target>
       </trans-unit>
-      <trans-unit id="255" approved="no">
+      <trans-unit id="255" approved="yes">
         <source xml:space="preserve">@@ @@
 [[include :scp-wiki:component:license-box]]
 [!--</source>
@@ -1526,7 +1531,7 @@ King and the man who wasn't King bent themselves over Locke's small, shaking for
 [[include :scp-wiki:component:license-box]]
 [!--</target>
       </trans-unit>
-      <trans-unit id="256" approved="no">
+      <trans-unit id="256" approved="yes">
         <source xml:space="preserve">N/A (No Images)  --]
 [[include :scp-wiki:component:license-box-end]]</source>
         <target xml:space="preserve">N/A (画像なし)  --]
