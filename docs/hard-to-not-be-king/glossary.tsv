@@ -1,0 +1,42 @@
+# glossary.tsv (UTF-8, tab-delimited)
+# source_term	target_pref	pos	context_note	variants_disallowed
+Apple	リンゴ	n	一般名詞。品種名は原文表記を基本（Pink Lady など）しつつカタカナ化可。文中複数形でも訳語はそのまま。	林檎, リんご
+apple seed(s)	リンゴの種	n	複数でも「リンゴの種」統一。「種子」は使わない。	種, 種子
+vending machine	自販機	n	SCP-261 関連。初出で「自販機（SCP-261）」必要なら追記可。以降「自販機」。	自動販売機, 自動販売機装置
+SCP Foundation	財団	npr	固有名詞。原文に "Foundation" のみでも「財団」で統一。カタカナ不可。	基金, ファウンデーション
+Site-20	サイト-20	npr	ハイフンを半角に統一。末尾の句読点に続く場合も変更なし。	Site 20, サイト20
+Site Nineteen	サイト19	npr	英単語表記は数字化して統一。「Site Nineteen」は「サイト19」。	サイト・19, Site-19
+containment chamber	収容チャンバー	n	SCP に紐づく部屋。"収容室" としない。	収容室, 収容セル
+Temporal Abnormalities Department	時間異常部門	npr	原語併記不要。内的部署名。	時間異常課, 時間異常部, Temporal Dept.
+Malusdomesticaphobia	リンゴ恐怖症	n	造語。原語+恐怖症。カタカナ部は中黒入り。	マルスドメスティカ恐怖症, マルス・ドメスティカ恐怖症
+counseling	カウンセリング	n	動名詞も含め統一。漢字不可。	相談, カウンセル
+cyanide	シアン化物	n	具体化しない。"青酸" 不使用。	青酸
+stomach / tummy	腹	n	"tummy" の幼児語ニュアンスは文脈で「お腹」も可。統一：シリアス時「腹」、児童語調「お腹」。	胃袋, 胃
+(make people) happy	（みんなを）幸せにする	vph	語順調整可。"人々を喜ばせたい" 等に変えない。	喜ばせる, 幸福にする
+(to) sink (into seeds)	沈む	v	進行描写。「沈んでいく」など許容。"沈下" 不可。	沈下する
+(empty) void (in mashed potatoes)	虚無	n	比喩ニュアンスを保持。"穴" に置換しない。	穴, 空洞
+explode / split open (gut)	裂ける	v	"破裂する" より生々しさ緩和。統一。	破裂する, 破ける
+(apples) core	芯	n	複数でも「芯」。	コア
+(to) chew	噛む	v	過度意訳(咀嚼する)避ける。	咀嚼する
+(crimson) skin (of apple / metaphorical)	（深紅の）皮	n	文脈で人体比喩も「皮」。"表皮" 不可。	皮膚, 表皮
+shadow (metaphor following you)	影	n	「陰」不可。	陰
+apple varieties (Pink Lady etc.)	品種名カタカナ（ピンクレディー 等）	guideline	固有品種はカタカナカナ末長音統一。Zestar→ズスター, Cortland→コートランド。	英語表記のまま
+Dr. (title)	〜博士	sfx	氏名の後ろに付与。会話内で主語明確なら省略可。	先生, 氏
+King (Dr. King)	キング	npr	氏名。原文 King のまま英語保持も可だが本文では英語+博士。ローカライズ時カタカナにするなら統一。	キング博士（揺れ: King博士）
+Locke (Dr. Locke)	ロック	npr	同上。	ロック博士（揺れ）
+Hippo (Dr. Hippo)	ヒッポ	npr	愛称。語尾長音なし。	ヒッポー
+Kirby (Dr. Kirby)	カービー	npr	長音表記統一。	カービィ
+Nicolini (Dr. Nicolini)	ニコリーニ	npr	語尾長音。	ニコリニ
+Kain (old Kain)	カイン	npr	旧知の人物。"老カイン" とする場合のみ文頭表記。	ケイン
+(to) wink	ウィンクする	v	名詞形も同。	片目をつぶる
+finger guns	指鉄砲	n	複数でも「指鉄砲」。	指ピストル, ハンドガンジェスチャー
+(elevator) door(s)	ドア	n	複数でも「ドア」。	扉
+(elevator) motor	モーター	n	漢字不可。	エンジン
+(flicker) lights	照明が明滅する	vph	"点滅する" より雰囲気優先で明滅。	点滅する
+(severed) head	生首	n	文脈で severed を明示せずニュアンス保持。	切断された頭
+branch (tree / metaphor)	枝	n	比喩でも「枝」。	枝木
+serpent / snake	蛇	n	両語統一「蛇」。	ヘビ
+blood	血	n	出血表現も「血」。	血液
+pain (proper noun Pain)	『痛み』	npr	固有概念。鉤括弧または全角『』で強調。	痛み（括弧なし）
+# End of file
+
