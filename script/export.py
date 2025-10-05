@@ -3,11 +3,11 @@
 Sentence exporter (XLIFF)
 
 Usage:
-  python script/export.py INPUT_FILE [--lang xx] [--model MODEL]
+  python script/export.py INPUT_FILE [--lang en] [--model MODEL]
 
 - INPUT_FILE: Path to a UTF-8 text file to split into sentences.
-- --lang: spaCy language code for a blank pipeline (default: "xx" for multilingual).
-- --model: Optional installed spaCy model name to use (e.g., "en_core_web_sm").
+- --lang: spaCy language code for a blank pipeline (default: "en").
+- --model: Installed spaCy model name to use (default: "en_core_web_sm").
 
 Output:
   Writes an XLIFF 1.2 document to a file named 'translation.xml' in the same directory as the input file, with each sentence as a <trans-unit><source>.
@@ -21,13 +21,21 @@ from pathlib import Path
 import spacy
 
 
-def build_nlp(lang: str = "xx", model: str | None = None):
+def build_nlp(lang: str = "en", model: str | None = "en_core_web_sm"):
     """Build a spaCy pipeline with sentence segmentation.
 
     Prefers the provided installed model; otherwise uses a blank pipeline for the language code.
     Ensures sentence boundaries exist by adding a sentencizer if needed.
     """
-    nlp = spacy.load(model) if model else spacy.blank(lang)
+    nlp = None
+    if model:
+        try:
+            nlp = spacy.load(model)
+        except Exception:
+            nlp = None
+    if nlp is None:
+        # Fall back to a blank pipeline for the provided language (default: English)
+        nlp = spacy.blank(lang or "en")
     if "senter" not in nlp.pipe_names and "parser" not in nlp.pipe_names and "sentencizer" not in nlp.pipe_names:
         nlp.add_pipe("sentencizer")
     return nlp
@@ -37,7 +45,7 @@ def read_text(file_path: Path) -> str:
     return file_path.read_text(encoding="utf-8")
 
 
-def export_sentences(input_file: Path, lang: str = "xx", model: str | None = None) -> int:
+def export_sentences(input_file: Path, lang: str = "en", model: str | None = "en_core_web_sm") -> int:
     text = read_text(input_file)
     if not text.strip():
         return 0
@@ -88,11 +96,11 @@ def export_sentences(input_file: Path, lang: str = "xx", model: str | None = Non
 def parse_args(argv: list[str]) -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Split a text file into sentences using spaCy and write XLIFF 1.2 to 'translation.xml' next to the input file")
     p.add_argument("input_file", type=Path, help="Path to input text file (UTF-8 recommended)")
-    p.add_argument("--lang", default="xx", help="spaCy language code for blank pipeline (default: xx)")
+    p.add_argument("--lang", default="en", help="spaCy language code for blank pipeline (default: en)")
     p.add_argument(
         "--model",
-        default=None,
-        help="Installed spaCy model name (e.g., en_core_web_sm).",
+        default="en_core_web_sm",
+        help="Installed spaCy model name (default: en_core_web_sm).",
     )
     return p.parse_args(argv)
 
