@@ -2,7 +2,7 @@
 <xliff version="1.2">
   <file source-language="en-US" target-language="ja" datatype="plaintext" original="src.txt">
     <body>
-      <trans-unit id="1" approved="no">
+      <trans-unit id="1" approved="yes">
         <source xml:space="preserve">[[&gt;]]
 [[module Rate]]
 [[/&gt;]]
@@ -40,7 +40,7 @@
 @@@@
 「いいか、//本当に//時間異常部門っていうのは存在するんだ」ヒッポ博士の声は痛々しくなってきた。</target>
       </trans-unit>
-      <trans-unit id="2" approved="no">
+      <trans-unit id="2" approved="yes">
         <source xml:space="preserve">
 
 Dr. King lifted an eyebrow. "</source>
@@ -48,11 +48,11 @@ Dr. King lifted an eyebrow. "</source>
 
 キング博士は片眉を上げた。「</target>
       </trans-unit>
-      <trans-unit id="3" approved="no">
+      <trans-unit id="3" approved="yes">
         <source xml:space="preserve">So you've seen it yourself, then?"</source>
         <target xml:space="preserve">じゃあ君は自分の目で見たってことか？」</target>
       </trans-unit>
-      <trans-unit id="4" approved="no">
+      <trans-unit id="4" approved="yes">
         <source xml:space="preserve">
 
 "Well, not //yet//," Hippo replied.</source>
@@ -60,19 +60,19 @@ Dr. King lifted an eyebrow. "</source>
 
 「いや、//まだ//だが……」とヒッポ。</target>
       </trans-unit>
-      <trans-unit id="5" approved="no">
+      <trans-unit id="5" approved="yes">
         <source xml:space="preserve">King blinked.</source>
         <target xml:space="preserve">キングは瞬きをした。</target>
       </trans-unit>
-      <trans-unit id="6" approved="no">
+      <trans-unit id="6" approved="yes">
         <source xml:space="preserve">Dr. Locke shook his head and laughed--at least to the extent that a dog is capable of laughing.</source>
         <target xml:space="preserve">ロック博士は首を振って笑った ―― 犬のできる範囲で、だが。</target>
       </trans-unit>
-      <trans-unit id="7" approved="no">
+      <trans-unit id="7" approved="yes">
         <source xml:space="preserve">Because, like his father before him, Dr. Shia D. Locke was a dog.</source>
         <target xml:space="preserve">というのも、父ロック博士と同じく、またシア・D・ロック博士も犬だったからである。</target>
       </trans-unit>
-      <trans-unit id="8" approved="no">
+      <trans-unit id="8" approved="yes">
         <source xml:space="preserve">
 
 "You're fulla shit," said Dr. Locke.</source>
@@ -80,7 +80,7 @@ Dr. King lifted an eyebrow. "</source>
 
 「ホラばっかりではないか」ロック博士が言った。</target>
       </trans-unit>
-      <trans-unit id="9" approved="no">
+      <trans-unit id="9" approved="yes">
         <source xml:space="preserve">
 
 Before Hippo could retort, Dr. Nicolini passed them in the hallway, saying "Pie!"</source>
@@ -88,15 +88,15 @@ Before Hippo could retort, Dr. Nicolini passed them in the hallway, saying "Pie!
 
 ヒッポが言い返す前に、廊下のニコリーニ博士が通りざまに「パイだぞ！」と言った。</target>
       </trans-unit>
-      <trans-unit id="10" approved="no">
+      <trans-unit id="10" approved="yes">
         <source xml:space="preserve">as he went.</source>
         <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="11" approved="no">
+      <trans-unit id="11" approved="yes">
         <source xml:space="preserve">He had barely glanced at the three, but they all knew to whom it had been directed.</source>
         <target xml:space="preserve">ニコリーニが三人に目をやったのは一瞬に過ぎないが、しかし、誰に向けられた言葉か三人には明らかだった。</target>
       </trans-unit>
-      <trans-unit id="12" approved="no">
+      <trans-unit id="12" approved="yes">
         <source xml:space="preserve">
 
 "Thanks," said King.</source>
@@ -104,7 +104,7 @@ Before Hippo could retort, Dr. Nicolini passed them in the hallway, saying "Pie!
 
 「どうも」キングが言った。</target>
       </trans-unit>
-      <trans-unit id="13" approved="no">
+      <trans-unit id="13" approved="yes">
         <source xml:space="preserve">
 
 On their pilgrimage to Site-20's cafeteria, King, Hippo, and Locke had heard "pie" from no fewer than five of their associates, which was, frankly, ridiculous.</source>
@@ -112,7 +112,7 @@ On their pilgrimage to Site-20's cafeteria, King, Hippo, and Locke had heard "pi
 
 サイト-20のカフェテリアへの巡礼の道すがら、キングとヒッポとロックは同僚から少なくとも五回は「パイだ」と声を掛けられていた。全くもって、馬鹿げている。</target>
       </trans-unit>
-      <trans-unit id="14" approved="no">
+      <trans-unit id="14" approved="yes">
         <source xml:space="preserve">
 
 "I think we can all agree that this is, frankly, ridiculous," said Hippo.</source>
@@ -120,7 +120,7 @@ On their pilgrimage to Site-20's cafeteria, King, Hippo, and Locke had heard "pi
 
 「『全くもって、馬鹿げている』ということには同意しましょう。」ヒッポが言った。</target>
       </trans-unit>
-      <trans-unit id="15" approved="no">
+      <trans-unit id="15" approved="yes">
         <source xml:space="preserve">
 
 "Fucking Nicolini," Locke growled. "</source>
@@ -128,11 +128,11 @@ On their pilgrimage to Site-20's cafeteria, King, Hippo, and Locke had heard "pi
 
 「くそニコリーニめ」ロックが唸る。「</target>
       </trans-unit>
-      <trans-unit id="16" approved="no">
+      <trans-unit id="16" approved="yes">
         <source xml:space="preserve">Want me to take a bit out of his ass?"</source>
         <target xml:space="preserve">尻に噛みついてきてやろうか？」</target>
       </trans-unit>
-      <trans-unit id="17" approved="no">
+      <trans-unit id="17" approved="yes">
         <source xml:space="preserve">
 
 King shrugged. "</source>
@@ -140,15 +140,15 @@ King shrugged. "</source>
 
 キングは肩をすくめた。「</target>
       </trans-unit>
-      <trans-unit id="18" approved="no">
+      <trans-unit id="18" approved="yes">
         <source xml:space="preserve">They're just trying to be helpful.</source>
         <target xml:space="preserve">みんな親切にしてるつもりなんだ。</target>
       </trans-unit>
-      <trans-unit id="19" approved="no">
+      <trans-unit id="19" approved="yes">
         <source xml:space="preserve">Besides, I think it's think it's just a habit for most people at this point."</source>
         <target xml:space="preserve">それに、もう今となっては、ほとんど習慣になってしまっているんだろうよ。」</target>
       </trans-unit>
-      <trans-unit id="20" approved="no">
+      <trans-unit id="20" approved="yes">
         <source xml:space="preserve">
 
 They arrived at their destination shortly thereafter, the foretold slices of apple pie lined up in neat little rows on the dessert rack.</source>
@@ -156,15 +156,15 @@ They arrived at their destination shortly thereafter, the foretold slices of app
 
 まもなく目的地に到着した。予言されていたリンゴパイのスライスが、デザート棚に整然と列を作って並んでいた。</target>
       </trans-unit>
-      <trans-unit id="21" approved="no">
+      <trans-unit id="21" approved="yes">
         <source xml:space="preserve">Dr. King averted his gaze and picked up a slice of chocolate cake on his way through the line, but took care not to make a big show of it.</source>
         <target xml:space="preserve">キング博士は目を泳がせながら列を進み、ぎこちなくチョコレートケーキの一切れを手に取った。</target>
       </trans-unit>
-      <trans-unit id="22" approved="no">
+      <trans-unit id="22" approved="yes">
         <source xml:space="preserve">King had only just sat down with his friends when he felt Dr. Kirby's hand on his shoulder.</source>
         <target xml:space="preserve">友人たちと腰を下ろしたばかりのキングの肩にカービー博士が手を置いた。</target>
       </trans-unit>
-      <trans-unit id="23" approved="no">
+      <trans-unit id="23" approved="yes">
         <source xml:space="preserve">
 
 "Hey there, big guy," said Kirby, looming over King with a smile. "</source>
@@ -172,11 +172,11 @@ They arrived at their destination shortly thereafter, the foretold slices of app
 
 「よう、大物さん」のしかかるように立つ笑顔のカービーがキングに言った。「</target>
       </trans-unit>
-      <trans-unit id="24" approved="no">
+      <trans-unit id="24" approved="yes">
         <source xml:space="preserve">How's our favorite researcher doing?"</source>
         <target xml:space="preserve">お気に入りの研究員はご機嫌いかがですかな？」</target>
       </trans-unit>
-      <trans-unit id="25" approved="no">
+      <trans-unit id="25" approved="yes">
         <source xml:space="preserve">
 
 Locke's eyes shot daggers behind his Buddy Holly glasses. "</source>
@@ -184,11 +184,11 @@ Locke's eyes shot daggers behind his Buddy Holly glasses. "</source>
 
 ロックのバディ・ホリー風メガネの奥の目が殺気を放った。「</target>
       </trans-unit>
-      <trans-unit id="26" approved="no">
+      <trans-unit id="26" approved="yes">
         <source xml:space="preserve">He's fucking dandy."</source>
         <target xml:space="preserve">ご機嫌上等だよ、くそったれ」</target>
       </trans-unit>
-      <trans-unit id="27" approved="no">
+      <trans-unit id="27" approved="yes">
         <source xml:space="preserve">
 
 Kirby, his expression unchanged, gave King's shoulder a firm squeeze and thankfully let go. "</source>
@@ -197,15 +197,15 @@ Kirby, his expression unchanged, gave King's shoulder a firm squeeze and thankfu
 カービーは表情を変えずキングの肩をぎゅっと強く掴み、しかしその後、ありがたいことに手を離した。「</target>
           <note>thankfullyの訳などがぎこちない。</note>
       </trans-unit>
-      <trans-unit id="28" approved="no">
+      <trans-unit id="28" approved="yes">
         <source xml:space="preserve">Good to hear," he said. "</source>
         <target xml:space="preserve">そりゃ良かった」彼は言った。「</target>
       </trans-unit>
-      <trans-unit id="29" approved="no">
+      <trans-unit id="29" approved="yes">
         <source xml:space="preserve">Let me know if you need anything."</source>
         <target xml:space="preserve">何かあったらまた言ってくれよ。」</target>
       </trans-unit>
-      <trans-unit id="30" approved="no">
+      <trans-unit id="30" approved="yes">
         <source xml:space="preserve">
 
 King's friends waited until the other man was out earshot, then tore in.</source>
@@ -213,7 +213,7 @@ King's friends waited until the other man was out earshot, then tore in.</source
 
 キングの友人たちは、その男が聞こえない距離に去るのを待ってから一斉に口を開いた。</target>
       </trans-unit>
-      <trans-unit id="31" approved="no">
+      <trans-unit id="31" approved="yes">
         <source xml:space="preserve">
 
 "I hate his stupid guts," said Locke between mouthfuls of chow. "</source>
@@ -222,11 +222,11 @@ King's friends waited until the other man was out earshot, then tore in.</source
 「奴のクソ度胸が嫌いだ」ロックは飯を頬張りながら言った。「</target>
           <note>gutsを内臓と訳すところではなさそう</note>
       </trans-unit>
-      <trans-unit id="32" approved="no">
+      <trans-unit id="32" approved="yes">
         <source xml:space="preserve">Guy thinks he's Ion's gift to humanity just because he's got abs."</source>
         <target xml:space="preserve">腹筋が割れてるだけで、自分のことを「イオンの人類への贈り物」だと思ってやがる」</target>
       </trans-unit>
-      <trans-unit id="33" approved="no">
+      <trans-unit id="33" approved="yes">
         <source xml:space="preserve">
 
 Hippo nodded. "</source>
@@ -234,15 +234,15 @@ Hippo nodded. "</source>
 
 ヒッポが頷いた。「</target>
       </trans-unit>
-      <trans-unit id="34" approved="no">
+      <trans-unit id="34" approved="yes">
         <source xml:space="preserve">You really ought to say something to HR.</source>
         <target xml:space="preserve">人事に何か言うべきだよ。</target>
       </trans-unit>
-      <trans-unit id="35" approved="no">
+      <trans-unit id="35" approved="yes">
         <source xml:space="preserve">It's bad enough to speak to any colleague like that, let alone one twice his age."</source>
         <target xml:space="preserve">年上、それも倍近く年の離れた同僚にあんな話し方するなんて最悪だ」</target>
       </trans-unit>
-      <trans-unit id="36" approved="no">
+      <trans-unit id="36" approved="yes">
         <source xml:space="preserve">
 
 King stirred his fork through his mashed potatoes for the thirtieth time. "</source>
@@ -250,19 +250,19 @@ King stirred his fork through his mashed potatoes for the thirtieth time. "</sou
 
 キングはマッシュポテトに三十回目となるフォークの溝を掘りながら言った。「</target>
       </trans-unit>
-      <trans-unit id="37" approved="no">
+      <trans-unit id="37" approved="yes">
         <source xml:space="preserve">The word 'waifish' came up at my employee health evaluation last week.</source>
         <target xml:space="preserve">先週の職員健康評価で『ひ弱（waifish）』って言葉が出てきてね。</target>
       </trans-unit>
-      <trans-unit id="38" approved="no">
+      <trans-unit id="38" approved="yes">
         <source xml:space="preserve">People are concerned.</source>
         <target xml:space="preserve">みんな心配してるんだ。</target>
       </trans-unit>
-      <trans-unit id="39" approved="no">
+      <trans-unit id="39" approved="yes">
         <source xml:space="preserve">It's unwarranted, but understandable.</source>
         <target xml:space="preserve">根拠はないけど、理解はできる。</target>
       </trans-unit>
-      <trans-unit id="40" approved="no">
+      <trans-unit id="40" approved="yes">
         <source xml:space="preserve">Besides, after that incident--"
 
 Locke cut him off. "</source>
@@ -270,11 +270,11 @@ Locke cut him off. "</source>
 
 ロックが遮った。「</target>
       </trans-unit>
-      <trans-unit id="41" approved="no">
+      <trans-unit id="41" approved="yes">
         <source xml:space="preserve">That was years ago!"</source>
         <target xml:space="preserve">あれは何年も前だろ！」</target>
       </trans-unit>
-      <trans-unit id="42" approved="no">
+      <trans-unit id="42" approved="yes">
         <source xml:space="preserve">
 
 "No, I meant the one last June."</source>
@@ -282,7 +282,7 @@ Locke cut him off. "</source>
 
 「いや、去年6月のやつのことだよ」</target>
       </trans-unit>
-      <trans-unit id="43" approved="no">
+      <trans-unit id="43" approved="yes">
         <source xml:space="preserve">
 
 "That apple was eight feet tall and had tentacles," said Hippo. "</source>
@@ -290,11 +290,11 @@ Locke cut him off. "</source>
 
 「そのリンゴは身長八フィートで触手まであったんだぞ」ヒッポが言った。「</target>
       </trans-unit>
-      <trans-unit id="44" approved="no">
+      <trans-unit id="44" approved="yes">
         <source xml:space="preserve">Anyone would have fainted at the sight of that thing."</source>
         <target xml:space="preserve">誰だって見たら気絶する」</target>
       </trans-unit>
-      <trans-unit id="45" approved="no">
+      <trans-unit id="45" approved="yes">
         <source xml:space="preserve">
 
 "Not from a //photograph//."
@@ -306,7 +306,7 @@ Locke cut him off. "</source>
 
 「その日は暑かったんだ」ロックが付け加えた。</target>
       </trans-unit>
-      <trans-unit id="46" approved="no">
+      <trans-unit id="46" approved="yes">
         <source xml:space="preserve">
 
 Dr. King stared into the void he'd carved in his mashed potatoes and silently wished it would swallow him whole.</source>
@@ -314,7 +314,7 @@ Dr. King stared into the void he'd carved in his mashed potatoes and silently wi
 
 キング博士はマッシュポテトに掘った虚無を見つめ、それが自分を丸ごと飲み込んでくれればと静かに願った。</target>
       </trans-unit>
-      <trans-unit id="47" approved="no">
+      <trans-unit id="47" approved="yes">
         <source xml:space="preserve">@@@@
 @@@@
 @@@@
