@@ -8,15 +8,15 @@
 //Deeeeep breaths.//
 
 //Focus.</source>
-        <target xml:space="preserve" approved="no">//Deep breaths.//
+        <target xml:space="preserve" approved="no">//深呼吸だ。//
 
-//Deeeeep breaths.//
+//深呼吸を。//
 
-//Focus.</target>
+//集中しろ。//</target>
       </trans-unit>
       <trans-unit id="2">
         <source xml:space="preserve">Gotta focus.</source>
-        <target xml:space="preserve" approved="no">Gotta focus.</target>
+        <target xml:space="preserve" approved="no">集中しなければ。</target>
       </trans-unit>
       <trans-unit id="3">
         <source xml:space="preserve">Gotta stay calm.//
@@ -30,37 +30,38 @@
 //You just have to **concentrate.**//
 
 The cell is six feet tall with a square meter of floorspace and a tree in the middle.</source>
-        <target xml:space="preserve" approved="no">Gotta stay calm.//
+        <target xml:space="preserve" approved="no">落ち着け。//
 
-//You've been trained in memetics, Harry.//
+//ミーム対策の訓練は受けてきただろ、ハリー。//
 
-//You can do this.//
+//できる。//
 
-//You can break through.//
+//何とかできる。//
 
-//You just have to **concentrate.**//
+//あとは **集中** するだけだ。//
 
-The cell is six feet tall with a square meter of floorspace and a tree in the middle.</target>
+この収容房は高さおよそ6フィート、床面積は1平方メートル。真ん中に木が一本立っている。</target>
+      <note>フィートとメートルの混在まじか</note>
       </trans-unit>
       <trans-unit id="4">
         <source xml:space="preserve">Barely enough room to stand, but not enough room to lie down comfortably.</source>
-        <target xml:space="preserve" approved="no">Barely enough room to stand, but not enough room to lie down comfortably.</target>
+        <target xml:space="preserve" approved="no">立つにはぎりぎり、楽に横になるには足りない広さだ。</target>
       </trans-unit>
       <trans-unit id="5">
         <source xml:space="preserve">Especially with the tree.</source>
-        <target xml:space="preserve" approved="no">Especially with the tree.</target>
+        <target xml:space="preserve" approved="no">木があるせいで、なおさら。</target>
       </trans-unit>
       <trans-unit id="6">
         <source xml:space="preserve">I do push-ups against the wall to get myself pumped up for the big moment.</source>
-        <target xml:space="preserve" approved="no">I do push-ups against the wall to get myself pumped up for the big moment.</target>
+        <target xml:space="preserve" approved="no">大舞台を前に、壁に身を預け、腕立て伏せで力を満たす。</target>
       </trans-unit>
       <trans-unit id="7">
         <source xml:space="preserve">Today I'm getting out of here.</source>
-        <target xml:space="preserve" approved="no">Today I'm getting out of here.</target>
+        <target xml:space="preserve" approved="no">今日、ここを出てやる。</target>
       </trans-unit>
       <trans-unit id="8">
         <source xml:space="preserve">I //have// to get out of here.</source>
-        <target xml:space="preserve" approved="no">I //have// to get out of here.</target>
+        <target xml:space="preserve" approved="no">どうしてもここから //出なきゃ// いけない。</target>
       </trans-unit>
       <trans-unit id="9">
         <source xml:space="preserve">
@@ -68,23 +69,23 @@ The cell is six feet tall with a square meter of floorspace and a tree in the mi
 I hear a soft hydraulic hiss from the speakers—the telltale sound of someone entering the containment antechamber.</source>
         <target xml:space="preserve" approved="no">
 
-I hear a soft hydraulic hiss from the speakers—the telltale sound of someone entering the containment antechamber.</target>
+スピーカーからかすかな油圧のシューという音が聞こえる。誰かが収容区画の前室に入ってきた合図だ。</target>
       </trans-unit>
       <trans-unit id="10">
         <source xml:space="preserve">The hairs on the back of my neck prickle.</source>
-        <target xml:space="preserve" approved="no">The hairs on the back of my neck prickle.</target>
+        <target xml:space="preserve" approved="no">首筋の産毛がざわつく。</target>
       </trans-unit>
       <trans-unit id="11">
         <source xml:space="preserve">The mics are on.</source>
-        <target xml:space="preserve" approved="no">The mics are on.</target>
+        <target xml:space="preserve" approved="no">マイクが入った。</target>
       </trans-unit>
       <trans-unit id="12">
         <source xml:space="preserve">For the next few minutes, I'll be able to talk to them.</source>
-        <target xml:space="preserve" approved="no">For the next few minutes, I'll be able to talk to them.</target>
+        <target xml:space="preserve" approved="no">この数分間だけ、私は彼らと会話ができる。</target>
       </trans-unit>
       <trans-unit id="13">
         <source xml:space="preserve">I have to make it count.</source>
-        <target xml:space="preserve" approved="no">I have to make it count.</target>
+        <target xml:space="preserve" approved="no">無駄にはできない。</target>
       </trans-unit>
       <trans-unit id="14">
         <source xml:space="preserve">
@@ -92,11 +93,11 @@ I hear a soft hydraulic hiss from the speakers—the telltale sound of someone e
 A panel in the wall is pulled back and I see Valente smiling at me through reinforced glass.</source>
         <target xml:space="preserve" approved="no">
 
-A panel in the wall is pulled back and I see Valente smiling at me through reinforced glass.</target>
+壁のパネルが引き下がり、強化ガラス越しにヴァレンテが笑顔を向けるのが見える。</target>
       </trans-unit>
       <trans-unit id="15">
         <source xml:space="preserve">His beard is noticeably longer than before.</source>
-        <target xml:space="preserve" approved="no">His beard is noticeably longer than before.</target>
+        <target xml:space="preserve" approved="no">彼の髭は以前よりはっきり長くなっている。</target>
       </trans-unit>
       <trans-unit id="16">
         <source xml:space="preserve">
@@ -104,19 +105,19 @@ A panel in the wall is pulled back and I see Valente smiling at me through reinf
 //Deep breaths.</source>
         <target xml:space="preserve" approved="no">
 
-//Deep breaths.</target>
+//深呼吸。//</target>
       </trans-unit>
       <trans-unit id="17">
         <source xml:space="preserve">Deep fucking breaths.//
 
 "Good morning," Valente says. "</source>
-        <target xml:space="preserve" approved="no">Deep fucking breaths.//
+        <target xml:space="preserve" approved="no">クソッ、深呼吸だ…！//
 
-"Good morning," Valente says. "</target>
+「おはよう」とヴァレンテが言う。「</target>
       </trans-unit>
       <trans-unit id="18">
         <source xml:space="preserve">Good to see you up and active."</source>
-        <target xml:space="preserve" approved="no">Good to see you up and active."</target>
+        <target xml:space="preserve" approved="no">起きて活動しているところが見られて良かったよ。」</target>
       </trans-unit>
       <trans-unit id="19">
         <source xml:space="preserve">
@@ -124,15 +125,15 @@ A panel in the wall is pulled back and I see Valente smiling at me through reinf
 I don't reply.</source>
         <target xml:space="preserve" approved="no">
 
-I don't reply.</target>
+ここでは返事はしない。</target>
       </trans-unit>
       <trans-unit id="20">
         <source xml:space="preserve">The opening formalities are almost never transcribed.</source>
-        <target xml:space="preserve" approved="no">The opening formalities are almost never transcribed.</target>
+        <target xml:space="preserve" approved="no">冒頭の形式張ったやりとりはほとんど記録に残らない。</target>
       </trans-unit>
       <trans-unit id="21">
         <source xml:space="preserve">Better to save myself for the real thing.</source>
-        <target xml:space="preserve" approved="no">Better to save myself for the real thing.</target>
+        <target xml:space="preserve" approved="no">本番に備え気力を温存しておく方がいい。</target>
       </trans-unit>
       <trans-unit id="22">
         <source xml:space="preserve">
@@ -140,15 +141,15 @@ I don't reply.</target>
 Valente's eyes shift downward and his arms shuffle slightly.</source>
         <target xml:space="preserve" approved="no">
 
-Valente's eyes shift downward and his arms shuffle slightly.</target>
+ヴァレンテの視線が下に動き、腕がわずかに動く。</target>
       </trans-unit>
       <trans-unit id="23">
         <source xml:space="preserve">I can only see him from the chest up, but I know he's looking at a prepared interview outline, if not an outright script.</source>
-        <target xml:space="preserve" approved="no">I can only see him from the chest up, but I know he's looking at a prepared interview outline, if not an outright script.</target>
+        <target xml:space="preserve" approved="no">胸から上しか見えないが、用意してきたインタビューのメモ、いや、もしかしたら台本そのものを見ているのがわかる。</target>
       </trans-unit>
       <trans-unit id="24">
         <source xml:space="preserve">If I pull this off, he's going to need to improvise.</source>
-        <target xml:space="preserve" approved="no">If I pull this off, he's going to need to improvise.</target>
+        <target xml:space="preserve" approved="no">しかし、これを成功させれば、彼は即興でやるしかなくなる。</target>
       </trans-unit>
       <trans-unit id="25">
         <source xml:space="preserve">
@@ -156,7 +157,7 @@ Valente's eyes shift downward and his arms shuffle slightly.</target>
 "Please state your name for the record."</source>
         <target xml:space="preserve" approved="no">
 
-"Please state your name for the record."</target>
+「記録のため名前を教えてください。」</target>
       </trans-unit>
       <trans-unit id="26">
         <source xml:space="preserve">
@@ -166,29 +167,29 @@ Valente's eyes shift downward and his arms shuffle slightly.</target>
 "Hello," I begin.</source>
         <target xml:space="preserve" approved="no">
 
-//Moment of truth.//
+//正念場。//
 
-"Hello," I begin.</target>
+「こんにちは」と切り出す。</target>
       </trans-unit>
       <trans-unit id="27">
         <source xml:space="preserve">It's familiar.</source>
-        <target xml:space="preserve" approved="no">It's familiar.</target>
+        <target xml:space="preserve" approved="no">定番の挨拶だ。</target>
       </trans-unit>
       <trans-unit id="28">
         <source xml:space="preserve">Universal.</source>
-        <target xml:space="preserve" approved="no">Universal.</target>
+        <target xml:space="preserve" approved="no">普遍的だ。</target>
       </trans-unit>
       <trans-unit id="29">
         <source xml:space="preserve">Makes it easier to hear through whatever preterlinguistic bullshit I'm dealing with. "</source>
-        <target xml:space="preserve" approved="no">Makes it easier to hear through whatever preterlinguistic bullshit I'm dealing with. "</target>
+        <target xml:space="preserve" approved="no">これが決まれば、私のどんな前言語的《preterlinguistic》クソ言語でも、伝わってくれるだろう。「</target>
       </trans-unit>
       <trans-unit id="30">
         <source xml:space="preserve">My name is Doctor Heerad Sangha.</source>
-        <target xml:space="preserve" approved="no">My name is Doctor Heerad Sangha.</target>
+        <target xml:space="preserve" approved="no">私の名はヒーラド・サンガ博士。</target>
       </trans-unit>
       <trans-unit id="31">
         <source xml:space="preserve">I am designated [[[scp-2337|SCP two-three-three-seven]]], as you told me previously."</source>
-        <target xml:space="preserve" approved="no">I am designated [[[scp-2337|SCP two-three-three-seven]]], as you told me previously."</target>
+        <target xml:space="preserve" approved="no">私は [[[scp-2337|SCP-2337]]] に指定されている、と君から聞かされた。」</target>
       </trans-unit>
       <trans-unit id="32">
         <source xml:space="preserve">
@@ -196,7 +197,7 @@ Valente's eyes shift downward and his arms shuffle slightly.</target>
 I hold my breath.</source>
         <target xml:space="preserve" approved="no">
 
-I hold my breath.</target>
+息を止める。</target>
       </trans-unit>
       <trans-unit id="33">
         <source xml:space="preserve">
@@ -204,11 +205,11 @@ I hold my breath.</target>
 “Thank you,” says Valente.</source>
         <target xml:space="preserve" approved="no">
 
-“Thank you,” says Valente.</target>
+「ありがとうございます。」ヴァレンテが言う。</target>
       </trans-unit>
       <trans-unit id="34">
         <source xml:space="preserve">His expression hasn't changed.</source>
-        <target xml:space="preserve" approved="no">His expression hasn't changed.</target>
+        <target xml:space="preserve" approved="no">表情は変わらない。</target>
       </trans-unit>
       <trans-unit id="35">
         <source xml:space="preserve">
@@ -216,7 +217,7 @@ I hold my breath.</target>
 I feel my heart drop to the floor.</source>
         <target xml:space="preserve" approved="no">
 
-I feel my heart drop to the floor.</target>
+心臓が床に落ちた気がする。</target>
       </trans-unit>
       <trans-unit id="36">
         <source xml:space="preserve">
@@ -224,7 +225,7 @@ I feel my heart drop to the floor.</target>
 "Fuck!"</source>
         <target xml:space="preserve" approved="no">
 
-"Fuck!"</target>
+「クソッ！」</target>
       </trans-unit>
       <trans-unit id="37">
         <source xml:space="preserve">
@@ -234,9 +235,9 @@ I feel my heart drop to the floor.</target>
 "I'm Harry fucking Sangha, Val!"</source>
         <target xml:space="preserve" approved="no">
 
-"Listen, SCP two-three-three-seven—"
+「では、SCP-2337――」
 
-"I'm Harry fucking Sangha, Val!"</target>
+「俺はハリー・ファッキング・サンガだって言ってんだろ、ヴァル！」</target>
       </trans-unit>
       <trans-unit id="38">
         <source xml:space="preserve">
@@ -244,7 +245,7 @@ I feel my heart drop to the floor.</target>
 "—you seem to have a pre-established relationship of sorts with several of the more dangerous creatures in our custody."</source>
         <target xml:space="preserve" approved="no">
 
-"—you seem to have a pre-established relationship of sorts with several of the more dangerous creatures in our custody."</target>
+「――あなたは、当施設の危険度の高い複数の存在と以前から面識があるようですが。」</target>
       </trans-unit>
       <trans-unit id="39">
         <source xml:space="preserve">
@@ -252,15 +253,15 @@ I feel my heart drop to the floor.</target>
 I pound my fists on the glass.</source>
         <target xml:space="preserve" approved="no">
 
-I pound my fists on the glass.</target>
+ガラスを拳で叩きつける。</target>
       </trans-unit>
       <trans-unit id="40">
         <source xml:space="preserve">Valente has no reaction.</source>
-        <target xml:space="preserve" approved="no">Valente has no reaction.</target>
+        <target xml:space="preserve" approved="no">ヴァレンテは無反応。</target>
       </trans-unit>
       <trans-unit id="41">
         <source xml:space="preserve">I scream.</source>
-        <target xml:space="preserve" approved="no">I scream.</target>
+        <target xml:space="preserve" approved="no">私は叫んだ。</target>
       </trans-unit>
       <trans-unit id="42">
         <source xml:space="preserve">
@@ -268,7 +269,7 @@ I pound my fists on the glass.</target>
 "Fuck!"</source>
         <target xml:space="preserve" approved="no">
 
-"Fuck!"</target>
+「クソッ！」</target>
       </trans-unit>
       <trans-unit id="43">
         <source xml:space="preserve">
@@ -276,11 +277,11 @@ I pound my fists on the glass.</target>
 "Yes.</source>
         <target xml:space="preserve" approved="no">
 
-"Yes.</target>
+「はい。</target>
       </trans-unit>
       <trans-unit id="44">
         <source xml:space="preserve">Please elaborate on the exact nature of this relationship."</source>
-        <target xml:space="preserve" approved="no">Please elaborate on the exact nature of this relationship."</target>
+        <target xml:space="preserve" approved="no">それらとの関係性を詳述してください。」</target>
       </trans-unit>
       <trans-unit id="45">
         <source xml:space="preserve">
@@ -288,23 +289,26 @@ I pound my fists on the glass.</target>
 "Oh, I'll fucking elaborate, Val!</source>
         <target xml:space="preserve" approved="no">
 
-"Oh, I'll fucking elaborate, Val!</target>
+「おう、詳しく話してやるよ、ヴァル！」</target>
       </trans-unit>
       <trans-unit id="46">
         <source xml:space="preserve">I played the game of cosmic fucking Russian roulette, just like you, except there was a bullet in my chamber.</source>
-        <target xml:space="preserve" approved="no">I played the game of cosmic fucking Russian roulette, just like you, except there was a bullet in my chamber.</target>
+        <target xml:space="preserve" approved="no">俺もお前も、宇宙規模のクソったれたロシアンルーレットをやってきたんだ。違うのは、俺のシリンダーには弾が入ってたってことだ。</target>
+      　<note>重要な文書であるから訳文にこだわるべきである</note>
       </trans-unit>
       <trans-unit id="47">
         <source xml:space="preserve">I poked at one too many soft points in reality and someday you will too, my friend.</source>
-        <target xml:space="preserve" approved="no">I poked at one too many soft points in reality and someday you will too, my friend.</target>
+        <target xml:space="preserve" approved="no">現実の脆いところを、少しばかり突つきすぎたのさ。なあ友よ、てめえだってすぐに同じ道を辿る。</target>
+        <note>重要な文書であるから訳文にこだわるべきである</note>
       </trans-unit>
       <trans-unit id="48">
         <source xml:space="preserve">That's probably where it all fucking comes from, over and over, we all just keep ending up on the other side of the glass.</source>
-        <target xml:space="preserve" approved="no">That's probably where it all fucking comes from, over and over, we all just keep ending up on the other side of the glass.</target>
+        <target xml:space="preserve" approved="no">どうせ、そんなことをしてきたからだ……何度も、何度も……だからこのザマだ。俺たちは皆、結局ガラスの向こう側で終わる運命なんだ。</target>
+        <note>重要な文書であるから訳文にこだわるべきであるが、上手に訳せていない気がする</note>
       </trans-unit>
       <trans-unit id="49">
         <source xml:space="preserve">Fuck!"</source>
-        <target xml:space="preserve" approved="no">Fuck!"</target>
+        <target xml:space="preserve" approved="no">クソッ！」</target>
       </trans-unit>
       <trans-unit id="50">
         <source xml:space="preserve">
@@ -312,23 +316,23 @@ I pound my fists on the glass.</target>
 Valente looks confused and slightly annoyed.</source>
         <target xml:space="preserve" approved="no">
 
-Valente looks confused and slightly annoyed.</target>
+ヴァレンテは困惑し、少し迷惑そうな顔をしている。</target>
       </trans-unit>
       <trans-unit id="51">
         <source xml:space="preserve">My hands are sore from pounding on the glass.</source>
-        <target xml:space="preserve" approved="no">My hands are sore from pounding on the glass.</target>
+        <target xml:space="preserve" approved="no">叩きつけたせいで手が痛む。</target>
       </trans-unit>
       <trans-unit id="52">
         <source xml:space="preserve">I'm breathing heavily now.</source>
-        <target xml:space="preserve" approved="no">I'm breathing heavily now.</target>
+        <target xml:space="preserve" approved="no">もう息が荒い。</target>
       </trans-unit>
       <trans-unit id="53">
         <source xml:space="preserve">So much for calm.</source>
-        <target xml:space="preserve" approved="no">So much for calm.</target>
+        <target xml:space="preserve" approved="no">落ち着いてなんかいられない。</target>
       </trans-unit>
       <trans-unit id="54">
         <source xml:space="preserve">So much for focus.</source>
-        <target xml:space="preserve" approved="no">So much for focus.</target>
+        <target xml:space="preserve" approved="no">集中もクソもない。</target>
       </trans-unit>
       <trans-unit id="55">
         <source xml:space="preserve">
@@ -336,7 +340,7 @@ Valente looks confused and slightly annoyed.</target>
 I have to get out of here.</source>
         <target xml:space="preserve" approved="no">
 
-I have to get out of here.</target>
+私はここから出なければ。</target>
       </trans-unit>
       <trans-unit id="56">
         <source xml:space="preserve">
@@ -346,9 +350,9 @@ I have to get out of here.</target>
 "Please repeat that statement in the dialect used by the Foundation."</source>
         <target xml:space="preserve" approved="no">
 
-//I have to get—//
+//出て――//
 
-"Please repeat that statement in the dialect used by the Foundation."</target>
+「今の発言の内容を財団の通用語で繰り返してください。」</target>
       </trans-unit>
       <trans-unit id="57">
         <source xml:space="preserve">
@@ -356,7 +360,7 @@ I have to get out of here.</target>
 "Go to hell, Val!"</source>
         <target xml:space="preserve" approved="no">
 
-"Go to hell, Val!"</target>
+「くたばれ、ヴァル！」</target>
       </trans-unit>
       <trans-unit id="58">
         <source xml:space="preserve">
@@ -364,19 +368,19 @@ I have to get out of here.</target>
 The floor rushes up to meet me.</source>
         <target xml:space="preserve" approved="no">
 
-The floor rushes up to meet me.</target>
+床が一気に迫ってくる。</target>
       </trans-unit>
       <trans-unit id="59">
         <source xml:space="preserve">I'm on my knees, sobbing, forehead pressing into the base of the tree.</source>
-        <target xml:space="preserve" approved="no">I'm on my knees, sobbing, forehead pressing into the base of the tree.</target>
+        <target xml:space="preserve" approved="no">膝をつき、嗚咽し、額を木の根元に押し付けている。</target>
       </trans-unit>
       <trans-unit id="60">
         <source xml:space="preserve">All the months I'd been here I'd kept it cool.</source>
-        <target xml:space="preserve" approved="no">All the months I'd been here I'd kept it cool.</target>
+        <target xml:space="preserve" approved="no">この中で何か月もの間、ずっと冷静を保ってきたのに。</target>
       </trans-unit>
       <trans-unit id="61">
         <source xml:space="preserve">And here I am, grown-ass man with a PhD, crying his fucking eyes out into the last stupid fucking tree he'll see until the day he dies.</source>
-        <target xml:space="preserve" approved="no">And here I am, grown-ass man with a PhD, crying his fucking eyes out into the last stupid fucking tree he'll see until the day he dies.</target>
+        <target xml:space="preserve" approved="no">結果がこれだ。博士号持ちのいい歳した大人が、死のその時まで見せられ続ける、このクソ馬鹿げた木に縋り付いて、みっともなく泣きじゃくっている。</target>
       </trans-unit>
       <trans-unit id="62">
         <source xml:space="preserve">
@@ -384,7 +388,7 @@ The floor rushes up to meet me.</target>
 "Please discontinue yodeling."</source>
         <target xml:space="preserve" approved="no">
 
-"Please discontinue yodeling."</target>
+「ヨーデルをやめてください。」</target>
       </trans-unit>
       <trans-unit id="63">
         <source xml:space="preserve">
@@ -392,11 +396,11 @@ The floor rushes up to meet me.</target>
 I wipe my eyes on my naked arms to clear off the tears and snot.</source>
         <target xml:space="preserve" approved="no">
 
-I wipe my eyes on my naked arms to clear off the tears and snot.</target>
+涙と鼻水を拭おうと、剥き出しの腕で目をこする。</target>
       </trans-unit>
       <trans-unit id="64">
         <source xml:space="preserve">The fluids mix with the bits of bark and grit on my face, and I begin to seriously regret my meltdown.</source>
-        <target xml:space="preserve" approved="no">The fluids mix with the bits of bark and grit on my face, and I begin to seriously regret my meltdown.</target>
+        <target xml:space="preserve" approved="no">顔にこびり付いた木の皮や砂粒が、体液と混じって広がる。その感触に、先ほどの我を忘れた自分への後悔が、じわじわとこみ上げてきた。</target>
       </trans-unit>
       <trans-unit id="65">
         <source xml:space="preserve">
@@ -404,7 +408,7 @@ I wipe my eyes on my naked arms to clear off the tears and snot.</target>
 "I'm not making any sense to you, am I?"</source>
         <target xml:space="preserve" approved="no">
 
-"I'm not making any sense to you, am I?"</target>
+「私の言ってること、君には全然通じてないんだろ？」</target>
       </trans-unit>
       <trans-unit id="66">
         <source xml:space="preserve">
@@ -412,7 +416,7 @@ I wipe my eyes on my naked arms to clear off the tears and snot.</target>
 "We need you to cooperate and explain your answer in a coherent way."</source>
         <target xml:space="preserve" approved="no">
 
-"We need you to cooperate and explain your answer in a coherent way."</target>
+「我々はあなたに協力してもらう必要があり、あなたの返答を論理的に説明しなければなりません。」</target>
       </trans-unit>
       <trans-unit id="67">
         <source xml:space="preserve">
@@ -420,15 +424,15 @@ I wipe my eyes on my naked arms to clear off the tears and snot.</target>
 "What's the fucking point?</source>
         <target xml:space="preserve" approved="no">
 
-"What's the fucking point?</target>
+「そんなことにいったい何の意味があるんだ？」</target>
       </trans-unit>
       <trans-unit id="68">
         <source xml:space="preserve">I've tried everything I can and nothing gets through!</source>
-        <target xml:space="preserve" approved="no">I've tried everything I can and nothing gets through!</target>
+        <target xml:space="preserve" approved="no">考えつくことは全部試したのに、何一つ届かないじゃないか！」</target>
       </trans-unit>
       <trans-unit id="69">
         <source xml:space="preserve">You can ask anything you want, it's pointless!"</source>
-        <target xml:space="preserve" approved="no">You can ask anything you want, it's pointless!"</target>
+        <target xml:space="preserve" approved="no">何を聞こうが無意味なんだよ！」</target>
       </trans-unit>
       <trans-unit id="70">
         <source xml:space="preserve">
@@ -436,23 +440,23 @@ I wipe my eyes on my naked arms to clear off the tears and snot.</target>
 I turn to face him.</source>
         <target xml:space="preserve" approved="no">
 
-I turn to face him.</target>
+彼の方を向き直る。</target>
       </trans-unit>
       <trans-unit id="71">
         <source xml:space="preserve">He's got that look of a long-suffering scientist who spent decades of his life earning degrees.</source>
-        <target xml:space="preserve" approved="no">He's got that look of a long-suffering scientist who spent decades of his life earning degrees.</target>
+        <target xml:space="preserve" approved="no">その顔つきは、何十年も学位取得に費やしてきた、苦労人科学者のそれだ。</target>
       </trans-unit>
       <trans-unit id="72">
         <source xml:space="preserve">A man who left every relationship he had to join a shadow organization, only to end up bored, frustrated, and confused.</source>
-        <target xml:space="preserve" approved="no">A man who left every relationship he had to join a shadow organization, only to end up bored, frustrated, and confused.</target>
+        <target xml:space="preserve" approved="no">過去の人間関係をすべて清算し、影の組織に加わったにもかかわらず、しかし、その果てにあったのは、倦怠と焦燥、そして混乱だけ。そうした男の肖像だ。</target>
       </trans-unit>
       <trans-unit id="73">
         <source xml:space="preserve">I had that look once.</source>
-        <target xml:space="preserve" approved="no">I had that look once.</target>
+        <target xml:space="preserve" approved="no">私も昔はあの顔をしていた。</target>
       </trans-unit>
       <trans-unit id="74">
         <source xml:space="preserve">I envy it.</source>
-        <target xml:space="preserve" approved="no">I envy it.</target>
+        <target xml:space="preserve" approved="no">もはや今は羨ましい。</target>
       </trans-unit>
       <trans-unit id="75">
         <source xml:space="preserve">
@@ -460,11 +464,11 @@ I turn to face him.</target>
 "You're not hearing me, are you?"</source>
         <target xml:space="preserve" approved="no">
 
-"You're not hearing me, are you?"</target>
+「私の話を聞いていないんですか？」</target>
       </trans-unit>
       <trans-unit id="76">
         <source xml:space="preserve">he asks me.</source>
-        <target xml:space="preserve" approved="no">he asks me.</target>
+        <target xml:space="preserve" approved="no">彼が私に問いかける。</target>
       </trans-unit>
       <trans-unit id="77">
         <source xml:space="preserve">
@@ -472,11 +476,11 @@ I turn to face him.</target>
 "No, you're not fucking hearing //me//, asshole.</source>
         <target xml:space="preserve" approved="no">
 
-"No, you're not fucking hearing //me//, asshole.</target>
+「いや、聞いてないのは //テメエ// の方だ、クソ野郎。</target>
       </trans-unit>
       <trans-unit id="78">
         <source xml:space="preserve">Fuck you!"</source>
-        <target xml:space="preserve" approved="no">Fuck you!"</target>
+        <target xml:space="preserve" approved="no">死ね！」</target>
       </trans-unit>
       <trans-unit id="79">
         <source xml:space="preserve">
@@ -484,7 +488,7 @@ I turn to face him.</target>
 He stares at me blankly for a second, and I swear I see him roll his fucking eyes.</source>
         <target xml:space="preserve" approved="no">
 
-He stares at me blankly for a second, and I swear I see him roll his fucking eyes.</target>
+一瞬無表情で見つめ、そして確かに呆れたように目を転がした。</target>
       </trans-unit>
       <trans-unit id="80">
         <source xml:space="preserve">
@@ -492,15 +496,16 @@ He stares at me blankly for a second, and I swear I see him roll his fucking eye
 "... cack?"</source>
         <target xml:space="preserve" approved="no">
 
-"... cack?"</target>
+…「カック」？</target>
       </trans-unit>
       <trans-unit id="81">
         <source xml:space="preserve">he says.</source>
-        <target xml:space="preserve" approved="no">he says.</target>
+        <target xml:space="preserve" approved="no">彼が言う。</target>
       </trans-unit>
       <trans-unit id="82">
         <source xml:space="preserve">He's looking at me the way a teenage babysitter looks at a toddler that just shat its pants.</source>
-        <target xml:space="preserve" approved="no">He's looking at me the way a teenage babysitter looks at a toddler that just shat its pants.</target>
+        <target xml:space="preserve" approved="no">男は、まるで十代のベビーシッターがオムツを汚した幼児でも見るかのような目で、こちらを見ていた。</target>
+        <note>英語風すぎる表現で、うまいこと和訳できない</note>
       </trans-unit>
       <trans-unit id="83">
         <source xml:space="preserve">
@@ -508,11 +513,11 @@ He stares at me blankly for a second, and I swear I see him roll his fucking eye
 I slam the glass again.</source>
         <target xml:space="preserve" approved="no">
 
-I slam the glass again.</target>
+再びガラスを叩きつける。</target>
       </trans-unit>
       <trans-unit id="84">
         <source xml:space="preserve">In the distance, I hear laughter.</source>
-        <target xml:space="preserve" approved="no">In the distance, I hear laughter.</target>
+        <target xml:space="preserve" approved="no">遠くで笑い声が聞こえる。</target>
       </trans-unit>
       <trans-unit id="85">
         <source xml:space="preserve">
@@ -520,27 +525,27 @@ I slam the glass again.</target>
 "Is that what I fucking sound like?!</source>
         <target xml:space="preserve" approved="no">
 
-"Is that what I fucking sound like?!</target>
+「俺の声はそんなふうに聞こえてんのかよ?!</target>
       </trans-unit>
       <trans-unit id="86">
         <source xml:space="preserve">Motherfucking shit fuck //fuck!//"
 
 Valente heaves a big, weary sigh.</source>
-        <target xml:space="preserve" approved="no">Motherfucking shit fuck //fuck!//"
+        <target xml:space="preserve" approved="no">クソが、クソ、クソッ //クソッ！//」
 
-Valente heaves a big, weary sigh.</target>
+ヴァレンテは深く、疲れ切ったため息をつく。</target>
       </trans-unit>
       <trans-unit id="87">
         <source xml:space="preserve">He tucks his hands in at his sides and makes this shiteating, condescending, motherfucking face.</source>
-        <target xml:space="preserve" approved="no">He tucks his hands in at his sides and makes this shiteating, condescending, motherfucking face.</target>
+        <target xml:space="preserve" approved="no">彼は手を脇に引っ込め、心底から人を嘲るような、不快な顔つきを作って見せた。</target>
       </trans-unit>
       <trans-unit id="88">
         <source xml:space="preserve">My hands shake.</source>
-        <target xml:space="preserve" approved="no">My hands shake.</target>
+        <target xml:space="preserve" approved="no">手が震える。</target>
       </trans-unit>
       <trans-unit id="89">
         <source xml:space="preserve">Everything disappears except his fucking face and that fucking, //fucking// laughter.</source>
-        <target xml:space="preserve" approved="no">Everything disappears except his fucking face and that fucking, //fucking// laughter.</target>
+        <target xml:space="preserve" approved="no">奴のクソみたいな顔と、あのクソ、//クソ// みたいな笑い声以外、全部消える。</target>
       </trans-unit>
       <trans-unit id="90">
         <source xml:space="preserve">
@@ -548,19 +553,19 @@ Valente heaves a big, weary sigh.</target>
 "Snackutations Doctor Spanko, cack!"</source>
         <target xml:space="preserve" approved="no">
 
-"Snackutations Doctor Spanko, cack!"</target>
+「スナックテューションズ・ドクター・スパンコ、カック！」</target>
       </trans-unit>
       <trans-unit id="91">
         <source xml:space="preserve">he squeaks. "</source>
-        <target xml:space="preserve" approved="no">he squeaks. "</target>
+        <target xml:space="preserve" approved="no">彼が甲高い声で言う。「</target>
       </trans-unit>
       <trans-unit id="92">
         <source xml:space="preserve">You am authoritater?</source>
-        <target xml:space="preserve" approved="no">You am authoritater?</target>
+        <target xml:space="preserve" approved="no">ユー アム オーソリテーター？（権威者？）</target>
       </trans-unit>
       <trans-unit id="93">
         <source xml:space="preserve">Explainerate."</source>
-        <target xml:space="preserve" approved="no">Explainerate."</target>
+        <target xml:space="preserve" approved="no">エクスプレイナレート。（解説者？）」</target>
       </trans-unit>
       <trans-unit id="94">
         <source xml:space="preserve">
@@ -568,19 +573,19 @@ Valente heaves a big, weary sigh.</target>
 Time seems to stand still and move in fast forward all at once.</source>
         <target xml:space="preserve" approved="no">
 
-Time seems to stand still and move in fast forward all at once.</target>
+時間が同時に停止し、早送りされているように感じる。</target>
       </trans-unit>
       <trans-unit id="95">
         <source xml:space="preserve">I'm beating against the glass with a thick branch I don't remember breaking off.</source>
-        <target xml:space="preserve" approved="no">I'm beating against the glass with a thick branch I don't remember breaking off.</target>
+        <target xml:space="preserve" approved="no">折った記憶のない太い枝でガラスを叩きつけている。</target>
       </trans-unit>
       <trans-unit id="96">
         <source xml:space="preserve">Valente is alarmed.</source>
-        <target xml:space="preserve" approved="no">Valente is alarmed.</target>
+        <target xml:space="preserve" approved="no">ヴァレンテが狼狽している。</target>
       </trans-unit>
       <trans-unit id="97">
         <source xml:space="preserve">He's //reacting//. I beat at the glass with everything I have, barely registering the spots of blood flying off my hands.</source>
-        <target xml:space="preserve" approved="no">He's //reacting//. I beat at the glass with everything I have, barely registering the spots of blood flying off my hands.</target>
+        <target xml:space="preserve" approved="no">彼も//感応//しているぞ。私は無我夢中でガラスを殴りつけた。拳から血飛沫が舞ってもお構いなしに。</target>
       </trans-unit>
       <trans-unit id="98">
         <source xml:space="preserve">
@@ -588,23 +593,25 @@ Time seems to stand still and move in fast forward all at once.</target>
 The glass cracks.</source>
         <target xml:space="preserve" approved="no">
 
-The glass cracks.</target>
+ガラスにひびが入る。</target>
       </trans-unit>
       <trans-unit id="99">
         <source xml:space="preserve">It shouldn't be possible.</source>
-        <target xml:space="preserve" approved="no">It shouldn't be possible.</target>
+        <target xml:space="preserve" approved="no">あり得ない。</target>
       </trans-unit>
       <trans-unit id="100">
         <source xml:space="preserve">None of this should be possible.</source>
-        <target xml:space="preserve" approved="no">None of this should be possible.</target>
+        <target xml:space="preserve" approved="no">こんなことは何一つ、あり得てはならない。</target>
+        <note>文末と呼応させる</note>
       </trans-unit>
       <trans-unit id="101">
         <source xml:space="preserve">None of this should be happening.</source>
-        <target xml:space="preserve" approved="no">None of this should be happening.</target>
+        <target xml:space="preserve" approved="no">こんなことは何一つ、起きてはならない。</target>
+        <note>文末と呼応させる</note>
       </trans-unit>
       <trans-unit id="102">
         <source xml:space="preserve">The laughter is so loud I can hardly see.</source>
-        <target xml:space="preserve" approved="no">The laughter is so loud I can hardly see.</target>
+        <target xml:space="preserve" approved="no">笑い声はあまりに大きく、視界はかすむ。</target>
       </trans-unit>
       <trans-unit id="103">
         <source xml:space="preserve">
@@ -612,7 +619,7 @@ The glass cracks.</target>
 The glass breaks.</source>
         <target xml:space="preserve" approved="no">
 
-The glass breaks.</target>
+ガラスが割れる。</target>
       </trans-unit>
       <trans-unit id="104">
         <source xml:space="preserve">
@@ -620,35 +627,36 @@ The glass breaks.</target>
 Valente covers his eyes to shield them from errant shards.</source>
         <target xml:space="preserve" approved="no">
 
-Valente covers his eyes to shield them from errant shards.</target>
+ヴァレンテは飛散する破片から目を守ろうと手で覆う。</target>
       </trans-unit>
       <trans-unit id="105">
         <source xml:space="preserve">The branch in my hands is different.</source>
-        <target xml:space="preserve" approved="no">The branch in my hands is different.</target>
+        <target xml:space="preserve" approved="no">私は木の枝など手にしてはいなかった。</target>
       </trans-unit>
       <trans-unit id="106">
         <source xml:space="preserve">It //is// my hands.</source>
-        <target xml:space="preserve" approved="no">It //is// my hands.</target>
+        <target xml:space="preserve" approved="no">それは私の手 //そのもの// だ。</target>
       </trans-unit>
       <trans-unit id="107">
         <source xml:space="preserve">Glass is growing from the end of it.</source>
-        <target xml:space="preserve" approved="no">Glass is growing from the end of it.</target>
+        <target xml:space="preserve" approved="no">先端からガラスが伸びている。</target>
       </trans-unit>
       <trans-unit id="108">
         <source xml:space="preserve">Why not?</source>
-        <target xml:space="preserve" approved="no">Why not?</target>
+        <target xml:space="preserve" approved="no">だからなんだ？</target>
       </trans-unit>
       <trans-unit id="109">
         <source xml:space="preserve">I smile my first genuine smile in months.</source>
-        <target xml:space="preserve" approved="no">I smile my first genuine smile in months.</target>
+        <target xml:space="preserve" approved="no">数ヶ月ぶりに、自然な笑みがこぼれた。</target>
+        <note>文脈が複雑</note>
       </trans-unit>
       <trans-unit id="110">
         <source xml:space="preserve">None of this should be happening to me.</source>
-        <target xml:space="preserve" approved="no">None of this should be happening to me.</target>
+        <target xml:space="preserve" approved="no">こんなことは何一つ、私に起こるべきではなかったんだ。</target>
       </trans-unit>
       <trans-unit id="111">
         <source xml:space="preserve">None of it is going to happen to you, Val.</source>
-        <target xml:space="preserve" approved="no">None of it is going to happen to you, Val.</target>
+        <target xml:space="preserve" approved="no">そしてその何一つも、ヴァル、君に起こるべきではないんだ。</target>
       </trans-unit>
       <trans-unit id="112">
         <source xml:space="preserve">
@@ -656,15 +664,15 @@ Valente covers his eyes to shield them from errant shards.</target>
 He's on the floor.</source>
         <target xml:space="preserve" approved="no">
 
-He's on the floor.</target>
+彼は床に倒れている。</target>
       </trans-unit>
       <trans-unit id="113">
         <source xml:space="preserve">I reach into the antechamber.</source>
-        <target xml:space="preserve" approved="no">I reach into the antechamber.</target>
+        <target xml:space="preserve" approved="no">前室へにじりよる。</target>
       </trans-unit>
       <trans-unit id="114">
         <source xml:space="preserve">There's a sting on my ass.</source>
-        <target xml:space="preserve" approved="no">There's a sting on my ass.</target>
+        <target xml:space="preserve" approved="no">尻に刺すような痛み。</target>
       </trans-unit>
       <trans-unit id="115">
         <source xml:space="preserve">
@@ -672,7 +680,7 @@ He's on the floor.</target>
 The laughter fades.</source>
         <target xml:space="preserve" approved="no">
 
-The laughter fades.</target>
+笑い声は鎮まり。</target>
       </trans-unit>
       <trans-unit id="116">
         <source xml:space="preserve">
@@ -680,7 +688,7 @@ The laughter fades.</target>
 The world goes dark.</source>
         <target xml:space="preserve" approved="no">
 
-The world goes dark.</target>
+世界は暗くなる。</target>
       </trans-unit>
       <trans-unit id="117">
         <source xml:space="preserve">
@@ -690,15 +698,15 @@ The world goes dark.</target>
         <target xml:space="preserve" approved="no">
 
 
-##white|Dude, oh my god, oh my god.</target>
+##white|おいおい、やば、マジでやばい。</target>
       </trans-unit>
       <trans-unit id="118">
         <source xml:space="preserve">It's just the gift that keeps on giving.</source>
-        <target xml:space="preserve" approved="no">It's just the gift that keeps on giving.</target>
+        <target xml:space="preserve" approved="no">もう次から次に面白すぎる。</target>
       </trans-unit>
       <trans-unit id="119">
         <source xml:space="preserve">They shot him in the //ass,// dude!##</source>
-        <target xml:space="preserve" approved="no">They shot him in the //ass,// dude!##</target>
+        <target xml:space="preserve" approved="no">//尻を撃った// んだぞ、なあ！##</target>
       </trans-unit>
       <trans-unit id="120">
         <source xml:space="preserve">
@@ -706,7 +714,7 @@ The world goes dark.</target>
 ##white|Yeah, we're totally going to hell for this.##</source>
         <target xml:space="preserve" approved="no">
 
-##white|Yeah, we're totally going to hell for this.##</target>
+##white|ああ、これで俺たち確実に地獄行きだな。##</target>
       </trans-unit>
     </body>
   </file>
