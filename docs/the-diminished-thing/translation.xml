@@ -237,7 +237,7 @@ I feel my heart drop to the floor.</source>
 
 「では、SCP-2337――」
 
-「俺はハリー・ファッキング・サンガだって言ってんだろ、ヴァル！」</target>
+「私はハリー・ファッキング・サンガだって言ってんだろ、ヴァル！」</target>
       </trans-unit>
       <trans-unit id="38">
         <source xml:space="preserve">
@@ -293,7 +293,7 @@ I pound my fists on the glass.</source>
       </trans-unit>
       <trans-unit id="46">
         <source xml:space="preserve">I played the game of cosmic fucking Russian roulette, just like you, except there was a bullet in my chamber.</source>
-        <target xml:space="preserve" approved="yes">俺もお前も、宇宙規模のクソったれたロシアンルーレットをやってきたんだ。違うのは、俺のシリンダーには弾が入ってたってことだ。</target>
+        <target xml:space="preserve" approved="yes">私もお前も、宇宙規模のクソったれたロシアンルーレットをやってきたんだ。違うのは、私のシリンダーには弾が入ってたってことだ。</target>
       　<note>重要な文書であるから訳文にこだわるべきである</note>
       </trans-unit>
       <trans-unit id="47">
@@ -303,7 +303,7 @@ I pound my fists on the glass.</source>
       </trans-unit>
       <trans-unit id="48">
         <source xml:space="preserve">That's probably where it all fucking comes from, over and over, we all just keep ending up on the other side of the glass.</source>
-        <target xml:space="preserve" approved="yes">どうせ、そんなことをしてきたからだ……何度も、何度も……だからこのザマだ。俺たちは皆、結局ガラスの向こう側で終わる運命なんだ。</target>
+        <target xml:space="preserve" approved="yes">どうせ、そんなことをしてきたからだ……何度も、何度も……だからこのザマだ。私たちは皆、結局ガラスの向こう側で終わる運命なんだ。</target>
         <note>重要な文書であるから訳文にこだわるべきであるが、上手に訳せていない気がする</note>
       </trans-unit>
       <trans-unit id="49">
@@ -488,7 +488,8 @@ I turn to face him.</source>
 He stares at me blankly for a second, and I swear I see him roll his fucking eyes.</source>
         <target xml:space="preserve" approved="yes">
 
-一瞬無表情で見つめ、そして確かに呆れたように目を転がした。</target>
+彼は一瞬きょとんと私を見ていたが、見間違いでなければ、呆れ果てたように目を上にやるのが見えた。</target>
+      <note>訳に自信がない</note>
       </trans-unit>
       <trans-unit id="80">
         <source xml:space="preserve">
@@ -525,7 +526,7 @@ I slam the glass again.</source>
 "Is that what I fucking sound like?!</source>
         <target xml:space="preserve" approved="yes">
 
-「俺の声はそんなふうに聞こえてんのかよ?!</target>
+「私の声はそんなふうに聞こえてんのかよ?!</target>
       </trans-unit>
       <trans-unit id="86">
         <source xml:space="preserve">Motherfucking shit fuck //fuck!//"
@@ -714,7 +715,7 @@ The world goes dark.</source>
 ##white|Yeah, we're totally going to hell for this.##</source>
         <target xml:space="preserve" approved="yes">
 
-##white|ああ、これで俺たち確実に地獄行きだな。##</target>
+##white|ああ、これで私たち確実に地獄行きだな。##</target>
       </trans-unit>
     </body>
   </file>
