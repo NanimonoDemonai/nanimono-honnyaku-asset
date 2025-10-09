@@ -86,7 +86,7 @@ def export_sentences(input_file: Path, lang: str = "en", model: str | None = "en
 
     lines: list[str] = []
     lines.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
-    lines.append("<xliff version=\"2.1\" srcLang=\"%s\" trgLang=\"%s\" xmlns=\"urn:oasis:names:tc:xliff:document:2.1\">" % (escape(source_lang), escape(target_lang)))
+    lines.append("<xliff version=\"2.1\" srcLang=\"%s\" trgLang=\"%s\">" % (escape(source_lang), escape(target_lang)))
     # Use a deterministic file id based on original name
     file_id = escape(Path(original).stem or "file1")
     lines.append(f"  <file id=\"{file_id}\" original=\"{escape(original)}\" datatype=\"plaintext\">")
@@ -96,9 +96,9 @@ def export_sentences(input_file: Path, lang: str = "en", model: str | None = "en
         seg_text = escape(s)
         lines.append(f"    <unit id=\"{sid}\">")
         lines.append("      <segment>")
-        lines.append(f"        <source xml:space=\"preserve\">{seg_text}</source>")
+        lines.append(f"        <source>{seg_text}</source>")
         # Target is a copy of source initially; mark state initial
-        lines.append(f"        <target xml:space=\"preserve\" state=\"initial\">{seg_text}</target>")
+        lines.append(f"        <target state=\"initial\">{seg_text}</target>")
         lines.append("      </segment>")
         lines.append("    </unit>")
 
