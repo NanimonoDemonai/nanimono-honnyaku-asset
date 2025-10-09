@@ -10,11 +10,11 @@ containment chamber	収容チャンバー	n	SCP に紐づく部屋。"収容室"
 Temporal Abnormalities Department	時間異常部門	npr	原語併記不要。内的部署名。	時間異常課, 時間異常部, Temporal Dept.
 Malusdomesticaphobia	リンゴ恐怖症	n	造語。原語+恐怖症。カタカナ部は中黒入り。	マルスドメスティカ恐怖症, マルス・ドメスティカ恐怖症
 counseling	カウンセリング	n	動名詞も含め統一。漢字不可。	相談, カウンセル
-cyanide	シアン化物	n	具体化しない。"青酸" 不使用。	青酸
+cyanide	シアン化物	n	具体化しない."青酸" 不使用。	青酸
 stomach / tummy	腹	n	"tummy" の幼児語ニュアンスは文脈で「お腹」も可。統一：シリアス時「腹」、児童語調「お腹」。	胃袋, 胃
-(make people) happy	（みんなを）幸せにする	vph	語順調整可。"人々を喜ばせたい" 等に変えない。	喜ばせる, 幸福にする
-(to) sink (into seeds)	沈む	v	進行描写。「沈んでいく」など許容。"沈下" 不可。	沈下する
-(empty) void (in mashed potatoes)	虚無	n	比喩ニュアンスを保持。"穴" に置換しない。	穴, 空洞
+(make people) happy	（みんなを）幸せにする	vph	語順調整可."人々を喜ばせたい" 等に変えない。	喜ばせる, 幸福にする
+(to) sink (into seeds)	沈む	v	進行描写。「沈んでいく」など許容."沈下" 不可。	沈下する
+(empty) void (in mashed potatoes)	虚無	n	比喩ニュアンスを保持."穴" に置換しない。	穴, 空洞
 explode / split open (gut)	裂ける	v	"破裂する" より生々しさ緩和。統一。	破裂する, 破ける
 (apples) core	芯	n	複数でも「芯」。	コア
 (to) chew	噛む	v	過度意訳(咀嚼する)避ける。	咀嚼する
@@ -27,7 +27,7 @@ Locke (Dr. Locke)	ロック	npr	同上。	ロック博士（揺れ）
 Hippo (Dr. Hippo)	ヒッポ	npr	愛称。語尾長音なし。	ヒッポー
 Kirby (Dr. Kirby)	カービー	npr	長音表記統一。	カービィ
 Nicolini (Dr. Nicolini)	ニコリーニ	npr	語尾長音。	ニコリニ
-Kain (old Kain)	ケイン	npr	旧知の人物。"老ケイン" とする場合のみ文頭表記。	ケイン
+Kain (old Kain)	ケイン	npr	旧知の人物."老ケイン" とする場合のみ文頭表記。	ケイン
 (to) wink	ウィンクする	v	名詞形も同。	片目をつぶる
 finger guns	指鉄砲	n	複数でも「指鉄砲」。	指ピストル, ハンドガンジェスチャー
 (elevator) door(s)	ドア	n	複数でも「ドア」。	扉
@@ -50,7 +50,7 @@ Golden Delicious	ゴールデンデリシャス	n	リンゴ品種名。語頭大
 The Union	労働組合	npr	異常技能労働者組織。	ユニオン ザ・ユニオン
 Apple Crisp Crisis	アップル・クリスプ危機	npr	SCP-4683 関連インシデント名称。中黒統一。	アップルクリスプ危機
 Heimlich maneuver	ハイムリック法	n	応急処置法。カタカナ+法で統一。	ハイムリックマヌーバ
-cider	シードル	n	発酵リンゴ酒。"apple cider" も同訳。	サイダー
+cider	シードル	n	発酵リンゴ酒."apple cider" も同訳。	サイダー
 apple juice	リンゴジュース	n	非発酵飲料。語順保持。	アップルジュース
 Narrator	"ナレーター"	n	固有役割称。初出で (Narrator) 併記可。	ナレーター（ダブルクオートなし） 語り手
 Complex Apartment	複合アパート	npr	Nx-92 名称。英語併記不要。	コンプレックスアパート
@@ -59,5 +59,8 @@ AOV	AOV	n	略称。展開形は「異常発生値（AOV）」参照。	ＡＯＶ
 Worker(s)	労働者	n	Union/組織内一般構成員称。大文字/小文字にかかわらず「労働者」で統一。複数形も同形。語調を砕かない。	ワーカー, 作業員, 労務者
 Orchardist	オーチャーディスト	npr	異常的果実生成能力を持つ役職/人物呼称。冠詞・定冠詞の有無に関わらず統一。語尾長音化や縮約不可。	オーチャード, 果樹園主, 果樹師
 Head of Human Resources	人事部長	npr	労働組合内役職。定冠詞 the 有無問わず統一。冷徹・公式調を想定。略称不可。	HR部長, 人事責任者, 人事ヘッド
-termination (HR context)	解雇	n	労働組合内部処分。"fire", "fired" 動詞形含め文脈で「解雇」「解雇とする」へ。カジュアル言い換え不可。	クビ, 首, 免職
+termination (HR context)	解雇	n	労働組合内部処分."fire", "fired" 動詞形含め文脈で「解雇」「解雇とする」へ。カジュアル言い換え不可。	クビ, 首, 免職
+magnifying glass	虫眼鏡	n	HR 部長の象徴的アイテム。形容不要で単独使用。	ルーペ, 拡大鏡
+humanoid containment cell	ヒト型収容室	n	"humanoid" + 既存用語統一。"ヒト型収容チャンバー" 等不可。	ヒト型収容チャンバー, ヒト型セル
+commission (large order)	大口の注文	n	商取引量/額の大きさ強調。"受注" も可だが語調統一で「注文」。	受注, 依頼
 # End of file
