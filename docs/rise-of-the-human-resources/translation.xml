@@ -13,7 +13,7 @@
 "Oh, Orchardist, you just //had// to ship [[[scp-4683|the apples]]] out," he said to nobody in particular. "</source>
         <target xml:space="preserve">
 
-「オーチャーディスト。どうしても[[[scp-4683|あのリンゴ]]]を出荷//せねば//ならぬと判断したか。」 と、彼は誰にともなく低く告げた。「</target>
+「{{オーチャーディスト^^果樹園主^^}}。どうしても[[[scp-4683|あのリンゴ]]]を出荷//せねば//ならぬと判断したか。」 と、彼は誰にともなく低く告げた。「</target>
         <note>//had// の強調は「出荷しなきゃ気が済まなかったのか」など慨嘆含み表現へ再検討余地。句点と閉じ引用符の配置も調整必要。</note>
       </trans-unit>
       <trans-unit id="3">
@@ -54,7 +54,7 @@ Murmurs suddenly erupted from the crowd.</source>
 Reaching into the case, The Head pulled out a large magnifying glass, giving it a flick as it sparked with his long-forgotten energy.</source>
         <target xml:space="preserve">
 
-ケースに手を伸ばし、人事部長は大きな虫眼鏡を取り出す。それを軽く弾くと、忘れ去られたかつての活力が火花のようにぱちりと走った。</target>
+ケースに手を伸ばし、人事部長は大きな虫眼鏡を取り出す。それを軽く弾くと、長らく眠っていた彼の力がぱちりと火花を散らした。</target>
         <note>「忘れ去られたかつての活力が火花のようにぱちりと走った」は冗長気味。「長らく眠っていた力がぱちりと火花を散らした」など簡潔化検討。</note>
       </trans-unit>
       <trans-unit id="10">
@@ -87,7 +87,7 @@ The Orchardist sighed as he sat on the ground, conjuring up an apple, which he t
       </trans-unit>
       <trans-unit id="13">
         <source xml:space="preserve">They'd thrown him in a humanoid containment cell for the night while they dealt with the fallout of the Eris apples he'd shipped around.</source>
-        <target xml:space="preserve">彼が出荷して回った「エリスのリンゴ」の後始末に追われている間、彼は一晩だけヒト型収容室に放り込まれていた。</target>
+        <target xml:space="preserve">彼らは、オーチャーディストが出荷して回った「エリスのリンゴ」の後始末に追われている間、オーチャーディストを一晩ヒト型収容室に放り込んだ。</target>
         <note>用語調整: "humanoid containment cell" の訳語を指示に従い「ヒト型収容室」で統一。過去表記「ヒト型収容チャンバー」は使用しない。</note>
       </trans-unit>
       <trans-unit id="14">
@@ -558,7 +558,7 @@ He grabbed The Head of Human Resources' hand.</source>
 When the denizens of Site-87 came to check on Dr. King, all they found was a mess of appleseeds, and the complete disappearance of yet another humanoid anomaly.</source>
         <target xml:space="preserve">
 
-サイト-87の住人たちがキング博士の様子を確かめに来たとき、そこにあったのは散乱したリンゴの種と、再びの、一体のヒト型異常存在の完全な消失だけだった。</target>
+サイト-87の住人たちがキング博士の様子を見に来たとき、彼らが見つけたのは散乱したリンゴの種と、再びの、一体のヒト型異常存在の完全な消失だけだった。</target>
       </trans-unit>
       <trans-unit id="84">
         <source xml:space="preserve">
