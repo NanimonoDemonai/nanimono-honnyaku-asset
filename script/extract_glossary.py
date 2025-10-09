@@ -4,6 +4,10 @@
 Extracts candidate EN terms and JA terms, attempts to align simple 1:1 pairs when a
 segment contains exactly one EN candidate token and one JA candidate token.
 
+Supports:
+  * XLIFF 1.2 (<trans-unit><source/target>)
+  * XLIFF 2.1 (<unit><segment><source/target>) — namespace-agnostic
+
 Outputs:
   1) TSV of aligned term pairs (source_term, target_term, count, example_ids)
   2) TSV of unmatched EN terms (en_term, count, example_ids)
@@ -18,7 +22,7 @@ Heuristics:
     - Continuous sequence of Kanji (>=1) OR Katakana (>=2) OR mixed Kanji/Katakana
     - Ignore purely hiragana sequences to avoid grammar particles
   Alignment:
-    - Per trans-unit: if exactly one EN candidate and one JA candidate => pair count++
+    - Per unit: if exactly one EN candidate and one JA candidate => pair count++
     - Otherwise accumulate as unmatched candidates
 
 Usage:
@@ -61,18 +65,50 @@ class Pair:
     ids: set[str]
 
 
+def _local(tag: str) -> str:
+    return tag.split('}', 1)[1] if '}' in tag else tag
+
+
 def iter_units(xml_path: Path):
     tree = ET.parse(xml_path)
     root = tree.getroot()
-    for tu in root.findall('.//trans-unit'):
-        _id = tu.get('id', '')
-        src_el = tu.find('source')
-        tgt_el = tu.find('target')
-        if src_el is None or tgt_el is None:
-            continue
-        src = ''.join(src_el.itertext())
-        tgt = ''.join(tgt_el.itertext())
-        yield _id, src, tgt
+
+    # Prefer XLIFF 1.2 trans-unit nodes if present
+    trans_units = list(root.findall('.//trans-unit'))
+    if trans_units:
+        for tu in trans_units:
+            _id = tu.get('id', '')
+            src_el = tu.find('source')
+            tgt_el = tu.find('target')
+            if src_el is None or tgt_el is None:
+                continue
+            src = ''.join(src_el.itertext())
+            tgt = ''.join(tgt_el.itertext())
+            yield _id, src, tgt
+        return
+
+    # Fallback: XLIFF 2.1 structure <unit><segment><source/target>
+    for el in root.iter():
+        if _local(el.tag) == 'unit':
+            unit_id = el.get('id', '')
+            segments = [c for c in el if _local(c.tag) == 'segment']
+            if not segments:
+                segments = [c for c in el.iter() if _local(c.tag) == 'segment']
+            for idx, seg in enumerate(segments, start=1):
+                src_el = None
+                tgt_el = None
+                for child in seg:
+                    lname = _local(child.tag)
+                    if lname == 'source':
+                        src_el = child
+                    elif lname == 'target':
+                        tgt_el = child
+                if src_el is None or tgt_el is None:
+                    continue
+                src = ''.join(src_el.itertext())
+                tgt = ''.join(tgt_el.itertext())
+                seg_id = unit_id if len(segments) == 1 else f"{unit_id}:{idx}"
+                yield seg_id, src, tgt
 
 
 def extract_en(text: str):

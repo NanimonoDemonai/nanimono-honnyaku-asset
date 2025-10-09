@@ -10,7 +10,8 @@ Usage:
 - --model: Installed spaCy model name to use (default: "en_core_web_sm").
 
 Output:
-  Writes an XLIFF 1.2 document to a file named 'translation.xml' in the same directory as the input file, with each sentence as a <trans-unit><source>.
+  Writes an XLIFF 2.1 document to a file named 'translation.xml' in the same directory as the input file, with each sentence as a <unit><segment><source>.
+  (Previously XLIFF 1.2 <trans-unit> was used.)
 """
 from __future__ import annotations
 
@@ -64,26 +65,43 @@ def export_sentences(input_file: Path, lang: str = "en", model: str | None = "en
         if fallback != "":
             sentences.append(fallback)
 
-    # Produce XLIFF 1.2 and write to translation.xml next to the input file
+    # Produce XLIFF 2.1 and write to translation.xml next to the input file
     from xml.sax.saxutils import escape
 
     source_lang = "en-US"
     target_lang = "ja"
     original = input_file.name
 
+    # XLIFF 2.1 structure:
+    # <xliff version="2.1" srcLang="..." trgLang="..." xmlns="urn:oasis:names:tc:xliff:document:2.1">
+    #   <file id="f1" original="...">
+    #     <unit id="1">
+    #       <segment>
+    #         <source xml:space="preserve">...</source>
+    #         <target xml:space="preserve" state="initial">...</target>
+    #       </segment>
+    #     </unit>
+    #   ...
+    # </xliff>
+
     lines: list[str] = []
     lines.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>")
-    lines.append("<xliff version=\"1.2\">")
-    lines.append(f"  <file source-language=\"{escape(source_lang)}\" target-language=\"{escape(target_lang)}\" datatype=\"plaintext\" original=\"{escape(original)}\">")
-    lines.append("    <body>")
+    lines.append("<xliff version=\"2.1\" srcLang=\"%s\" trgLang=\"%s\" xmlns=\"urn:oasis:names:tc:xliff:document:2.1\">" % (escape(source_lang), escape(target_lang)))
+    # Use a deterministic file id based on original name
+    file_id = escape(Path(original).stem or "file1")
+    lines.append(f"  <file id=\"{file_id}\" original=\"{escape(original)}\" datatype=\"plaintext\">")
 
     for i, s in enumerate(sentences, start=1):
-        lines.append(f"      <trans-unit id=\"{i}\">")
-        lines.append(f"        <source xml:space=\"preserve\">{escape(s)}</source>")
-        lines.append(f"        <target xml:space=\"preserve\">{escape(s)}</target>")
-        lines.append("      </trans-unit>")
+        sid = escape(str(i))
+        seg_text = escape(s)
+        lines.append(f"    <unit id=\"{sid}\">")
+        lines.append("      <segment>")
+        lines.append(f"        <source xml:space=\"preserve\">{seg_text}</source>")
+        # Target is a copy of source initially; mark state initial
+        lines.append(f"        <target xml:space=\"preserve\" state=\"initial\">{seg_text}</target>")
+        lines.append("      </segment>")
+        lines.append("    </unit>")
 
-    lines.append("    </body>")
     lines.append("  </file>")
     lines.append("</xliff>")
 
@@ -94,7 +112,7 @@ def export_sentences(input_file: Path, lang: str = "en", model: str | None = "en
 
 
 def parse_args(argv: list[str]) -> argparse.Namespace:
-    p = argparse.ArgumentParser(description="Split a text file into sentences using spaCy and write XLIFF 1.2 to 'translation.xml' next to the input file")
+    p = argparse.ArgumentParser(description="Split a text file into sentences using spaCy and write XLIFF 2.1 to 'translation.xml' next to the input file")
     p.add_argument("input_file", type=Path, help="Path to input text file (UTF-8 recommended)")
     p.add_argument("--lang", default="en", help="spaCy language code for blank pipeline (default: en)")
     p.add_argument(

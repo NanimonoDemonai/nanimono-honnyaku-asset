@@ -2,8 +2,8 @@
 """Translation consistency & length difference checker.
 
 Features:
-  * Parse an XLIFF 1.2 file (translation.xml)
-  * For each trans-unit: collect source / target text
+  * Parse an XLIFF 1.2 or 2.1 file (translation.xml)
+  * For each unit (trans-unit in 1.2 / unit>segment in 2.1): collect source / target text
   * Detect likely untranslated targets (exact match or high ASCII ratio)
   * Compute length stats (char counts, ratio target/source)
   * Optional thresholds for flagging too-short / too-long translations
@@ -84,20 +84,52 @@ class Summary:
     max_ratio: float
 
 
+def _local(tag: str) -> str:
+    return tag.split('}', 1)[1] if '}' in tag else tag
+
+
 def iter_units(xml_path: Path) -> Iterable[tuple[str, str, str]]:
     tree = ET.parse(xml_path)
     root = tree.getroot()
-    # namespace-free; direct findall
-    for tu in root.findall('.//trans-unit'):
-        _id = tu.get('id', '')
-        src_el = tu.find('source')
-        tgt_el = tu.find('target')
-        if src_el is None or tgt_el is None:
-            continue
-        # Preserve inner text including newlines
-        src = ''.join(src_el.itertext())
-        tgt = ''.join(tgt_el.itertext())
-        yield _id, src, tgt
+
+    # Prefer XLIFF 1.2 trans-unit elements if present
+    trans_units = list(root.findall('.//trans-unit'))
+    if trans_units:
+        for tu in trans_units:
+            _id = tu.get('id', '')
+            src_el = tu.find('source')
+            tgt_el = tu.find('target')
+            if src_el is None or tgt_el is None:
+                continue
+            src = ''.join(src_el.itertext())
+            tgt = ''.join(tgt_el.itertext())
+            yield _id, src, tgt
+        return
+
+    # Fallback: XLIFF 2.1 <unit><segment><source/target>
+    # Need to traverse with namespace-agnostic handling
+    for el in root.iter():
+        if _local(el.tag) == 'unit':
+            unit_id = el.get('id', '')
+            segments = [c for c in el if _local(c.tag) == 'segment']
+            if not segments:
+                # Some tools may nest segment deeper; search descendants
+                segments = [c for c in el.iter() if _local(c.tag) == 'segment']
+            for idx, seg in enumerate(segments, start=1):
+                src_el = None
+                tgt_el = None
+                for child in seg:
+                    lname = _local(child.tag)
+                    if lname == 'source':
+                        src_el = child
+                    elif lname == 'target':
+                        tgt_el = child
+                if src_el is None or tgt_el is None:
+                    continue
+                src = ''.join(src_el.itertext())
+                tgt = ''.join(tgt_el.itertext())
+                seg_id = unit_id if len(segments) == 1 else f"{unit_id}:{idx}"
+                yield seg_id, src, tgt
 
 
 def analyze(xml_path: Path, min_ratio: float, max_ratio: float, ascii_threshold: float) -> tuple[List[UnitReport], Summary]:
