@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en-US" target-language="ja" datatype="plaintext" original="src.txt">
+    <body>
+      <trans-unit id="1">
+        <source xml:space="preserve">The Union's Head of Human Resources stared out his window into the darkness of a [[[discordant-anthology-hub|Halloween night]]], letting out a sigh.</source>
+        <target xml:space="preserve">"労働組合"の"人事部長"は窓の外、[[[discordant-anthology-hub|ハロウィンの夜]]]の闇を見つめながら、ひとつ溜息を吐いた。</target>
+        <note>「ひとつ溜息を吐いた」はやや硬いので「静かにため息をついた」も検討。</note>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:space="preserve">
+
+"Oh, Orchardist, you just //had// to ship [[[scp-4683|the apples]]] out," he said to nobody in particular. "</source>
+        <target xml:space="preserve">
+
+「オーチャーディスト。どうしても[[[scp-4683|あのリンゴ]]]を出荷//せねば//ならぬと判断したか。」 と、彼は誰にともなく低く告げた。「</target>
+        <note>//had// の強調は「出荷しなきゃ気が済まなかったのか」など慨嘆含み表現へ再検討余地。句点と閉じ引用符の配置も調整必要。</note>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:space="preserve">We gave you power, and you abused it.</source>
+        <target xml:space="preserve">我々はお前に力を与えた。だがお前はそれを悪用した。</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:space="preserve">Instead of keeping this town together, you assisted in bringing chaos."</source>
+        <target xml:space="preserve">この町を保全すべき立場でありながら、混沌を招いた。」</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:space="preserve">
+
+Sitting up, he strolled out of his office, right into the lobby.</source>
+        <target xml:space="preserve">
+
+身を起こすと、彼はオフィスを出てそのままロビーへ歩み出た。</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:space="preserve">All the Workers inside froze, staring at him as he went over to a display case and pulled out a key, sticking it in the keyhole before sliding the glass open.</source>
+        <target xml:space="preserve">中にいた"労働者"たちは皆、動きを止めて彼を見つめた。彼は展示ケースへ歩み寄り、鍵を取り出して鍵穴に差し込み、ガラスを横に滑らせて開いた。</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:space="preserve">
+
+Murmurs suddenly erupted from the crowd.</source>
+        <target xml:space="preserve">
+
+ざわめきが群衆の中で一斉に噴き上がった。</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:space="preserve">Some newbie Workers began to panic, only to be reassured by the veterans that they were okay-- underperforming is tolerated, after all.</source>
+        <target xml:space="preserve">新人の"労働者"の何人かは慌て始めたが、ベテランが「大丈夫だ、成績が振るわなくても許容される」と安心させた。</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:space="preserve">
+
+Reaching into the case, The Head pulled out a large magnifying glass, giving it a flick as it sparked with his long-forgotten energy.</source>
+        <target xml:space="preserve">
+
+ケースに手を伸ばし、人事部長は大きな虫眼鏡を取り出す。それを軽く弾くと、忘れ去られたかつての活力が火花のようにぱちりと走った。</target>
+        <note>「忘れ去られたかつての活力が火花のようにぱちりと走った」は冗長気味。「長らく眠っていた力がぱちりと火花を散らした」など簡潔化検討。</note>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:space="preserve">
+
+"Now, I believe that calls for immediate termination from The Union."</source>
+        <target xml:space="preserve">
+
+「これは労働組合の規律に照らすと、即時解雇に値する。」</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:space="preserve">
+
+------
+
+As it turns out, being designated as an SCP-- specifically SCP-4683-2-- is //incredibly// boring.</source>
+        <target xml:space="preserve">
+
+------
+
+結局のところ、SCP――正確にはSCP-4683-2――に指定されるのは、//信じられないくらい//退屈だった。</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:space="preserve">
+
+The Orchardist sighed as he sat on the ground, conjuring up an apple, which he took a satisfying crunch out of.</source>
+        <target xml:space="preserve">
+
+オーチャーディストは床に座り込み、リンゴをひとつ錬成すると、心地よいザクッという音を立ててかじり、ため息をついた。</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:space="preserve">They'd thrown him in a humanoid containment cell for the night while they dealt with the fallout of the Eris apples he'd shipped around.</source>
+        <target xml:space="preserve">彼が出荷して回った「エリスのリンゴ」の後始末に追われている間、彼は一晩だけヒト型収容室に放り込まれていた。</target>
+        <note>用語調整: "humanoid containment cell" の訳語を指示に従い「ヒト型収容室」で統一。過去表記「ヒト型収容チャンバー」は使用しない。</note>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:space="preserve">
+
+//I... fucked up.//
+
+Closing his eyes, he tried to sleep, one of the only things he could do in his boring solitary confinement.</source>
+        <target xml:space="preserve">
+
+//私は……やらかした。//
+
+目を閉じて眠ろうとする――退屈な独居収容で、ほとんど唯一できることだった。</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:space="preserve">
+
+"Hello, Orchardist."</source>
+        <target xml:space="preserve">
+
+「やあ、オーチャーディスト。」</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:space="preserve">
+
+The Orchardist's eyes shot open to see The Head of Human Resources.</source>
+        <target xml:space="preserve">
+
+オーチャーディストは目を見開き、"人事部長"の姿を見た。</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:space="preserve">His magnifying glass was being slowly hit against his palm like a cop's intimidating baton.</source>
+        <target xml:space="preserve">彼は警官の威嚇用警棒のように、虫眼鏡を掌にゆっくりと打ち付けていた。</target>
+        <note>主語省略で冷徹な客観描写にするなら「（人事部長は）…打ち付けている」の体言補足、あるいは無主語化「虫眼鏡が掌へゆっくりと打ち付けられていた」も検討。</note>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:space="preserve">
+
+"You did fuck up, you know that?"</source>
+        <target xml:space="preserve">
+
+「お前は取り返しのつかぬ過誤を犯した。理解しているな。」</target>
+        <note>罵倒のニュアンス (fuck up) が硬質敬体で薄れている。「致命的な失態をやらかした」等で口調の冷酷さ維持しつつ侮蔑強化可。</note>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:space="preserve">
+
+Unable to push any words out of his mouth, he simply nodded and pressed himself against the wall, as The Head came closer.</source>
+        <target xml:space="preserve">
+
+言葉を発することができず、彼はただ頷いて壁に背中を押しつけ、人事部長が近づくのを見た。</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:space="preserve">
+
+"I was //so// excited for this day.</source>
+        <target xml:space="preserve">
+
+「私はこの日を//大いに//期待していた。」</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:space="preserve">I thought it was going to all be okay.</source>
+        <target xml:space="preserve">全て平穏に進むはずだった。</target>
+        <note>原文主語は Head の一人称。「私は全てうまく行くと思っていた」など主語補足で明確化余地。</note>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:space="preserve">This town was tame, for once.</source>
+        <target xml:space="preserve">この町はこの時ばかりは静かだった。</target>
+          <meta type="alt-translations">
+              <target xml:space="preserve">この町は稀に見る沈静状態にあった。</target>
+              <note>"for once" は一時的例外性強調。「この時ばかりは静かだった」など平易化も可。「沈静状態」は硬め。</note>
+          </meta>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:space="preserve">No pit sloths, no anything."</source>
+        <target xml:space="preserve">ピット・スロースも、他も何ひとつ起きなかった。」</target>
+        <meta type="alt-translations">
+          <target xml:space="preserve">落とし穴ナマケモノも他の異常も皆無だった。」</target>
+          <note>後半 "no anything" の語気。「何ひとつ起きなかった」などリズム優先再案検討。</note>
+        </meta>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:space="preserve">His eye twitched as he spoke. "</source>
+        <target xml:space="preserve">話すうちに彼の目がぴくりと震えた。「</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:space="preserve">But you just had to ruin it all."</source>
+        <target xml:space="preserve">それをお前が全て台無しにした。」</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:space="preserve">
+
+"But--"
+
+"Not only did you act in a complete counteraction to our goals, but you also endangered other cities all across the world.</source>
+        <target xml:space="preserve">
+
+「しかし――」
+
+「お前は我々の目的から完全に逸脱し、さらに世界各地の都市を危険に晒した。」</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:space="preserve">People are //dying.// And..."
+
+The Orchardist gulped, letting out a quiet whimper. "</source>
+        <target xml:space="preserve">人が//死んでいる//。そして……」
+
+オーチャーディストは唾を飲み込み、声にならない嗚咽を漏らした。「</target>
+          <meta type="alt-translations">
+              <target xml:space="preserve">人が//死んでいる//。それに……」
+
+            オーチャーディストは唾を飲み込み、静かにすすり泣いた。「</target>
+                <note>"a quiet whimper" は短い弱音。「静かにすすり泣いた」などで泣きのニュアンス軽減も可。</note>
+            </meta>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:space="preserve">It's all my fault."</source>
+        <target xml:space="preserve">全部、私のせいです。」</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:space="preserve">
+
+"Good."</source>
+        <target xml:space="preserve">
+
+「よろしい。」</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:space="preserve">
+
+As The Head of Human Resources let out a chuckle, The Orchardist could feel a light through the invisible darkness piercing the room-- a little splinter of hope.</source>
+        <target xml:space="preserve">
+
+人事部長はくくっと笑うので、オーチャーディストは目に見えない暗闇を裂いて差し込む光――希望の微かな欠片――を感じた。</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:space="preserve">//I'm going to be okay, I'm going to be okay, I'm--//
+
+"However, that just isn't enough."</source>
+        <target xml:space="preserve">//大丈夫だ、大丈夫だ、私は――//
+
+「しかし、それだけでは足りない。」</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:space="preserve">
+
+"P- please!</source>
+        <target xml:space="preserve">
+
+「た、頼む！」</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:space="preserve">It was a big commission!</source>
+        <target xml:space="preserve">大口の注文だったんだ！」</target>
+        <note>前の行に合わせ引用符の開閉と文頭の「それは」を補うか検討。"big commission" は背景で数量/額強調なら「大口の受注」も候補。</note>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:space="preserve">I never wanted to- to harm anyone!"</source>
+        <target xml:space="preserve">誰かを、そ、そんなふうに傷つけるつもりはなかったんだ！」</target>
+        <note>どもり表現 "to- to" は「誰かを、その、傷つけるつもりなんて」などへ調整で自然さ向上余地。</note>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:space="preserve">
+
+"Yet you did."</source>
+        <target xml:space="preserve">
+
+「それでもやった。」</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:space="preserve">The Head pointed their magnifying glass at the cowering worker who had unconsciously pushed himself into a corner. "</source>
+        <target xml:space="preserve">人事部長は虫眼鏡を、無意識のうちに隅へ退避していたその労働者へと向けた。「</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:space="preserve">And that is simply inexcusable."</source>
+        <target xml:space="preserve">それはどんな弁明も通らない。」</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:space="preserve">
+
+Trying to choke out an excuse, The Orchardist only let out a sob instead.</source>
+        <target xml:space="preserve">
+
+弁明の言葉を絞り出そうとしたが、オーチャーディストの口から出たのは嗚咽だけだった。</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:space="preserve">
+
+"In other words..." The Head of Human Resources grinned, cocking his head to the side. "</source>
+        <target xml:space="preserve">
+
+「端的に言えば――」 人事部長は首を僅かに傾け、冷淡に笑った。「</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:space="preserve">You're fired."</source>
+        <target xml:space="preserve">解雇とする。」</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:space="preserve">
+
+When the denizens of Site-87 came to check on The Orchardist, all they found was a pile of ashes neatly swept into a corner.</source>
+        <target xml:space="preserve">
+
+サイト-87の住人たちがオーチャーディストの様子を見に来たとき、彼らが見つけたのは隅に整然と掃き集められた灰の山だけだった。</target>
+        <note>"denizens" はやや文語。「居住者」等で語域合わせ検討。</note>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:space="preserve">
+
+------
+
+On the other side of the facility, Dr. King ([[[dr-king-turns-everyone-at-s-c-plastics-into-appleseeds|designation pending]]]) was suffering from a similar pain as The Orchardist:
+
+Boredom.</source>
+        <target xml:space="preserve">
+
+------
+
+施設の反対側では、キング博士（[[[dr-king-turns-everyone-at-s-c-plastics-into-appleseeds|指定待ち]]])がオーチャーディストと同じ苦しみに苛まれていた。
+
+退屈だ。</target>
+        <note>末尾 "Boredom." の断片的強調。語気合わせるなら「ただ――退屈。」などリズム調整案。</note>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:space="preserve">
+
+King grumbled, appleseeds shooting out of his ears like highly pressurized steam.</source>
+        <target xml:space="preserve">
+
+キングはぶつぶつ言い、耳から高圧蒸気のようにリンゴの種を噴き出した。</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:space="preserve">How could those humanoid SCPs even deal with all this //nothing!//
+
+It was funny, in a way.</source>
+        <target xml:space="preserve">あのヒト型SCPたちは、どうやってこの//何もなさ//に耐えているんだ？
+
+ある意味、おかしかった。</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:space="preserve">He started off designating SCPs, and now he was waiting to be designated himself-- all because of his fucking appleseeds.</source>
+        <target xml:space="preserve">彼はSCPを指定する側だったというのに、今や自分自身が指定されるのを待つ立場――全部クソったれなリンゴの種のせいだ。</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:space="preserve">
+
+Sniffling, an appleseed escaped from his eye.</source>
+        <target xml:space="preserve">
+
+鼻をすすりながら、目からリンゴの種がひとつこぼれ落ちた。</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source xml:space="preserve">//Great,// he thought.</source>
+        <target xml:space="preserve">//いいじゃないか// と彼は思った。</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source xml:space="preserve">//Now I can't even cry properly...//
+
+//Why did I get this power?</source>
+        <target xml:space="preserve">//もうまともに泣くことさえできない……//
+
+//なぜ私がこんな力を得た？</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:space="preserve">Why me?</source>
+        <target xml:space="preserve">なぜ私なんだ？</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:space="preserve">Why--//
+
+"Oh, you are absolutely perfect!"</source>
+        <target xml:space="preserve">なぜ――//
+
+「おお、君はまさに完璧だ！」</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:space="preserve">A voice interrupted King's thoughts as he wiped his eyes.</source>
+        <target xml:space="preserve">目を拭っていたキングの思考を、声が遮った。</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:space="preserve">It had come from a slender man in the lefthand corner.</source>
+        <target xml:space="preserve">声は左手の隅に立つ痩せた男からだった。</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:space="preserve">
+
+"Huh?</source>
+        <target xml:space="preserve">
+
+「え？」</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source xml:space="preserve">Are you... here to test me or something?"</source>
+        <target xml:space="preserve">あなたは……私に実験をしに来たとか？」</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source xml:space="preserve">
+
+"No, absolutely not!"</source>
+        <target xml:space="preserve">
+
+「いや、まったく違う！」</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:space="preserve">He grinned, reaching into his pocket and pulling out a magnifying glass. "</source>
+        <target xml:space="preserve">彼はにやりと笑い、ポケットから虫眼鏡を取り出した。「</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:space="preserve">I'm here to offer you a job opportunity.</source>
+        <target xml:space="preserve">君に職務の機会を提示しに来た。</target>
+        <note>日本語として硬直。「仕事の話を持ってきた」「職務上の提案がある」など自然化案。</note>
+      </trans-unit>
+      <trans-unit id="58">
+        <source xml:space="preserve">Just let me see..." Looking through the glass at King, the man suddenly began to beam before tucking it away again. "</source>
+        <target xml:space="preserve">少し見させてもらおう……」 男は虫眼鏡越しにキングを観察し、ぱっと顔を輝かせ微笑むとそれをしまった。「</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source xml:space="preserve">You're the perfect replacement!"</source>
+        <target xml:space="preserve">君は理想的な後任だ。」</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source xml:space="preserve">
+
+"For who?"</source>
+        <target xml:space="preserve">
+
+「誰の？」</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source xml:space="preserve">
+
+"The last Orchardist, of course."</source>
+        <target xml:space="preserve">
+
+「前任のオーチャーディストの代わりだ。」</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source xml:space="preserve">
+
+"The... Orchardist?"</source>
+        <target xml:space="preserve">
+
+「オー……チャーディスト？」</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source xml:space="preserve">
+
+"Yes."</source>
+        <target xml:space="preserve">
+
+「そうだ。」</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source xml:space="preserve">
+
+"...who are you?"</source>
+        <target xml:space="preserve">
+
+「……あなたは誰です？」</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source xml:space="preserve">
+
+"I'm The Union's Head of Human Resources!</source>
+        <target xml:space="preserve">
+
+「私は"労働組合"の"人事部長"だ!</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source xml:space="preserve">I make sure our workers aren't making bad decisions, and if they do, well, they're... fired."</source>
+        <target xml:space="preserve">労働者が誤った判断を犯さぬよう監督し、それでも犯せば……解雇する。」</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source xml:space="preserve">
+
+King gulped, feeling an appley sweetness in the back of his throat. "</source>
+        <target xml:space="preserve">
+
+キングは喉の奥にリンゴの甘さを感じながら唾を飲み込んだ。「</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source xml:space="preserve">You, uh, hesitated there, with saying 'fired.'"</source>
+        <target xml:space="preserve">その、『クビ』って言うところ、えっと、何を口ごもっていたんだ。」</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source xml:space="preserve">
+
+"Don't worry about it.</source>
+        <target xml:space="preserve">
+
+「気にする必要はない。」</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source xml:space="preserve">The point is that we need a new Orchardist, and you're perfect for the job!</source>
+        <target xml:space="preserve">要点は、新たなオーチャーディストが必要で、君が最適だということだ。」</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source xml:space="preserve">You're already gathering energy from this town, aren't you?</source>
+        <target xml:space="preserve">君は既にこの町からエネルギーを集めているな。</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source xml:space="preserve">I can see it funneling into you, that's how you got so threatening you had to be placed in here, correct?</source>
+        <target xml:space="preserve">その流れが君へ集中しているのが見える。その結果脅威度が増して、ここに収容された。異論はあるか。」</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source xml:space="preserve">Well, if you join us, we can help you harness that power, and in exchange, you can help Sloth's Pit."</source>
+        <target xml:space="preserve">加わるならその力の制御方法を教える。対価としてスロース・ピットに寄与せよ。」</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source xml:space="preserve">
+
+"And if I don't join you?"</source>
+        <target xml:space="preserve">
+
+「加わらなかったら？」</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source xml:space="preserve">
+
+"You rot in here for the rest of your life.</source>
+        <target xml:space="preserve">
+
+「ここで残りの生涯を終えるがいい。</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source xml:space="preserve">What do you expect?"</source>
+        <target xml:space="preserve">他に何を期待する。」</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source xml:space="preserve">The Head of Human Resources offered his hand to the former doctor. "</source>
+        <target xml:space="preserve">人事部長は元博士に手を差し伸べた。「</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source xml:space="preserve">What do you say?</source>
+        <target xml:space="preserve">どうだ？</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source xml:space="preserve">We got a deal?"</source>
+        <target xml:space="preserve">受けるのか。」</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source xml:space="preserve">
+
+Scratching his head in thought, King could feel small bits of his skin flake off into appleseeds, and he suddenly realized how little of a choice he had.</source>
+        <target xml:space="preserve">
+
+頭を掻きながら考え込むと、皮膚の小片がリンゴの種になって剥がれ落ちるのをキングは感じた。自分には、もうほとんど選択肢がないことを悟る。</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source xml:space="preserve">
+
+He grabbed The Head of Human Resources' hand.</source>
+        <target xml:space="preserve">
+
+彼は人事部長の手を握った。</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source xml:space="preserve">
+
+"We've got a deal."</source>
+        <target xml:space="preserve">
+
+「契約成立だ。」</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source xml:space="preserve">
+
+When the denizens of Site-87 came to check on Dr. King, all they found was a mess of appleseeds, and the complete disappearance of yet another humanoid anomaly.</source>
+        <target xml:space="preserve">
+
+サイト-87の住人たちがキング博士の様子を確かめに来たとき、そこにあったのは散乱したリンゴの種と、再びの、一体のヒト型異常存在の完全な消失だけだった。</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source xml:space="preserve">
+
+</source>
+        <target xml:space="preserve">
+
+</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
