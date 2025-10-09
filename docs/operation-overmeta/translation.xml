@@ -8,10 +8,9 @@
 &gt; As many of you are aware, Pataphysics command has been working on an update on [[[sandrewswann-s-proposal|Dr.Swann's Narrative Sandwich model]]] to keep us up to date with Metanarrativics' recent research.</source>
         <target state="translated">&gt; 宛先: 空想科学部門（全員）
 &gt; 各位、
-&gt; ご存知の通り、空想科学司令部は、メタナラティビクスの最新研究に対応するため、[[[sandrewswann-s-proposal|スワン博士のナラティブサンドイッチモデル]]]の更新に取り組んでいます。</target>
-        <note appliesTo="target" category="register">"Ladies" は原文で半ばカジュアルかつ呼びかけ的。性別限定ニュアンスを和訳では中性化して「各位」とし、読みやすさ優先。必要なら「諸姉各位」なども検討可。</note>
-        <note appliesTo="target" category="term">"Narrative Sandwich model" は仮訳。用語統一のため用語集に追加予定。語尾は「モデル」で固定。</note>
-        <note appliesTo="target" category="term">Pataphysics を既存訳「パタフィジクス」から指示に従い「空想科学」に変更。用語集へ追加済 / 旧訳語を variants_disallowed に設定。</note>
+&gt; ご存知の通り、空想科学司令部は、メタ物語学（旧: メタナラティビクス）の最新研究に対応するため、[[[sandrewswann-s-proposal|スワン博士の物語サンドイッチモデル]]]の更新に取り組んでいます。</target>
+        <note appliesTo="target" category="term">用語方針変更: "narrative" 系はカタカナ表記を避け「物語」で統一（例: Narrative Sandwich model→物語サンドイッチモデル, metanarrativics→メタ物語学）。</note>
+        <note appliesTo="target" category="register">"Ladies" は呼びかけを中性化し「各位」。</note>
       </segment>
     </unit>
     <unit id="3">
@@ -27,7 +26,7 @@
 &gt; The gist of this update is the incorporation of Doctor Huever's Hypercanon theory, which holds that our reality is not a single narrative bulk below the Alpha layer, but an n-dimensional set of narrative planes connecting at defined conceptual points.</source>
         <target state="translated">
 &gt;
-&gt; この更新の要点は、ヒューバー博士のハイパーカノン理論の導入です。この理論によれば、私たちの現実はアルファ層の下にある単一のナラティブの塊ではなく、特定の概念的ポイントで接続されたn次元のナラティブ平面の集合です。</target>
+&gt; この更新の要点は、ヒューバー博士のハイパーカノン理論の導入です。この理論によれば、私たちの現実はアルファ層の下にある単一の物語の塊ではなく、特定の概念的ポイントで接続された n 次元の物語平面の集合です。</target>
       </segment>
     </unit>
     <unit id="5">
@@ -39,9 +38,7 @@
     <unit id="6">
       <segment>
         <source>While the formation of these narrative planes is still being studied, the strongest coherent factor between them is Database Causal Inclusions - that is to say, instances of swn001-1 ("//Horror Writer Entities//").</source>
-        <target state="translated">これらのナラティブ平面の形成はまだ研究中ですが、それらの間で最も強い一貫性のある要因はデータベース因果包含、つまりswn001-1（"//ホラー作家エンティティ//"）の事例です。</target>
-        <note appliesTo="target" category="term">"Database Causal Inclusions" を直訳調「データベース因果包含」としたが専門性が高く不自然さが残る可能性。必要なら原語併記（Database 因果包含）や説明補足（= データベース上の因果的包含現象）を検討。</note>
-        <note appliesTo="target" category="consistency">Horror Writer Entities: 「ホラー作家エンティティ」で統一。揺れ防止。</note>
+        <target state="translated">これらの物語平面の形成はまだ研究中ですが、それらの間で最も強い一貫性のある要因はデータベース因果包含、つまり swn001-1（"//ホラー作家エンティティ//"）の事例です。</target>
       </segment>
     </unit>
     <unit id="7">
@@ -69,16 +66,14 @@
     <unit id="10">
       <segment>
         <source>With research into the mechanics of [[[SCP-1304]]] and observation of [[[scp-2916|SCP-2916-1]]] and [[[SCP-2747]]], subnarrative entities capable of acting on and escaping to their upper layer, Procedure Kuzco-Bueller has been developed by Subnarrativics, utilising [[[SCP-826]]], for the purpose of full narrative extraction - taking fictional entities and bringing them into our reality.</source>
-        <target state="translated">[[[SCP-1304]]]のメカニクスに関する研究や、[[[scp-2916|SCP-2916-1]]]および[[[SCP-2747]]]の観察を通じて、上位層で行動し脱出する能力を持つサブナラティブエンティティに対して、クスコ・ビューラー手順がサブナラティビクスによって開発され、[[[SCP-826]]]を利用して、完全なナラティブ抽出――フィクション上の存在を取り込み私たちの現実へ持ち込む――ことを目的としています。</target>
-        <note appliesTo="target" category="correction">"手続きクスコ・ブエラ" から原綴の想定に合わせて "クスコ・ビューラー手順" に修正（Kuzco-Bueller）。語順も「手順」を後置。</note>
-        <note appliesTo="target" category="style">長文なので「――」で説明挿入。読点過多回避。必要なら二文に分割可。</note>
+        <target state="translated">[[[SCP-1304]]]のメカニクス研究および[[[scp-2916|SCP-2916-1]]]と[[[SCP-2747]]]の観察を通じて、上位層で行動・離脱可能な下位物語実体に対し、下位物語学（旧: サブナラティビクス）によりクスコ・ビューラー手順が開発され、[[[SCP-826]]]を利用して完全な物語抽出――フィクション上の存在を取り込み私たちの現実へ持ち込む――ことを目的としています。</target>
+        <note appliesTo="target" category="term">subnarrative entity → 下位物語実体 / Subnarrativics → 下位物語学 に統一。</note>
       </segment>
     </unit>
     <unit id="11">
       <segment>
         <source>We plan to create a task force of hypernarrative entities with this procedure, enlisting the aid of [[[scp-423|our standard scout]]] as a recruiter, with the purpose of creating a new narrative plane under our influence that intersects with other narrative planes.</source>
-        <target state="translated">この手続きを用いて超物語実体のタスクフォースを編成し、リクルーターとして[[[scp-423|私たちの標準スカウト]]]の協力を得て、私たちの影響下にある新しいナラティブ平面を作成し、他のナラティブ平面と交差させることを目的としています。</target>
-        <note appliesTo="target" category="term">"hypernarrative entity" を「超物語実体」に変更（旧: ハイパーナラティブエンティティ）。用語集で旧表記を variants_disallowed に設定。</note>
+        <target state="translated">この手続きを用いて超物語実体のタスクフォースを編成し、リクルーターとして[[[scp-423|私たちの標準スカウト]]]の協力を得て、私たちの影響下にある新しい物語平面を作成し、他の物語平面と交差させることを目的としています。</target>
       </segment>
     </unit>
     <unit id="12">
@@ -168,7 +163,7 @@
 ||~ 名前: ||ゴードン・ダンサー||~ ID: ||MTF-ι-0-1||~ コールサイン: || ノクター||
 ||~ ポジション: ||分隊長 ||~ 回収元:||||||  Helm, G. (2015) //Stronger Than Fiction//. フランス、パリ: ハシェット.||
 ||||||||||||~ メンバーの経歴:||
-|||||||||||| ゴードンは、上位層の年表に従って、自身が配置されたすべての作品を記憶する持続的なナラティブエンティティです。</target>
+|||||||||||| ゴードンは、上位層の年表に従って、自身が配置されたすべての作品を記憶する持続的な物語実体です。</target>
       </segment>
     </unit>
     <unit id="22">
@@ -226,7 +221,7 @@
 ||~ 名前: ||バーカー・サリバン||~ ID: ||MTF-ι-0-2||~ コールサイン: || イントロ||
 ||~ ポジション: ||スペシャリスト ||~ 回収元:||||||  カウフマン、C. (2002) //Unpeople//. ニューヨーク、マンハッタン: ハーパーコリンズ.||
 ||||||||||||~ メンバーの経歴:||
-|||||||||||| バーカーは、現在配置されているナラティブに合わせて能力、形態、アイデンティティを変化させる適応型ナラティブエンティティです。</target>
+|||||||||||| バーカーは、現在配置されている物語に合わせて能力、形態、アイデンティティを変化させる適応型物語実体です。</target>
       </segment>
     </unit>
     <unit id="29">
@@ -260,29 +255,19 @@
     <unit id="33">
       <segment>
         <source>The narrative requirement for this form is unknown.</source>
-        <target state="translated">この形態に対するナラティブの要件は不明です。</target>
+        <target state="translated">この形態に対する物語上の要件は不明です。</target>
       </segment>
     </unit>
     <unit id="34">
       <segment>
         <source>A recent paper, //Pataphysical Anomaly Recursion both preceding and following Procedure Kuzco-Bueller//, puts forth the hypothesis that Barker's anomalous ability to adapt to a narrative is simply a by-product of adapting to fit into this canon's metanarrative.</source>
-        <target state="translated">最近の論文、//クスコ・ビューラー手順の前後における空想科学的異常再帰//では、バーカーのナラティブに適応する異常な能力は、このカノンのメタナラティブに適合するように適応する副産物に過ぎないという仮説が提唱されています。</target>
+        <target state="translated">最近の論文、//クスコ・ビューラー手順の前後における空想科学的異常再帰//では、バーカーが物語に適応する異常能力は、このカノンのメタ物語に適合するための適応の副産物に過ぎないという仮説が提唱されています。</target>
       </segment>
     </unit>
     <unit id="35">
       <segment>
-        <source>No way to test this hypothesis has yet been put forth.||
-
-||~ Name: ||The Overvoid Lurk||~ ID: ||MTF-ι-0-xx||~ Callsign: || [[[operation-overmeta]]]||
-||~ Position: ||Right in front of you ||~ Recovered from:||||||  Morrison, G. (2012) //Intergalactic//. Berkeley, California: Image Comics.||
-||||||||||||~ Member Bio:||
-|||||||||||| Overvoid is a narrative entity appearing both as and within a text.</source>
-        <target state="translated">この仮説を検証する方法はまだ提案されていません。||
-
-||~ 名前: ||ザ・オーバーヴォイド・ラーク||~ ID: ||MTF-ι-0-xx||~ コールサイン: || [[[operation-overmeta]]]||
-||~ ポジション: ||目の前にいる ||~ 回収元:||||||  Morrison, G. (2012) //Intergalactic//. カリフォルニア、バークレー: イメージコミックス.||
-||||||||||||~ メンバーの経歴:||
-|||||||||||| オーバーヴォイドは、テキストの中およびとして現れるナラティブエンティティです。</target>
+        <source>Overvoid is a narrative entity appearing both as and within a text.</source>
+        <target state="translated">オーバーヴォイドはテキストとしてもテキスト内にも現れる物語実体です。</target>
       </segment>
     </unit>
     <unit id="36">
@@ -321,17 +306,11 @@
     </unit>
     <unit id="41">
       <segment>
-        <source>Obvious Overvoid[[/footnote]] I'm an invaluable resource, they say, though they're rather annoyed I only allow them glimpses at me in moments of need.</source>
-        <target state="translated">明らかにオーバーヴォイド[[/footnote]] 私は彼らにとって貴重なリソースだと言われていますが、彼らが必要な時にしか私を垣間見ることを許可しないことに彼らはかなり苛立っています。</target>
+        <source>I'm a narrative device as much as the rest of them, and they really need to respect my structure - if they had a handy roadmap at all times, where on earth would the conflict be?</source>
+        <target state="translated">私は他のメンバー同様に物語装置であり、彼らは本当に私の構造を尊重すべきです——もし常に便利なロードマップがあったら一体どこに対立が生まれるのでしょうか？</target>
       </segment>
     </unit>
     <unit id="42">
-      <segment>
-        <source>I'm a narrative device as much as the rest of them, and they really need to respect my structure - if they had a handy roadmap at all times, where on earth would the conflict be?</source>
-        <target state="translated">私は彼らと同様にナラティブデバイスであり、彼らは本当に私の構造を尊重する必要があります - もし彼らが常に便利なロードマップを持っていたら、いったいどこに対立があるというのでしょうか？</target>
-      </segment>
-    </unit>
-    <unit id="43">
       <segment>
         <source>  _
  _
@@ -341,7 +320,7 @@
  ごめんなさい、私は取り留めのないことを話して���ます。</target>
       </segment>
     </unit>
-    <unit id="44">
+    <unit id="43">
       <segment>
         <source>We really should get along to our final member...||
 
@@ -359,29 +338,29 @@
 |||||||||||| レジーは2015年10月26日に空想科学部門に自らを提示し、ホラー作家エンティティswn001-1-RMPL（"[[*user Rimple]]"）の自己挿入キャラクターであると主張しました。</target>
       </segment>
     </unit>
-    <unit id="45">
+    <unit id="44">
       <segment>
         <source>Reggie is an extremely talented hacker and former head of the Foundation's IT department who hacked the Pataphysics database and figured out the implications of our research.</source>
         <target state="translated">レジーは非常に優れたハッカーであり、財団のIT部門の元責任者で、空想科学データベースをハッキングし、私たちの研究の含意を理解しました。</target>
       </segment>
     </unit>
-    <unit id="46">
+    <unit id="45">
       <segment>
         <source>Reggie claims to have no real backstory or personality of his own, which our research confirms. _</source>
         <target state="translated">レジーは自分自身の本当のバックストーリーや個性を持っていないと主張しており、私たちの研究でもそれが確認されています。_</target>
       </segment>
     </unit>
-    <unit id="47">
+    <unit id="46">
       <segment>
         <source>
  _
  As attempts to remove Reggie from the narrative have proven unsuccessful, Reggie has been been assigned to MTF-ι-0, and is to accompany them at all times to allow for plot progression.</source>
         <target state="translated">
  _
- レジーをナラティブから排除しようとする試みが失敗したため、レジーはMTF-ι-0に配属され、プロットの進行を可能にするために常に彼らに同行することになっています。</target>
+ レジーを物語から排除しようとする試みが失敗したため、レジーは MTF-ι-0 に配属され、プロット進行を可能にするため常に同行することになっています。</target>
       </segment>
     </unit>
-    <unit id="48">
+    <unit id="47">
       <segment>
         <source>Reggie is to be regularly acknowledged for the purposes of nominal inclusion within the story.</source>
         <target state="translated">レジーは物語内での名目上の包含の目的で定期的に認識されることになっています。</target>
@@ -397,7 +376,7 @@
 
 
 Director Panagiotopolous stood at the head of the table, lost for words.</source>
-        <target state="translated">レジーはイライラするナラティブエンティティとして分類されています。||
+        <target state="translated">レジーはイライラする物語存在として分類されています。||
 
 
 [[/div]]
@@ -614,7 +593,7 @@ Penelope tapped the whiteboard again, gesturing to her scribbled diagrams. "</so
     <unit id="76">
       <segment>
         <source>A //narrative// tree.</source>
-        <target state="translated">ナラティブツリー。</target>
+        <target state="translated">//物語//ツリー。</target>
       </segment>
     </unit>
     <unit id="77">
@@ -818,7 +797,7 @@ Sandra[[footnote]] If you haven't caught on yet, any time there's a new lady's n
     <unit id="100">
       <segment>
         <source>She's doing her narrative shapeshifting thing.</source>
-        <target state="translated">彼女はナラティブのシェイプシフティングをしているのです。</target>
+        <target state="translated">彼女は物語的シェイプシフティングを行っているのです。</target>
       </segment>
     </unit>
     <unit id="101">
@@ -1202,7 +1181,7 @@ Penelope continued, getting into her stride. "</source>
     <unit id="152">
       <segment>
         <source>We've detected a few inaccessible ones that aren't even within the narrative bulk.</source>
-        <target state="translated">ナラティブの塊の中にさえ存在しない、いくつかのアクセス不可能なものを検出しました。</target>
+        <target state="translated">物語の塊の内部にさえ存在しない、いくつかのアクセス不能なものを検出しました。</target>
       </segment>
     </unit>
     <unit id="153">
@@ -1442,7 +1421,7 @@ Aubrey was nodding for real this time. "</source>
 "Why the //fuck// are we in the Sahara Desert??"</source>
         <target state="translated">-O"]]
 
-「なんで私たちはサハラ砂漠に���るんだ？？</target>
+「なんで私たちはサハラ砂漠にいるんだ？？</target>
       </segment>
     </unit>
     <unit id="189">
@@ -2106,7 +2085,7 @@ Reggie raised his hand nervously.</source>
     <unit id="279">
       <segment>
         <source>You have //no idea// how bad it gets out there, in wild narrative."</source>
-        <target state="translated">あなたには//全く想像できない//どれほどひどいことになるか、野生のナラティブの中で。」</target>
+        <target state="translated">あなたには//全く想像できない//どれほどひどいことになるか、野生の物語世界で。</target>
       </segment>
     </unit>
     <unit id="280">
