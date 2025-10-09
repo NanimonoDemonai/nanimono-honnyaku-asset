@@ -6,11 +6,12 @@
         <source>&gt; TO: PATAPHYSICS DEPARTMENT(ALL)
 &gt; Ladies,
 &gt; As many of you are aware, Pataphysics command has been working on an update on [[[sandrewswann-s-proposal|Dr.Swann's Narrative Sandwich model]]] to keep us up to date with Metanarrativics' recent research.</source>
-        <target state="translated">&gt; 宛先: パタフィジクス部門（全員）
+        <target state="translated">&gt; 宛先: 空想科学部門（全員）
 &gt; 各位、
-&gt; ご存知の通り、パタフィジクス司令部は、メタナラティビクスの最新研究に対応するため、[[[sandrewswann-s-proposal|スワン博士の物語サンドイッチモデル]]]の更新に取り組んでいます。</target>
-        <note appliesTo="target" category="register">"Ladies" は原文で半ばカジュアルかつ呼びかけ的。性別限定ニュアンスを和訳では中性化して「各位」とし、読みやすさ優先。必要なら「諸嬢各位」なども検討可。</note>
-        <note appliesTo="target" category="term">"Narrative Sandwich model" の正式訳語を「物語サンドイッチモデル」に確定（旧: ナラティブサンドイッチモデル）。用語集更新済。旧訳は使用禁止。</note>
+&gt; ご存知の通り、空想科学司令部は、メタナラティビクスの最新研究に対応するため、[[[sandrewswann-s-proposal|スワン博士のナラティブサンドイッチモデル]]]の更新に取り組んでいます。</target>
+        <note appliesTo="target" category="register">"Ladies" は原文で半ばカジュアルかつ呼びかけ的。性別限定ニュアンスを和訳では中性化して「各位」とし、読みやすさ優先。必要なら「諸姉各位」なども検討可。</note>
+        <note appliesTo="target" category="term">"Narrative Sandwich model" は仮訳。用語統一のため用語集に追加予定。語尾は「モデル」で固定。</note>
+        <note appliesTo="target" category="term">Pataphysics を既存訳「パタフィジクス」から指示に従い「空想科学」に変更。用語集へ追加済 / 旧訳語を variants_disallowed に設定。</note>
       </segment>
     </unit>
     <unit id="3">
@@ -141,7 +142,7 @@
     <unit id="20">
       <segment>
         <source>Penelope Panagiotopolous, Head of Pataphysics.</source>
-        <target state="translated">ペネロペ・パナギオトポウロス、パタフィジクス部門長。</target>
+        <target state="translated">ペネロペ・パナギオトポウロス、空想科学部門長。</target>
       </segment>
     </unit>
     <unit id="21">
@@ -265,7 +266,7 @@
     <unit id="34">
       <segment>
         <source>A recent paper, //Pataphysical Anomaly Recursion both preceding and following Procedure Kuzco-Bueller//, puts forth the hypothesis that Barker's anomalous ability to adapt to a narrative is simply a by-product of adapting to fit into this canon's metanarrative.</source>
-        <target state="translated">最近の論文、//クスコ・ブエラ手続きの前後におけるパタフィジカル異常再帰//では、バーカーのナラティブに適応する異常な能力は、このカノンのメタナラティブに適合するように適応する副産物に過ぎないという仮説が提唱されています。</target>
+        <target state="translated">最近の論文、//クスコ・ビューラー手順の前後における空想科学的異常再帰//では、バーカーのナラティブに適応する異常な能力は、このカノンのメタナラティブに適合するように適応する副産物に過ぎないという仮説が提唱されています。</target>
       </segment>
     </unit>
     <unit id="35">
@@ -337,7 +338,7 @@
  I'm sorry, I'm babbling.</source>
         <target state="translated">  _
  _
- ごめんなさい、私は取り留めのないことを話しています。</target>
+ ごめんなさい、私は取り留めのないことを話して���ます。</target>
       </segment>
     </unit>
     <unit id="44">
@@ -355,13 +356,13 @@
 ||~ 名前: ||レジナルド・インペル||~ ID: ||MTF-ι-0-null||~ コールサイン: || 隅の男||
 ||~ ポジション: ||胎児 ||~ 回収元:||||||  //該当なし//||
 ||||||||||||~ メンバーの経歴:||
-|||||||||||| レジーは2015年10月26日にパタフィジクス部門に自らを提示し、ホラー作家エンティティswn001-1-RMPL（"[[*user Rimple]]"）の自己挿入キャラクターであると主張しました。</target>
+|||||||||||| レジーは2015年10月26日に空想科学部門に自らを提示し、ホラー作家エンティティswn001-1-RMPL（"[[*user Rimple]]"）の自己挿入キャラクターであると主張しました。</target>
       </segment>
     </unit>
     <unit id="45">
       <segment>
         <source>Reggie is an extremely talented hacker and former head of the Foundation's IT department who hacked the Pataphysics database and figured out the implications of our research.</source>
-        <target state="translated">レジーは非常に優れたハッカーであり、財団のIT部門の元責任者で、パタフィジクスデータベースをハッキングし、私たちの研究の含意を理解しました。</target>
+        <target state="translated">レジーは非常に優れたハッカーであり、財団のIT部門の元責任者で、空想科学データベースをハッキングし、私たちの研究の含意を理解しました。</target>
       </segment>
     </unit>
     <unit id="46">
@@ -403,7 +404,7 @@ Director Panagiotopolous stood at the head of the table, lost for words.</source
 -----
 
 
-パナギオトポウロス部長は、言葉を失ってテーブルの頭に立っていました。</target>
+Director Panagiotopolous stood at the head of the table, lost for words.</target>
       </segment>
     </unit>
     <unit id="50">
@@ -1441,7 +1442,7 @@ Aubrey was nodding for real this time. "</source>
 "Why the //fuck// are we in the Sahara Desert??"</source>
         <target state="translated">-O"]]
 
-「なんで私たちはサハラ砂漠にいるんだ？？</target>
+「なんで私たちはサハラ砂漠に���るんだ？？</target>
       </segment>
     </unit>
     <unit id="189">
@@ -1924,7 +1925,7 @@ Dr. Jonah hesitated. "</source>
     </unit>
     <unit id="254">
       <segment>
-        <source>Containment procedures require express permission from two members of the O5 council to view documentation on 2559."</source>
+        <source>Containment procedures require express permission from two members of the O5 council to view documentation on 2559.</source>
         <target state="translated">封じ込め手続きには、2559に関する文書を見るためにO5評議会の2人のメンバーからの明示的な許可が必要です。」</target>
       </segment>
     </unit>
