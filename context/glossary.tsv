@@ -63,4 +63,11 @@ termination (HR context)	解雇	n	労働組合内部処分."fire", "fired" 動�
 magnifying glass	虫眼鏡	n	HR 部長の象徴的アイテム。形容不要で単独使用。	ルーペ, 拡大鏡
 humanoid containment cell	ヒト型収容室	n	"humanoid" + 既存用語統一。"ヒト型収容チャンバー" 等不可。	ヒト型収容チャンバー, ヒト型セル
 commission (large order)	大口の注文	n	商取引量/額の大きさ強調。"受注" も可だが語調統一で「注文」。	受注, 依頼
+Hypercanon	ハイパーカノン	n	多層ナラティブ上位集合概念。単独出現時は概念名として訳。理論文脈では後ろに「理論」付与可。	ハイパーキャノン, ハイパーカノン理論
+Hypercanon theory	ハイパーカノン理論	n	Huever 博士提唱。現実＝単一塊ではなく n 次元ナラティブ平面集合とする理論。初出以降は「理論」省略可。	ハイパーキャノン理論
+Narrative Sandwich model	物語サンドイッチモデル	n	Dr. Swann 案。原語 headless 冠詞不要。モデル語末固定。	ナラティブ・サンドイッチモデル, ナラティブサンドイッチモデル
+Database Causal Inclusions	データベース因果包含	n	各ナラティブ平面間の結節要因。必要に応じ原語併記可（Database 因果包含）。説明補足：データベース上で因果的接続を形成する包含事象。	データベース因果的包含, DB因果包含
+Procedure Kuzco-Bueller	クスコ・ビューラー手順	npr	サブナラティブ抽出用手順。語順「手順」後置統一。旧訳「手続きクスコ・ブエラ」は使用禁止。	クスコ・ブエラー手順, 手続きクスコ・ブエラ
+canon (setting)	カノン	n	作中独自公式設定。初出時「公式設定（カノン）」など補足可。派生 headcanon は「ヘッドカノン」。	キャノン, カノン設定
+hypernarrative entity	超物語実体	n	上位ナラティブ層横断可能な抽出後存在。複数形でも同形。	ハイパーナラティブエンティティ, ハイパーナラティブエンティティ
 # End of file
