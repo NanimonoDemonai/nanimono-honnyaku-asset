@@ -80,7 +80,7 @@ def export_sentences(input_file: Path, lang: str = "en", model: str | None = "en
     for i, s in enumerate(sentences, start=1):
         lines.append(f"      <trans-unit id=\"{i}\">")
         lines.append(f"        <source xml:space=\"preserve\">{escape(s)}</source>")
-        lines.append(f"        <target xml:space=\"preserve\">{escape(s)}</target>")
+        lines.append(f"        <target xml:space=\"preserve\" approved=\"no\">{escape(s)}</target>")
         lines.append("      </trans-unit>")
 
     lines.append("    </body>")
