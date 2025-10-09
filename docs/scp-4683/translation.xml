@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en-US" target-language="ja" datatype="plaintext" original="src.txt">
+    <body>
+      <trans-unit id="1">
+        <source xml:space="preserve">**Item #:** SCP-4683
+
+**Object Class:** Euclid
+
+**Special Containment Procedures:** SCP-4683-1 instances found within Nx-18 are to be contained and incinerated in the field with extreme prejudice, with a fifty-meter area around them being quarantined for at least ten days to observe further anomalous properties.</source>
+        <target xml:space="preserve">**アイテム番号:** SCP-4683
+
+**オブジェクトクラス:** Euclid
+
+**特別収容プロトコル:** Nx-18 内で発見された SCP-4683-1は、厳重な警戒のもと現地で収容・焼却処分し、その周囲 50m の区域を少なくとも 10 日間隔離して追加の異常性がないか観察をします。</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:space="preserve">Individuals who have consumed an SCP-4683-1 instance are to be detained for a period of up to ten days to contain any potential anomalies that rise.</source>
+        <target xml:space="preserve">SCP-4683-1を摂取した人物には異常性が発現する可能性があり、封じ込めのため最大 10 日間拘留します。</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:space="preserve">
+
+For the duration of October 2019, all Anomalous Nexus Zones are to be monitored for the presence of SCP-4683-1 activity from within Site-87's Department of Nexus Research.</source>
+        <target xml:space="preserve">
+
+2019 年 10 月の期間、Site-87 ネクサス研究部門から全ての異常ネクサス領域を監視し、SCP-4683-1 の活動の兆候を検出します。</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:space="preserve">Foundation resources and agents are to be dispatched as necessary to contain any and all anomalies that arise as a result of the presence of SCP-4683-1.</source>
+        <target xml:space="preserve">SCP-4683-1 に起因して発生する全ての異常を封じ込めるため、必要に応じて財団資産およびエージェントを派遣します。</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:space="preserve">
+
+**Description:**  SCP-4683 are apples originating in Chapman Orchards in Sloth's Pit, Wisconsin (designated Foundation Nexus Zone Nx-18).</source>
+        <target xml:space="preserve">
+
+**説明:** SCP-4683 はウィスコンシン州スロース・ピット（財団ネクサス領域 Nx-18 指定）所在のチャップマン果樹園産のリンゴです。</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:space="preserve">Largely identical to non-anomalous apples in terms of needs for growth and cultivation, SCP-4683 instances have a shelf-life of several years, are incapable of being bruised, and are highly resistant to diseases commonly affecting apple trees.</source>
+        <target xml:space="preserve">栽培・成長に要する条件は非異常性のリンゴと概ね同一ですが、SCP-4683は数年間の保存が可能で、打撲痕を生じず、リンゴ樹に一般的な病害に対して極めて高い耐性を示します。</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:space="preserve">
+
+SCP-4683-1 refers to instances of SCP-4683 that are of a cultivar that genetically resembles Golden Delicious apples.</source>
+        <target xml:space="preserve">
+
+SCP-4683-1は、遺伝的にゴールデンデリシャス種に似た栽培品種であるSCP-4683の特定個体を指します。</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:space="preserve">However, SCP-4683-1 instances have a skin that resembles semi-liquid gold, which is reported to have a caramel flavoring.</source>
+        <target xml:space="preserve">特異なことに、SCP-4683-1の果皮は半液状の金に類似しており、それはカラメル風味であると報告されています。</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:space="preserve">Furthermore, markings in Greek reading "ΤΗΙ ΚΑΛΛΙΣΤΗ", or "For the most beautiful", can be found on the skin of SCP-4683-1 instances.</source>
+        <target xml:space="preserve">さらに SCP-4683-1の果皮にはギリシア語で「ΤΗΙ ΚΑΛΛΙΣΤΗ」（「最も美しい者へ」）と読む刻印が見られます。</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:space="preserve">Unripe or under-ripe SCP-4683-1 instances will instead read "ΠΟΛΥ ΝΩΡΙΣ", or "Too Early".</source>
+        <target xml:space="preserve">未熟または半熟の SCP-4683-1には代わりに「ΠΟΛΥ ΝΩΡΙΣ」（「早すぎる」）と表示されます。</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:space="preserve">
+
+The area around SCP-4683-1 instance is prone to large amounts of conflict, coincidence, and probabilistic anomalies.</source>
+        <target xml:space="preserve">
+
+SCP-4683-1の個体の周辺では、人物間の衝突・偶然の一致・確率異常が頻発します。</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:space="preserve">Within Nx-18, this results in high amounts of Narrative Turbulence, leading to unpredictable scenarios occurring.[[footnote]]For further information regarding the Law of Narrative Causality, consult [[[i-h-p-proposal |SCP-001 I.H.P.]]] [[/footnote]] Outside of Nx-18, the effect is less pronounced, --most likely due to the anomalous effects being neutered due to being outside of the native Nexus zone--, but can still cause large amounts of probabilistic anomalies to occur.</source>
+        <target xml:space="preserve">Nx-18 内においては、これが高レベルの「物語的擾乱」の原因となり、予測不能なシナリオを発生させます。[[footnote]]物語因果律 (Law of Narrative Causality) の詳細は [[[i-h-p-proposal |SCP-001 I.H.P.]]] を参照。[[/footnote]] Nx-18 外では、この効果は減少するものの、依然として大量の確率異常を誘発し得ます。--これは、原産ネクサス領域外で異常性が弱体化するためと考えられています。-- </target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:space="preserve">
+
+When consumed, the effects of an SCP-4683-1 instance are greatly increased, resulting in the organism that consumed it becoming an instance of SCP-4683-A. SCP-4683-A instances generate a Micro-Nexus[[footnote]]A space with a heightened Anomaly Occurrence Value whose total area is smaller than three-hundred square meters. To date, the only other example of a Micro-Nexus Phenomenon is Nx-92, "The Complex Apartment", located in New York City.[[/footnote]] around their being, resulting in localized anomalous phenomena.</source>
+        <target xml:space="preserve">
+SCP-4683-1 を摂取するとその効果は大幅に増幅され、摂取した生物は SCP-4683-A となります。SCP-4683-A はその存在の周囲にマイクロ・ネクサス[[footnote]]総面積が 300㎡ 未満で異常発生値（AOV）が上昇している空間。現在までに確認されているマイクロ・ネクサス現象の他の例は、ニューヨーク市所在の Nx-92「複合アパート」のみ。[[/footnote]]を生成し、局所的な異常現象を引き起こします。</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:space="preserve">
+
+Within a Nexus Zone such as Nx-18, this effect is virulent and the area is amplified.</source>
+        <target xml:space="preserve">
+
+Nx-18 のようなネクサス領域内ではこの効果は急速に拡散し、影響範囲が拡大します。</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:space="preserve">A single SCP-4683-A instance can lead to an exponential increase of the local Anomaly Occurrence Value, resulting in an overall degradation of local reality.</source>
+        <target xml:space="preserve">単一の SCP-4683-A でも局所 AOV を指数関数的に上昇させ、周辺現実性の全般的劣化を引き起こし得ます。</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:space="preserve">
+
+//So people understand just how Serious this is: The AOV for Sloth's Pit is roughly 5.3 anomalous events per day.</source>
+        <target xml:space="preserve">
+
+//本件がどれほど重大か理解してもらうために: Sloth's Pit の AOV は通常 1 日あたり約 5.3 件です。//</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:space="preserve">The [[[apple-crisp-crisis |Apple Crisp Crisis]]] shot it up to over 50.</source>
+        <target xml:space="preserve">しかし、件の[[[apple-crisp-crisis |アップル・クリスプ危機]]] では 50 件を超えました。</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:space="preserve">For an entire day, we were the most anomalous municipality on the planet. '</source>
+        <target xml:space="preserve">あの日は全日、私たちは地球上で最も異常な自治体となっていたのでした。</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:space="preserve">Terrifying' is an understatement.//-- Nina Weiss, Director, Site-87
+
+**Incident Log:**
+
+**November 22nd, 2018:** First known manifestation of SCP-4683-1's anomalous properties.</source>
+        <target xml:space="preserve">“Terrifying（恐ろしい）”という表現ですら生ぬるい。//-- ニーナ・ヴァイス Site-87 管理官
+
+**インシデント記録:**
+
+**2018/11/22:** SCP-4683-1 の異常性が初めて確認された事例。</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:space="preserve">Several incidents occurred throughout Nx-18, in an event which has been dubbed "The Apple Crisp Crisis".</source>
+        <target xml:space="preserve">Nx-18 全域で複数のインシデントが発生し、一連の事象は「アップル・クリスプ危機」と呼称されました。</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:space="preserve">At 4:30 that day, an individual known to be a member of [[[starlow-grocery |The Union]]][[footnote]]A Group of Interest that employs anomalously skilled workers.[[/footnote]] presented itself to Site-87 for containment.</source>
+        <target xml:space="preserve">同日 4:30、[[[starlow-grocery |労働組合]]][[footnote]]異常な技能を有する労働者を雇用する関心団体。[[/footnote]]の構成員と判明している人物が、自身の収容を求め Site-87 に出頭しました。</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:space="preserve">Designated SCP-4683-A, it claimed that it had "been commissioned to create something" that it now "sorely regretted".</source>
+        <target xml:space="preserve">これを SCP-4683-A と指定しました。本人は「何かを作るよう依頼された」、および現在では「ひどく後悔している」と述べました。</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:space="preserve">An interview with SCP-4683-A is documented below:
+
+[[collapsible show="Show Interview" hide="Close Document"]]
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+
+**Agent Allison Carol:** So.</source>
+        <target xml:space="preserve">以下に SCP-4683-A とのインタビューを記録します:
+
+[[collapsible show="Show Interview" hide="Close Document"]]
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+
+**エージェント アリソン・キャロル:** では。</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:space="preserve">Do you have an actual name?</source>
+        <target xml:space="preserve">本名はありますか？</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:space="preserve">
+
+**SCP-4683-A:**  Haven't had one for a while.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** しばらく名乗ってない。</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:space="preserve">Just 'The Orchardist' will do.</source>
+        <target xml:space="preserve">“オーチャーディスト（果樹園主)” で結構。</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:space="preserve">
+
+**Carol:** Right, well.</source>
+        <target xml:space="preserve">
+
+**キャロル:** なるほど、では。</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:space="preserve">Orchardist.</source>
+        <target xml:space="preserve">オーチャーディスト。</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:space="preserve">Things went pretty tits-up because of the apples.</source>
+        <target xml:space="preserve">リンゴのせいで何もかもめちゃくちゃです。</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:space="preserve">Seems that gastronomy accidentally used some in the dessert and now half the town's gone insane.</source>
+        <target xml:space="preserve">調理班が誤ってデザートに幾つか使ったらしく、町の半分が正気を失っています。</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:space="preserve">We've got temporal anomalies on Main Street, the Catholic School is missing, we've got a 'recreational morgue' in the hospital, and poor Trevor Bailey can't stop ranting about how [[[scp-4223 |Mountain Dew Apple]]] is... hold on.</source>
+        <target xml:space="preserve">メインストリートでは時間異常、カトリック学校は消失、病院には「レクリエーション用死体安置所」ができ、哀れなトレヴァー・ベイリーは [[[scp-4223 |マウンテンデュー・アップル]]] がどうたらこうたらとまくし立てていて―― えっと、待ってくださいね。</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:space="preserve">
+
+//Carol pulls up notes on her tablet.//
+
+**Carol:** "It's derived from the hate and bile of the darkest recesses of the internet."</source>
+        <target xml:space="preserve">
+
+//キャロルはタブレットのメモを表示する。//
+
+**キャロル:** 「それはインターネット最も暗い片隅の憎悪と汚濁から抽出されたものだ」と。</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:space="preserve">I'm fairly sure that he needs to stay in this universe for a good, long while.</source>
+        <target xml:space="preserve">まあ、彼にはもうしばらく、この宇宙にいてもらう必要がありそうですね。</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** Someone... commissioned me to grow a special batch, from really old seeds.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** 誰かが……私に特別な作物を育てるよう頼んできて。それもたいそう古い種から。</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:space="preserve">I don't know //how// they got them, they were supposed to have been destroyed.</source>
+        <target xml:space="preserve">どうやってそれを手に入れたのかは //全く// 見当がつかないし、そもそも本来破棄されていたはずだった。</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:space="preserve">But... they said that you were doing too good of a job.</source>
+        <target xml:space="preserve">その、しかし……あの方々が言うには、あなた達は上手くやり過ぎている、と。</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:space="preserve">
+
+**Carol:** What do you mean?</source>
+        <target xml:space="preserve">
+
+**キャロル:** どういう意味でしょうか？</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** You managed to crack down big time after the Pit Sloth got taken care of.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** ピット・スロースを抑えてから、あなた方は徹底的に取り締まることに成功した。</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:space="preserve">There was barely anything odd happening, and I think that... well, the powers-that-be got bored.</source>
+        <target xml:space="preserve">それで、何ら奇妙なことが起こらなくなってしまったから、察するに…… つまり、上にいる面々が退屈なさったようですな。</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:space="preserve">
+
+//SCP-4683-A produces an apple from his sleeve and takes a bite.</source>
+        <target xml:space="preserve">
+
+//SCP-4683-A は袖からリンゴを取り出してかじる。//</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:space="preserve">This sleeve did not contain an apple upon their containment.//
+
+**SCP-4683-A:** Want one?</source>
+        <target xml:space="preserve">収容時、この袖にリンゴは存在しませんでした。//
+
+**SCP-4683-A:** おひとつどうです？</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:space="preserve">It's pretty good.</source>
+        <target xml:space="preserve">なかなか良い味ですよ。</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:space="preserve">
+
+**Carol:** I'll pass.</source>
+        <target xml:space="preserve">
+
+**キャロル:** 遠慮します。</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** Anyway, uh.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** とにかく、その。</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:space="preserve">I'm not even meant to //have// this job anymore, but the new guy's really reluctant to take over, despite all the signs he's getting.</source>
+        <target xml:space="preserve">本来ならもうこの仕事、私の//役目//じゃないはずなんだけどねえ、後任のアイツが、あれだけ周りからサインが出ているにもかかわらず、どうも引き継ぎたがらないんですよ。</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source xml:space="preserve">He'll be here in a few months, maybe he'll be more keen to take up the mantle.</source>
+        <target xml:space="preserve">数か月でここに来るだろうから、その時はもっとやる気を出して引き継いでくれるかもしれない。</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source xml:space="preserve">
+
+//SCP-4683-A produces a glass filled with apple juice.//
+
+**Carol:** Now I'm curious.</source>
+        <target xml:space="preserve">
+
+//SCP-4683-A はリンゴジュースの入ったグラスを出現させる。//
+
+**キャロル:** 興味深くなってきました。</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:space="preserve">Do you just tend to apple orchards, or...?</source>
+        <target xml:space="preserve">あなたの仕事はリンゴの果樹園だけですか？ それとも……？</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** I mean, the old cherry orchard got trampled by that giant radioactive George Washington a few 4th of July's ago.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** ほら、昔のサクランボ園は何年か前の独立記念日に放射能まみれの巨大ジョージ・ワシントンに踏み潰されましたから。</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:space="preserve">I managed to save a few trees, but yeah, mainly apples now.</source>
+        <target xml:space="preserve">数本だけ救えましたが、今は主にリンゴです。</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:space="preserve">
+
+//SCP-4683-A sips at their juice.//
+
+**SCP-4683-A:** There's a job for everyone in the Union, you know.</source>
+        <target xml:space="preserve">
+
+//SCP-4683-A はジュースをすする。//
+
+**SCP-4683-A:** 労働組合には誰にでも役割があるんですよ。</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:space="preserve">It's been a while since we've had a Narrator.</source>
+        <target xml:space="preserve">そう、"ナレーター" はしばらく不在ですし。</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source xml:space="preserve">
+
+**Carol:** Again: I'll pass.</source>
+        <target xml:space="preserve">
+
+**キャロル:** さっきもお伝えしましたが：遠慮します。</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source xml:space="preserve">Not against unions, but I'm not about to defect to an anomalous organization just because a guy who can make a glass of apple cider appear before him is asking me to.</source>
+        <target xml:space="preserve">組合に対抗するわけではなく、しかし、目の前にシードルのグラスを出せる男が誘ったからといって、異常組織に鞍替えする気はありません。</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:space="preserve">
+
+//SCP-4683-A frowns at their glass of cider.//
+
+**SCP-4683-A:** Was worth a shot, but the offer's open.</source>
+        <target xml:space="preserve">
+
+//SCP-4683-A は自分のシードルのグラスを見て眉をひそめる。//
+
+**SCP-4683-A:** ダメもとで声をかけてはみたんだ。でも、気が向いたら、いつでもどうぞ。</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:space="preserve">
+
+**Carol:** I'll keep that in mind.</source>
+        <target xml:space="preserve">
+
+**キャロル:** 心に留めておきます。</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source xml:space="preserve">
+
+//Carol starts to exit the interview room, before pausing to address SCP-4683-A.//
+
+**Carol:** Is that cider or juice you're drinking?</source>
+        <target xml:space="preserve">
+
+//キャロルは退出しかけて立ち止まり、SCP-4683-A に向き直る。//
+
+**キャロル:** それは、シードル？ ジュース？</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** I thought it was juice.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** ジュース、だと思っていたさ。</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source xml:space="preserve">But I don't know anymore.</source>
+        <target xml:space="preserve">でも、もうどっちだか。</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source xml:space="preserve">
+
+[[/div]]
+
+[[/collapsible]]
+
+**December 3rd, 2018:** Several sliced SCP-4683-1 instances were served as part of the school lunch at Caroline St. Middle School.</source>
+        <target xml:space="preserve">
+
+[[/div]]
+
+[[/collapsible]]
+
+**2018/12/03:** キャロライン通り中学校の給食で複数のスライス状のSCP-4683-1 が提供されました。</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source xml:space="preserve">Mass consumption is believed to be partially responsible for the onset of a large snowstorm which stranded over three-hundred students and faculty within the school, necessitating rescue using Foundation resources.</source>
+        <target xml:space="preserve">大量消費が原因の一つとみなせる大規模な吹雪が発生し、300人以上の生徒と教職員が校内に閉じ込められたため、財団のリソースを使った救助が必要になりました。 </target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source xml:space="preserve">
+
+**January 21st, 2019:** Researcher Christopher Hastings accidentally consumed an SCP-4683-1 instance which appeared in their lunch in place of the non-anomalous apple they had packed that morning.</source>
+        <target xml:space="preserve">
+
+**2019/01/21:** 研究員クリストファー・ヘイスティングスが、朝持参した非異常リンゴと入れ替わっていた SCP-4683-1 を弁当にて誤食しました。</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source xml:space="preserve">In their shock, Hastings began choking on the bite of apple, which was subsequently dislodged by a Heimlich maneuver delivered by Agent Ruby Williams.</source>
+        <target xml:space="preserve">驚いたヘイスティングスはリンゴの一片を喉に詰まらせ、エージェント ルビー・ウィリアムズのハイムリック法により除去されました。</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source xml:space="preserve">This action is believed to directly correlate with Williams and Hastings signing a Relationship Declaration Form in April of 2019.</source>
+        <target xml:space="preserve">この行動は、ウィリアムズとヘイスティングスが2019年4月に『関係性申告書』に署名したことと直接的に関連していると考えられています。</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source xml:space="preserve">
+
+**February 14th, 2019:** Several marriages were carried out within Sloth's Pit as a result of an SCP-4683-1 instance being thrown down the main street, resulting in [DATA EXPUNGED].</source>
+        <target xml:space="preserve">
+
+**2019/02/14:** メインストリートへ SCP-4683-1 が投げ込まれた結果、スロース・ピット内で複数の婚姻が成立し [編集済] に至りました。</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source xml:space="preserve">The majority of marriages which occurred during this period were rendered null, either upon request of the betrothed parties, or due to outside factors, such as the other party's inability to consent to such an agreement.</source>
+        <target xml:space="preserve">この期間に生じた婚姻の大半は、当事者からの申請または他方が合意能力を欠いていた等の外的要因により無効化されました。</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source xml:space="preserve">
+
+//I married the woodpecker in jest.//-- Dr. Peter Abalone
+
+**February 28th, 2019:** At a performance of a play at Novel Street Elementary School depicting the life of Isaac Newton, an SCP-4683-1 instance was used in place of the intended prop plush apple, resulting in an injury.</source>
+        <target xml:space="preserve">
+
+//キツツキとは冗談で結婚しました。//-- ピーター・アバローニ博士
+
+**2019/02/28:** ノヴェル通り小学校で行われたアイザック・ニュートンの生涯を描く劇の公演で、予定されていたぬいぐるみのリンゴ小道具の代わりに SCP-4683-1 が使用され負傷事故が発生。</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source xml:space="preserve">While attempting to comfort Jackie Ruben, the student playing Newton, Mrs. Lindsay MacGillicudy tripped on the SCP-4683-1 instance, starting a chain reaction that resulted in all individuals within the building finding themselves on the floor, and unable to leave this position.</source>
+        <target xml:space="preserve">ニュートン役の生徒ジャッキー・ルーベンをなぐさめようとしたリンジー・マクギリカディ夫人が SCP-4683-1 につまずき、連鎖反応が発生。校舎内の全員が床に倒れ起き上がれなくなりました。</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source xml:space="preserve">A measurement of the area during this event showed a marked increase in gravitational force, which persisted for over three hours.</source>
+        <target xml:space="preserve">事象発生中の当該区域の計測では重力が顕著に増加しており、この状態は 3 時間超持続しました。</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source xml:space="preserve">
+
+**March 12th, 2019:** Civs in Sloths Pit could just say words with one sound, no more.</source>
+        <target xml:space="preserve">
+
+**2019/03/12:** スロース・ピットの住民は一音節の語しか発声できなくなりました。</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source xml:space="preserve">The same is true when we write re: the fruit.</source>
+        <target xml:space="preserve">件の果実に関して書く際も同じ制限が適用されました。</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source xml:space="preserve">The fruit had turned to rot.</source>
+        <target xml:space="preserve">果実は腐敗しました。（訳註: 文面も全て単音節となっている）</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source xml:space="preserve">
+
+**March 26, 2019:** An SCP-4683-1 instance was thrown at Glenn Foster[[footnote]]The mayor of Nx-18[[/footnote]] by an unknown assailant, hitting them in the head.</source>
+        <target xml:space="preserve">
+
+**2019/03/26:** 正体不明の襲撃者が SCP-4683-1 をグレン・フォスター[[footnote]]Nx-18 の市長。[[/footnote]] に投擲し、頭部に命中。</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source xml:space="preserve">This event resulted in an attempt to ban the ownership and consumption of apples, which in turn led to the formation of a miniature black market surrounding apples, apple products, and food with an apple flavoring.</source>
+        <target xml:space="preserve">この事象を受けリンゴの所有・消費禁止が試みられ、その結果リンゴ及びリンゴ製品、リンゴ風味食品を扱う小規模な闇市場が形成されました。</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source xml:space="preserve">This behavior was linked to a concussion as a result from being struck by the SCP-4683-1 instance.</source>
+        <target xml:space="preserve">この行動は SCP-4683-1 による打撃が原因の脳震盪に起因するものと結び付けられました。</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source xml:space="preserve">
+
+**April 1st, 2019:** [DATA EXPUNGED]
+
+//So.</source>
+        <target xml:space="preserve">
+
+**2019/04/01:** [データ削除]
+
+//それで。//</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source xml:space="preserve">Many.</source>
+        <target xml:space="preserve"></target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source xml:space="preserve">Badgers.//-- Dr. Tristan Bailey
+
+**April 22nd, 2019:** Drinks served at a midnight screening at the Select 8 Theater tasted strongly of apple.</source>
+        <target xml:space="preserve">アナグマ。いっぱい。//-- トリスタン・ベイリー博士
+
+**2019/04/22:** セレクト8劇場の深夜上映で提供された飲料が強いリンゴ味になりました。</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source xml:space="preserve">This corresponds with all individuals who left the screening becoming unable to recall the events of the film they had watched when discussing it with individuals who had not seen it for over three weeks.</source>
+        <target xml:space="preserve">また、上映を退出した全員が、その後 3 週間以上、未鑑賞者と話す際に作品内容を想起できなくなる現象も同時に起こりました。</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source xml:space="preserve">
+
+**July 4th, 2019:** July 4th celebrations were able to proceed unhindered, with no evacuations necessary, and no deaths or collateral damage.</source>
+        <target xml:space="preserve">
+
+**2019/07/04:** 独立記念日の祝賀が避難も死傷も付帯被害もなく妨害なしで遂行されました。</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source xml:space="preserve">This is highly atypical of Nx-18, where 4th of July celebrations have been banned for over fifteen years due to massive spikes in anomalous activity surrounding the holiday.</source>
+        <target xml:space="preserve">これは祝日に異常活動が激増するため 15 年以上禁止されていた Nx-18 において極めて異例です。</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source xml:space="preserve">Re-classification of SCP-4683-1 to Thaumiel was briefly considered.</source>
+        <target xml:space="preserve">SCP-4683-1 の Thaumiel への再分類が一時検討されました。</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source xml:space="preserve">
+
+**August 24th, 2019:** The produce section of Starlow Grocery briefly turned into a temperate rainforest.</source>
+        <target xml:space="preserve">
+
+**2019/08/24:** スターロウ食料品店の生鮮売り場が一時的に温帯雨林へ変化しました。</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source xml:space="preserve">This event was preceded by Lucius Bell, sole employee at this store, finding a shipment of SCP-4683-1 in the storage area and purchasing one for his own consumption.</source>
+        <target xml:space="preserve">この事象に先立ち同店唯一の従業員ルシウス・ベルが保管区画で SCP-4683-1 の荷を発見し自家消費目的で 1 個購入していました。</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source xml:space="preserve">No action was taken, as Starlow is believed to be under the protection of the Union.</source>
+        <target xml:space="preserve">スターロウは労働組合の庇護下にあると考えられるため介入は行われませんでした。</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source xml:space="preserve">
+
+**September 23rd, 2019:** At noon on the Fall Equinox, several Nexus locations around the globe begin reporting phenomena consistent with the presence of SCP-4683-1.</source>
+        <target xml:space="preserve">
+
+**2019/09/23:** 秋分の正午、世界各所の複数ネクサス地点で SCP-4683-1 が介在する現象が報告され始めました。</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source xml:space="preserve">The presence of SCP-4683-1 is confirmed within Harkness, Maryland and Yumegemu, Tokushima, Japan and Hy-Brasil.</source>
+        <target xml:space="preserve">メリーランド州ハークネス、日本徳島県夢ゲーム、及びハイ・ブラジルで SCP-4683-1 の存在が確認されました。</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source xml:space="preserve">Following this, SCP-4683-A was confronted for interrogation.</source>
+        <target xml:space="preserve">これを受け SCP-4683-A に対し追及尋問が行われました。</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source xml:space="preserve">
+
+[[collapsible show="Show Interview" hide="Close Document"]]
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+
+**Agent Carol:** What the //fuck// did you do?</source>
+        <target xml:space="preserve">
+
+[[collapsible show="Show Interview" hide="Close Document"]]
+
+[[div style="display: inline-block; border:dashed 1px #999999; background:#F5F5F5; float:center; width:84%; padding:1px 15px; margin: 10px 10px 10px 40px"]]
+
+**エージェント キャロル:** いったい //何を// したんですか？</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** So, you found the shipments.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** 荷物達を見つけたのか。</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source xml:space="preserve">
+
+**Carol:** Shipments?</source>
+        <target xml:space="preserve">
+
+**キャロル:** 荷物“たち”？</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source xml:space="preserve">//Plural?!//
+
+**SCP-4683-A:** The... original commissioner, he said he wanted more done.</source>
+        <target xml:space="preserve">//複数形？！//
+
+**SCP-4683-A:** その……最初の依頼主が、もっとやってほしいと言ったんだ。</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source xml:space="preserve">He wanted... well, his exact words were "I want them kept on their toes".</source>
+        <target xml:space="preserve">彼は―― 正確に言った言葉は「彼らに油断をさせない」と。</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source xml:space="preserve">So, we kept about... an eighth of the crop in the town, and sent out the rest on a time-delayed shipment--
+
+**Carol:** To other Nexuses.</source>
+        <target xml:space="preserve">それで……収穫の 8 分の 1 ほどは町に残し、残りを時間遅延付きの発送で送り出して――
+
+**キャロル:** 他のネクサスへ。</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source xml:space="preserve">How?!</source>
+        <target xml:space="preserve">どうやって？！</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source xml:space="preserve">Sloth's Pit's brand of weird can't leave Sloth's Pit.</source>
+        <target xml:space="preserve">スロース・ピットの特有の奇妙な現象がスロース・ピットを出るはずがない。</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** The apples are grown in Sloth's Pit soil, but they aren't //from// Sloth's Pit.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** リンゴはスロース・ピットの土で育っていますが、起源は //この地ではない// のです。</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source xml:space="preserve">The seeds came from elsewhere, so their product can leave.</source>
+        <target xml:space="preserve">種は別の場所から来たので、その実は外に持ち出せる。</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source xml:space="preserve">
+
+**Carol:** Who commissioned you to grow these things?</source>
+        <target xml:space="preserve">
+
+**キャロル:** 誰がこれを育てるよう依頼したのですか？</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source xml:space="preserve">How much is out there?</source>
+        <target xml:space="preserve">どれだけ外にあるのですか？</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** I... didn't get his name.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** 名前は……聞かなかったが。</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source xml:space="preserve">He wasn't from here, I know that much.</source>
+        <target xml:space="preserve">ここ出身ではないことだけは分かる。</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source xml:space="preserve">But he knew about this place, and he knew about you specifically, Narrator.</source>
+        <target xml:space="preserve">でもこの場所を知っていたんだ。特にあなたのことも、"ナレーター" さん。</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source xml:space="preserve">
+
+**Carol:** Don't call me that. "</source>
+        <target xml:space="preserve">
+
+**キャロル:** そう呼ばないで。</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source xml:space="preserve">Keep us on our toes", Christ.</source>
+        <target xml:space="preserve">「油断はさせない」って、何。</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source xml:space="preserve">I need a physical goddamn //description//, Johnny Appleseed.</source>
+        <target xml:space="preserve">外見の //説明// が欲しいの、ジョニー・アップルシード。</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** He seemed... anti-gone-ish?[[size 0%]]http://www.scp-wiki.net/the-man-who-wasnt-there-hub[[/size]] That's the best description I can give.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** 彼は……イルヨウナ-イナイヨウナ《anti-gone-ish》？[[size 0%]]http://www.scp-wiki.net/the-man-who-wasnt-there-hub[[/size]] これ以上は表現できない。</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source xml:space="preserve">
+
+**Carol:** That isn't a real word.</source>
+        <target xml:space="preserve">
+
+**キャロル:** そんな言葉はありません。</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** Point is.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** 要するに。</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source xml:space="preserve">There's more of them out there.</source>
+        <target xml:space="preserve">まだたくさん出荷されている。</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source xml:space="preserve">About 200 tonnes worth, all over the world, and out of it, in some cases.</source>
+        <target xml:space="preserve">総量はおよそ 200 トン、世界中、場合によっては世界の外にも。</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source xml:space="preserve">
+
+**Carol:** When are they going to arrive?</source>
+        <target xml:space="preserve">
+
+**キャロル:** 到着はいつ？</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source xml:space="preserve">
+
+**SCP-4683-A:** I'd say... start of October is when they're going to begin cropping up big time.</source>
+        <target xml:space="preserve">
+
+**SCP-4683-A:** そうだなあ……10 月初めには本格的に出回り始めるはず。</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source xml:space="preserve">I suggest you dig in.</source>
+        <target xml:space="preserve">覚悟を決めることをお勧めします。</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source xml:space="preserve">
+
+//SCP-4683-A produces an apple and offers it to Carol.//
+
+**SCP-4683-A:** It's going to be a Hell of a Halloween.</source>
+        <target xml:space="preserve">
+
+//SCP-4683-A はリンゴを生成しキャロルに差し出す。//
+
+**SCP-4683-A:** 地獄級のハロウィンになりますよ。</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source xml:space="preserve">
+
+[[/div]]
+
+[[/collapsible]]
+
+**October, 2019:** Mass-scale events relating to SCP-4683-1 instances being occurring in Nexus zones across the world.</source>
+        <target xml:space="preserve">
+
+[[/div]]
+
+[[/collapsible]]
+
+**2019 年 10 月:** 世界各地のネクサス領域で SCP-4683-1 に関連する大規模事象が発生しています。</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source xml:space="preserve"> For further details, see [[[discordant-anthology-hub |Document SCP-4683-BA3]]].</source>
+        <target xml:space="preserve"> 詳細は [[[discordant-anthology-hub |ドキュメント SCP-4683-BA3]]] を参照してください。</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source xml:space="preserve">
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+&lt;&lt; [[[SCP-4682]]] | SCP-4683 | [[[SCP-4684]]] &gt;&gt;
+[[/=]]
+[[/div]]</source>
+        <target xml:space="preserve">
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+&lt;&lt; [[[SCP-4682]]] | SCP-4683 | [[[SCP-4684]]] &gt;&gt;
+[[/=]]
+[[/div]]</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
