@@ -56,4 +56,8 @@ Narrator	"ナレーター"	n	固有役割称。初出で (Narrator) 併記可。
 Complex Apartment	複合アパート	npr	Nx-92 名称。英語併記不要。	コンプレックスアパート
 Apple variety (generic mention)	リンゴ品種	n	固有名はカタカナ（例: ゴールデンデリシャス）+本文指針参照。	品種, りんご品種
 AOV	AOV	n	略称。展開形は「異常発生値（AOV）」参照。	ＡＯＶ
+Worker(s)	労働者	n	Union/組織内一般構成員称。大文字/小文字にかかわらず「労働者」で統一。複数形も同形。語調を砕かない。	ワーカー, 作業員, 労務者
+Orchardist	オーチャーディスト	npr	異常的果実生成能力を持つ役職/人物呼称。冠詞・定冠詞の有無に関わらず統一。語尾長音化や縮約不可。	オーチャード, 果樹園主, 果樹師
+Head of Human Resources	人事部長	npr	労働組合内役職。定冠詞 the 有無問わず統一。冷徹・公式調を想定。略称不可。	HR部長, 人事責任者, 人事ヘッド
+termination (HR context)	解雇	n	労働組合内部処分。"fire", "fired" 動詞形含め文脈で「解雇」「解雇とする」へ。カジュアル言い換え不可。	クビ, 首, 免職
 # End of file
