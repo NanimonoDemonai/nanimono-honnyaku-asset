@@ -8,7 +8,7 @@
 &gt; As many of you are aware, Pataphysics command has been working on an update on [[[sandrewswann-s-proposal|Dr.Swann's Narrative Sandwich model]]] to keep us up to date with Metanarrativics' recent research.</source>
         <target state="translated">&gt; 宛先: 空想科学部門（全員）
 &gt; 各位、
-&gt; ご存知の通り、空想科学司令部は、メタ物語学（旧: メタナラティビクス）の最新研究に対応するため、[[[sandrewswann-s-proposal|スワン博士の物語サンドイッチモデル]]]の更新に取り組んでいます。</target>
+&gt; ご存知の通り、空想科学司令部は、メタ物語学の最新研究に対応するため、[[[sandrewswann-s-proposal|スワン博士の物語サンドイッチモデル]]]の更新に取り組んでいます。</target>
         <note appliesTo="target" category="term">用語方針変更: "narrative" 系はカタカナ表記を避け「物語」で統一（例: Narrative Sandwich model→物語サンドイッチモデル, metanarrativics→メタ物語学）。</note>
         <note appliesTo="target" category="register">"Ladies" は呼びかけを中性化し「各位」。</note>
       </segment>
@@ -66,7 +66,7 @@
     <unit id="10">
       <segment>
         <source>With research into the mechanics of [[[SCP-1304]]] and observation of [[[scp-2916|SCP-2916-1]]] and [[[SCP-2747]]], subnarrative entities capable of acting on and escaping to their upper layer, Procedure Kuzco-Bueller has been developed by Subnarrativics, utilising [[[SCP-826]]], for the purpose of full narrative extraction - taking fictional entities and bringing them into our reality.</source>
-        <target state="translated">[[[SCP-1304]]]のメカニクス研究および[[[scp-2916|SCP-2916-1]]]と[[[SCP-2747]]]の観察を通じて、上位層で行動・離脱可能な下位物語実体に対し、下位物語学（旧: サブナラティビクス）によりクスコ・ビューラー手順が開発され、[[[SCP-826]]]を利用して完全な物語抽出――フィクション上の存在を取り込み私たちの現実へ持ち込む――ことを目的としています。</target>
+        <target state="translated">[[[SCP-1304]]]のメカニクス研究および[[[scp-2916|SCP-2916-1]]]と[[[SCP-2747]]]の観察を通じて、上位層で行動・離脱可能な下位物語実体に対し、下位物語学によりクスコ・ビューラー手順が開発され、[[[SCP-826]]]を利用して完全な物語抽出――フィクション上の存在を取り込み私たちの現実へ持ち込む――ことを目的としています。</target>
         <note appliesTo="target" category="term">subnarrative entity → 下位物語実体 / Subnarrativics → 下位物語学 に統一。</note>
       </segment>
     </unit>
