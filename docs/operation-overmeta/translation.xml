@@ -8,7 +8,7 @@
 &gt; As many of you are aware, Pataphysics command has been working on an update on [[[sandrewswann-s-proposal|Dr.Swann's Narrative Sandwich model]]] to keep us up to date with Metanarrativics' recent research.</source>
         <target state="translated">&gt; 宛先: 空想科学部門（全員）
 &gt; 各位、
-&gt; ご承知のとおり、空想科学司令部ではメタ物語学の最新研究に歩調を合わせるべく、[[[sandrewswann-s-proposal|スワン博士の物語サンドイッチ・モデル]]]の更新作業を進めてきました。</target>
+&gt; ご承知のとおり、空想科学司令部ではメタ物語学の最新研究に合わせるべく、[[[sandrewswann-s-proposal|スワン博士の物語サンドイッチ・モデル]]]の更新作業を進めてきました。</target>
         <note appliesTo="target" category="term">用語方針変更: "narrative" 系はカタカナ表記を避け「物語」で統一（例: Narrative Sandwich model→物語サンドイッチ・モデル, Metanarrativics→メタ物語学）。</note>
         <note appliesTo="target" category="register">"Ladies" は性別を限定しない呼称として「各位」。</note>
       </segment>
@@ -16,7 +16,7 @@
     <unit id="3">
       <segment>
         <source>The document has now been released, and can be found [[span style="color:#b01;"]]here[[/span]].</source>
-        <target state="translated">その文書はすでに公開されており、[[span style="color:#b01;"]]こちら[[/span]]で閲覧できます。</target>
+        <target state="translated">当該文書はすでに公開されており、[[span style="color:#b01;"]]こちら[[/span]]で閲覧できます。</target>
       </segment>
     </unit>
     <unit id="4">
@@ -26,7 +26,7 @@
 &gt; The gist of this update is the incorporation of Doctor Huever's Hypercanon theory, which holds that our reality is not a single narrative bulk below the Alpha layer, but an n-dimensional set of narrative planes connecting at defined conceptual points.</source>
         <target state="translated">
 &gt;
-&gt; 今回更新の要点はヒューエヴァー博士のハイパーカノン理論の採用である。この理論では、我々の現実はアルファ層下にある単一の物語塊ではなく、特定の概念点で結節する n次元の物語平面集合だとする。</target>
+&gt; 今回の更新の要点はヒューバー博士のハイパーカノン理論の採用である。この理論では、我々の現実はアルファ層下にある単一の物語塊ではなく、特定の概念点で結節する n次元の物語平面集合だとする。</target>
       </segment>
     </unit>
     <unit id="5">
@@ -1181,7 +1181,7 @@ Penelope continued, getting into her stride. "</source>
     <unit id="162">
       <segment>
         <source>I think it was Dr. Huever, in the end.</source>
-        <target state="translated">最後に辿り着いたのはヒューエヴァー博士だったと思う。」</target>
+        <target state="translated">最後に辿り着いたのはヒューバー博士だったと思う。」</target>
       </segment>
     </unit>
     <unit id="163">
