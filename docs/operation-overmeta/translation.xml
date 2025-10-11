@@ -8,7 +8,7 @@
 &gt; As many of you are aware, Pataphysics command has been working on an update on [[[sandrewswann-s-proposal|Dr.Swann's Narrative Sandwich model]]] to keep us up to date with Metanarrativics' recent research.</source>
         <target state="translated">&gt; 宛先: 空想科学部門（全員）
 &gt; 各位、
-&gt; ご承知のとおり、空想科学司令部ではメタ物語学の最新研究に合わせるべく、[[[sandrewswann-s-proposal|スワン博士の物語サンドイッチ・モデル]]]の更新作業を進めてきました。</target>
+&gt; 周知のとおり、空想科学司令部はメタ物語学の最新研究動向に対応すべく、[[[sandrewswann-s-proposal|スワン博士の物語サンドイッチ・モデル]]]の更新作業を進めてきた。</target>
         <note appliesTo="target" category="term">用語方針変更: "narrative" 系はカタカナ表記を避け「物語」で統一（例: Narrative Sandwich model→物語サンドイッチ・モデル, Metanarrativics→メタ物語学）。</note>
         <note appliesTo="target" category="register">"Ladies" は性別を限定しない呼称として「各位」。</note>
       </segment>
@@ -16,7 +16,7 @@
     <unit id="3">
       <segment>
         <source>The document has now been released, and can be found [[span style="color:#b01;"]]here[[/span]].</source>
-        <target state="translated">当該文書はすでに公開されており、[[span style="color:#b01;"]]こちら[[/span]]で閲覧できます。</target>
+        <target state="translated">当該文書は既に公開されており、[[span style="color:#b01;"]]こちら[[/span]]で閲覧できる。</target>
       </segment>
     </unit>
     <unit id="4">
@@ -26,19 +26,19 @@
 &gt; The gist of this update is the incorporation of Doctor Huever's Hypercanon theory, which holds that our reality is not a single narrative bulk below the Alpha layer, but an n-dimensional set of narrative planes connecting at defined conceptual points.</source>
         <target state="translated">
 &gt;
-&gt; 今回の更新の要旨はヒューバー博士のハイパーカノン理論の採用です。この理論では、我々の現実はアルファ層下にある単一の{{物語束^^narrative bulk^^}}ではなく、特定の{{概念点^^conceptual point^^}}で接続される n次元の物語平面集合だとしています。</target>
+&gt; 今回の更新の要旨はヒューバー博士のハイパーカノン理論の採用である。この理論は、我々の現実がアルファ層下にある単一の{{物語束^^narrative bulk^^}}ではなく、特定の{{概念点^^conceptual point^^}}で接続される n 次元の物語平面集合であるとする。</target>
       </segment>
     </unit>
     <unit id="5">
       <segment>
         <source>The most notable concentration of these points is, of course, the Database.</source>
-        <target state="translated">これの接点が最も顕著に集中する場所は、もちろん、"データベース"です。</target>
+        <target state="translated">これらの接点が最も顕著に集中する場所は、無論“データベース”である。</target>
       </segment>
     </unit>
     <unit id="6">
       <segment>
         <source>While the formation of these narrative planes is still being studied, the strongest coherent factor between them is Database Causal Inclusions - that is to say, instances of swn001-1 ("//Horror Writer Entities//").</source>
-        <target state="translated">これらの物語平面がどのように形成されるかはまだ研究中ですが、この接点間の最も強いコヒーレントな要因は「データベース因果内包」-- すなわち、swn001-1（「//ホラー作家実体群//」）の存在です。
+        <target state="translated">これらの物語平面がいかに形成されるかは未だ研究途上だが、平面間の最も強いコヒーレント因子は「データベース因果内包」、すなわち swn001-1（「//ホラー作家実体群//」）の存在である。
         </target>
         <note appliesTo="target" category="term">Database Causal Inclusion → データベース因果内包 / Horror Writer Entity → ホラー作家実体群 に統一。</note>
         <note appliesTo="source" category="comment">訳文にあまり自信がない。</note>
@@ -51,33 +51,34 @@
 &gt; Our very own [http://www.scp-wiki.net/forum/t-1938548/the-grand-crosslinking| Operation FLAT HORIZON] has shown some success thus far in incorporating these planes, thus reducing their multiplicity.</source>
         <target state="translated">
 &gt;
-&gt; 我らが[http://www.scp-wiki.net/forum/t-1938548/the-grand-crosslinking|FLAT HORIZON作戦]は現在まで、これらの平面を統合することに一定の成功を収め、その多重性を減らすに至っています。</target>
+&gt; 我らが[http://www.scp-wiki.net/forum/t-1938548/the-grand-crosslinking|FLAT HORIZON作戦]はこれまでに、これらの平面を統合することに一定の成功を収め、その多重性を減じている。</target>
       </segment>
-        <note appliesTo="target" category="register">"incorporating these planes"について、掌握する、出中に収め得るなど訳語を変えたほうが良いだろうか。</note>
+      <note appliesTo="target" category="register">"incorporating these planes"について、掌握する、出中に収め得るなど訳語を変えたほうが良いだろうか。</note>
     </unit>
     <unit id="8">
       <segment>
         <source>Our grasp on the Alpha layer has greatly increased in the last month alone as such.</source>
-        <target state="translated">その結果、この1か月だけでも、我々のアルファ層に対する理解は大きく向上しました。</target>
+        <target state="translated">その結果、この 1 か月だけでも我々のアルファ層に対する理解は大きく向上した。</target>
       </segment>
     </unit>
     <unit id="9">
       <segment>
         <source>Knowing this, I propose we move to stage two of **Operation ÓverMeta**.</source>
-        <target state="translated">以上を踏まえ、**ÓverMeta作戦**第2段階へ移行することを提案いたします。</target>
+        <target state="translated">以上を踏まえ、**ÓverMeta作戦**第2段階へ移行することを提案する。</target>
       </segment>
     </unit>
     <unit id="10">
       <segment>
         <source>With research into the mechanics of [[[SCP-1304]]] and observation of [[[scp-2916|SCP-2916-1]]] and [[[SCP-2747]]], subnarrative entities capable of acting on and escaping to their upper layer, Procedure Kuzco-Bueller has been developed by Subnarrativics, utilising [[[SCP-826]]], for the purpose of full narrative extraction - taking fictional entities and bringing them into our reality.</source>
-        <target state="translated">[[[SCP-1304]]]の機構研究、および[[[scp-2916|SCP-2916-1]]]と[[[SCP-2747]]]――上位層で行動しそこへ離脱し得る下位物語実体――の観察を通じて、下位物語学は[[[SCP-826]]]を利用するクスコ・ビューラー手順を開発した。目的は完全な物語抽出――フィクション上の存在を取り込み現実へ移送すること――である。</target>
-        <note appliesTo="target" category="term">subnarrative entity → 下位物語実体 / Subnarrativics → 下位物語学 に統一。</note>
+        <target state="translated">[[[SCP-1304]]] の機構解析と、（上位層に作用しそこへ離脱する能力を有する下位物語実体である）[[[scp-2916|SCP-2916-1]]] および [[[SCP-2747]]] の観察結果を踏まえ、下位物語学は [[[SCP-826]]] を利用したクスコ・ビューラー手順を開発した。これは「物語の完全抽出」――フィクション上の実体を取り出して我々の現実層へ移入する――を目的とする。</target>
+        <meta type="alternate-translation" key="1">SCP-1304 の機構研究と、上位層に干渉し脱出できる下位物語実体である SCP-2916-1 / SCP-2747 の観察に基づき、下位物語学は SCP-826 を用いるクスコ・ビューラー手順を策定した。目的は「物語の完全抽出」――フィクション中の実体を現実へ移すこと――である。</meta>
+        <note appliesTo="target" category="clarification">用語方針更新: "fiction(al)" は「虚構」ではなく「フィクション」で統一。先行訳「虚構上の実体」を訂正。</note>
       </segment>
     </unit>
     <unit id="11">
       <segment>
         <source>We plan to create a task force of hypernarrative entities with this procedure, enlisting the aid of [[[scp-423|our standard scout]]] as a recruiter, with the purpose of creating a new narrative plane under our influence that intersects with other narrative planes.</source>
-        <target state="translated">この手順により超物語実体のタスクフォースを編成し、[[[scp-423|標準スカウト]]]を勧誘役として支援に付け、他の物語平面と交差する我々影響下の新規物語平面を創出する計画だ。</target>
+        <target state="translated">この手順により超物語実体で構成されるタスクフォースを編成する計画である。[[[scp-423|標準スカウト]]]を勧誘担当として加え、他の物語平面と交差し我々の影響下に置かれる新規物語平面を創出する。</target>
       </segment>
     </unit>
     <unit id="12">
@@ -125,7 +126,7 @@
     <unit id="18">
       <segment>
         <source>God help us, let's not get deleted.</source>
-        <target state="translated">神よ助け給え。削除だけは勘弁だ。</target>
+        <target state="translated">神よ助け給え。削除あるなかれ。</target>
       </segment>
     </unit>
     <unit id="19">
@@ -760,8 +761,7 @@ isn't working."</source>
       <segment>
         <source>
 Sandra[[footnote]] If you haven't caught on yet, any time there's a new lady's name here it's Barker, from earlier.</source>
-        <target state="translated">
-サンドラ[[footnote]] まだ気づいていないなら、ここで新しい女性名が出るたびそれはさっきのバーカーだ。</target>
+        <target state="translated">サンドラ[[footnote]] まだ気づいていないなら、ここで新しい女性名が出るたびそれはさっきのバーカーだ。</target>
       </segment>
     </unit>
     <unit id="100">
