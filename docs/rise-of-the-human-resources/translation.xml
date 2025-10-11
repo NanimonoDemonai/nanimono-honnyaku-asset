@@ -87,7 +87,7 @@ The Orchardist sighed as he sat on the ground, conjuring up an apple, which he t
       </trans-unit>
       <trans-unit id="13">
         <source xml:space="preserve">They'd thrown him in a humanoid containment cell for the night while they dealt with the fallout of the Eris apples he'd shipped around.</source>
-        <target xml:space="preserve">彼らは、オーチャーディストが出荷して回った「エリスのリンゴ」の後始末に追われている間、オーチャーディストを一晩ヒト型収容室に放り込んだ。</target>
+        <target xml:space="preserve">財団は、オーチャーディストが出荷して回った「エリスのリンゴ」の後始末に追われている間、オーチャーディストを一晩ヒト型収容室に放り込んだ。</target>
         <note>用語調整: "humanoid containment cell" の訳語を指示に従い「ヒト型収容室」で統一。過去表記「ヒト型収容チャンバー」は使用しない。</note>
       </trans-unit>
       <trans-unit id="14">
