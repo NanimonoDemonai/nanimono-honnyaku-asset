@@ -382,27 +382,20 @@
     <unit id="49">
       <segment>
         <source>Reggie is classified as an irritating narrative entity.||
-
-
-[[/div]]
------
-
-
-Director Panagiotopolous stood at the head of the table, lost for words.</source>
+</source>
         <target state="translated">レジーは厄介な物語実体として分類されている。||
-
-
-[[/div]]
------
-
-
-パナギオトポウロス部門長は卓の端に立ち、発言を一時中断していた。</target>
+</target>
       </segment>
     </unit>
     <unit id="50">
       <segment>
         <source>
-"What on earth have I got myself into with you two?"</source>
+
+[[/div]]
+-----
+
+
+Director Panagiotopolous stood at the head of the table, lost for words. "What on earth have I got myself into with you two?"</source>
         <target state="translated">
 「まったく、君たち二人と関わって私は何に巻き込まれたんだ？」</target>
       </segment>
