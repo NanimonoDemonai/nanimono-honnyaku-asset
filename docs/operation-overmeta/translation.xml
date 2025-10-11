@@ -26,19 +26,22 @@
 &gt; The gist of this update is the incorporation of Doctor Huever's Hypercanon theory, which holds that our reality is not a single narrative bulk below the Alpha layer, but an n-dimensional set of narrative planes connecting at defined conceptual points.</source>
         <target state="translated">
 &gt;
-&gt; 今回の更新の要旨はヒューバー博士のハイパーカノン理論の採用です。この理論では、我々の現実はアルファ層下にある単一の物語束ではなく、特定の概念点で結節する n次元の物語平面集合だとする。</target>
+&gt; 今回の更新の要旨はヒューバー博士のハイパーカノン理論の採用です。この理論では、我々の現実はアルファ層下にある単一の{{物語束^^narrative bulk^^}}ではなく、特定の{{概念点^^conceptual point^^}}で接続される n次元の物語平面集合だとしています。</target>
       </segment>
     </unit>
     <unit id="5">
       <segment>
         <source>The most notable concentration of these points is, of course, the Database.</source>
-        <target state="translated">こうした結節点が最も顕著に集中する場所は、言うまでもなくデータベースである。</target>
+        <target state="translated">これの接点が最も顕著に集中する場所は、もちろん、"データベース"です。</target>
       </segment>
     </unit>
     <unit id="6">
       <segment>
         <source>While the formation of these narrative planes is still being studied, the strongest coherent factor between them is Database Causal Inclusions - that is to say, instances of swn001-1 ("//Horror Writer Entities//").</source>
-        <target state="translated">これら物語平面の成立機構は研究途上だが、相互をもっとも強固に接続している要素は「データベース因果包含」――すなわち swn001-1（“//ホラー作家エンティティ//”）の出現事例である。</target>
+        <target state="translated">これらの物語平面がどのように形成されるかはまだ研究中ですが、この接点間の最も強いコヒーレントな要因は「データベース因果内包」-- すなわち、swn001-1（「//ホラー作家実体群//」）の存在です。
+        </target>
+        <note appliesTo="target" category="term">Database Causal Inclusion → データベース因果内包 / Horror Writer Entity → ホラー作家実体群 に統一。</note>
+        <note appliesTo="source" category="comment">訳文にあまり自信がない。</note>
       </segment>
     </unit>
     <unit id="7">
@@ -48,19 +51,20 @@
 &gt; Our very own [http://www.scp-wiki.net/forum/t-1938548/the-grand-crosslinking| Operation FLAT HORIZON] has shown some success thus far in incorporating these planes, thus reducing their multiplicity.</source>
         <target state="translated">
 &gt;
-&gt; 我々自身の[http://www.scp-wiki.net/forum/t-1938548/the-grand-crosslinking|FLAT HORIZON作戦]はここまで、これらの平面を取り込み多重性を低減させるうえで一定の成果を示している。</target>
+&gt; 我らが[http://www.scp-wiki.net/forum/t-1938548/the-grand-crosslinking|FLAT HORIZON作戦]は現在まで、これらの平面を統合することに一定の成功を収め、その多重性を減らすに至っています。</target>
       </segment>
+        <note appliesTo="target" category="register">"incorporating these planes"について、掌握する、出中に収め得るなど訳語を変えたほうが良いだろうか。</note>
     </unit>
     <unit id="8">
       <segment>
         <source>Our grasp on the Alpha layer has greatly increased in the last month alone as such.</source>
-        <target state="translated">その結果、アルファ層に対する掌握度はこの1か月だけでも大きく向上した。</target>
+        <target state="translated">その結果、この1か月だけでも、我々のアルファ層に対する理解は大きく向上しました。</target>
       </segment>
     </unit>
     <unit id="9">
       <segment>
         <source>Knowing this, I propose we move to stage two of **Operation ÓverMeta**.</source>
-        <target state="translated">以上を踏まえ、**ÓverMeta作戦**第2段階へ移行することを提案する。</target>
+        <target state="translated">以上を踏まえ、**ÓverMeta作戦**第2段階へ移行することを提案いたします。</target>
       </segment>
     </unit>
     <unit id="10">
