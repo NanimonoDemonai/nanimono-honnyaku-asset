@@ -397,19 +397,23 @@
 
 Director Panagiotopolous stood at the head of the table, lost for words. "What on earth have I got myself into with you two?"</source>
         <target state="translated">
-「まったく、君たち二人と関わって私は何に巻き込まれたんだ？」</target>
+[[/div]]
+-----
+
+パナギオトポウロス部門長は卓の上座で言葉を失っていた。「まったく、君たち二人と関わって、私は一体何に巻き込まれてしまったんだろう？」</target>
+        <note appliesTo="target" category="style">物語調（語りの滑らかさ・台詞の自然さ）へ改稿。</note>
       </segment>
     </unit>
     <unit id="51">
       <segment>
         <source>Evidently not //quite// lost, then.</source>
-        <target state="translated">――というわけで完全に//言葉を失って//いたわけではない。</target>
+        <target state="translated">というわけで、//完全に//言葉を失っていたわけではない。</target>
       </segment>
     </unit>
     <unit id="52">
       <segment>
         <source>Gordon and Jasmine sat opposite her, both frowning.</source>
-        <target state="translated">ゴードンとジャスミンが彼女の正面に座り、二人とも眉をひそめていた。</target>
+        <target state="translated">ゴードンとジャスミンが彼女の正面に座り、二人とも眉間にしわを寄せていた。</target>
       </segment>
     </unit>
     <unit id="53">
@@ -417,31 +421,31 @@ Director Panagiotopolous stood at the head of the table, lost for words. "What o
         <source>
 "Here, it wasn't my fucking idea to-" Gordon was interrupted by Reggie, screaming through his gag. "</source>
         <target state="translated">
-「なあ、ここへ――これは俺のクソみたいな発案じゃ――」ゴードンの言葉は猿ぐつわ越しに叫んだレジーに遮られた。「</target>
+「おい、ここに――これは俺のクソみたいな発案じゃ――」ゴードンの言葉は、猿ぐつわ越しに絶叫したレジーに遮られた。「</target>
       </segment>
     </unit>
     <unit id="54">
       <segment>
         <source>Right, Reggie's here too.</source>
-        <target state="translated">ああそうか、レジーもいたな。</target>
+        <target state="translated">ああ、そうだ。レジーも居たんだった。</target>
       </segment>
     </unit>
     <unit id="55">
       <segment>
         <source>Whatever.</source>
-        <target state="translated">どうでもいい。</target>
+        <target state="translated">どうでもいいけどな。</target>
       </segment>
     </unit>
     <unit id="56">
       <segment>
         <source>Point is, it wasn't my idea to drag me up here.</source>
-        <target state="translated">要するに、俺をここに引きずり上げる案は俺の発想じゃない。</target>
+        <target state="translated">要は、俺をここに引きずり上げる案は俺の発想じゃないって話だ。</target>
       </segment>
     </unit>
     <unit id="57">
       <segment>
         <source>Fred made me think I'd be //escaping// the wanky meta bullshit by coming here."</source>
-        <target state="translated">フレッドが、ここへ来れば気取ったメタ臭いクソ茶番から//抜け出せる//と思い込ませたんだ。」</target>
+        <target state="translated">フレッドがさ、ここへ来りゃああの気取ったメタ臭い茶番から//抜け出せる//って信じ込ませたんだ。」</target>
       </segment>
     </unit>
     <unit id="58">
@@ -449,13 +453,13 @@ Director Panagiotopolous stood at the head of the table, lost for words. "What o
         <source>
 "That's on us, yes."</source>
         <target state="translated">
-「それはこちらの責任だ。そうだ。」</target>
+「それはこちらの責任、ではありますね。」</target>
       </segment>
     </unit>
     <unit id="59">
       <segment>
         <source>Penelope said, her tone unapologetic.</source>
-        <target state="translated">ペネロペは悪びれもしない口調で言った。</target>
+        <target state="translated">ペネロペは悪びれた様子もなく言った。</target>
       </segment>
     </unit>
     <unit id="60">
@@ -463,7 +467,7 @@ Director Panagiotopolous stood at the head of the table, lost for words. "What o
         <source>
 "It's fucking on //them//," Gordon growled, jabbing a finger toward the ceiling. "</source>
         <target state="translated">
-「いや、全部//あいつら//のクソみたいなせいだ」ゴードンは唸り、天井を指差した。「</target>
+「いや、全部//あいつら//のクソみたいなせいだ」ゴードンは唸るように言い、天井を指差した。「</target>
       </segment>
     </unit>
     <unit id="61">
@@ -475,7 +479,7 @@ Director Panagiotopolous stood at the head of the table, lost for words. "What o
     <unit id="62">
       <segment>
         <source>You're no more real than we are."</source>
-        <target state="translated">あんたも俺たちと同じで現実なんかじゃないんだ。」</target>
+        <target state="translated">あんたも俺たちと同じで現実の存在じゃないんだ。」</target>
       </segment>
     </unit>
     <unit id="63">
@@ -483,19 +487,19 @@ Director Panagiotopolous stood at the head of the table, lost for words. "What o
         <source>
 Jasmine pinched the bridge of her nose, sighing dramatically. "</source>
         <target state="translated">
-ジャスミンは鼻梁をつまみ、これ見よがしにため息をついた。「</target>
+ジャスミンは鼻梁をつまみ、大げさなため息を吐いた。「</target>
       </segment>
     </unit>
     <unit id="64">
       <segment>
         <source>This is a terrible way to start the story," she said, to nobody in particular. "</source>
-        <target state="translated">物語の始め方として最悪ね」特に誰にともなく彼女は言った。「</target>
+        <target state="translated">物語の始め方として最悪ね」と誰にともなく彼女は呟き、「</target>
       </segment>
     </unit>
     <unit id="65">
       <segment>
         <source>You realise this is the start of the story, right?"</source>
-        <target state="translated">これが物語の冒頭だって自覚してるのよね？」</target>
+        <target state="translated">これが“物語の冒頭”だって自覚、あるんでしょうね？」</target>
       </segment>
     </unit>
     <unit id="66">
@@ -503,25 +507,25 @@ Jasmine pinched the bridge of her nose, sighing dramatically. "</source>
         <source>
 Gordon hesitated for a second, then groaned as he sensed it himself. "</source>
         <target state="translated">
-ゴードンは一瞬ためらい、自分でもそれを感じ取ると唸った。「</target>
+ゴードンは一瞬ためらい、自分でもそれを肌で感じ取って唸った。「</target>
       </segment>
     </unit>
     <unit id="67">
       <segment>
         <source>Why do you think he's-" He stopped as it clicked. "</source>
-        <target state="translated">なぜあいつが――」ひらめき、言葉を止めた。「</target>
+        <target state="translated">なんであいつが――」舌打ちをし、言葉を切る。「</target>
       </segment>
     </unit>
     <unit id="68">
       <segment>
         <source>Because he doesn't know where to go with us!</source>
-        <target state="translated">俺たちをどこへ連れていけばいいか分かってないからだろ！」</target>
+        <target state="translated">俺たちをどう展開させればいいか分かってねぇんだよ！」</target>
       </segment>
     </unit>
     <unit id="69">
       <segment>
         <source>He's just writing, seeing where it takes him."</source>
-        <target state="translated">ただ書き殴って、成り行き次第を見てるだけだ。」</target>
+        <target state="translated">ただ書き散らして、流れに任せてるだけだ。」</target>
       </segment>
     </unit>
     <unit id="70">
@@ -529,19 +533,19 @@ Gordon hesitated for a second, then groaned as he sensed it himself. "</source>
         <source>
 "So, wait, this isn't going in the final story, then?</source>
         <target state="translated">
-「じゃあ、ちょっと待って、これは最終稿には入らないってこと？」</target>
+「じゃあさ、これは最終稿には入らないってこと？」</target>
       </segment>
     </unit>
     <unit id="71">
       <segment>
         <source>Is this even real?</source>
-        <target state="translated">これってそもそも“本物”なの？」</target>
+        <target state="translated">これってそもそも“本物”なの？</target>
       </segment>
     </unit>
     <unit id="72">
       <segment>
         <source>For us, I mean?</source>
-        <target state="translated">私たちにとって、って意味で？」</target>
+        <target state="translated">――私たちにとって、って意味で？</target>
       </segment>
     </unit>
     <unit id="73">
@@ -559,13 +563,13 @@ Gordon hesitated for a second, then groaned as he sensed it himself. "</source>
 
 **ドラフト2:**
 
-「じゃあつまり、でかい木と戦うってこと？」</target>
+「で、つまり、大きな木と戦うってこと？」</target>
       </segment>
     </unit>
     <unit id="74">
       <segment>
         <source>Sally asked quizzically, looking up from the notepad she was doodling in.</source>
-        <target state="translated">サリーは落書きしていたノートから顔を上げ、不思議そうに尋ねた。</target>
+        <target state="translated">サリーは落書きしていたノートから顔を上げ、首をかしげながら尋ねた。</target>
       </segment>
     </unit>
     <unit id="75">
@@ -573,7 +577,7 @@ Gordon hesitated for a second, then groaned as he sensed it himself. "</source>
         <source>
 Penelope tapped the whiteboard again, gesturing to her scribbled diagrams. "</source>
         <target state="translated">
-ペネロペは再びホワイトボードを叩き、走り書きの図を示した。「</target>
+ペネロペはホワイトボードをコツコツ叩き、殴り書きの図を指し示した。「</target>
       </segment>
     </unit>
     <unit id="76">
@@ -585,19 +589,19 @@ Penelope tapped the whiteboard again, gesturing to her scribbled diagrams. "</so
     <unit id="77">
       <segment>
         <source>A choose-your-own adventure with branching paths.</source>
-        <target state="translated">分岐経路を持つ“自分で選ぶ”タイプの冒険だ。</target>
+        <target state="translated">分岐していく“自分で選ぶ”タイプの冒険書式だ。</target>
       </segment>
     </unit>
     <unit id="78">
       <segment>
         <source>We need you to traverse it.</source>
-        <target state="translated">君にその内部を踏破してもらう。</target>
+        <target state="translated">君にそこを踏破してきてほしい。</target>
       </segment>
     </unit>
     <unit id="79">
       <segment>
         <source>As you're the most familiar with [[[scp-2975|impermanent reality as a writing gimmick]]], you'll be leading the task force for this mission."</source>
-        <target state="translated">[[[scp-2975|“移ろう現実”を執筆ギミックとして]]最も把握しているのは君だから、この任務ではタスクフォースを率いてもらう。」</target>
+        <target state="translated">[[[scp-2975|“移ろう現実”を執筆ギミックとして]]一番よく分かっているのは君だ。だからこの任務では隊を率いてくれ。」</target>
       </segment>
     </unit>
     <unit id="80">
@@ -605,7 +609,7 @@ Penelope tapped the whiteboard again, gesturing to her scribbled diagrams. "</so
         <source>
 Sally glanced over to Gordon, picking his teeth in the corner. "</source>
         <target state="translated">
-サリーは隅で歯を爪楊枝でいじっているゴードンをちらりと見た。「</target>
+サリーは隅で楊枝を噛みながら歯をほじっているゴードンをちらりと見やった。「</target>
       </segment>
     </unit>
     <unit id="81">
@@ -617,7 +621,7 @@ Sally glanced over to Gordon, picking his teeth in the corner. "</source>
     <unit id="82">
       <segment>
         <source>Some of his fans have //got// to have experimented with Twine or some shit back in the day."</source>
-        <target state="translated">彼のファンの何人かは昔 Twine とか何かで実験して//きっと//遊んでるはずよ。」</target>
+        <target state="translated">昔、Twine とかその手のので遊んでたファン、//絶対//いるでしょうし。」</target>
       </segment>
     </unit>
     <unit id="83">
@@ -625,43 +629,43 @@ Sally glanced over to Gordon, picking his teeth in the corner. "</source>
         <source>
 "They did, yes.</source>
         <target state="translated">
-「やっていた。そうだ。」</target>
+「確かにやっていた。ああ。」</target>
       </segment>
     </unit>
     <unit id="84">
       <segment>
         <source>It was a rather popular trend for a few weeks.</source>
-        <target state="translated">数週間ほどはなかなか流行した。」</target>
+        <target state="translated">数週間ほどは結構な人気だった。」</target>
       </segment>
     </unit>
     <unit id="85">
       <segment>
         <source>But he tended to... bulldoze his way through them, as he is wont to with most things.</source>
-        <target state="translated">だが彼は――大抵の物事と同じく――力任せに押し通る傾向があった。」</target>
+        <target state="translated">だが彼は…いつものことだが、ゴリ押しをする癖があるんだ。」</target>
       </segment>
     </unit>
     <unit id="86">
       <segment>
         <source>No branching paths, no reader choice.</source>
-        <target state="translated">分岐も読者選択も生まれない。」</target>
+        <target state="translated">だから分岐も、読者の選択も発生しなくなる。」</target>
       </segment>
     </unit>
     <unit id="87">
       <segment>
         <source>Hardly stories at all, really.</source>
-        <target state="translated">実のところ、ほとんど物語と呼べない。」</target>
+        <target state="translated">もはや物語と呼べた代物じゃない。」</target>
       </segment>
     </unit>
     <unit id="88">
       <segment>
         <source>That was after the time loop trend, though, so he was... rather unhinged at the time."</source>
-        <target state="translated">タイムループ流行の後だったから、彼はその頃…かなり不安定だった。」</target>
+        <target state="translated">タイムループ流行の直後だったから、あの時期の彼は……かなり迷走していた。」</target>
       </segment>
     </unit>
     <unit id="89">
       <segment>
         <source>There was a rare look of pity on the director's face, and for the first time Sally considered the full implications of having to remember your past iterations.</source>
-        <target state="translated">部門長の顔には珍しく憐憫が浮かび、サリーは初めて「過去反復を記憶していなければならない」ことの全含意を考えた。</target>
+        <target state="translated">部門長の顔に珍しく同情の色が浮かび、サリーは初めて「過去の繰り返しを記憶しなければならない」ということの重さを正面から思い描いた。</target>
       </segment>
     </unit>
     <unit id="90">
@@ -669,7 +673,7 @@ Sally glanced over to Gordon, picking his teeth in the corner. "</source>
         <source>
 It was hard to feel bad for the asshole kicking Reggie in the shins, though.</source>
         <target state="translated">
-とはいえ、レジーのすねを蹴っているあのクソ野郎に同情するのは難しかった。</target>
+……もっとも、レジーのすねを蹴っているそのクソ野郎に憐れみを抱くのはやっぱり難しかったが。</target>
       </segment>
     </unit>
     <unit id="91">
@@ -677,7 +681,7 @@ It was hard to feel bad for the asshole kicking Reggie in the shins, though.</so
         <source>
 "I guess that's that, then.</source>
         <target state="translated">
-「じゃあ、それで決まりだな。」</target>
+「じゃ、決まりでいいか。」</target>
       </segment>
     </unit>
     <unit id="92">
@@ -689,13 +693,13 @@ It was hard to feel bad for the asshole kicking Reggie in the shins, though.</so
 **Draft 3:**
 
 Gordon raised his head, alarmed.</source>
-        <target state="translated">冒険だ、さあ――
+        <target state="translated">冒険の幕開け――さあ――
 
 -----
 
 **ドラフト3:**
 
-ゴードンはぎょっとして頭を上げた。</target>
+ゴードンがはっとして顔を上げた。</target>
       </segment>
     </unit>
     <unit id="93">
@@ -703,19 +707,19 @@ Gordon raised his head, alarmed.</source>
         <source>
 "We're in a masturbatory draft loop!"</source>
         <target state="translated">
-「自己満足的なドラフトループに入ってるぞ！」</target>
+「自己満足なドラフトループに落ちてるぞ！」</target>
       </segment>
     </unit>
     <unit id="94">
       <segment>
         <source>he barked. "</source>
-        <target state="translated">と彼は吠えた。「</target>
+        <target state="translated">と彼は吠え、「</target>
       </segment>
     </unit>
     <unit id="95">
       <segment>
         <source>Someone say something interesting, grab the readers' attentions."</source>
-        <target state="translated">誰か面白いことを言って読者の注意を引け。」</target>
+        <target state="translated">誰か何か面白いこと言って読者の注意引け！」</target>
       </segment>
     </unit>
     <unit id="96">
@@ -723,13 +727,13 @@ Gordon raised his head, alarmed.</source>
         <source>
 [[collapsible show="Behind Gordon hung a large gun safety poster."</source>
         <target state="translated">
-[[collapsible show="ゴードンの後ろには大型の銃器安全ポスターが掛かっていた。"</target>
+[[collapsible show="ゴードンの背後には大きな銃器安全ポスターが掛かっていた。"</target>
       </segment>
     </unit>
     <unit id="97">
       <segment>
-        <source>hide="It wasn't a very well-made poster, but the author is only learning GIMP, so cut them some slack."]]</source>
-        <target state="translated">hide="出来は大して良くないが、作者は今GIMPを学んでいる最中なので大目に見てやってほしい。"]]</target>
+        <source>hide="It wasn't a very well-made poster, but the author is only learning GIMP, so cut them some slack."]] </source>
+        <target state="translated">hide="出来は大して良くないが、作者はまだ GIMP を勉強中なので大目に見てほしい。"]]</target>
       </segment>
     </unit>
     <unit id="98">
@@ -755,14 +759,14 @@ isn't working."</source>
 
 **ドラフト4:**
 
-うまく行ってない。」</target>
+うまく行っていない。」</target>
       </segment>
     </unit>
     <unit id="99">
       <segment>
         <source>
 Sandra[[footnote]] If you haven't caught on yet, any time there's a new lady's name here it's Barker, from earlier.</source>
-        <target state="translated">サンドラ[[footnote]] まだ気づいていないなら、ここで新しい女性名が出るたびそれはさっきのバーカーだ。</target>
+        <target state="translated">サンドラ[[footnote]] まだ分かってない読者向け：ここで新しい女性名が出るたび、それはさっきのバーカーだ。</target>
       </segment>
     </unit>
     <unit id="100">
@@ -774,13 +778,13 @@ Sandra[[footnote]] If you haven't caught on yet, any time there's a new lady's n
     <unit id="101">
       <segment>
         <source>That's her gimmick.- Opulent Overvoid[[/footnote]] scratched her nose, curious. "</source>
-        <target state="translated">それが彼女のギミック。- Opulent Overvoid[[/footnote]] サンドラは鼻をかき、興味深げに言った。「</target>
+        <target state="translated">それが彼女のギミックなのだ。- Opulent Overvoid[[/footnote]] サンドラは鼻をかきながら首をかしげた。「</target>
       </segment>
     </unit>
     <unit id="102">
       <segment>
         <source>What isn't?"</source>
-        <target state="translated">何が“うまく行ってない”の？」</target>
+        <target state="translated">何が“うまく行っていない”の？」</target>
       </segment>
     </unit>
     <unit id="103">
@@ -788,13 +792,13 @@ Sandra[[footnote]] If you haven't caught on yet, any time there's a new lady's n
         <source>
 "This drafty thing he's trying.</source>
         <target state="translated">
-「彼がやってるこのドラフトごっこよ。</target>
+「彼がやってるこのドラフトごっこだよ。</target>
       </segment>
     </unit>
     <unit id="104">
       <segment>
         <source>He's being too clever and meta, not paying enough attention to the story.</source>
-        <target state="translated">賢ぶってメタに寄り過ぎで、肝心の物語を見ていない。</target>
+        <target state="translated">賢ぶってメタに偏りすぎ。肝心の物語を見てない。</target>
       </segment>
     </unit>
     <unit id="105">
@@ -806,13 +810,13 @@ Sandra[[footnote]] If you haven't caught on yet, any time there's a new lady's n
 **Draft 5:**
 
 we haven't done anything remotely fucking interesting."</source>
-        <target state="translated">この数百語で――
+        <target state="translated">この数百単語で――
 
 -----
 
 **ドラフト5:**
 
-ちっとも面白ぇことを一つもやれてない。」</target>
+ろくに面白いこと一つ出来てない。」</target>
       </segment>
     </unit>
     <unit id="106">
@@ -935,7 +939,7 @@ Gordon shrugged, his enormous jacket audibly shifting.</source>
     </unit>
     <unit id="123">
       <segment>
-        <source>Our research shows that when data points drop below a certain merit threshold, they disappear entirely, from all planes."</source>
+        <source>Our research shows that when data points drop below a certain merit threshold, they disappear entirely, from all planes.</source>
         <target state="translated">一定の評価閾値を下回ったデータポイントは全平面から完全に消失する――研究結果はそう示している。」</target>
       </segment>
     </unit>
@@ -998,2117 +1002,7 @@ Gordon shrugged, his enormous jacket audibly shifting.</source>
     <unit id="133">
       <segment>
         <source>That plane is always the original budding plane, the one belonging to their writer entity."</source>
-        <target state="translated">その平面は常に萌芽元、つまり対応する作家エンティティの平面だ。」</target>
-      </segment>
-    </unit>
-    <unit id="134">
-      <segment>
-        <source>She frowned at[[footnote]]Mary?[[/footnote]] Mary, a silent warning not to interrupt her again. "</source>
-        <target state="translated">彼女は[[footnote]]メアリー？[[/footnote]] メアリーを睨み、もう遮るなと無言で警告した。「</target>
-      </segment>
-    </unit>
-    <unit id="135">
-      <segment>
-        <source>That can't be relied upon, though.</source>
-        <target state="translated">だがそれに期待はできない。</target>
-      </segment>
-    </unit>
-    <unit id="136">
-      <segment>
-        <source>It's altogether too rare, and not at all in line with our mission."</source>
-        <target state="translated">稀すぎるし、我々の任務方針とも噛み合わない。」</target>
-      </segment>
-    </unit>
-    <unit id="137">
-      <segment>
-        <source>
-The team nodded along like they understood.</source>
-        <target state="translated">
-一同は分かったふうに頷いた。</target>
-      </segment>
-    </unit>
-    <unit id="138">
-      <segment>
-        <source>Gordon actually sort of did get it.[[footnote]] I understood it perfectly, of course, but that's just in my nature. -</source>
-        <target state="translated">ゴードンは実際うっすら理解していた。[[footnote]] 私は当然完璧に理解している。そういう存在だから。 -</target>
-      </segment>
-    </unit>
-    <unit id="139">
-      <segment>
-        <source>O[[/footnote]] Gordon eventually broke the silence.</source>
-        <target state="translated">O[[/footnote]] やがてゴードンが沈黙を破った。</target>
-      </segment>
-    </unit>
-    <unit id="140">
-      <segment>
-        <source>
-"You said you had a plan.</source>
-        <target state="translated">
-「策があるって言ったな。」</target>
-      </segment>
-    </unit>
-    <unit id="141">
-      <segment>
-        <source>Spill."</source>
-        <target state="translated">吐け。」</target>
-      </segment>
-    </unit>
-    <unit id="142">
-      <segment>
-        <source>
-"There's a few data points - very very few, hard to identify - which seem to be immune to 'deletion', as Gordon put it."</source>
-        <target state="translated">
-「“削除”に耐性があるように見えるデータポイントが少数――ほんのわずか――確認されている。」</target>
-      </segment>
-    </unit>
-    <unit id="143">
-      <segment>
-        <source>
-"The fuck is wrong with the word deletion?</source>
-        <target state="translated">
-「“削除”って言葉の何が悪い？」</target>
-      </segment>
-    </unit>
-    <unit id="144">
-      <segment>
-        <source>That's a perfectly normal word"</source>
-        <target state="translated">「普通の単語だろ。」</target>
-      </segment>
-    </unit>
-    <unit id="145">
-      <segment>
-        <source>
-"Of course, yes. I didn't mean anything by it. The point is, [[[former-mtfl-maclean-s-personnel-file|no matter how far these data points fall in merit, they seem to be immune to the rules that govern all the others]]]."</source>
-        <target state="translated">
-「もちろん。悪意はない。要点は――[[[former-mtfl-maclean-s-personnel-file|どれほど評価が落ちても他を律する規則の適用外に見える点がある]]]ということだ。」</target>
-      </segment>
-    </unit>
-    <unit id="146">
-      <segment>
-        <source>
-Gordon huffed, but didn't retort.</source>
-        <target state="translated">
-ゴードンは鼻を鳴らしたが反論はしなかった。</target>
-      </segment>
-    </unit>
-    <unit id="147">
-      <segment>
-        <source>
-Penelope continued, getting into her stride. "</source>
-        <target state="translated">
-ペネロペは勢いづいて続けた。「</target>
-      </segment>
-    </unit>
-    <unit id="148">
-      <segment>
-        <source>These immune data points... We initially thought they might be somehow central to baseline truth - consensus canon - and therefore protected against demerit deletion.</source>
-        <target state="translated">この“免疫”ポイント……当初はベースライン真実＝コンセンサスカノンに中核的で、減点削除から保護されるのだと仮定した。</target>
-      </segment>
-    </unit>
-    <unit id="149">
-      <segment>
-        <source>But too many of them are totally random, not at all important.</source>
-        <target state="translated">しかし多くが取るに足らないランダムな内容だった。</target>
-      </segment>
-    </unit>
-    <unit id="150">
-      <segment>
-        <source>For the most part, only two or three planes intersect at them, despite exceedingly high referential factors.</source>
-        <target state="translated">参照係数が高いにもかかわらず交差する平面は二、三に留まる。</target>
-      </segment>
-    </unit>
-    <unit id="151">
-      <segment>
-        <source>We've detected a few inaccessible ones that aren't even within the narrative bulk.</source>
-        <target state="translated">物語束の外側にあり到達不能な例も検知した。</target>
-      </segment>
-    </unit>
-    <unit id="152">
-      <segment>
-        <source>A couple of them are [[[ch00bakka-personnel-file|ancient documents]]], [[[lurk-d-s-personnel-file|terminal logs]]], one data point was just the fact a researcher died.</source>
-        <target state="translated">古い文書[[[ch00bakka-personnel-file|ancient documents]]]や[[[lurk-d-s-personnel-file|端末ログ]]], 研究者が死亡したという事実一件――そんなレベルだ。</target>
-      </segment>
-    </unit>
-    <unit id="153">
-      <segment>
-        <source>But for the most part...they're personnel files.</source>
-        <target state="translated">だが大半は……職員ファイルだった。」</target>
-      </segment>
-    </unit>
-    <unit id="154">
-      <segment>
-        <source>I admit, we were utterly stumped at that.</source>
-        <target state="translated">そこは完全に行き詰まったと認めよう。」</target>
-      </segment>
-    </unit>
-    <unit id="155">
-      <segment>
-        <source>One hypothesis was that there was an outside force protecting those of us it could, bestowing us with permanence we weren't guaranteed."</source>
-        <target state="translated">外部の力が介入し得る対象を庇護して恒常性を与えている、という仮説もあった。」</target>
-      </segment>
-    </unit>
-    <unit id="156">
-      <segment>
-        <source>Penelope smiled subtly, the ghost of a dimple appearing on her cheek. "</source>
-        <target state="translated">ペネロペはかすかに笑い、頬に幻のえくぼが浮かんだ。「</target>
-      </segment>
-    </unit>
-    <unit id="157">
-      <segment>
-        <source>I liked that one.</source>
-        <target state="translated">あれは気に入っていた。」</target>
-      </segment>
-    </unit>
-    <unit id="158">
-      <segment>
-        <source>Gave me some comfort.</source>
-        <target state="translated">少し慰めになった。」</target>
-      </segment>
-    </unit>
-    <unit id="159">
-      <segment>
-        <source>But that didn't fit with the other protected data points.</source>
-        <target state="translated">だが他の保護対象とは符合しなかった。」</target>
-      </segment>
-    </unit>
-    <unit id="160">
-      <segment>
-        <source>So //what the hell was it//?</source>
-        <target state="translated">ならば//正体は何だ//？」</target>
-      </segment>
-    </unit>
-    <unit id="161">
-      <segment>
-        <source>Took years for someone to piece it together.</source>
-        <target state="translated">誰かが繋ぎ合わせるまでに何年もかかった。」</target>
-      </segment>
-    </unit>
-    <unit id="162">
-      <segment>
-        <source>I think it was Dr. Huever, in the end.</source>
-        <target state="translated">最後に辿り着いたのはヒューバー博士だったと思う。」</target>
-      </segment>
-    </unit>
-    <unit id="163">
-      <segment>
-        <source>They were //author pages//."</source>
-        <target state="translated">正体は//著者ページ//だった。」</target>
-      </segment>
-    </unit>
-    <unit id="164">
-      <segment>
-        <source>
-"If we can work together we might, //maybe//, be able to anchor ourselves to an author page, conceptually.</source>
-        <target state="translated">
-「協力できれば概念的に著者ページへ錨を打ち――//うまくすれば//――」</target>
-      </segment>
-    </unit>
-    <unit id="165">
-      <segment>
-        <source>Protect ourselves as a potential piece of headcanon by sheer virtue of being undeletable.</source>
-        <target state="translated">“消されない”というだけの性質でヘッドカノン候補として自存できる。」</target>
-      </segment>
-    </unit>
-    <unit id="166">
-      <segment>
-        <source>It's not the best plan, but at this rate we're probably hemorrhaging points.</source>
-        <target state="translated">最善策ではないが今のペースではポイントが駄々洩れだ。」</target>
-      </segment>
-    </unit>
-    <unit id="167">
-      <segment>
-        <source>It might be the only way to save ourselves."</source>
-        <target state="translated">自分たちを救う唯一の手かもしれない。」</target>
-      </segment>
-    </unit>
-    <unit id="168">
-      <segment>
-        <source>
-
-Aubrey was nodding for real this time. "</source>
-        <target state="translated">
-
-オーブリーは今度こそ本気で頷いた。「</target>
-      </segment>
-    </unit>
-    <unit id="169">
-      <segment>
-        <source>I'm in.</source>
-        <target state="translated">乗った。</target>
-      </segment>
-    </unit>
-    <unit id="170">
-      <segment>
-        <source>What do we need to do?"</source>
-        <target state="translated">で、何をやればいい？」</target>
-      </segment>
-    </unit>
-    <unit id="171">
-      <segment>
-        <source>
-"Well, that's easy.</source>
-        <target state="translated">
-「そいつは簡単だ。」</target>
-      </segment>
-    </unit>
-    <unit id="172">
-      <segment>
-        <source>We pick a writer entity with a cluster of planes, but no protected ones.</source>
-        <target state="translated">平面群を抱えていながら保護ポイントを持たない作家エンティティを選ぶ。</target>
-      </segment>
-    </unit>
-    <unit id="173">
-      <segment>
-        <source>Then we break into their data points.</source>
-        <target state="translated">そいつのデータポイントに侵入する。</target>
-      </segment>
-    </unit>
-    <unit id="174">
-      <segment>
-        <source>Violently insert ourselves."</source>
-        <target state="translated">で、強引に自分たちを書き込む。」</target>
-      </segment>
-    </unit>
-    <unit id="175">
-      <segment>
-        <source>She turned to Reggie, still crying in the corner. "</source>
-        <target state="translated">彼女は隅でまだ泣いているレジーを振り向いた。「</target>
-      </segment>
-    </unit>
-    <unit id="176">
-      <segment>
-        <source>What did you say your writer entity was called again?</source>
-        <target state="translated">その作家エンティティ、名前は何だった？」</target>
-      </segment>
-    </unit>
-    <unit id="177">
-      <segment>
-        <source>
-
------
-
-[[collapsible show="Shenanigan 1: SCP-2559" hide="Hey, yo, its ya boy Overvoid.</source>
-        <target state="translated">
-
------
-
-[[collapsible show="シャナギャン 1: SCP-2559" hide="やあ、オーバーヴォイドだよ。」</target>
-      </segment>
-    </unit>
-    <unit id="178">
-      <segment>
-        <source>So basically, this is where we go on adventures!</source>
-        <target state="translated">要するに、ここが私たちが冒険に行く場所です！」</target>
-      </segment>
-    </unit>
-    <unit id="179">
-      <segment>
-        <source>Yayyy!</source>
-        <target state="translated">やったー！」</target>
-      </segment>
-    </unit>
-    <unit id="180">
-      <segment>
-        <source>Each of these adventures is based on one of Rimple's articles (it's cool, I can call them that because I'm So Meta Even This Joke).</source>
-        <target state="translated">これらの冒険のそれぞれは、リンブルのいずれかの記事に基づいています（それはクールです、私はそれをそう呼ぶことができます、なぜなら私はこのジョークさえもメタ的だからです）。</target>
-      </segment>
-    </unit>
-    <unit id="181">
-      <segment>
-        <source>That means there's ~spooky scary spoilers~ in here.</source>
-        <target state="translated">つまり、ここには〜不気味で怖いネタバレ〜があります。</target>
-      </segment>
-    </unit>
-    <unit id="182">
-      <segment>
-        <source>That's right, this asshole wants you to read all his stuff to follow the whole story.</source>
-        <target state="translated">そうです、このクソ野郎はあなたに彼のすべての作品を読ませて、物語全体を追わせたいのです。</target>
-      </segment>
-    </unit>
-    <unit id="183">
-      <segment>
-        <source>What a jerk, right?</source>
-        <target state="translated">なんて嫌なやつだ、そう思わない？</target>
-      </segment>
-    </unit>
-    <unit id="184">
-      <segment>
-        <source>It's ok though because I'm lampshading it here, so you're not allowed to complain about that in the comments.</source>
-        <target state="translated">でも、ここでランプシェーディングしているので、それについてコメントで文句を言うことは許されていません。</target>
-      </segment>
-    </unit>
-    <unit id="185">
-      <segment>
-        <source>Remember, EVERYTHING can be solved with heavyhanded lampshading, even heavyhanded lampshading.</source>
-        <target state="translated">覚えておいてください、すべては強引なランプシェーディングで解決できます、強引なランプシェーディングさえも。</target>
-      </segment>
-    </unit>
-    <unit id="186">
-      <segment>
-        <source>Where were we?</source>
-        <target state="translated">どこまで話しましたっけ？</target>
-      </segment>
-    </unit>
-    <unit id="187">
-      <segment>
-        <source>Oh right, the Sahara Desert.</source>
-        <target state="translated">ああ、そうだ、サハラ砂漠のことだ。</target>
-      </segment>
-    </unit>
-    <unit id="188">
-      <segment>
-        <source>-O"]]
-
-"Why the //fuck// are we in the Sahara Desert??"</source>
-        <target state="translated">-O"]]
-
-「なんで私たちはサハラ砂漠にいるんだ？？</target>
-      </segment>
-    </unit>
-    <unit id="189">
-      <segment>
-        <source>Kelly yelled, pulling her scarf up over her face to shield her mouth and nose from the barrage of sand blowing past MTF-ι-0, crouched behind the peak of a large sand dune.</source>
-        <target state="translated">ケリーは叫び、スカーフを顔の上に引き上げて、MTF-ι-0の横を吹き抜ける砂の攻撃から口と鼻を守った。大きな砂丘の頂上の後ろにしゃがんで。</target>
-      </segment>
-    </unit>
-    <unit id="190">
-      <segment>
-        <source>The rest of her sentence was lost in the wind.[[footnote]]You're not supposed to know what she said, but I heard it, so I'll let you in on it.</source>
-        <target state="translated">彼女の言葉の残りは風に消えた。[ [脚注]] 彼女が何を言ったのか知るべきではありませんが、私はそれを聞いたので、あなたにも教えましょう。</target>
-      </segment>
-    </unit>
-    <unit id="191">
-      <segment>
-        <source>It was "There, I've done an establishing line.</source>
-        <target state="translated">それは「ここだ、私は設定のラインを作った。」でした。</target>
-      </segment>
-    </unit>
-    <unit id="192">
-      <segment>
-        <source>Can the story start now?".</source>
-        <target state="translated">これで物語は始まるのか？」</target>
-      </segment>
-    </unit>
-    <unit id="193">
-      <segment>
-        <source>Rather witty, I thought.</source>
-        <target state="translated">なかなか機知に富んでいると思いました。</target>
-      </segment>
-    </unit>
-    <unit id="194">
-      <segment>
-        <source>Shame it got edited out.</source>
-        <target state="translated">編集で削除されてしまったのは残念です。</target>
-      </segment>
-    </unit>
-    <unit id="195">
-      <segment>
-        <source>-O[[/footnote]]
-
-Gordon[[footnote]] And Reggie.</source>
-        <target state="translated">-O[[/脚注]]
-
-ゴードン[[脚注]] そしてレジー。</target>
-      </segment>
-    </unit>
-    <unit id="196">
-      <segment>
-        <source>We're always forgetting to mention Reggie.</source>
-        <target state="translated">私たちはいつもレジーのことを言い忘れています。</target>
-      </segment>
-    </unit>
-    <unit id="197">
-      <segment>
-        <source>I'll need to give him some character development later on in me. -</source>
-        <target state="translated">後で彼にキャラクターの成長を与える必要があります。 -</target>
-      </segment>
-    </unit>
-    <unit id="198">
-      <segment>
-        <source>O[[/footnote]] lay hunkered behind a patch of dead scrub, comparing the set of coordinates they'd been given with his GPS.</source>
-        <target state="translated">オ[[/脚注]] は枯れた低木の死骸の後ろにうずくまり、与えられた座標のセットをGPSと比較していました。</target>
-      </segment>
-    </unit>
-    <unit id="199">
-      <segment>
-        <source>
-
-"Because this is the location of Site 91.</source>
-        <target state="translated">
-
-「ここがサイト91の場所だからだ。」</target>
-      </segment>
-    </unit>
-    <unit id="200">
-      <segment>
-        <source>Weren't you listening earlier?</source>
-        <target state="translated">さっき聞いていなかったのか？</target>
-      </segment>
-    </unit>
-    <unit id="201">
-      <segment>
-        <source>Christ."</source>
-        <target state="translated">クリスチャン。</target>
-      </segment>
-    </unit>
-    <unit id="202">
-      <segment>
-        <source>Gordon frowned, scratching at his smudged handwriting "It should be here, just over the ridge.</source>
-        <target state="translated">ゴードンは眉をひそめ、汚れた手書きの文字をかきながら「ここだ、ちょうど向こうの尾根を越えたところにあるはずだ。」</target>
-      </segment>
-    </unit>
-    <unit id="203">
-      <segment>
-        <source>That, or we're in Desert Palace Zone, but I don't think that's a place in this reality."</source>
-        <target state="translated">それか、私たちがデザートパレスゾーンにいるかですが、そんな場所はこの現実にはないと思います。」</target>
-      </segment>
-    </unit>
-    <unit id="204">
-      <segment>
-        <source>He looked around. "</source>
-        <target state="translated">彼は周りを見渡した。「</target>
-      </segment>
-    </unit>
-    <unit id="205">
-      <segment>
-        <source>No runways, so yeah."</source>
-        <target state="translated">滑走路はないから、そうだな。」</target>
-      </segment>
-    </unit>
-    <unit id="206">
-      <segment>
-        <source>
-
-Kelly rolled her eyes, but behind her protective sunglasses she doubted it came through. "</source>
-        <target state="translated">
-
-ケリーは目を転がしたが、彼女の保護用サングラスの後ろではそれが伝わるとは思えなかった。「</target>
-      </segment>
-    </unit>
-    <unit id="207">
-      <segment>
-        <source>I mean, why the fuck is Site 91 in the middle of nowhere?"</source>
-        <target state="translated">つまり、なんでクソみたいにサイト91が何もない真ん中にあるんだ？」</target>
-      </segment>
-    </unit>
-    <unit id="208">
-      <segment>
-        <source>
-
-"Um, I think it's a background worldbuilding thing," Reggie piped up from behind Gordon. "</source>
-        <target state="translated">
-
-「えっと、これはバックグラウンドの世界設定の一環だと思う」とレジーがゴードンの後ろから口を挟んだ。「</target>
-      </segment>
-    </unit>
-    <unit id="209">
-      <segment>
-        <source>He likes to put those in.</source>
-        <target state="translated">彼はそれを入れるのが好きなんだ。</target>
-      </segment>
-    </unit>
-    <unit id="210">
-      <segment>
-        <source>Like how he adds all the f-"
-
-"Since when do you talk?"</source>
-        <target state="translated">彼がすべてのf-を追加するように -
-
-「いつからあなたは話すの？」</target>
-      </segment>
-    </unit>
-    <unit id="211">
-      <segment>
-        <source>Gordon seemed genuinely surprised. "</source>
-        <target state="translated">ゴードンは本当に驚いた様子だった。「</target>
-      </segment>
-    </unit>
-    <unit id="212">
-      <segment>
-        <source>Seriously, I thought the whole joke was that you were a mute punching bag."</source>
-        <target state="translated">本当に、あなたが無口のパンチングバッグであるというのがジョークだと思っていました。」</target>
-      </segment>
-    </unit>
-    <unit id="213">
-      <segment>
-        <source>
-
-"I'm not a joke," Reggie muttered, eyes downcast.[[footnote]] Check it, with my character development.</source>
-        <target state="translated">
-
-「私はジョークではない」とレジーは mutteredし、目を伏せた。[ [脚注]] それを確認して、私のキャラクターの成長とともに。</target>
-      </segment>
-    </unit>
-    <unit id="214">
-      <segment>
-        <source>Slipped that in //seamlessly//. The other stories said I'd be terrible, but look at me now!</source>
-        <target state="translated">それを//シームレスに//滑り込ませた。他の物語では私がひどいと言われていましたが、今の私を見てください！</target>
-      </segment>
-    </unit>
-    <unit id="215">
-      <segment>
-        <source>-O[[/footnote]]
-
-"We're getting off-track, guys."</source>
-        <target state="translated">-O[[/脚注]]
-
-「脱線していますよ、みんな。」</target>
-      </segment>
-    </unit>
-    <unit id="216">
-      <segment>
-        <source>Kelly raised her binoculars again to observe the plain beyond the dune. "</source>
-        <target state="translated">ケリーは再び双眼鏡を上げて、砂丘の向こうの平原を観察した。「</target>
-      </segment>
-    </unit>
-    <unit id="217">
-      <segment>
-        <source>I'm not seeing any facility here."</source>
-        <target state="translated">ここに施設は見当たりません。」</target>
-      </segment>
-    </unit>
-    <unit id="218">
-      <segment>
-        <source>
-
-"Jesus, you really weren't paying attention in the brief, were you?"</source>
-        <target state="translated">
-
-「ジーザス、あなたは本当にブリーフィングに注意を払っていなかったのですね？」</target>
-      </segment>
-    </unit>
-    <unit id="219">
-      <segment>
-        <source>Gordon said, pulling himself up and slinging his backpack on.</source>
-        <target state="translated">ゴードンは言った、起き上がりバックパックを肩にかけながら。</target>
-      </segment>
-    </unit>
-    <unit id="220">
-      <segment>
-        <source>It was bizarre, seeing him still deeply entrenched in his heavy jacket despite the overwhelming heat of the desert. "</source>
-        <target state="translated">それは奇妙だった、砂漠の圧倒的な暑さにもかかわらず、彼がまだその重いジャケットに深く埋もれているのを見るのは。「</target>
-      </segment>
-    </unit>
-    <unit id="221">
-      <segment>
-        <source>It's fucking underground.</source>
-        <target state="translated">それはクソみたいに地下にある。</target>
-      </segment>
-    </unit>
-    <unit id="222">
-      <segment>
-        <source>That's why it's so hard to break into."</source>
-        <target state="translated">だからこそ、侵入するのがこんなに難しいのです。」</target>
-      </segment>
-    </unit>
-    <unit id="223">
-      <segment>
-        <source>
-
-"I was too distracted by you rummaging the meeting room around for sharp objects," she said, frowning.</source>
-        <target state="translated">
-
-「あなたが会議室で鋭利な物を探しているのに気を取られていました」と彼女は言い、眉をひそめた。</target>
-      </segment>
-    </unit>
-    <unit id="224">
-      <segment>
-        <source>She sighed heavily. "</source>
-        <target state="translated">彼女は重いため息をついた。「</target>
-      </segment>
-    </unit>
-    <unit id="225">
-      <segment>
-        <source>Alright, stick to the plan, I guess."</source>
-        <target state="translated">さて、計画に従いましょう、私はそう思います。」</target>
-      </segment>
-    </unit>
-    <unit id="226">
-      <segment>
-        <source>
-
-"We have a plan?"</source>
-        <target state="translated">
-
-「私たちは計画があるのか？」</target>
-      </segment>
-    </unit>
-    <unit id="227">
-      <segment>
-        <source>
-
-"I was hoping if I said we did, the story would magically make it so we had one, but you've ruined that now"
-
-"Ah, right."</source>
-        <target state="translated">
-
-「計画があると言えば、物語が魔法のようにそれを実現してくれると思っていましたが、あなたたちがそれを台無しにしました」
-
-「はあ、そうですね。」</target>
-      </segment>
-    </unit>
-    <unit id="228">
-      <segment>
-        <source>
-
-"So, plan of action?"</source>
-        <target state="translated">
-
-「では、行動計画は？」</target>
-      </segment>
-    </unit>
-    <unit id="229">
-      <segment>
-        <source>
-
-Gordon put on his own sunglasses, staring down into the plain.</source>
-        <target state="translated">
-
-ゴードンは自分のサングラスをかけ、平原を見つめた。</target>
-      </segment>
-    </unit>
-    <unit id="230">
-      <segment>
-        <source>His beard flowed majestically in the wind.</source>
-        <target state="translated">彼のひげは風になびいて壮大に流れた。</target>
-      </segment>
-    </unit>
-    <unit id="231">
-      <segment>
-        <source>
-
-"Fuck if I know."</source>
-        <target state="translated">
-
-「知るか、クソが。」</target>
-      </segment>
-    </unit>
-    <unit id="232">
-      <segment>
-        <source>
-
-***
-
-Getting in was much easier than they'd anticipated.</source>
-        <target state="translated">
-
-***
-
-中に入るのは彼らが予想していたよりもはるかに簡単だった。</target>
-      </segment>
-    </unit>
-    <unit id="233">
-      <segment>
-        <source>Turns out if you manage to find the unmarked 10m^^2^^ patch of sand that masks the elevator to Site 91 in 9 million km^^2^^ of desert, they just let you in.</source>
-        <target state="translated">どうやら、900万km^^2^^の砂漠の中でサイト91へのエレベーターを隠す無印の10m^^2^^の砂のパッチを見つけることができれば、彼らはただ入れてくれるようだ。</target>
-      </segment>
-    </unit>
-    <unit id="234">
-      <segment>
-        <source>They descended swiftly, and were met with the surprised face of a passing researcher, heavily burdened with a stack of files.</source>
-        <target state="translated">彼らは素早く降下し、ファイルの束を抱えた通りすがりの研究者の驚いた顔と出会った。</target>
-      </segment>
-    </unit>
-    <unit id="235">
-      <segment>
-        <source>
-
-"You new, or should I be calling security right now?"</source>
-        <target state="translated">
-
-「新入りか、それとも今すぐセキュリティを呼ぶべきか？」</target>
-      </segment>
-    </unit>
-    <unit id="236">
-      <segment>
-        <source>He took a nervous step back as they exited the elevator "Trick question, I've already alerted security.</source>
-        <target state="translated">彼はエレベーターを出るときに緊張して一歩下がった。「トリッククエスチョン、私はすでにセキュリティに警告を発した。」</target>
-      </segment>
-    </unit>
-    <unit id="237">
-      <segment>
-        <source>Sorry, protocol."</source>
-        <target state="translated">ごめんなさい、プロトコルです。」</target>
-      </segment>
-    </unit>
-    <unit id="238">
-      <segment>
-        <source>He glanced at Gordon and laughed nervously. "</source>
-        <target state="translated">彼はゴードンをちらりと見て、神経質に笑った。「</target>
-      </segment>
-    </unit>
-    <unit id="239">
-      <segment>
-        <source>Plus the big guy is scary"
-
-Kelly withdrew a Foundation ID from her pocket.</source>
-        <target state="translated">それに大きな男は怖いから」
-
-ケリーはポケットから財団のIDを取り出した。</target>
-      </segment>
-    </unit>
-    <unit id="240">
-      <segment>
-        <source>She hoped clearance level 5 was enough - Penelope had told her it should cover anything she needed.</source>
-        <target state="translated">彼女はクリアランスレベル5で十分だと願っていました - ペネロペは彼女にそれが必要なものすべてをカバーするはずだと言っていました。</target>
-      </segment>
-    </unit>
-    <unit id="241">
-      <segment>
-        <source>As the researcher's eyes widened, her hopes were fulfilled.</source>
-        <target state="translated">研究者の目が大きく見開かれると、彼女の希望は叶えられました。</target>
-      </segment>
-    </unit>
-    <unit id="242">
-      <segment>
-        <source>
-
-"Shit, fuck, sorry.</source>
-        <target state="translated">
-
-「クソ、すみません。」</target>
-      </segment>
-    </unit>
-    <unit id="243">
-      <segment>
-        <source>I'm a mess today.</source>
-        <target state="translated">今日は散らかっています。</target>
-      </segment>
-    </unit>
-    <unit id="244">
-      <segment>
-        <source>Uh, Ken Jonah, Infected Unit."</source>
-        <target state="translated">あの、ケン・ジョナ、感染ユニットです。」</target>
-      </segment>
-    </unit>
-    <unit id="245">
-      <segment>
-        <source>He stuck out his hand, and Kelly duly shook it. "</source>
-        <target state="translated">彼は手を差し出し、ケリーはそれに応じて握手をした。「</target>
-      </segment>
-    </unit>
-    <unit id="246">
-      <segment>
-        <source>Major subject loss earlier, down to two infected at one point.</source>
-        <target state="translated">以前に主要な被験者を失い、一時は感染者が二人に減少しました。</target>
-      </segment>
-    </unit>
-    <unit id="247">
-      <segment>
-        <source>We're initiating secondary vineyard procedures now to bring stock back up, but meanwhile the paperwork is through the roof."</source>
-        <target state="translated">現在、在庫を回復させるために二次ブドウ園手続きを開始していますが、その間に書類作業が山のようにあります。」</target>
-      </segment>
-    </unit>
-    <unit id="248">
-      <segment>
-        <source>He shrugged, indicating the stack of papers he was carrying. "</source>
-        <target state="translated">彼は肩をすくめ、自分が運んでいた書類の束を指し示した。「</target>
-      </segment>
-    </unit>
-    <unit id="249">
-      <segment>
-        <source>Hope you understand, Overseer."</source>
-        <target state="translated">理解してくれるといいのですが、監視者さん。」</target>
-      </segment>
-    </unit>
-    <unit id="250">
-      <segment>
-        <source>
-
-Kelly nodded, careful not to let her face betray her surprise. "</source>
-        <target state="translated">
-
-ケリーは驚きを顔に出さないように注意しながら頷いた。「</target>
-      </segment>
-    </unit>
-    <unit id="251">
-      <segment>
-        <source>That's what we're here for.</source>
-        <target state="translated">それが私たちのここにいる理由です。</target>
-      </segment>
-    </unit>
-    <unit id="252">
-      <segment>
-        <source>We need access to your main files on the virus."</source>
-        <target state="translated">ウイルスに関するあなたの主要なファイルへのアクセスが必要です。」</target>
-      </segment>
-    </unit>
-    <unit id="253">
-      <segment>
-        <source>
-
-Dr. Jonah hesitated. "</source>
-        <target state="translated">
-
-ジョナ博士はためらった。「</target>
-      </segment>
-    </unit>
-    <unit id="254">
-      <segment>
-        <source>Containment procedures require express permission from two members of the O5 council to view documentation on 2559.</source>
-        <target state="translated">封じ込め手続きには、2559に関する文書を見るためにO5評議会の2人のメンバーからの明示的な許可が必要です。」</target>
-      </segment>
-    </unit>
-    <unit id="255">
-      <segment>
-        <source>He squinted, suspicious. "</source>
-        <target state="translated">彼は疑い深く目を細めた。「</target>
-      </segment>
-    </unit>
-    <unit id="256">
-      <segment>
-        <source>And I need IDs for the two with you, Overseer.</source>
-        <target state="translated">そして、あなたと一緒にいる2人のIDが必要です、監視者さん。</target>
-      </segment>
-    </unit>
-    <unit id="257">
-      <segment>
-        <source>We'll need to run it by Director Jua before-" His speech was brought to a sudden halt as a fist connected with his face, hard.</source>
-        <target state="translated">私たちはそれをジュア部長に確認する必要がありますが、彼の顔に拳が強く当たった瞬間、彼の言葉は突然中断された。</target>
-      </segment>
-    </unit>
-    <unit id="258">
-      <segment>
-        <source>He fell to the ground in a flurry of paper.</source>
-        <target state="translated">彼は紙くずの中に倒れ込みました。</target>
-      </segment>
-    </unit>
-    <unit id="259">
-      <segment>
-        <source>
-
-Gordon stood over Dr. Jonah's unconscious body, rubbing his knuckles. "</source>
-        <target state="translated">
-
-ゴードンはジョナ博士の意識を失った体の上に立ち、拳を擦り合わせた。「</target>
-      </segment>
-    </unit>
-    <unit id="260">
-      <segment>
-        <source>I've hacked the system," he said, looking back at Kelly and Reggie with a wide grin.</source>
-        <target state="translated">「システムをハッキングしました」と彼は言い、ケリーとレジーを見返りながら広い笑顔を見せました。</target>
-      </segment>
-    </unit>
-    <unit id="261">
-      <segment>
-        <source>
-
-"Oh, good fucking going, Gordon!</source>
-        <target state="translated">
-
-「おお、よくやった、ゴードン！」</target>
-      </segment>
-    </unit>
-    <unit id="262">
-      <segment>
-        <source>How the fuck are we supposed to access the files now?!"</source>
-        <target state="translated">今、私たちはどうやってそのファイルにアクセスすればいいのか？！」</target>
-      </segment>
-    </unit>
-    <unit id="263">
-      <segment>
-        <source>Kelly shoved Gordon as hard as she could and he swayed, slightly. "</source>
-        <target state="translated">ケリーはできるだけゴードンを押し、彼は少し揺れた。「</target>
-      </segment>
-    </unit>
-    <unit id="264">
-      <segment>
-        <source>Security is gonna come any minute, we're fucked!</source>
-        <target state="translated">セキュリティがすぐに来る、私たちは終わりだ！」</target>
-      </segment>
-    </unit>
-    <unit id="265">
-      <segment>
-        <source>If we don't get the files, we're just an unprotected story.</source>
-        <target state="translated">ファイルを手に入れられなければ、私たちはただの無防備な物語です。</target>
-      </segment>
-    </unit>
-    <unit id="266">
-      <segment>
-        <source>We'll get deleted, no question!"</source>
-        <target state="translated">間違いなく削除される！」</target>
-      </segment>
-    </unit>
-    <unit id="267">
-      <segment>
-        <source>
-
-Gordon shrugged. "</source>
-        <target state="translated">
-
-ゴードンは肩をすくめた。「</target>
-      </segment>
-    </unit>
-    <unit id="268">
-      <segment>
-        <source>Yeah, fuck it, I'm fine with never being canon.</source>
-        <target state="translated">そうだ、クソくらえ、私はカノンにならない方がいい。</target>
-      </segment>
-    </unit>
-    <unit id="269">
-      <segment>
-        <source>Preferably, I'd go back in time and stop that //bellend//," he gestured upward, "from ever coming up with me."</source>
-        <target state="translated">できれば、私は時間を遡ってその//クソッタレ//を止めたい、彼が私と出会うことがないように。」</target>
-      </segment>
-    </unit>
-    <unit id="270">
-      <segment>
-        <source>
-
-
-Reggie raised his hand nervously.</source>
-        <target state="translated">
-
-
-レジーは緊張して手を挙げた。</target>
-      </segment>
-    </unit>
-    <unit id="271">
-      <segment>
-        <source>It went unnoticed.</source>
-        <target state="translated">誰にも気づかれなかった。</target>
-      </segment>
-    </unit>
-    <unit id="272">
-      <segment>
-        <source>
-
-"Maybe you're fine with it, but I'm not, you asshole!</source>
-        <target state="translated">
-
-「あなたはそれでいいかもしれないが、私は嫌だ、クソ野郎！」</target>
-      </segment>
-    </unit>
-    <unit id="273">
-      <segment>
-        <source>I don't want to fail, I don't want to die, and I don't want to //never freaking exist//." Kelly was pacing, flapping her hands in frustration.</source>
-        <target state="translated">失敗したくない、死にたくない、そして//決して存在しないなんてことは//したくない。」ケリーはイライラして手をばたつかせながら歩き回っていた。</target>
-      </segment>
-    </unit>
-    <unit id="274">
-      <segment>
-        <source>
-
-"Guys," Reggie muttered under his breath.</source>
-        <target state="translated">
-
-「みんな、」レジーは小声でつぶやいた。</target>
-      </segment>
-    </unit>
-    <unit id="275">
-      <segment>
-        <source>
-
-"It doesn't even matter for you, Barker.[[footnote]]Oh, god, please don't.</source>
-        <target state="translated">
-
-「あなたにとってはどうでもいいことだ、バーカー。[ [脚注]] ああ、神様、お願いだからやめて。</target>
-      </segment>
-    </unit>
-    <unit id="276">
-      <segment>
-        <source>Whatever the fuck your real name is.</source>
-        <target state="translated">あなたの本当の名前が何であれ、どうでもいいことだ。</target>
-      </segment>
-    </unit>
-    <unit id="277">
-      <segment>
-        <source>You'll wake up in your next story, free from these memories, free from this life.</source>
-        <target state="translated">あなたは次の物語の中で目を覚まし、これらの記憶から解放され、この人生から解放されるでしょう。</target>
-      </segment>
-    </unit>
-    <unit id="278">
-      <segment>
-        <source>I'm stuck with all the shit I've been put through forever!</source>
-        <target state="translated">私は永遠に受けたすべてのクソに縛られています！</target>
-      </segment>
-    </unit>
-    <unit id="279">
-      <segment>
-        <source>You have //no idea// how bad it gets out there, in wild narrative."</source>
-        <target state="translated">あなたには//全く想像できない//どれほどひどいことになるか、野生の物語世界で。</target>
-      </segment>
-    </unit>
-    <unit id="280">
-      <segment>
-        <source>
-
-"//Guys//," Reggie said, a little louder.</source>
-        <target state="translated">
-
-「//みんな//」レジーは少し大きな声で言った。</target>
-      </segment>
-    </unit>
-    <unit id="281">
-      <segment>
-        <source>
-
-"Shut up, Reggie!"</source>
-        <target state="translated">
-
-「黙れ、レジー！」</target>
-      </segment>
-    </unit>
-    <unit id="282">
-      <segment>
-        <source>Kelly barked.[[footnote]] Ha, barked.</source>
-        <target state="translated">ケリーは吠えた。[ [脚注]] はい、吠えた。</target>
-      </segment>
-    </unit>
-    <unit id="283">
-      <segment>
-        <source>Because... you know what, never mind.</source>
-        <target state="translated">なぜなら... まあ、いいや。</target>
-      </segment>
-    </unit>
-    <unit id="284">
-      <segment>
-        <source>I'll try not to interrupt.</source>
-        <target state="translated">私は干渉しないようにします。</target>
-      </segment>
-    </unit>
-    <unit id="285">
-      <segment>
-        <source>-O[[/footnote]]"You're a selfish prick, Gordon.</source>
-        <target state="translated">-O[[/脚注]]「あなたは自己中心的なクソ野郎だ、ゴードン。</target>
-      </segment>
-    </unit>
-    <unit id="286">
-      <segment>
-        <source>You know that, right?</source>
-        <target state="translated">それを知っているよね？</target>
-      </segment>
-    </unit>
-    <unit id="287">
-      <segment>
-        <source>Maybe you're even a little proud of it, self-righteous.</source>
-        <target state="translated">もしかしたら、あなたはそれに少し誇りを持っているのかもしれません、自己義憤に満ちて。</target>
-      </segment>
-    </unit>
-    <unit id="288">
-      <segment>
-        <source>There's nothing to be fucking proud of in fucking, fucking others over because you don't care enough to even //think// of extending a hand to-"
-
-"//GUYS I'M A FUCKING HACKER//" Reggie yelled.[[footnote]]YES HAHA CHARACTER LOOK AT ME GO -O[[/footnote]]
-
-They turned.</source>
-        <target state="translated">他の人をクソみたいに扱うことに誇りを持つ理由なんて全くない、手を差し伸べることすら考えないからだ-」
-
-「//みんな、私はクソみたいなハッカーだ//」レジーが叫んだ。[ [脚注]] はい、ハハ、キャラクター、私を見て、行け -O[[/脚注]]
-
-彼らは振り向いた。</target>
-      </segment>
-    </unit>
-    <unit id="289">
-      <segment>
-        <source>
-
-"Oh, hey, yeah."</source>
-        <target state="translated">
-
-「おお、やあ、そうだ。」</target>
-      </segment>
-    </unit>
-    <unit id="290">
-      <segment>
-        <source>Gordon sniffed. "</source>
-        <target state="translated">ゴードンは鼻を鳴らした。「</target>
-      </segment>
-    </unit>
-    <unit id="291">
-      <segment>
-        <source>That."</source>
-        <target state="translated">それだ。」</target>
-      </segment>
-    </unit>
-    <unit id="292">
-      <segment>
-        <source>
-
-***
-&gt; ... The Ethics Committee has authorised an update of amnestic procedures on MTF-υ-4 members to encapsulate romantic, sexual and paternal feelings associated with deceased teammates, effective as of 15/12/2015.</source>
-        <target state="translated">
-
-***
-&gt; ... 倫理委員会は、故障したチームメイトに関連するロマンチック、性的、父性的感情をカプセル化するために、MTF-υ-4メンバーに対する記憶喪失手続きの更新を承認しました。2015年12月15日付け。</target>
-      </segment>
-    </unit>
-    <unit id="293">
-      <segment>
-        <source>
-
-Gordon scratched at his beard.</source>
-        <target state="translated">
-
-ゴードンはひげをかきむしった。</target>
-      </segment>
-    </unit>
-    <unit id="294">
-      <segment>
-        <source>
-
-"[[[scp-2559|Bit grim.]]]"</source>
-        <target state="translated">
-
-「[[[scp-2559|ちょっと陰鬱だ。]]]」</target>
-      </segment>
-    </unit>
-    <unit id="295">
-      <segment>
-        <source>
-
-Gordon and Kelly stood behind Reggie in a cramped office, trying to ignore the lilting alarm signalling their presence.</source>
-        <target state="translated">
-
-ゴードンとケリーは狭いオフィスでレジーの後ろに立ち、彼らの存在を知らせるメロディックなアラームを無視しようとしました。</target>
-      </segment>
-    </unit>
-    <unit id="296">
-      <segment>
-        <source>
-
-"You guys were reading through it too fast, I didn't catch all of it."</source>
-        <target state="translated">
-
-「君たちはそれを読みすぎていて、私は全部はキャッチできなかった。」</target>
-      </segment>
-    </unit>
-    <unit id="297">
-      <segment>
-        <source>Kelly was biting her lip, worried. "</source>
-        <target state="translated">ケリーは心配そうに唇を噛んでいた。「</target>
-      </segment>
-    </unit>
-    <unit id="298">
-      <segment>
-        <source>Is it, like... when you know about it you get infected?</source>
-        <target state="translated">それは、例えば... 知っていると感染するようなものですか？</target>
-      </segment>
-    </unit>
-    <unit id="299">
-      <segment>
-        <source>Are we infected now?"</source>
-        <target state="translated">私たちは今感染しているのですか？」</target>
-      </segment>
-    </unit>
-    <unit id="300">
-      <segment>
-        <source>
-
-Gordon and Reggie whipped their heads around, their eyes wide.</source>
-        <target state="translated">
-
-ゴードンとレジーは目を見開いて頭を振り向けた。</target>
-      </segment>
-    </unit>
-    <unit id="301">
-      <segment>
-        <source>
-
-"Ah," said Gordon, "fuck."</source>
-        <target state="translated">
-
-「うわ」とゴードンは言った、「クソ。」</target>
-      </segment>
-    </unit>
-    <unit id="302">
-      <segment>
-        <source>
-
-Kelly's nose was bleeding.</source>
-        <target state="translated">
-
-ケリーの鼻から血が出ていた。</target>
-      </segment>
-    </unit>
-    <unit id="303">
-      <segment>
-        <source>
-
-"Guys?</source>
-        <target state="translated">
-
-「みんな？」</target>
-      </segment>
-    </unit>
-    <unit id="304">
-      <segment>
-        <source>What's-" she reached up to her face, touching it to the rivulet of blood running past her mouth, accidentally smearing a streak across her cheekbone. "</source>
-        <target state="translated">何が-」彼女は自分の顔に手を伸ばし、口の横を流れる血の筋に触れ、それを頬骨に沿って塗りつけてしまった。「</target>
-      </segment>
-    </unit>
-    <unit id="305">
-      <segment>
-        <source>Oh, ok.</source>
-        <target state="translated">ああ、わかった。</target>
-      </segment>
-    </unit>
-    <unit id="306">
-      <segment>
-        <source>Right, yeah, fair."</source>
-        <target state="translated">そうだ、はい、公平だ。」</target>
-      </segment>
-    </unit>
-    <unit id="307">
-      <segment>
-        <source>She looked up at the other two, her eyes betraying the fear behind her brave face. "</source>
-        <target state="translated">彼女は他の二人を見上げ、その目は彼女の勇敢な顔の裏にある恐怖を裏切っていた。「</target>
-      </segment>
-    </unit>
-    <unit id="308">
-      <segment>
-        <source>I'd really prefer not to die, you guys."</source>
-        <target state="translated">本当に死にたくない、みんな。」</target>
-      </segment>
-    </unit>
-    <unit id="309">
-      <segment>
-        <source>
-
-"This can't be normal," Reggie said, scrolling hurriedly through the article. "</source>
-        <target state="translated">
-
-「これは普通ではないに違いない」とレジーは言い、記事を急いでスクロールした。「</target>
-      </segment>
-    </unit>
-    <unit id="310">
-      <segment>
-        <source>It doesn't fit any of the data on infection time.</source>
-        <target state="translated">感染時間に関するデータには合致しません。</target>
-      </segment>
-    </unit>
-    <unit id="311">
-      <segment>
-        <source>It might be something else?"</source>
-        <target state="translated">何か別のものかもしれませんか？」</target>
-      </segment>
-    </unit>
-    <unit id="312">
-      <segment>
-        <source>
-
-Gordon was frozen, staring at Kelly. "</source>
-        <target state="translated">
-
-ゴードンは凍りつき、ケリーを見つめていた。「</target>
-      </segment>
-    </unit>
-    <unit id="313">
-      <segment>
-        <source>No, I've seen this before.</source>
-        <target state="translated">いいえ、私はこれを以前に見たことがあります。</target>
-      </segment>
-    </unit>
-    <unit id="314">
-      <segment>
-        <source>T-virus.</source>
-        <target state="translated">Tウイルス。</target>
-      </segment>
-    </unit>
-    <unit id="315">
-      <segment>
-        <source>Badly written fanfic I was in for a few months.</source>
-        <target state="translated">私が数ヶ月間関わっていた下手に書かれたファンフィクションです。</target>
-      </segment>
-    </unit>
-    <unit id="316">
-      <segment>
-        <source>In all the other chapters, it took a couple hours, even a day to set in, but the author wanted to make things seem more dangerous, didn't care about continuity, so when my partner got bit... she changed instantly.'</source>
-        <target state="translated">他のすべての章では、効果が現れるまでに数時間、さらには1日かかりましたが、著者は物事をより危険に見せたかったのです。継続性は気にせず、私のパートナーが噛まれたとき... 彼女は瞬時に変わりました。」</target>
-      </segment>
-    </unit>
-    <unit id="317">
-      <segment>
-        <source>He turned his head toward Reggie, not willing to let Kelly out of his peripheral vision. "</source>
-        <target state="translated">彼はレジーの方に頭を向け、ケリーを視界の端から外さないようにした。「</target>
-      </segment>
-    </unit>
-    <unit id="318">
-      <segment>
-        <source>Don't you get it?</source>
-        <target state="translated">わからないのか？</target>
-      </segment>
-    </unit>
-    <unit id="319">
-      <segment>
-        <source>She's a plot device, and this thing is in her now.</source>
-        <target state="translated">彼女はプロットデバイスであり、このものは今彼女の中にある。</target>
-      </segment>
-    </unit>
-    <unit id="320">
-      <segment>
-        <source>It'll spread at whatever pace keeps the story going."</source>
-        <target state="translated">それは物語を進行させるペースで広がるだろう。」</target>
-      </segment>
-    </unit>
-    <unit id="321">
-      <segment>
-        <source>
-
-In the silence that followed, Gordon's phone started ringing.[[footnote]]What would be an appropriate ringtone for Gordon? [</source>
-        <target state="translated">
-
-その後の静寂の中で、ゴードンの電話が鳴り始めました。[ [脚注]] ゴードンに適した着信音は何でしょうか？ [</target>
-      </segment>
-    </unit>
-    <unit id="322">
-      <segment>
-        <source>https://strawpoll.com/edxxx4w Vote now on my strawpoll]!</source>
-        <target state="translated">https://strawpoll.com/edxxx4w 今すぐ私のストローポールで投票してください]！</target>
-      </segment>
-    </unit>
-    <unit id="323">
-      <segment>
-        <source>-O[[/footnote]] The noise rang loudly in the cramped room.</source>
-        <target state="translated">-O[[/脚注]] 騒音が狭い部屋に大きく響いた。</target>
-      </segment>
-    </unit>
-    <unit id="324">
-      <segment>
-        <source>He patted his jacket down and pulled out a blocky Nokia from his jacket, crumpled tissues and banana peels falling to the floor.</source>
-        <target state="translated">彼はジャケットを叩いて、ジャケットから角ばったノキアを取り出し、しわくちゃのティッシュとバナナの皮が床に落ちた。</target>
-      </segment>
-    </unit>
-    <unit id="325">
-      <segment>
-        <source>It was Penelope.</source>
-        <target state="translated">それはペネロペだった。</target>
-      </segment>
-    </unit>
-    <unit id="326">
-      <segment>
-        <source>
-
-Gordon thumbed the green phone icon as Kelly fell to the floor in a coughing fit. "</source>
-        <target state="translated">
-
-ゴードンは緑の電話アイコンを押し、ケリーが咳き込みながら床に倒れ込むのを見た。「</target>
-      </segment>
-    </unit>
-    <unit id="327">
-      <segment>
-        <source>Busy, Pen," he growled.</source>
-        <target state="translated">忙しい、ペン」と彼は唸った。</target>
-      </segment>
-    </unit>
-    <unit id="328">
-      <segment>
-        <source>
-
-"Yes, I know."</source>
-        <target state="translated">
-
-「はい、知っています。」</target>
-      </segment>
-    </unit>
-    <unit id="329">
-      <segment>
-        <source>Penelope sounded even more curt than usual, hard to hear under heavy static. "</source>
-        <target state="translated">ペネロペは普段よりもぶっきらぼうに聞こえ、重い静電気の下では聞き取りにくかった。「</target>
-      </segment>
-    </unit>
-    <unit id="330">
-      <segment>
-        <source>I've already read this part.</source>
-        <target state="translated">この部分はすでに読みました。</target>
-      </segment>
-    </unit>
-    <unit id="331">
-      <segment>
-        <source>Kelly is- " She was cut off under a swell of static fuzz.</source>
-        <target state="translated">ケリーは- 」彼女は静電気のざわめきの中で言葉を遮られた。</target>
-      </segment>
-    </unit>
-    <unit id="332">
-      <segment>
-        <source>Kelly was pushing herself up from the floor, her arms weak under her.</source>
-        <target state="translated">ケリーは床から自分を押し上げようとしていたが、腕は彼女の下で弱々しかった。</target>
-      </segment>
-    </unit>
-    <unit id="333">
-      <segment>
-        <source>She slipped in a puddle of blood and slapped back down. " -</source>
-        <target state="translated">彼女は血の水たまりで滑り、再び叩きつけられた。「</target>
-      </segment>
-    </unit>
-    <unit id="334">
-      <segment>
-        <source>//and it's all your fault//."
-
-"Yeah, I didn't catch any of that, but Kelly is really sick and it's maybe sort of a tiny bit my fault.</source>
-        <target state="translated">//そしてそれはすべてあなたのせいです//。」
-
-「うん、それは全く聞き取れなかったけど、ケリーは本当に具合が悪いし、もしかしたらそれは私のせいかもしれない。」</target>
-      </segment>
-    </unit>
-    <unit id="335">
-      <segment>
-        <source>Why are you calling?"</source>
-        <target state="translated">なぜ電話しているのですか？」</target>
-      </segment>
-    </unit>
-    <unit id="336">
-      <segment>
-        <source>
-
-Penelope sighed heavily on the other side of the line. "</source>
-        <target state="translated">
-
-ペネロペは電話の向こうで重いため息をついた。「</target>
-      </segment>
-    </unit>
-    <unit id="337">
-      <segment>
-        <source>Because that's what I do.</source>
-        <target state="translated">それが私の仕事だからです。</target>
-      </segment>
-    </unit>
-    <unit id="338">
-      <segment>
-        <source>I insisted on Overvoid showing me a section of himself, and this is all he was able to show me."</source>
-        <target state="translated">私はオーバーヴォイドに自分の一部を見せるように強く言ったのですが、彼が私に見せることができたのはこれだけです。」</target>
-      </segment>
-    </unit>
-    <unit id="339">
-      <segment>
-        <source>
-
-"What??"</source>
-        <target state="translated">
-
-「何？？」</target>
-      </segment>
-    </unit>
-    <unit id="340">
-      <segment>
-        <source>
-
-"I'm in a submarine right now, hence the static that was mentioned."</source>
-        <target state="translated">
-
-「私は今潜水艦の中にいます、だから先ほどの静電気です。」</target>
-      </segment>
-    </unit>
-    <unit id="341">
-      <segment>
-        <source>
-
-"No, wait, go back to Overvoid showing you parts of himself[[footnote]]Oh, god, please don't.</source>
-        <target state="translated">
-
-「いいえ、待って、オーバーヴォイドが自分の一部を見せているところに戻ってください[[脚注]] ああ、神様、お願いだからやめて。</target>
-      </segment>
-    </unit>
-    <unit id="342">
-      <segment>
-        <source>I can handle that exposition myself.</source>
-        <target state="translated">その説明は自分で処理できます。</target>
-      </segment>
-    </unit>
-    <unit id="343">
-      <segment>
-        <source>-O[[/footnote]]"
-
-"I need to get through my script."</source>
-        <target state="translated">-O[[/脚注]]"
-
-「スクリプトを通過させる必要があります。」</target>
-      </segment>
-    </unit>
-    <unit id="344">
-      <segment>
-        <source>
-
-"Make //this// part of your script."</source>
-        <target state="translated">
-
-「//これ//をスクリプトの一部にしてください。」</target>
-      </segment>
-    </unit>
-    <unit id="345">
-      <segment>
-        <source>
-
-"You think it isn't?"</source>
-        <target state="translated">
-
-「そう思わないの？」</target>
-      </segment>
-    </unit>
-    <unit id="346">
-      <segment>
-        <source>
-
-Gordon willed himself not to throw the phone at the ground. "</source>
-        <target state="translated">
-
-ゴードンは電話を地面に投げつけないように自分に言い聞かせた。「</target>
-      </segment>
-    </unit>
-    <unit id="347">
-      <segment>
-        <source>I'm tired of this meta shit, Pen.</source>
-        <target state="translated">このメタクソ話にはうんざりだ、ペン。</target>
-      </segment>
-    </unit>
-    <unit id="348">
-      <segment>
-        <source>There's a girl dying on the floor beside me.</source>
-        <target state="translated">私の隣の床で女の子が死にかけている。</target>
-      </segment>
-    </unit>
-    <unit id="349">
-      <segment>
-        <source>I can deal with my own nonexistence, but this is fucking cruel."</source>
-        <target state="translated">自分の非存在には対処できるが、これはクソみたいに残酷だ。」</target>
-      </segment>
-    </unit>
-    <unit id="350">
-      <segment>
-        <source>
-
-"Then shut up for a second and I'll say what I need to."</source>
-        <target state="translated">
-
-「じゃあ、黙っていて、私が言うべきことを言わせて。」</target>
-      </segment>
-    </unit>
-    <unit id="351">
-      <segment>
-        <source>She cleared her throat, overenunciating her words. "</source>
-        <target state="translated">彼女は咳払いをし、言葉をはっきりと発音した。「</target>
-      </segment>
-    </unit>
-    <unit id="352">
-      <segment>
-        <source>I, Penelope Panagiotopolous, am currently watching a giant squid fight an albino whale.</source>
-        <target state="translated">私、ペネロペ・パナギオトポウロスは、現在巨大なイカがアルビノのクジラと戦うのを見ています。</target>
-      </segment>
-    </unit>
-    <unit id="353">
-      <segment>
-        <source>I believe the squid is winning.</source>
-        <target state="translated">イカが勝っていると思います。</target>
-      </segment>
-    </unit>
-    <unit id="354">
-      <segment>
-        <source>Too much blood clouding the water to really be sure.</source>
-        <target state="translated">水を濁らせるほどの血が多すぎて、本当に確信は持てません。</target>
-      </segment>
-    </unit>
-    <unit id="355">
-      <segment>
-        <source>There, done.</source>
-        <target state="translated">はい、完了。</target>
-      </segment>
-    </unit>
-    <unit id="356">
-      <segment>
-        <source>Penelope, the coordinates you need to get to are 49° 19' 4.6596'' N, 17° 24' 8.4384'' W. Goodbye, Gordon.</source>
-        <target state="translated">ペネロペ、あなたが行くべき座標は北緯49°19'4.6596''、西経17°24'8.4384''です。さようなら、ゴードン。</target>
-      </segment>
-    </unit>
-    <unit id="357">
-      <segment>
-        <source>Ask Overvoid for help."</source>
-        <target state="translated">オーバーヴォイドに助けを求めてください。」</target>
-      </segment>
-    </unit>
-    <unit id="358">
-      <segment>
-        <source>
-
-At the exact moment Penelope hung up, there was a bang on the door.</source>
-        <target state="translated">
-
-ペネロペが電話を切った瞬間、ドアにバンという音がした。</target>
-      </segment>
-    </unit>
-    <unit id="359">
-      <segment>
-        <source>
-
-"That'll be security," Reggie said, still at the computer. "</source>
-        <target state="translated">
-
-「それはセキュリティだろう」とレジーは言った、まだコンピュータの前に座って。</target>
-      </segment>
-    </unit>
-    <unit id="360">
-      <segment>
-        <source>Was that Penelope?"</source>
-        <target state="translated">それはペネロペでしたか？」</target>
-      </segment>
-    </unit>
-    <unit id="361">
-      <segment>
-        <source>
-
-Gordon nodded. "</source>
-        <target state="translated">
-
-ゴードンは頷いた。「</target>
-      </segment>
-    </unit>
-    <unit id="362">
-      <segment>
-        <source>She was no fucking use.</source>
-        <target state="translated">彼女は全く役に立たなかった。</target>
-      </segment>
-    </unit>
-    <unit id="363">
-      <segment>
-        <source>Talked about watching animals fighting in a submarine"
-
-"It's probably some worldbuilding shit, like before."</source>
-        <target state="translated">潜水艦で動物が戦うのを見ていたと言っていた」
-
-「おそらく以前と同じような世界設定のクソだろう。」</target>
-      </segment>
-    </unit>
-    <unit id="364">
-      <segment>
-        <source>The banging was getting louder and faster, more guards joining the first. "</source>
-        <target state="translated">ノックの音は大きくなり、速くなり、最初の警備員に他の警備員が加わった。「</target>
-      </segment>
-    </unit>
-    <unit id="365">
-      <segment>
-        <source>We need to get out soon if there's any hope for Kelly.</source>
-        <target state="translated">ケリーに希望があるなら、すぐに出なければなりません。</target>
-      </segment>
-    </unit>
-    <unit id="366">
-      <segment>
-        <source>Finish the story before she dies."</source>
-        <target state="translated">彼女が死ぬ前に物語を終わらせて。」</target>
-      </segment>
-    </unit>
-    <unit id="367">
-      <segment>
-        <source>
-
-"What if her death //is// the end of the story?"</source>
-        <target state="translated">
-
-「彼女の死が物語の終わりだとしたら？」</target>
-      </segment>
-    </unit>
-    <unit id="368">
-      <segment>
-        <source>
-
-Reggie shrugged. "</source>
-        <target state="translated">
-
-レジーは肩をすくめた。「</target>
-      </segment>
-    </unit>
-    <unit id="369">
-      <segment>
-        <source>You know I don't really understand any of this shit.</source>
-        <target state="translated">私はこのクソのどれも本当に理解していないことを知っています。</target>
-      </segment>
-    </unit>
-    <unit id="370">
-      <segment>
-        <source>You're right, I'm just-"
-
-Kelly started screaming, louder than the alarm, louder than it seemed like it should be possible for her to scream.</source>
-        <target state="translated">あなたが正しい、私はただ-
-
-ケリーはアラームよりも大きな声で、彼女が叫ぶことができるはずの音量よりも大きな声で叫び始めた。</target>
-      </segment>
-    </unit>
-    <unit id="371">
-      <segment>
-        <source>
-
-@@ @@ [[footnote]]I can help here, Gordon.</source>
-        <target state="translated">
-
-@@ @@ [[脚注]] ここで助けることができます、ゴードン。</target>
-      </segment>
-    </unit>
-    <unit id="372">
-      <segment>
-        <source>You haven't asked yet, but for Kelly's sake, I think it's right to do so.</source>
-        <target state="translated">まだ頼んでいませんが、ケリーのためにそうするのが正しいと思います。</target>
-      </segment>
-    </unit>
-    <unit id="373">
-      <segment>
-        <source>-O[[/footnote]]
-
-"HOW THE FUCK CAN I HEAR YOU?!"</source>
-        <target state="translated">-O[[/脚注]]
-
-「どうやってお前の声が聞こえるんだ？！」</target>
-      </segment>
-    </unit>
-    <unit id="374">
-      <segment>
-        <source>Gordon yelled.</source>
-        <target state="translated">ゴードンは叫んだ。</target>
-      </segment>
-    </unit>
-    <unit id="375">
-      <segment>
-        <source>
-
-@@ @@ [[footnote]]I'm good at pulling things out of my ass, Gordon.</source>
-        <target state="translated">
-
-@@ @@ [[脚注]] 私は物事をうまく引き出すのが得意です、ゴードン。</target>
-      </segment>
-    </unit>
-    <unit id="376">
-      <segment>
-        <source>I'm the living embodiment of this story.</source>
-        <target state="translated">私はこの物語の生きた具現化です。</target>
-      </segment>
-    </unit>
-    <unit id="377">
-      <segment>
-        <source>Now, lets chart our way out of here.</source>
-        <target state="translated">さあ、ここからの道を描きましょう。</target>
-      </segment>
-    </unit>
-    <unit id="378">
-      <segment>
-        <source>I'm very sorry, but you're not going to like what's next.</source>
-        <target state="translated">非常に申し訳ありませんが、次に何が起こるかは気に入らないでしょう。</target>
-      </segment>
-    </unit>
-    <unit id="379">
-      <segment>
-        <source>I can only capture fragments... -O[[/footnote]]
-
-&gt; e found it.</source>
-        <target state="translated">私は断片しかキャッチできません... -O[[/脚注]]
-
-&gt; eがそれを見つけました。</target>
-      </segment>
-    </unit>
-    <unit id="380">
-      <segment>
-        <source>Third drawer down, fifth across.</source>
-        <target state="translated">下から三番目の引き出し、横に五番目。</target>
-      </segment>
-    </unit>
-    <unit id="381">
-      <segment>
-        <source>The gun held only one bullet, but
-
-&gt; ing and slashing and screaming, screaming, screaming his lungs out, willing himself onward throu
-
-&gt; ntersection and took the right on instinct, calling for Reggie to follow him, Kelly propped up semi-consc
-
-&gt; the keypad.</source>
-        <target state="translated">銃には弾丸が一発しか装填されていなかったが、
-
-&gt; 叫び、叫び、叫びながら、彼は自分を前進させることを望み、
-
-&gt; 交差点を曲がり、本能で右に進み、レジーに続くように叫び、ケリーは半意識の状態で支えられ、
-
-&gt; キーパッドに向かった。</target>
-      </segment>
-    </unit>
-    <unit id="382">
-      <segment>
-        <source>Six digits.</source>
-        <target state="translated">6桁。</target>
-      </segment>
-    </unit>
-    <unit id="383">
-      <segment>
-        <source>The day his daughter had been born.</source>
-        <target state="translated">彼の娘が生まれた日。</target>
-      </segment>
-    </unit>
-    <unit id="384">
-      <segment>
-        <source>The elevator dinged open and out stepped
-
-&gt; nd concentrated hard, cradling Kelly's body, willing for a jump cut, not wanting to remember every detail of what he'd had to
-
-&gt; **SUFRG MUVR**
-
-The information rushed into Gordon's head, images stitching into a story as he filled in the blanks.</source>
-        <target state="translated">エレベーターのドアが開き、出てきた
-
-&gt; ケリーの体を抱え込み、ジャンプカットを望み、彼がしなければならなかったことのすべての詳細を思い出したくないと強く集中した。
-
-&gt; **SUFRG MUVR**
-
-情報がゴードンの頭に押し寄せ、画像が物語に縫い合わされて空白を埋めていった。</target>
-      </segment>
-    </unit>
-    <unit id="385">
-      <segment>
-        <source>He nodded and dashed for the wall of filing cabinets.</source>
-        <target state="translated">彼は頷き、ファilingキャビネットの壁に向かって突進した。</target>
-      </segment>
-    </unit>
-    <unit id="386">
-      <segment>
-        <source>
-
-
-***
-
-Gordon blinked hard, fat tears streaming down his face.</source>
-        <target state="translated">
-
-
-***
-
-ゴードンは目をしっかりと瞬きさせ、大粒の涙を流した。</target>
-      </segment>
-    </unit>
-    <unit id="387">
-      <segment>
-        <source>Had it worked?</source>
-        <target state="translated">うまくいったのか？</target>
-      </segment>
-    </unit>
-    <unit id="388">
-      <segment>
-        <source>Had he skipped the-
-
-Yes, he had.</source>
-        <target state="translated">彼は飛ばしてしまったのか-
-
-はい、彼はそうした。</target>
-      </segment>
-    </unit>
-    <unit id="389">
-      <segment>
-        <source>He could already feel the memories fading away, nothing but Overvoid's bright flashes remaining.</source>
-        <target state="translated">彼はすでに記憶が薄れていくのを感じていた、オーバーヴォイドの明るい閃光だけが残っている。</target>
-      </segment>
-    </unit>
-    <unit id="390">
-      <segment>
-        <source>What had he done?</source>
-        <target state="translated">彼は何をしてしまったのか？</target>
-      </segment>
-    </unit>
-    <unit id="391">
-      <segment>
-        <source>Where were they?</source>
-        <target state="translated">彼らはどこにいるのか？</target>
-      </segment>
-    </unit>
-    <unit id="392">
-      <segment>
-        <source>He looked around and recognised the bank of sand they'd begun on, all those paragraphs ago.</source>
-        <target state="translated">彼は周りを見回し、あの砂の銀行を認識した、あのすべての段落の始まりの場所を。</target>
-      </segment>
-    </unit>
-    <unit id="393">
-      <segment>
-        <source>Everything the same, but everything changed.</source>
-        <target state="translated">すべては同じだが、すべてが変わった。</target>
-      </segment>
-    </unit>
-    <unit id="394">
-      <segment>
-        <source>He looked down to Kelly, in his arms.</source>
-        <target state="translated">彼は彼女の腕の中のケリーを見下ろした。</target>
-      </segment>
-    </unit>
-    <unit id="395">
-      <segment>
-        <source>Her dark skin was bleached white from the palm to the shoulder on both sides, the spread almost visibly fast.</source>
-        <target state="translated">彼女の暗い肌は両側の手のひらから肩まで白く漂白されており、その広がりはほとんど目に見えるほど速かった。</target>
-      </segment>
-    </unit>
-    <unit id="396">
-      <segment>
-        <source>Her face was a Rorschach paint splatter as she stared at him through bloodshot eyes, her cheeks and lips pale.</source>
-        <target state="translated">彼女の顔はロールシャッハの絵の具の飛び散りのようで、血走りの目で彼を見つめ、頬と唇は青白かった。</target>
-      </segment>
-    </unit>
-    <unit id="397">
-      <segment>
-        <source>
-
-"I'm... my lungs itch, Gordon.</source>
-        <target state="translated">
-
-「私は... 肺がむずむずする、ゴードン。</target>
-      </segment>
-    </unit>
-    <unit id="398">
-      <segment>
-        <source>I can't take this much long-" She was cut off under a swell of static fuzz.</source>
-        <target state="translated">これ以上は耐えられない-" 彼女は激しい咳き込みに遮られ、血と痰の塊がゴードンのジャケットに飛び散った。</target>
-      </segment>
-    </unit>
-    <unit id="399">
-      <segment>
-        <source>She wiped her mouth with her sleeve, shaky. "</source>
-        <target state="translated">彼女は袖で口を拭い、震えながら言った。「</target>
-      </segment>
-    </unit>
-    <unit id="400">
-      <segment>
-        <source>Help me get this off," she said, pulling at her shirt. "</source>
-        <target state="translated">これを脱がせて手伝って、彼女はシャツを引っ張りながら言った。「</target>
-      </segment>
-    </unit>
-    <unit id="401">
-      <segment>
-        <source>I can't breathe."</source>
-        <target state="translated">息ができない。」</target>
-      </segment>
-    </unit>
-    <unit id="402">
-      <segment>
-        <source>
-
-As he unbuttoned her jacket, his hands shaking and sticky with copious amounts of blood, she continued, rambling. "</source>
-        <target state="translated">
-
-彼女のジャケットのボタンを外しながら、彼の手は震え、血でべたべたしていたが、彼女は話を続け、取り留めのないことを言った。「</target>
-      </segment>
-    </unit>
-    <unit id="403">
-      <segment>
-        <source>You're an asshole, Gordon, but get it.</source>
-        <target state="translated">あなたはクソ野郎だ、ゴードン、でもそれを理解して。</target>
-      </segment>
-    </unit>
-    <unit id="404">
-      <segment>
-        <source>It's because you have to go through shit like this, right?"</source>
-        <target state="translated">こんなクソみたいなことを通り抜けなければならないからだよね？」</target>
-      </segment>
-    </unit>
-    <unit id="405">
-      <segment>
-        <source>Another coughing fit, harder than the first, racked her body. "</source>
-        <target state="translated">最初の咳き込みよりも強い別の咳き込みが彼女の体を襲った。「</target>
-      </segment>
-    </unit>
-    <unit id="406">
-      <segment>
-        <source>Fucking edgy asshole authors, right?"</source>
-        <target state="translated">クソみたいに尖ったクソ野郎の著者たち、そうだろ？」</target>
-      </segment>
-    </unit>
-    <unit id="407">
-      <segment>
-        <source>She grinned, her body limp as he lifted her gently and pulled her jacket out from beneath her. "</source>
-        <target state="translated">彼女はにっこり笑い、彼が優しく彼女を持ち上げてジャケットを彼女の下から引き抜くと、彼女の体はだらりと力が抜けたままだった。「</target>
-      </segment>
-    </unit>
-    <unit id="408">
-      <segment>
-        <source>You're a good man, Gordon."</source>
-        <target state="translated">あなたは良い人だ、ゴードン。」</target>
-      </segment>
-    </unit>
-    <unit id="409">
-      <segment>
-        <source>
-
-"You know that's not true."</source>
-        <target state="translated">
-
-「それが真実ではないことは知っている。」</target>
-      </segment>
-    </unit>
-    <unit id="410">
-      <segment>
-        <source>He propped her against a rock and pulled her t-shirt over her head.</source>
-        <target state="translated">彼は彼女を岩に寄りかからせ、Tシャツを頭から引き抜いた。</target>
-      </segment>
-    </unit>
-    <unit id="411">
-      <segment>
-        <source>He blinked as he saw her mottled skin, the white letters across her chest. **</source>
-        <target state="translated">彼は彼女のまだらな肌、胸にある白い文字を見てまばたきした。**</target>
-      </segment>
-    </unit>
-    <unit id="412">
-      <segment>
-        <source>SUFRG MUVR**.</source>
-        <target state="translated">SUFRG MUVR**。</target>
-      </segment>
-    </unit>
-    <unit id="413">
-      <segment>
-        <source>What the fuck.</source>
-        <target state="translated">何だこれは。</target>
-      </segment>
-    </unit>
-    <unit id="414">
-      <segment>
-        <source>//What the fuck//.
-
-"Fake it until you make it, right Gordon?"</source>
-        <target state="translated">//何だこれは//。
-
-「うまくいくまでごまかせ、そうだろゴードン？」</target>
-      </segment>
-    </unit>
-    <unit id="415">
-      <segment>
-        <source>She was staring into nothingness, her eyes fading.</source>
-        <target state="translated">彼女は無の中を見つめており、目はかすんでいた。</target>
-      </segment>
-    </unit>
-    <unit id="416">
-      <segment>
-        <source>This was it. "</source>
-        <target state="translated">これがそれだった。「</target>
-      </segment>
-    </unit>
-    <unit id="417">
-      <segment>
-        <source>Just remember..."
-
-The howling wind caught her final words, swiping them away from Gordon and across the barren desert.</source>
-        <target state="translated">ただ覚えておいて...
-
-うねりながら吹く風が彼女の最後の言葉を捉え、ゴードンから遠ざけ、荒涼とした砂漠を横切って運んでいった。</target>
-      </segment>
-    </unit>
-    <unit id="418">
-      <segment>
-        <source>
-
-[[[http://pastebin.com/APNCWbCD|THE END]]]
-
-
-[[/collapsible]]
-
------
-
-Shenanigan 3: [[[SCP-2779]]] - {{COMING SOON}}
-
------
-
-Climactic Finale Super Spectacular - {{COMING A LITTLE LESS SOON BUT LIKE STILL FAIRLY SOON}}
-</source>
-        <target state="translated">
-
-[[[http://pastebin.com/APNCWbCD|終わり]]]
-
-
-[[/collapsible]]
-
------
-
-Shenanigan 3: [[[SCP-2779]]] - {{近日公開}}
-
------
-
-クライマックスフィナーレスーパースペクタキュラー - {{もう少し早く、でもまだかなり早く公開予定}}
-</target>
+        <target state="translated">そういう場合、その平面は常に芽吹きの起点となった原初平面――その作家実体に属する面――だ。」</target>
       </segment>
     </unit>
   </file>
