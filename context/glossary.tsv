@@ -33,6 +33,9 @@ Head of Human Resources	人事部長	npr	労働組合内役職。略称不可。
 Heimlich maneuver	ハイムリック法	n	応急処置法。カタカナ+法で統一。	ハイムリックマヌーバ
 Hippo (Dr. Hippo)	ヒッポ	npr	愛称。語尾長音なし。	ヒッポー
 hypernarrative entity	超物語実体	n	上位ナラティブ層横断可能な抽出後存在。複数形でも同形。	ハイパーナラティブエンティティ, ハイパー・ナラティブエンティティ
+persistent narrative entity	持続型物語実体	n	原語 persistent narrative entity。恒常的記憶保持性を有する分類。文頭以外で語順変更不可。	持続的物語実体, 永続型ナラティブ実体, 持続物語実体
+adaptive narrative entity	適応型物語実体	n	原語 adaptive narrative entity。能力/形態/アイデンティティを物語要請に合わせ変化。	適応する物語実体, 適合型ナラティブ実体, アダプティブ物語実体
+irritating narrative entity	刺激性（Irritating）物語実体	n	原語 irritating narrative entity。煩瑣・苛立要素を付与し名目的包含維持を要する分類。括弧内英語は初出補足のみ可。	苛立たせる物語実体, うっとうしい物語実体, イライラ物語実体
 Kain (old Kain)	ケイン	npr	旧知の人物."老ケイン" とする場合のみ文頭表記。	ケイン
 King (Dr. King)	キング	npr	氏名。原文 King のまま英語保持も可だが本文���は英語+博士。ローカライズ時カタカナにするなら統一。	キング博士（揺れ: King博士）
 Kirby (Dr. Kirby)	カービー	npr	長音表記統一。	カービィ
@@ -66,4 +69,5 @@ narrative bulk	物語束	n	ハイパーカノン文脈の用語。bulk は「塊
 full narrative extraction	物語の完全抽出	n	Procedure Kuzco-Bueller の目的。フィクション内実体を現実層へ移入する抽出過程。語順固定。ダブルクオート不要。	完全な物語抽出, フル物語抽出, 物語完全抽出
 fiction	フィクション	n	作品ジャンル/媒体・抽象概念として常にカタカナ「フィクション」。漢語「虚構」や意訳に置換しない。文脈で可算/不可算の別なく統一。複合語 (science fiction 等) は既存方針に従い別途判断。	虚構
 fictional (entity / character)	フィクションの	adj	名詞前は「フィクションの〜」。必要に応じて関係補足で「フィクション上の」可。既存訳「虚構の」「架空の」へ安易に置換しない（語調/自然性確保が困難な場合のみ個別判断）。	虚構の, 架空の
+The Overvoid Lurk	オーバーヴォイド・ラーク	npr	MTF-ι-0 構成員表内の固有呼称。The は訳出しない。Lurk を「ラーク」（潜伏ニュアンスは訳注で補完可）。英語形保持不要。	オーバーヴォイド ラーク, オーバーヴォイド・ラルク, オーバーボイド・ラーク
 # End of file

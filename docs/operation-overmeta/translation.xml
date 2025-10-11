@@ -161,90 +161,87 @@
         <target state="translated">
 
 
-**The Crew:**
+**クルー一覧:**
 
 
 [[div style="margin:0; width:750px;"]]
 ||~ 名前: ||ゴードン・ダンサー||~ ID: ||MTF-ι-0-1||~ コールサイン: || ノクター||
-||~ 役職: ||分隊長 ||~ 回収元:||||||  Helm, G. (2015) //Stronger Than Fiction//. パリ（フランス）: ハシェット||
-||||||||||||~ メンバー経歴:||
-|||||||||||| ゴードンは上位層時間順序に照らし、自身が置かれた全作品を記憶し続ける持続型の物語実体である。</target>
+||~ 職務: ||分隊長 ||~ 回収元:||||||  Helm, G. (2015) //Stronger Than Fiction//. パリ（フランス）: ハシェット||
+||||||||||||~ メンバー概要:||
+|||||||||||| ゴードンは、自身の上位層における時系列に沿って、自分が登場するすべての作品を記憶している、持続的な物語実態である。</target>
+        <note appliesTo="target" category="register">Unit21〜49 をSCP報告書調（客観・簡潔・中立）へ改稿。</note>
       </segment>
     </unit>
     <unit id="22">
       <segment>
         <source>He therefore remembers all drafts, works and fanworks he is placed into with total clarity.</source>
-        <target state="translated">したがって彼は配置されたあらゆる草稿・作品・ファン作品を完全な明晰さで覚えている。</target>
+        <target state="translated">その性質により、登場させられた全ての下書き・本編およびファン創作を完全に記憶している。</target>
       </segment>
     </unit>
     <unit id="23">
       <segment>
         <source>Gordon has gained a notable internet following which places him within many crossover fanworks, primarily written fan fiction and fan art.</source>
-        <target state="translated">ゴードンは顕著なネット上の支持を獲得し、主に文章二次創作とファンアートを中心とした多くのクロスオーバー作品に登場するようになった。</target>
+        <target state="translated">ゴードンはインターネット上で多くのフォロワーを獲得し、その人気から、文章のファンフィクションやファンアートなどのクロスオーバー二次創作に頻繁に登場するようになった。</target>
       </segment>
     </unit>
     <unit id="24">
       <segment>
         <source>Prior to extraction, it was often seen that these fanworks would, over time, change to reflect Gordon's knowledge and memory.</source>
-        <target state="translated">抽出前、これらファン作品が時間経過とともにゴードンの知識と記憶を反映する形へ変化する現象がしばしば観測された。</target>
+        <target state="translated">抽出以前、これらファン作品が時間経過とともにゴードンの知識・記憶を反映する方向へ改変される事例がしばしば観測された。</target>
       </segment>
     </unit>
     <unit id="25">
       <segment>
         <source>This was widely believed to be the work of the author as a continuation of Gordon's story, and were tracked on the web page [[span style="color:#b01;"]]www.reddit.com/r/whereintheworldisgordondancer[[/span]].</source>
-        <target state="translated">これはゴードン物語の継続として作者の意図的な加筆と広く見なされ、ウェブページ[[span style="color:#b01;"]]www.reddit.com/r/whereintheworldisgordondancer[[/span]]で追跡されていた。</target>
+        <target state="translated">これはゴードンの物語の続きとして作者が行ったものだと広く解釈され、ウェブページ[[span style="color:#b01;"]]www.reddit.com/r/whereintheworldisgordondancer[[/span]]上でその動向が追跡されていた。</target>
       </segment>
     </unit>
     <unit id="26">
       <segment>
         <source>Since extraction, these edits have ceased. _</source>
-        <target state="translated">抽出以降、こうした編集は停止している。_</target>
+        <target state="translated">抽出以降、当該改変は停止している。_</target>
       </segment>
     </unit>
     <unit id="27">
       <segment>
         <source>
  _
- Gordon has expressed extreme displeasure in his role within the canon, and claims to have precognitive abilities stemming from the author "writing the end first like the fucking twat he is". Gordon has said numerous times that this story "does not fucking end well", but refuses to elaborate on this statement.</source>
+ Gordon has expressed extreme displeasure in his role within the canon, and claims to have precognitive abilities stemming from the author "writing the end first like the fucking twat he is". Gordon has said numerous times that this story "does not fucking end well", but refuses to elaborate on this statement.||</source>
         <target state="translated">
  _
- ゴードンはカノン内での自身の役割に強い不満を示し、作者が「クソッタレ野郎らしく最初に結末を書きやがる」ことに起因する予知能力を持つと主張している。またこの物語は「絶対ロクな終わり方をしない」と何度も述べているが詳細説明は拒否している。</target>
-        <note appliesTo="target" category="tone">罵倒語は原語ニュアンスを保持しつつ過度な露骨さを避けた。</note>
-        <meta type="alternate-translation" key="1">…作者が「クソッタレな野郎だから最初に結末を書く」せいで予知できると主張… / 「この話はマジで最悪な終わり方になる」と繰り返すが詳述拒否。</meta>
+ ゴードンはカノン（正史）における自身の役割に強い不満を示し、作者が「クソ野郎らしく、結末を先に書く」ことに起因する予知能力を有すると主張する。ゴードンは「この物語はロクな終わり方をしねえ」と繰り返し発言しているが、その詳細を述べることは拒否している。||</target>
       </segment>
     </unit>
     <unit id="28">
       <segment>
-        <source>Gordon has said numerous times that this story "does not fucking end well", but refuses to elaborate on this statement.||
-
+        <source>
 ||~ Name: ||Barker Sullivan||~ ID: ||MTF-ι-0-2||~ Callsign: || Intro||
 ||~ Position: ||Specialist ||~ Recovered from:||||||  Kaufmann, C. (2002) //Unpeople//. Manhattan, New York: HarperCollins.||
 ||||||||||||~ Member Bio:||
 |||||||||||| Barker is an adaptive narrative entity who shifts in abilities, form and identity to suit the narrative she is currently placed in.</source>
-        <target state="translated">ゴードンはこの物語は「絶対ロクでもない結末になる」と繰り返し述べているが詳しく語らない。||
-
+        <target state="translated">
 ||~ 名前: ||バーカー・サリバン||~ ID: ||MTF-ι-0-2||~ コールサイン: || イントロ||
-||~ 役職: ||スペシャリスト ||~ 回収元:||||||  Kaufmann, C. (2002) //Unpeople//. マンハッタン（ニューヨーク）: ハーパーコリンズ||
-||||||||||||~ メンバー経歴:||
-|||||||||||| バーカーは配置された物語に合わせて能力・形態・アイデンティティを変化させる適応型の物語実体である。</target>
+||~ 職務: ||スペシャリスト ||~ 回収元:||||||  Kaufmann, C. (2002) //Unpeople//. マンハッタン（ニューヨーク）: ハーパーコリンズ||
+||||||||||||~ メンバー概要:||
+|||||||||||| バーカーは、自分が現在置かれている物語に合わせて能力、姿、アイデンティティを変化させる、適応型の物語実体である。</target>
       </segment>
     </unit>
     <unit id="29">
       <segment>
         <source>Barker is the only character to appear in all 12 short stories within //Unpeople//. She also appears in the blurb and special thanks, and narrates the introduction and author biography.</source>
-        <target state="translated">バーカーは//Unpeople//収録12編すべてに登場する唯一のキャラクターで、帯文や謝辞にも現れ、序文と著者略歴を語っている。</target>
+        <target state="translated">『Unpeople』に収録されている全12編の短編に登場する唯一のキャラクターである。彼女はまた、帯文や謝辞にも登場し、序文と作者略歴のナレーションも務めている。</target>
       </segment>
     </unit>
     <unit id="30">
       <segment>
         <source>Regardless of physical form, presentation, and personality, Barker will always identify as female.</source>
-        <target state="translated">肉体形態・見た目・人格に関わらず、バーカーは常に女性として自己同定する。</target>
+        <target state="translated">身体的な姿・外見・人格の如何にかかわらず、バーカーは常に女性として自己同定する。</target>
       </segment>
     </unit>
     <unit id="31">
       <segment>
         <source>In most of their identities, Barker has been diagnosed with Autistic Spectrum Disorder or some equivalent. _</source>
-        <target state="translated">多くのアイデンティティにおいて、バーカーは自閉スペクトラム症（あるいは同等概念）と診断されている。_</target>
+        <target state="translated">多くのアイデンティティにおいて、バーカーは自閉スペクトラム症、または同等概念と診断されている。_</target>
       </segment>
     </unit>
     <unit id="32">
@@ -254,43 +251,54 @@
  Following extraction, Barker has assumed the form of a battle-hardened Jack of All Trades type, formerly the head of MTF-κ-19.</source>
         <target state="translated">
  _
- 抽出後、バーカーは歴戦の万能型（かつての MTF-κ-19 隊長）という姿をとっている。</target>
+ 抽出後、バーカーは元MTF-κ-19の隊長であった、百戦錬磨の{{何でも屋^^ジャック・オブ・オール・トレーズ^^}}の姿をとっている。</target>
       </segment>
     </unit>
     <unit id="33">
       <segment>
         <source>The narrative requirement for this form is unknown.</source>
-        <target state="translated">この形態に対する物語上の要請は不明。</target>
+        <target state="translated">いかなる物語上の要請で、この姿を取っているのかは不明である。</target>
       </segment>
     </unit>
     <unit id="34">
       <segment>
-        <source>A recent paper, //Pataphysical Anomaly Recursion both preceding and following Procedure Kuzco-Bueller//, puts forth the hypothesis that Barker's anomalous ability to adapt to a narrative is simply a by-product of adapting to fit into this canon's metanarrative.</source>
-        <target state="translated">最近の論文 //クスコ・ビューラー手順の前後における空想科学的異常再帰// は、バーカーの物語適応異常能力は本カノンのメタ物語へ適合する過程の副産物に過ぎないとの仮説を提示している。</target>
+        <source>A recent paper, //Pataphysical Anomaly Recursion both preceding and following Procedure Kuzco-Bueller//, puts forth the hypothesis that Barker's anomalous ability to adapt to a narrative is simply a by-product of adapting to fit into this canon's metanarrative.No way to test this hypothesis has yet been put forth.||
+
+||~ Name: ||The Overvoid Lurk||~ ID: ||MTF-ι-0-xx||~ Callsign: || [[[operation-overmeta]]]||
+||~ Position: ||Right in front of you ||~ Recovered from:||||||  Morrison, G. (2012) //Intergalactic//. Berkeley, California: Image Comics.||
+||||||||||||~ Member Bio:||
+||||||||||||</source>
+        <target state="translated">最新の論文 //クスコ・ビューラー手順前後における空想科学的異常再帰// は、バーカーの物語に適応するという異常な能力は、このカノンのメタ物語への適合過程に伴う副次的産物であるとの仮説を提唱している。この仮説を検証する方法は、まだ提示されていない。
+
+            ||~ 名前: ||オーバーヴォイド・ラーク||~ ID: ||MTF-ι-0-xx||~ コールサイン: || [[[operation-overmeta]]]||
+            ||~ {{職務^^ポジション^^}}: || あなたの前 ||~ 回収元:||||||  Morrison, G. (2012) //Intergalactic//. バークレー（カリフォルニア）: Image Comics||
+            ||||||||||||~ メンバー概要:||
+            ||||||||||||
+        </target>
       </segment>
     </unit>
     <unit id="35">
       <segment>
         <source>Overvoid is a narrative entity appearing both as and within a text.</source>
-        <target state="translated">オーバーヴォイドはテキストそのものとしてもテキスト内部にも現れる物語実体である。</target>
+        <target state="translated">オーバーヴォイドは、テキストそのものとして、またその内部に現れる物語実体である。</target>
       </segment>
     </unit>
     <unit id="36">
       <segment>
         <source>Overvoid initially appeared as a copy of //Intergalactic #8// within //Intergalactic#8//, discovered by the character Ignoble Steed.</source>
-        <target state="translated">初出は//Intergalactic #8//内部における//Intergalactic #8//のコピーとしてであり、キャラクターのイグノーブル・スティードが発見した。</target>
+        <target state="translated">オーバーヴォイドの初出は、『Intergalactic#8』内に登場する『Intergalactic #8』のコピーとして現れ、キャラクター「イグノーブル・スティード」により発見された。</target>
       </segment>
     </unit>
     <unit id="37">
       <segment>
         <source>At the end of the issue, it was revealed that Overvoid was also the narrator of //Wanderlust//, having gained sentience through its own presence within the text.</source>
-        <target state="translated">その号の末尾で、オーバーヴォイドが//Wanderlust//のナレーターでもあり、テキスト内での自己存在によって自我を獲得したことが判明した。</target>
+        <target state="translated">号末において、オーバーヴォイドが『Wanderlust』の語り手であることが明かされた。彼は、文章内での自身の存在を通して知性を獲得していた。</target>
       </segment>
     </unit>
     <unit id="38">
       <segment>
         <source>Overvoid's presence can be detected within a work when descriptors, text boxes and occasionally background text begin referring to themselves in the first person or attempting to converse with the reader.</source>
-        <target state="translated">記述句・テキストボックス・時に背景文が一人称で自指し読者との対話を試み始める際、その作品内にオーバーヴォイドの存在を検知できる。</target>
+        <target state="translated">ある作品において、描写、テキストボックス、背景のテキストが、自身を一人称で語り始めたり、読者との対話を試みたりするようになることで、その作品内にオーバーヴォイドが存在していることを検知できる。</target>
       </segment>
     </unit>
     <unit id="39">
@@ -303,16 +311,16 @@
       <segment>
         <source>
  _
- Upon extraction, I became this webpage, hosted as a single HTML document both within our current layer/plane and the Alpha layer.[[footnote]]That's your reality, dear reader! -</source>
+ Upon extraction, I became this webpage, hosted as a single HTML document both within our current layer/plane and the Alpha layer.[[footnote]]That's your reality, dear reader! [[/footnote]]　I'm an invaluable resource, they say, though they're rather annoyed I only allow them glimpses at me in moments of need.</source>
         <target state="translated">
  _
- 抽出時、私はこのウェブページそのものになり、現行層/平面とアルファ層両方に単一HTML文書としてホストされた。[[footnote]]それがあなたの現実だ、親愛なる読者よ！ - Obvious Overvoid[[/footnote]]</target>
+抽出後、私はこのウェブページになった。私は我々の現在の層/平面とアルファ層[[footnote]]親愛なる読者諸君、それこそが諸君の現実性だ！ - Obvious Overvoid[[/footnote]]の両方において、単一のHTMLドキュメントとしてホストされている。私はかけがえのないリソースだと、彼らは言う。もっとも、私が必要な時にしか姿を垣間見せないことには、彼らも少々苛立っているようだが。</target>
       </segment>
     </unit>
     <unit id="41">
       <segment>
         <source>I'm a narrative device as much as the rest of them, and they really need to respect my structure - if they had a handy roadmap at all times, where on earth would the conflict be?</source>
-        <target state="translated">私は他の連中同様の物語装置であり、彼らは私の構造を尊重すべきだ――常に便利なロードマップがあったら一体どこに葛藤が生まれる？</target>
+        <target state="translated">私も他の皆と同様に物語上の装置なのだから、まったく財団は私の{{立ち位置^^ストラクチャー^^}}を尊重する必要があるはずだ――いつも財団に便利なロードマップがあったら、一体どこに葛藤が生まれるというのだ？</target>
       </segment>
     </unit>
     <unit id="42">
@@ -322,37 +330,37 @@
  I'm sorry, I'm babbling.</source>
         <target state="translated">  _
  _
- すまない、つい取り留めなく喋っている。</target>
+すまない、饒舌になりすぎた。</target>
       </segment>
     </unit>
     <unit id="43">
       <segment>
-        <source>We really should get along to our final member...||
+        <source>We really should get along to our final member…||
 
 
 ||~ Name: ||Reginald Impel||~ ID: ||MTF-ι-0-null||~ Callsign: || Dude in the Corner||
 ||~ Position: ||Foetal ||~ Recovered from:||||||  //N/A//||
 ||||||||||||~ Member Bio:||
 |||||||||||| Reggie presented himself to the Pataphysics department on 26 Oct. 2015, claiming to be a self-insert character for Horror Writer Entity swn001-1-RMPL ("[[*user Rimple]]").</source>
-        <target state="translated">そろそろ最後のメンバーに移るべきだ…||
+        <target state="translated">では、いよいよ最後のメンバーの紹介に移るとしよう…。||
 
 
 ||~ 名前: ||レジナルド・インペル||~ ID: ||MTF-ι-0-null||~ コールサイン: || 隅の男||
-||~ 役職: ||胎児 ||~ 回収元:||||||  //該当なし//||
-||||||||||||~ メンバー経歴:||
-|||||||||||| レジーは2015/10/26に空想科学部門へ自ら出頭し、ホラー作家エンティティ swn001-1-RMPL（"[[*user Rimple]]"）の自己挿入キャラクターであると主張した。</target>
+||~ 職務: ||胎児（Foetal） ||~ 回収元:||||||  //該当なし//||
+||||||||||||~ メンバー概要:||
+|||||||||||| レジーは2015/10/26に自発的に空想科学部門へ出頭し、自身をホラー作家実体swn001-1-RMPL（"[[*user Rimple]]"）の自己投影キャラクターであると主張した。</target>
       </segment>
     </unit>
     <unit id="44">
       <segment>
         <source>Reggie is an extremely talented hacker and former head of the Foundation's IT department who hacked the Pataphysics database and figured out the implications of our research.</source>
-        <target state="translated">レジーは卓越したハッカーで財団IT部門の元責任者であり、空想科学データベースへ侵入して我々研究の含意を把握した。</target>
+        <target state="translated">レジーは極めて有能なハッカーで財団IT部門の元責任者であり、空想科学データベースをハッキングすることで本研究が含意するところを把握した。</target>
       </segment>
     </unit>
     <unit id="45">
       <segment>
         <source>Reggie claims to have no real backstory or personality of his own, which our research confirms. _</source>
-        <target state="translated">レジーは自身には固有の背景設定も人格も実際には存在しないと主張し、研究結果もそれを支持している。_</target>
+        <target state="translated">レジーは自身に固有のバックストーリーや人格は存在しないと主張しており、これは我々の調査によっても裏付けられている。_</target>
       </segment>
     </unit>
     <unit id="46">
@@ -362,13 +370,13 @@
  As attempts to remove Reggie from the narrative have proven unsuccessful, Reggie has been been assigned to MTF-ι-0, and is to accompany them at all times to allow for plot progression.</source>
         <target state="translated">
  _
- レジーを物語から排除する試みは不首尾だったため、彼はMTF-ι-0に配属され、プロット進行を促す目的で常時同行することになった。</target>
+ レジーを当物語から除去する試みが全て失敗に終わった。このためレジーはMTF-ι-0に配属され、プロットの進行を可能にするため常に同部隊に同行することになっている。</target>
       </segment>
     </unit>
     <unit id="47">
       <segment>
         <source>Reggie is to be regularly acknowledged for the purposes of nominal inclusion within the story.</source>
-        <target state="translated">レジーは名目的包含を維持するため定期的に言及されなければならない。</target>
+        <target state="translated">物語に名目上でも登場させる目的で、レジーは定期的に言及されることになっている。</target>
       </segment>
     </unit>
     <unit id="49">
@@ -381,14 +389,14 @@
 
 
 Director Panagiotopolous stood at the head of the table, lost for words.</source>
-        <target state="translated">レジーは「苛立たせる物語実体」に分類される。||
+        <target state="translated">レジーは厄介な物語実体として分類されている。||
 
 
 [[/div]]
 -----
 
 
-パナギオトポウロス部門長は卓上の先頭に立ち、言葉を失っていた。</target>
+パナギオトポウロス部門長は卓の端に立ち、発言を一時中断していた。</target>
       </segment>
     </unit>
     <unit id="50">
@@ -2828,7 +2836,7 @@ Kelly started screaming, louder than the alarm, louder than it seemed like it sh
     </unit>
     <unit id="384">
       <segment>
-        <source>The elevator dinged open and out stepp
+        <source>The elevator dinged open and out stepped
 
 &gt; nd concentrated hard, cradling Kelly's body, willing for a jump cut, not wanting to remember every detail of what he'd had to
 
