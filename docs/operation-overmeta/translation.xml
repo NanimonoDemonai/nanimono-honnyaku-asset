@@ -493,13 +493,13 @@ Jasmine pinched the bridge of her nose, sighing dramatically. "</source>
     <unit id="64">
       <segment>
         <source>This is a terrible way to start the story," she said, to nobody in particular. "</source>
-        <target state="translated">物語の始め方として最悪ね」と誰にともなく彼女は呟き、「</target>
+        <target state="translated">物語の始め方として、最悪」と誰にともなく彼女は呟き、「</target>
       </segment>
     </unit>
     <unit id="65">
       <segment>
         <source>You realise this is the start of the story, right?"</source>
-        <target state="translated">これが“物語の冒頭”だって自覚、あるんでしょうね？」</target>
+        <target state="translated">これが物語の冒頭だって自覚、あるの？」</target>
       </segment>
     </unit>
     <unit id="66">
@@ -519,7 +519,7 @@ Gordon hesitated for a second, then groaned as he sensed it himself. "</source>
     <unit id="68">
       <segment>
         <source>Because he doesn't know where to go with us!</source>
-        <target state="translated">俺たちをどう展開させればいいか分かってねぇんだよ！」</target>
+        <target state="translated">俺たちをどう展開させればいいか分かってねぇんだよ！</target>
       </segment>
     </unit>
     <unit id="69">
@@ -533,19 +533,19 @@ Gordon hesitated for a second, then groaned as he sensed it himself. "</source>
         <source>
 "So, wait, this isn't going in the final story, then?</source>
         <target state="translated">
-「じゃあさ、これは最終稿には入らないってこと？」</target>
+「じゃあ、待って、これは最終稿には入らないってこと？」</target>
       </segment>
     </unit>
     <unit id="71">
       <segment>
         <source>Is this even real?</source>
-        <target state="translated">これってそもそも“本物”なの？</target>
+        <target state="translated">これは現実なの？</target>
       </segment>
     </unit>
     <unit id="72">
       <segment>
         <source>For us, I mean?</source>
-        <target state="translated">――私たちにとって、って意味で？</target>
+        <target state="translated">私たちにとって、って意味で。</target>
       </segment>
     </unit>
     <unit id="73">
@@ -563,7 +563,7 @@ Gordon hesitated for a second, then groaned as he sensed it himself. "</source>
 
 **ドラフト2:**
 
-「で、つまり、大きな木と戦うってこと？」</target>
+「うーん、つまり、大きな木と戦うってこと？」</target>
       </segment>
     </unit>
     <unit id="74">
@@ -799,210 +799,6 @@ Sandra[[footnote]] If you haven't caught on yet, any time there's a new lady's n
       <segment>
         <source>He's being too clever and meta, not paying enough attention to the story.</source>
         <target state="translated">賢ぶってメタに偏りすぎ。肝心の物語を見てない。</target>
-      </segment>
-    </unit>
-    <unit id="105">
-      <segment>
-        <source>In a couple hundred words
-
------
-
-**Draft 5:**
-
-we haven't done anything remotely fucking interesting."</source>
-        <target state="translated">この数百単語で――
-
------
-
-**ドラフト5:**
-
-ろくに面白いこと一つ出来てない。」</target>
-      </segment>
-    </unit>
-    <unit id="106">
-      <segment>
-        <source>
-"Come on, that's bullshit, we've-"
-
-At the head of the table, Penelope coughed, and all heads turned.</source>
-        <target state="translated">
-「おい、それは言い過ぎだ、俺たちは――」
-
-卓の端でペネロペが咳払いし、全員の視線が向いた。</target>
-      </segment>
-    </unit>
-    <unit id="107">
-      <segment>
-        <source>It was a rather commanding cough.</source>
-        <target state="translated">それはかなり指揮権を帯びた咳だった。</target>
-      </segment>
-    </unit>
-    <unit id="108">
-      <segment>
-        <source>
-"Gordon is absolutely right.</source>
-        <target state="translated">
-「ゴードンの言うとおりだ。</target>
-      </segment>
-    </unit>
-    <unit id="109">
-      <segment>
-        <source>We've already lost..." She looked down at her phone, tapping the screen a couple times. "...</source>
-        <target state="translated">もう既に失っている…」彼女は端末を見下ろし画面を数度タップした。「…</target>
-      </segment>
-    </unit>
-    <unit id="110">
-      <segment>
-        <source>two readers, if our metrics are correct.</source>
-        <target state="translated">読者二人をな。指標が正しければ。」</target>
-      </segment>
-    </unit>
-    <unit id="111">
-      <segment>
-        <source>We'll earn a downvote for heavyhanded exposition with this very conversational track, but I believe it will be worth it.</source>
-        <target state="translated">この過度に会話ベースの露骨な説明でダウンボートを受けるだろうが、価値はあると信じている。</target>
-      </segment>
-    </unit>
-    <unit id="112">
-      <segment>
-        <source>I have a plan."</source>
-        <target state="translated">策はある。」</target>
-      </segment>
-    </unit>
-    <unit id="113">
-      <segment>
-        <source>
-
-Gordon shrugged, his enormous jacket audibly shifting.</source>
-        <target state="translated">
-
-ゴードンは肩をすくめ、巨大なジャケットがごそりと音を立てた。</target>
-      </segment>
-    </unit>
-    <unit id="114">
-      <segment>
-        <source>
-"Downvotes don't mean fuckall."</source>
-        <target state="translated">
-「ダウンボートなんてクソほど意味ねぇ。」</target>
-      </segment>
-    </unit>
-    <unit id="115">
-      <segment>
-        <source>I've done the Reddit thing.</source>
-        <target state="translated">Redditは散々経験してる。」</target>
-      </segment>
-    </unit>
-    <unit id="116">
-      <segment>
-        <source>They only delete if the author puts some horrible shit in."</source>
-        <target state="translated">削除されるのは作者が胸糞ぶち込んだ時だけだ。」</target>
-      </segment>
-    </unit>
-    <unit id="117">
-      <segment>
-        <source>He scowled. "</source>
-        <target state="translated">彼は顔をしかめた。「</target>
-      </segment>
-    </unit>
-    <unit id="118">
-      <segment>
-        <source>I still remember that shit, though.</source>
-        <target state="translated">でもあのクソは全部覚えてる。」</target>
-      </segment>
-    </unit>
-    <unit id="119">
-      <segment>
-        <source>It fucks you up.</source>
-        <target state="translated">頭の中ぐちゃぐちゃになるんだ。」</target>
-      </segment>
-    </unit>
-    <unit id="120">
-      <segment>
-        <source>The kind of shit the author isn't even comfortable having me //mention// right now."</source>
-        <target state="translated">作者が今ここで俺に//言及//させるのさえ嫌がる類いのやつだ。」</target>
-      </segment>
-    </unit>
-    <unit id="121">
-      <segment>
-        <source>
-"This isn't Reddit, we don't think."</source>
-        <target state="translated">
-「ここはRedditじゃない――はずだ。」</target>
-      </segment>
-    </unit>
-    <unit id="122">
-      <segment>
-        <source>We don't even know whether upper truth //has// a Reddit.</source>
-        <target state="translated">上位真実にRedditが//存在するか//さえ分かっていない。」</target>
-      </segment>
-    </unit>
-    <unit id="123">
-      <segment>
-        <source>Our research shows that when data points drop below a certain merit threshold, they disappear entirely, from all planes.</source>
-        <target state="translated">一定の評価閾値を下回ったデータポイントは全平面から完全に消失する――研究結果はそう示している。」</target>
-      </segment>
-    </unit>
-    <unit id="124">
-      <segment>
-        <source>Penelope's assistant,[[footnote]] The fuck was her name, again?</source>
-        <target state="translated">ペネロペの助手が、[[footnote]] えっと名前なんだった？</target>
-      </segment>
-    </unit>
-    <unit id="125">
-      <segment>
-        <source>She's not at all relevant to the story, really, except to prompt Penelope to acknowledge the beliefs of coldposters and such.</source>
-        <target state="translated">物語的には全然重要じゃない。ペネロペにコールドポスターの信念とかを拾わせるためだけの役だ。</target>
-      </segment>
-    </unit>
-    <unit id="126">
-      <segment>
-        <source>Oh, it doesn't matter.</source>
-        <target state="translated">まあどうでもいい。</target>
-      </segment>
-    </unit>
-    <unit id="127">
-      <segment>
-        <source>We'll call her Mary. -</source>
-        <target state="translated">メアリーってことにしよう。 -</target>
-      </segment>
-    </unit>
-    <unit id="128">
-      <segment>
-        <source>Over-This Overvoid[[/footnote]] Mary, piped up from behind her. "</source>
-        <target state="translated">Over-This Overvoid[[/footnote]] メアリーが後ろから口を挟んだ。「</target>
-      </segment>
-    </unit>
-    <unit id="129">
-      <segment>
-        <source>Not //all//, Dr. Panagiotopolous."</source>
-        <target state="translated">全部ではありません、パナギオトポウロス博士。」</target>
-      </segment>
-    </unit>
-    <unit id="130">
-      <segment>
-        <source>
-"Right, of course."</source>
-        <target state="translated">
-「そうだな。当然だ。」</target>
-      </segment>
-    </unit>
-    <unit id="131">
-      <segment>
-        <source>Penelope rubbed her cheekbone, prominent under her thin skin. "</source>
-        <target state="translated">ペネロペは薄い皮膚の下で浮き上がる頬骨を指でこすった。「</target>
-      </segment>
-    </unit>
-    <unit id="132">
-      <segment>
-        <source>There are occasional instances where they remain on just a single plane, utterly fruitless.</source>
-        <target state="translated">例外的に単一平面だけに残存して実を結ばないケースはある。</target>
-      </segment>
-    </unit>
-    <unit id="133">
-      <segment>
-        <source>That plane is always the original budding plane, the one belonging to their writer entity."</source>
-        <target state="translated">そういう場合、その平面は常に芽吹きの起点となった原初平面――その作家実体に属する面――だ。」</target>
       </segment>
     </unit>
   </file>
