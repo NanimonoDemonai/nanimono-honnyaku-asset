@@ -601,7 +601,7 @@ Penelope tapped the whiteboard again, gesturing to her scribbled diagrams. "</so
     <unit id="79">
       <segment>
         <source>As you're the most familiar with [[[scp-2975|impermanent reality as a writing gimmick]]], you'll be leading the task force for this mission."</source>
-        <target state="translated">[[[scp-2975|“移ろう現実”を執筆ギミックとして]]一番よく分かっているのは君だ。だからこの任務では隊を率いてくれ。」</target>
+        <target state="translated">[[[scp-2975|“移ろう現実”を執筆ギミックとして]]一番よく分かっているのは君だ。だからこの任務では君が隊を率いてくれ。」</target>
       </segment>
     </unit>
     <unit id="80">
@@ -621,7 +621,7 @@ Sally glanced over to Gordon, picking his teeth in the corner. "</source>
     <unit id="82">
       <segment>
         <source>Some of his fans have //got// to have experimented with Twine or some shit back in the day."</source>
-        <target state="translated">昔、Twine とかその手のので遊んでたファン、//絶対//いるでしょうし。」</target>
+        <target state="translated">昔、Twine とかその手のので遊んでたファン、//絶対//いるでしょう。」</target>
       </segment>
     </unit>
     <unit id="83">
