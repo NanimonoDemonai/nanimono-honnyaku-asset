@@ -452,7 +452,7 @@ Director Panagiotopolous stood at the head of the table, lost for words. "What o
     <unit id="57">
       <segment>
         <source>Fred made me think I'd be //escaping// the wanky meta bullshit by coming here."</source>
-        <target state="translated">フレッドがさ、ここへ来りゃあ、あの気取ったメタ臭い茶番から//抜け出せる//って信じ込ませたんだ。」</target>
+        <target state="translated">フレッドがさ、ここへ来りゃあ、あの気取ったメタ臭い茶番から//抜け出せる//って唆したんだ。」</target>
         <note appliesTo="target" category="style">読点追加で可読性向上。</note>
       </segment>
     </unit>

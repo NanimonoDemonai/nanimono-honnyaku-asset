@@ -4,8 +4,8 @@
     <unit id="1">
       <segment>
         <source>**Draft 5:**\n\nwe haven't done anything remotely fucking interesting."</source>
-        <target state="translated">**ドラフト 5:**\n\n俺たちはまだ少しもクソ面白いことをやれてない。"</target>
-        <note appliesTo="target" category="register">fuck 系は口語荒っぽく「クソ」で統一。</note>
+        <target state="translated">**ドラフト5:**\n\n俺たちはまだ少しもクソ面白いことをやれてない。"</target>
+        <note appliesTo="target" category="orthography">ドラフト番号の全ファイル統一方針に合わせスペース削除。</note>
       </segment>
     </unit>
     <unit id="2">
@@ -72,7 +72,8 @@
     <unit id="12">
       <segment>
         <source>They only delete if the author puts some horrible shit in."</source>
-        <target state="translated">作者がどうしようもないクソなもんを書き込んだ時に始めて削除されるんだ。」</target>
+        <target state="translated">作者がどうしようもないクソなもんを書き込んだ時に初めて削除されるんだ。」</target>
+        <note appliesTo="target" category="orthography">誤字「始めて」→「初めて」。</note>
       </segment>
     </unit>
     <unit id="13">
@@ -236,12 +237,9 @@ The team nodded along like they understood.</source>
     </unit>
     <unit id="38">
       <segment>
-        <source>
-
-"There's a few data points - very very few, hard to identify - which seem to be immune to 'deletion', as Gordon put it."</source>
-        <target state="translated">
-
-「少数のデータポイントには、非常に少数で、特定が難しいデータポイントには、ゴードンの言うところの『削除』に対して免疫があるようなのです。」</target>
+        <source>"There's a few data points - very very few, hard to identify - which seem to be immune to 'deletion', as Gordon put it."</source>
+        <target state="translated">「ごくわずかで特定が難しいデータポイントの中に、ゴードンの言う『削除』に対して免疫があるものがあるようなのです。」</target>
+        <note appliesTo="target" category="style">重複表現「少数の...非常に少数で、特定が難しいデータポイントには」簡潔化。</note>
       </segment>
     </unit>
     <unit id="39">
@@ -383,7 +381,7 @@ Penelope continued, getting into her stride. "</source>
     <unit id="59">
       <segment>
         <source>I think it was Dr. Huever, in the end.</source>
-        <target state="translated">その誰かこそ、ヒューバー博士しょう。</target>
+        <target state="translated">その誰かこそ、ヒューバー博士でしょう。</target>
       </segment>
     </unit>
     <unit id="60">
@@ -569,7 +567,7 @@ Aubrey was nodding for real this time. "</source>
     <unit id="86">
       <segment>
         <source>The rest of her sentence was lost in the wind.[[footnote]]You're not supposed to know what she said, but I heard it, so I'll let you in on it.</source>
-        <target state="translated">彼女の言葉の残りは風にさらわれてしまった。[[footnote]]彼女が何を言ったか、君たちは知る必要はないはずだが、私はそれを聞いたから、こっそり教えてあげよう。。</target>
+        <target state="translated">彼女の言葉の残りは風にさらわれてしまった。[[footnote]]彼女が何を言ったか、君たちは知る必要はないが、私は聞いたので、こっそり教えよう。</target>
       </segment>
     </unit>
     <unit id="87">
@@ -626,12 +624,9 @@ Gordon[[footnote]] And Reggie.</source>
     </unit>
     <unit id="95">
       <segment>
-        <source>
-
-"Because this is the location of Site 91.</source>
-        <target state="translated">
-
-「ここがサイト91の場所だからだ。</target>
+        <source>"Because this is the location of Site 91.</source>
+        <target state="translated">「ここがサイト-91の場所だからだ。</target>
+        <note appliesTo="target" category="clarification">Site 20 の既存方針に倣いハイフン付与（原文形 `Site 91` / `Site-91` 未確認のため暫定。要原文照合）。</note>
       </segment>
     </unit>
     <unit id="96">
@@ -1528,7 +1523,8 @@ Gordon was frozen, staring at Kelly. "</source>
     <unit id="215">
       <segment>
         <source>She's a plot device, and this thing is in her now.</source>
-        <target state="translated"> 彼女は物語を進めるための道具（プロットデバイス）なんだ。そして今、こいつは彼女の中にいる。</target>
+        <target state="translated">彼女は物語を進めるための道具（プロットデバイス）なんだ。そして今、こいつは彼女の中にいる。</target>
+        <note appliesTo="target" category="term">plot device → プロットデバイス（glossary 既存項目）括弧補足を保持。</note>
       </segment>
     </unit>
     <unit id="216">
@@ -1808,8 +1804,8 @@ Gordon willed himself not to throw the phone at the ground. "</source>
     <unit id="253">
       <segment>
         <source>Ask Overvoid for help."</source>
+        <target state="translated">オーバーヴォイドに助けを求めなさい。」</target>
         <target state="translated">オーバーボイドに助けを求めなさい。」</target>
-      </segment>
     </unit>
     <unit id="254">
       <segment>
@@ -2088,7 +2084,8 @@ Yes, he had.</source>
     <unit id="289">
       <segment>
         <source>Everything the same, but everything changed.</source>
-        <target state="translated">何もかも同じだが、何者かも変わってしまった。</target>
+        <target state="translated">何もかも同じだが、何もかも変わってしまった。</target>
+        <note appliesTo="target" category="orthography">誤変換「何者かも」→「何もかも」。</note>
       </segment>
     </unit>
     <unit id="290">
@@ -2106,7 +2103,8 @@ Yes, he had.</source>
     <unit id="292">
       <segment>
         <source>Her face was a Rorschach paint splatter as she stared at him through bloodshot eyes, her cheeks and lips pale.</source>
-        <target state="translated">。彼女の顔はロールシャッハ・テストのインクの染みのようであり、充血した目で彼を見つめていた。頬と唇は血の気を失っていた。</target>
+        <target state="translated">彼女の顔はロールシャッハ・テストのインク染みのようで、充血した目で彼を見つめていた。頬と唇は血の気を失っていた。</target>
+        <note appliesTo="target" category="orthography">文頭の不要な全角句点を除去し語順微調整。</note>
       </segment>
     </unit>
     <unit id="293">
@@ -2957,7 +2955,6 @@ Penelope frowned, but pulled out her phone and tapped at it for a second. "</sou
       <segment>
         <source>I... Overvoid?</source>
         <target state="translated">私……オーバーボイド？</target>
-      </segment>
     </unit>
     <unit id="415">
       <segment>
@@ -3638,7 +3635,7 @@ Samantha and Gordon exchanged looks.</source>
 Gordon groaned, spinning in his office chair in frustration. "</source>
         <target state="translated">
 
-            ゴードンはいらだってオフィスチェアをくるくる回しながら唸った。「</target>
+ゴードンはいらだってオフィスチェアをくるくる回しながら唸った。「</target>
       </segment>
     </unit>
     <unit id="502">
