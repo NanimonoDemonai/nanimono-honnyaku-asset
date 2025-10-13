@@ -84,9 +84,8 @@
     <unit id="12">
       <segment>
         <source>Put into plain English: we're going to make a canon.</source>
-        <target state="translated">平たく言えば――自前の公式設定（カノン）を作る。</target>
+        <target state="translated">平たく言えば――自前のカノンを作る。</target>
         <meta type="alternate-translation" key="1">要するに、我々独自のカノンを立ち上げる。</meta>
-        <note appliesTo="target" category="term">初出なので「公式設定（カノン）」と補足。</note>
       </segment>
     </unit>
     <unit id="13">
@@ -209,7 +208,7 @@
  Gordon has expressed extreme displeasure in his role within the canon, and claims to have precognitive abilities stemming from the author "writing the end first like the fucking twat he is". Gordon has said numerous times that this story "does not fucking end well", but refuses to elaborate on this statement.||</source>
         <target state="translated">
  _
- ゴードンはカノン（正史）における自身の役割に強い不満を示し、作者が「クソ野郎らしく、結末を先に書く」ことに起因する予知能力を有すると主張する。ゴードンは「この物語はロクな終わり方をしねえ」と繰り返し発言しているが、その詳細を述べることは拒否している。||</target>
+ ゴードンはカノンにおける自身の役割に強い不満を示し、作者が「クソ野郎らしく、結末を先に書く」ことに起因する予知能力を有すると主張する。ゴードンは「この物語はロクな終わり方をしねえ」と繰り返し発言しているが、その詳細を述べることは拒否している。||</target>
       </segment>
     </unit>
     <unit id="28">
