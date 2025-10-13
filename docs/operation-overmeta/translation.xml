@@ -32,7 +32,8 @@
     <unit id="5">
       <segment>
         <source>The most notable concentration of these points is, of course, the Database.</source>
-        <target state="translated">これらの接点が最も顕著に集中する場所は、無論“データベース”である。</target>
+        <target state="translated">これらの接点が最も顕著に集中する場所は、無論「データベース」である。</target>
+        <note appliesTo="target" category="style">強調の引用符を英語ダブルクォートから日本語かぎ括弧へ統一。</note>
       </segment>
     </unit>
     <unit id="6">
@@ -58,7 +59,8 @@
     <unit id="8">
       <segment>
         <source>Our grasp on the Alpha layer has greatly increased in the last month alone as such.</source>
-        <target state="translated">その結果、この 1 か月だけでも我々のアルファ層に対する理解は大きく向上した。</target>
+        <target state="translated">その結果、この1か月だけでも我々のアルファ層に対する理解は大きく向上した。</target>
+        <note appliesTo="target" category="style">半角スペースを除去し「この1か月」に統一。</note>
       </segment>
     </unit>
     <unit id="9">
@@ -167,7 +169,8 @@
 ||~ 名前: ||ゴードン・ダンサー||~ ID: ||MTF-ι-0-1||~ コールサイン: || ノクター||
 ||~ 職務: ||分隊長 ||~ 回収元:||||||  Helm, G. (2015) //Stronger Than Fiction//. パリ（フランス）: ハシェット||
 ||||||||||||~ メンバー概要:||
-|||||||||||| ゴードンは、自身の上位層における時系列に沿って、自分が登場するすべての作品を記憶している、持続的な物語実態である。</target>
+|||||||||||| ゴードンは、自身の上位層における時系列に沿って、自分が登場するすべての作品を記憶している、持続的な物語実体である。</target>
+        <note appliesTo="target" category="term">「物語実態」→「物語実体」に統一（他ユニットも同様修正）。</note>
         <note appliesTo="target" category="register">Unit21〜49 をSCP報告書調（客観・簡潔・中立）へ改稿。</note>
       </segment>
     </unit>
@@ -223,6 +226,7 @@
 ||~ 職務: ||スペシャリスト ||~ 回収元:||||||  Kaufmann, C. (2002) //Unpeople//. マンハッタン（ニューヨーク）: ハーパーコリンズ||
 ||||||||||||~ メンバー概要:||
 |||||||||||| バーカーは、自分が現在置かれている物語に合わせて能力、姿、アイデンティティを変化させる、適応型の物語実体である。</target>
+        <note appliesTo="target" category="term">用語統一: 物語実体。</note>
       </segment>
     </unit>
     <unit id="29">
@@ -270,10 +274,11 @@
         <target state="translated">最新の論文 //クスコ・ビューラー手順前後における空想科学的異常再帰// は、バーカーの物語に適応するという異常な能力は、このカノンのメタ物語への適合過程に伴う副次的産物であるとの仮説を提唱している。この仮説を検証する方法は、まだ提示されていない。
 
             ||~ 名前: ||オーバーヴォイド・ラーク||~ ID: ||MTF-ι-0-xx||~ コールサイン: || [[[operation-overmeta]]]||
-            ||~ {{職務^^ポジション^^}}: || あなたの前 ||~ 回収元:||||||  Morrison, G. (2012) //Intergalactic//. バークレー（カリフォルニア）: Image Comics||
+            ||~ 職務: || あなたの前 ||~ 回収元:||||||  Morrison, G. (2012) //Intergalactic//. バークレー（カリフォルニア）: Image Comics||
             ||||||||||||~ メンバー概要:||
             ||||||||||||
         </target>
+        <note appliesTo="target" category="style">「{{職務^^ポジション^^}}」の二重表記を整理し他行と統一（職務）。</note>
       </segment>
     </unit>
     <unit id="35">
@@ -314,12 +319,14 @@
         <target state="translated">
  _
 抽出後、私はこのウェブページになった。私は我々の現在の層/平面とアルファ層[[footnote]]親愛なる読者諸君、それこそが諸君の現実性だ！ - Obvious Overvoid[[/footnote]]の両方において、単一のHTMLドキュメントとしてホストされている。私はかけがえのないリソースだと、彼らは言う。もっとも、私が必要な時にしか姿を垣間見せないことには、彼らも少々苛立っているようだが。</target>
+        <note appliesTo="target" category="style">原文 footnote 内末尾に署名がないため、既存訳のハイフン署名は保持（意図的）。</note>
       </segment>
     </unit>
     <unit id="41">
       <segment>
         <source>I'm a narrative device as much as the rest of them, and they really need to respect my structure - if they had a handy roadmap at all times, where on earth would the conflict be?</source>
         <target state="translated">私も他の皆と同様に物語上の装置なのだから、まったく財団は私の{{立ち位置^^ストラクチャー^^}}を尊重する必要があるはずだ――いつも財団に便利なロードマップがあったら、一体どこに葛藤が生まれるというのだ？</target>
+        <note appliesTo="target" category="style">「ストラクチャー」訳注マーク保持（用語ニュアンス補足）。</note>
       </segment>
     </unit>
     <unit id="42">
@@ -353,7 +360,8 @@
     <unit id="44">
       <segment>
         <source>Reggie is an extremely talented hacker and former head of the Foundation's IT department who hacked the Pataphysics database and figured out the implications of our research.</source>
-        <target state="translated">レジーは極めて有能なハッカーで財団IT部門の元責任者であり、空想科学データベースをハッキングすることで本研究が含意するところを把握した。</target>
+        <target state="translated">レジーは極めて有能なハッカーで財団IT部門の元責任者であり、空想科学データベースをハッキングすることで本研究の含意を把握した。</target>
+        <note appliesTo="target" category="style">「含意するところを把握した」→簡潔化。</note>
       </segment>
     </unit>
     <unit id="45">
@@ -444,7 +452,8 @@ Director Panagiotopolous stood at the head of the table, lost for words. "What o
     <unit id="57">
       <segment>
         <source>Fred made me think I'd be //escaping// the wanky meta bullshit by coming here."</source>
-        <target state="translated">フレッドがさ、ここへ来りゃああの気取ったメタ臭い茶番から//抜け出せる//って信じ込ませたんだ。」</target>
+        <target state="translated">フレッドがさ、ここへ来りゃあ、あの気取ったメタ臭い茶番から//抜け出せる//って信じ込ませたんだ。」</target>
+        <note appliesTo="target" category="style">読点追加で可読性向上。</note>
       </segment>
     </unit>
     <unit id="58">
@@ -758,32 +767,36 @@ isn't working."</source>
 
 **ドラフト4:**
 
-うまく行っていない。」</target>
+うまくいっていない。」</target>
+        <note appliesTo="target" category="orthography">「うまく行っていない」→「うまくいっていない」に表記統一。</note>
       </segment>
     </unit>
     <unit id="99">
       <segment>
-        <source>
-Sandra[[footnote]] If you haven't caught on yet, any time there's a new lady's name here it's Barker, from earlier.</source>
-        <target state="translated">サンドラ[[footnote]] まだ分かってない読者向け：ここで新しい女性名が出るたび、それはさっきのバーカーだ。</target>
+        <source>Sandra[[footnote]] If you haven't caught on yet, any time there's a new lady's name here it's Barker, from earlier.</source>
+        <target state="translated">サンドラ[[footnote]] まだ分かっていない読者向け：ここで新しい女性名が出るたび、それは先ほどのバーカーだ。[[/footnote]]</target>
+        <note appliesTo="target" category="style">脚注閉じタグ [[/footnote]] を追加し、語調統一（「さっきの」→「先ほどの」）。</note>
       </segment>
     </unit>
     <unit id="100">
       <segment>
         <source>She's doing her narrative shapeshifting thing.</source>
-        <target state="translated">彼女は物語的シェイプシフトをしている。</target>
+        <target state="translated">彼女が例の物語的シェイプシフトをしている。</target>
+        <note appliesTo="target" category="style">主語補完で滑らかさ調整。</note>
       </segment>
     </unit>
     <unit id="101">
       <segment>
         <source>That's her gimmick.- Opulent Overvoid[[/footnote]] scratched her nose, curious. "</source>
         <target state="translated">それが彼女のギミックなのだ。- Opulent Overvoid[[/footnote]] サンドラは鼻をかきながら首をかしげた。「</target>
+        <note appliesTo="target" category="style">文頭句点後の半角スペース除去済。</note>
       </segment>
     </unit>
     <unit id="102">
       <segment>
         <source>What isn't?"</source>
-        <target state="translated">何が“うまく行っていない”の？」</target>
+        <target state="translated">何が“うまくいっていない”の？」</target>
+        <note appliesTo="target" category="orthography">前行の「うまくいっていない」に合わせ統一。</note>
       </segment>
     </unit>
     <unit id="103">
@@ -792,12 +805,14 @@ Sandra[[footnote]] If you haven't caught on yet, any time there's a new lady's n
 "This drafty thing he's trying.</source>
         <target state="translated">
 「彼がやってるこのドラフトごっこだよ。</target>
+        <note appliesTo="target" category="style">前後の会話体と語調統一。語尾そのまま。</note>
       </segment>
     </unit>
     <unit id="104">
       <segment>
         <source>He's being too clever and meta, not paying enough attention to the story.</source>
-        <target state="translated">賢ぶってメタに偏りすぎ。肝心の物語を見てない。</target>
+        <target state="translated">賢ぶってメタに偏りすぎ。肝心の物語を見ていない。</target>
+        <note appliesTo="target" category="orthography">「見てない」→「見ていない」に統一（一文内で硬さを揃えるため）。</note>
       </segment>
     </unit>
   </file>
