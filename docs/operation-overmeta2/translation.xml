@@ -485,7 +485,7 @@ Aubrey was nodding for real this time. "</source>
 
 -----
 
-[[collapsible show="Shenanigan 1: SCP-2559" hide="やあ、オーバーボイドだ。</target>
+[[collapsible show="Shenanigan 1: SCP-2559" hide="やあ、オーバーヴォイドだ。</target>
       </segment>
     </unit>
     <unit id="74">
@@ -1523,7 +1523,7 @@ Gordon was frozen, staring at Kelly. "</source>
     <unit id="215">
       <segment>
         <source>She's a plot device, and this thing is in her now.</source>
-        <target state="translated">彼女は物語を進めるための道具（プロットデバイス）なんだ。そして今、こいつは彼女の中にいる。</target>
+        <target state="translated">彼女は{{プロットデバイス^^物語を進めるための道具^^}}なんだ。そして今、こいつは彼女の中にいる。</target>
         <note appliesTo="target" category="term">plot device → プロットデバイス（glossary 既存項目）括弧補足を保持。</note>
       </segment>
     </unit>
@@ -1805,7 +1805,7 @@ Gordon willed himself not to throw the phone at the ground. "</source>
       <segment>
         <source>Ask Overvoid for help."</source>
         <target state="translated">オーバーヴォイドに助けを求めなさい。」</target>
-        <target state="translated">オーバーボイドに助けを求めなさい。」</target>
+        <target state="translated">オーバーヴォイドに助けを求めなさい。」</target>
     </unit>
     <unit id="254">
       <segment>
@@ -2954,7 +2954,7 @@ Penelope frowned, but pulled out her phone and tapped at it for a second. "</sou
     <unit id="414">
       <segment>
         <source>I... Overvoid?</source>
-        <target state="translated">私……オーバーボイド？</target>
+        <target state="translated">私……オーバーヴォイド？</target>
     </unit>
     <unit id="415">
       <segment>
@@ -3571,7 +3571,7 @@ Samantha and Gordon exchanged looks.</source>
 
 @@ @@ [[footnote]]私はどうなるんだ？[[/footnote]]
 
-「ああ、そうだな、ボイドは自分がやったと思ってることは、まあ、やったんだろうな。」</target>
+「ああ、そうだな、ヴォイドは自分がやったと思ってることは、まあ、やったんだろうな。」</target>
       </segment>
     </unit>
     <unit id="494">
