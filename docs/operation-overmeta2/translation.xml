@@ -129,6 +129,7 @@
       <segment>
         <source>She's not at all relevant to the story, really, except to prompt Penelope to acknowledge the beliefs of coldposters and such.</source>
         <target state="translated">彼女は物語に全く関係ない、ただペネロペにコールドポスターたちの考えを認識させるためだけにいる。</target>
+        <note appliesTo="target">訳文に自信がない</note>
       </segment>
     </unit>
     <unit id="22">
@@ -662,7 +663,7 @@ Gordon[[footnote]] And Reggie.</source>
     <unit id="101">
       <segment>
         <source>No runways, so yeah."</source>
-        <target state="translated">滑走路はないから、そうだな。」</target>
+        <target state="translated">ランウェイはないから、そうだな。」</target>
       </segment>
     </unit>
     <unit id="102">
@@ -889,7 +890,7 @@ Getting in was much easier than they'd anticipated.</source>
     <unit id="129">
       <segment>
         <source>Turns out if you manage to find the unmarked 10m^^2^^ patch of sand that masks the elevator to Site 91 in 9 million km^^2^^ of desert, they just let you in.</source>
-        <target state="translated">900万km^^2^^の砂漠の中から、サイト91へのエレベーターを隠している目印のない10m^^2^^の砂地を見つけ出すだけで、なんと彼らはただ入れてくれるらしい。</target>
+        <target state="translated">900万km^^2^^の砂漠の中から、サイト91へのエレベーターを隠している目印のない10m^^2^^の砂地を見つけ出すだけで、ただ入れてくれるらしい。</target>
       </segment>
     </unit>
     <unit id="130">
@@ -3583,7 +3584,7 @@ Samantha and Gordon exchanged looks.</source>
 "Sure, yeah."</source>
         <target state="translated">
 
-@@ @@[[footnote]]私がいなければ物語すらならない！[[/footnote]]
+@@ @@[[footnote]]私がいなければ物語にすらならない！[[/footnote]]
 
 「もちろん、そうだな。」</target>
       </segment>
@@ -3749,7 +3750,7 @@ It really was as simple as that.</source>
     <unit id="516">
       <segment>
         <source>Seriously, does Penelope just get off on the idea of us in balaclavas?"</source>
-        <target state="translated">マジな話、、ペネロペは俺たちがバラクラバを被っているのを見て面白がっているだけじゃないのか？」</target>
+        <target state="translated">マジな話、ペネロペは俺たちがバラクラバを被っているのを見て面白がっているだけじゃないのか？」</target>
       </segment>
     </unit>
     <unit id="517">

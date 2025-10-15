@@ -72,7 +72,7 @@
     <unit id="10">
       <segment>
         <source>With research into the mechanics of [[[SCP-1304]]] and observation of [[[scp-2916|SCP-2916-1]]] and [[[SCP-2747]]], subnarrative entities capable of acting on and escaping to their upper layer, Procedure Kuzco-Bueller has been developed by Subnarrativics, utilising [[[SCP-826]]], for the purpose of full narrative extraction - taking fictional entities and bringing them into our reality.</source>
-        <target state="translated">[[[SCP-1304]]] の機構解析と、（上位層に作用しそこへ離脱する能力を有する下位物語実体である）[[[scp-2916|SCP-2916-1]]] および [[[SCP-2747]]] の観察結果を踏まえ、下位物語学は [[[SCP-826]]] を利用したクスコ・ビューラー手順を開発した。これは「物語の完全抽出」――フィクション上の実体を取り出して我々の現実層へ移入する――を目的とする。</target>
+        <target state="translated">[[[SCP-1304]]] の機構解析と、上位層に作用しそこへ離脱する能力を有する下位物語実体である[[[scp-2916|SCP-2916-1]]] および [[[SCP-2747]]] の観察結果を踏まえ、下位物語学は [[[SCP-826]]] を利用したクスコ・ビューラー手順を開発した。これは「物語の完全抽出」――フィクション上の実体を取り出して我々の現実層へ移入する――を目的とする。</target>
         <meta type="alternate-translation" key="1">SCP-1304 の機構研究と、上位層に干渉し脱出できる下位物語実体である SCP-2916-1 / SCP-2747 の観察に基づき、下位物語学は SCP-826 を用いるクスコ・ビューラー手順を策定した。目的は「物語の完全抽出」――フィクション中の実体を現実へ移すこと――である。</meta>
         <note appliesTo="target" category="clarification">用語方針更新: "fiction(al)" は「虚構」ではなく「フィクション」で統一。先行訳「虚構上の実体」を訂正。</note>
       </segment>
@@ -528,6 +528,7 @@ Gordon hesitated for a second, then groaned as he sensed it himself. "</source>
       <segment>
         <source>Because he doesn't know where to go with us!</source>
         <target state="translated">俺たちをどう展開させればいいか分かってねぇんだよ！</target>
+        <note appliesTo="target" category="style">訳文に自信がない。語りの滑らかさ・台詞の自然さへ改稿。</note>
       </segment>
     </unit>
     <unit id="69">
@@ -597,7 +598,7 @@ Penelope tapped the whiteboard again, gesturing to her scribbled diagrams. "</so
     <unit id="77">
       <segment>
         <source>A choose-your-own adventure with branching paths.</source>
-        <target state="translated">分岐していく“自分で選ぶ”タイプの冒険書式だ。</target>
+        <target state="translated">分岐していく"自分で選ぶ"タイプの冒険書式だ。</target>
       </segment>
     </unit>
     <unit id="78">
@@ -609,7 +610,7 @@ Penelope tapped the whiteboard again, gesturing to her scribbled diagrams. "</so
     <unit id="79">
       <segment>
         <source>As you're the most familiar with [[[scp-2975|impermanent reality as a writing gimmick]]], you'll be leading the task force for this mission."</source>
-        <target state="translated">[[[scp-2975|“移ろう現実”を執筆ギミックとして]]一番よく分かっているのは君だ。だからこの任務では君が隊を率いてくれ。」</target>
+        <target state="translated">[[[scp-2975|"移ろう現実"を執筆ギミックとして]]一番よく分かっているのは君だ。だからこの任務では君が隊を率いてくれ。」</target>
       </segment>
     </unit>
     <unit id="80">
@@ -629,7 +630,7 @@ Sally glanced over to Gordon, picking his teeth in the corner. "</source>
     <unit id="82">
       <segment>
         <source>Some of his fans have //got// to have experimented with Twine or some shit back in the day."</source>
-        <target state="translated">昔、Twine とかその手のので遊んでたファン、//絶対//いるでしょう。」</target>
+        <target state="translated">昔、Twine とかその手ので遊んでたファン、//絶対//いるでしょう。」</target>
       </segment>
     </unit>
     <unit id="83">
@@ -701,7 +702,7 @@ It was hard to feel bad for the asshole kicking Reggie in the shins, though.</so
 **Draft 3:**
 
 Gordon raised his head, alarmed.</source>
-        <target state="translated">冒険の幕開け――さあ――
+        <target state="translated">冒険の幕開け、さあ――
 
 -----
 
