@@ -11,7 +11,7 @@
     <unit id="2">
       <segment>
         <source>\n\n"Come on, that's bullshit, we've-"\n\nAt the head of the table, Penelope coughed, and all heads turned.</source>
-        <target state="translated">\n\n「ねえ、ふざけないでよ、私たちはまだ何もやって――」\n\nテーブルの上座でペネロペが咳払いし、全員の視線が向いた。</target>
+        <target state="translated">\n\n「ねえ、ふざけないでよ、私たちはまだ何もやって⸺」\n\nテーブルの上座でペネロペが咳払いし、全員の視線が向いた。</target>
       </segment>
     </unit>
     <unit id="3">
@@ -702,7 +702,7 @@ Kelly rolled her eyes, but behind her protective sunglasses she doubted it came 
         <source>あのFから始まるやつを全部加えるのとか……"
 
 "Since when do you talk?"</source>
-        <target state="translated">彼がどうやって全てのクソを追加するかのように――
+        <target state="translated">彼がどうやって全てのクソを追加するかのように⸺
 
 「お前はいつから喋るようになった？」</target>
       </segment>
@@ -940,7 +940,7 @@ Kelly withdrew a Foundation ID from her pocket.</source>
     <unit id="136">
       <segment>
         <source>She hoped clearance level 5 was enough - Penelope had told her it should cover anything she needed.</source>
-        <target state="translated">クリアランスレベル5で十分であることを願った――ペネロペは、必要なことはすべてそれでまかなえるはずだと言っていた。</target>
+        <target state="translated">クリアランスレベル5で十分であることを願った⸺ペネロペは、必要なことはすべてそれでまかなえるはずだと言っていた。</target>
       </segment>
     </unit>
     <unit id="137">
@@ -1054,7 +1054,7 @@ Dr. Jonah hesitated. "</source>
     <unit id="153">
       <segment>
         <source>We'll need to run it by Director Jua before-" His speech was brought to a sudden halt as a fist connected with his face, hard.</source>
-        <target state="translated">ジュア所長に確認を取らないといけない――」彼の言葉は、顔面に叩き込まれた拳によって、唐突に遮られた。</target>
+        <target state="translated">ジュア所長に確認を取らないといけない⸺」彼の言葉は、顔面に叩き込まれた拳によって、唐突に遮られた。</target>
       </segment>
     </unit>
     <unit id="154">
@@ -1282,7 +1282,7 @@ Reggie raised his hand nervously.</source>
 "//GUYS I'M A FUCKING HACKER//" Reggie yelled.[[footnote]]YES HAHA CHARACTER LOOK AT ME GO -O[[/footnote]]
 
 They turned.</source>
-        <target state="translated">他人をクソみたいに扱っておいて、何も誇ることなんてないだろうに、手を差し伸べることすら考えないなんて――
+        <target state="translated">他人をクソみたいに扱っておいて、何も誇ることなんてないだろうに、手を差し伸べることすら考えないなんて⸺
 
 「//みんな、俺はハッカーなんだってば//」とレジーが叫んだ。[footnote]]イエス！ハハ！このキャラ立ち、絶好調だぜ！ -O[[/footnote]]
 
@@ -1426,7 +1426,7 @@ Kelly's nose was bleeding.</source>
     <unit id="200">
       <segment>
         <source>What's-" she reached up to her face, touching it to the rivulet of blood running past her mouth, accidentally smearing a streak across her cheekbone. "</source>
-        <target state="translated">何が――」彼女は自分の顔に手を伸ばし、口の横を流れる血の筋に触れた拍子に頬骨に血の筋を付けてしまった。「</target>
+        <target state="translated">何が⸺」彼女は自分の顔に手を伸ばし、口の横を流れる血の筋に触れた拍子に頬骨に血の筋を付けてしまった。「</target>
       </segment>
     </unit>
     <unit id="201">
@@ -1609,7 +1609,7 @@ Gordon thumbed the green phone icon as Kelly fell to the floor in a coughing fit
     <unit id="227">
       <segment>
         <source>Kelly is- " She was cut off under a swell of static fuzz.</source>
-        <target state="translated">ケリーは――」 彼女の言葉は静電ノイズにかき消された。</target>
+        <target state="translated">ケリーは⸺」 彼女の言葉は静電ノイズにかき消された。</target>
       </segment>
     </unit>
     <unit id="228">
@@ -1629,7 +1629,7 @@ Gordon thumbed the green phone icon as Kelly fell to the floor in a coughing fit
         <source>//and it's all your fault//."
 
 "Yeah, I didn't catch any of that, but Kelly is really sick and it's maybe sort of a tiny bit my fault.</source>
-        <target state="translated">//--そして、すべてあなたの責任です//。」
+        <target state="translated">//⸺そして、すべてあなたの責任です//。」
 
 「ああ、その辺は何も聞こえなかった。だがケリーがひどい状態で、それは、まあ、ほんの少し俺のせいかもしれない。</target>
       </segment>
@@ -1909,7 +1909,7 @@ Reggie shrugged. "</source>
         <source>You're right, I'm just-"
 
 Kelly started screaming, louder than the alarm, louder than it seemed like it should be possible for her to scream.</source>
-        <target state="translated">あんたの言う通りだ、俺はただ――
+        <target state="translated">あんたの言う通りだ、俺はただ⸺
 
 ケリーが叫び始めた。その声は警報よりも大きく、彼女が出せるとは到底思えないほどの絶叫だった。
         </target>
@@ -2121,7 +2121,7 @@ Yes, he had.</source>
     <unit id="294">
       <segment>
         <source>I can't take this much long-" She was cut off by a heavy coughing fit, clumps of blood and phlegm splashing over Gordon's jacket.</source>
-        <target state="translated">もう、長くは――」彼女の言葉は激しい咳き込みに遮られ、血と痰の塊がゴードンのジャケットに飛び散った。</target>
+        <target state="translated">もう、長くは⸺」彼女の言葉は激しい咳き込みに遮られ、血と痰の塊がゴードンのジャケットに飛び散った。</target>
       </segment>
     </unit>
     <unit id="295">
@@ -2427,7 +2427,7 @@ He sprinted for the door.</source>
         <source>It was-
 
 "Princess Peach?"</source>
-        <target state="translated">それは――
+        <target state="translated">それは⸺
 
 「ピーチ姫？」</target>
       </segment>
@@ -2493,7 +2493,7 @@ He sprinted for the door.</source>
         <source>I'll save you and we'll have fucking tea and crumpets and it'll be-"
 
 "Gordon!</source>
-        <target state="translated">お前を助けて、クソみたいな紅茶とクランペットを食べて、それから――
+        <target state="translated">お前を助けて、クソみたいな紅茶とクランペットを食べて、それから⸺
 
 「ゴードン！</target>
       </segment>
@@ -2763,7 +2763,7 @@ Penelope chewed on her lip for a second before letting it go. "</source>
         <source>This anomaly is extremely mysterious, with a dedicated site located in the Saha-"
 
 "Hang on, time out," Gordon interrupted, making a T with his hands "we did that already."</source>
-        <target state="translated">この異常は極めて謎が多く、専用のサイトで管理されています。場所はサハ――
+        <target state="translated">この異常は極めて謎が多く、専用のサイトで管理されています。場所はサハ⸺
 
 「待て、タイムだ」とゴードンが手でTの字を作りながら割り込んだ「それはもうやったことだ。」</target>
       </segment>
@@ -3291,7 +3291,7 @@ Sato nodded.</source>
         <source>They're emotional memories for me, I'd prefer not to-"
 
 "Of course, of course."</source>
-        <target state="translated">私にとっては、感情に触れる記憶なので、あまり人前では――
+        <target state="translated">私にとっては、感情に触れる記憶なので、あまり人前では⸺
 
 「もちろん、もちろん。」</target>
       </segment>
@@ -3597,7 +3597,7 @@ Samantha and Gordon exchanged looks.</source>
 "Maybe we were supposed to-" Samantha coughed hard, her body juddering.</source>
         <target state="translated">
 
-「もしかしたら、私たちは――」サマンサは激しく咳き込み、体を震わせた。</target>
+「もしかしたら、私たちは⸺」サマンサは激しく咳き込み、体を震わせた。</target>
       </segment>
     </unit>
     <unit id="496">
@@ -3807,7 +3807,7 @@ It really was as simple as that.</source>
     <unit id="522">
       <segment>
         <source>But I guess in another way, for our own sake, it's like- Oh, hey, here we are."</source>
-        <target state="translated">でも、別の意味では、自分たちのために、まるで――ああ、ねえ、着いたよ。」</target>
+        <target state="translated">でも、別の意味では、自分たちのために、まるで⸺ああ、ねえ、着いたよ。」</target>
       </segment>
     </unit>
     <unit id="523">
@@ -3843,7 +3843,7 @@ It really was as simple as that.</source>
     <unit id="526">
       <segment>
         <source>The fucking- the place we're looking for.</source>
-        <target state="translated">例のクソ――俺たちが探していた場所だ。</target>
+        <target state="translated">例のクソ⸺俺たちが探していた場所だ。</target>
       </segment>
     </unit>
     <unit id="527">
@@ -3949,7 +3949,7 @@ They slipped into the door marked //Observation Room//, careful to shut it secur
         <source>But that's not common, why would you assume-"
 
 "You're a convenient plot device, Sam.</source>
-        <target state="translated">でも、そんなの普通じゃないのに、どうして私ができると――
+        <target state="translated">でも、そんなの普通じゃないのに、どうして私ができると⸺
 
 「お前は都合のいいプロットデバイスなんだ、サム。</target>
       </segment>
