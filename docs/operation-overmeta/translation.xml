@@ -360,7 +360,7 @@
     <unit id="44">
       <segment>
         <source>Reggie is an extremely talented hacker and former head of the Foundation's IT department who hacked the Pataphysics database and figured out the implications of our research.</source>
-        <target state="translated">レジーは極めて有能なハッカーで財団IT部門の元責任者であり、空想科学データベースをハッキングすることで本研究の含意を把握した。</target>
+        <target state="translated">レジーは極めて有能なハッカーで財団IT部門の元責任者である。彼は空想科学データベースをハッキングし、我々の研究が持つ意味を理解した。</target>
         <note appliesTo="target" category="style">「含意するところを把握した」→簡潔化。</note>
       </segment>
     </unit>
