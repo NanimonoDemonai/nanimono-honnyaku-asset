@@ -699,7 +699,7 @@ Kelly rolled her eyes, but behind her protective sunglasses she doubted it came 
     </unit>
     <unit id="106">
       <segment>
-        <source>あのFから始まるやつを全部加えるのとか…"
+        <source>あのFから始まるやつを全部加えるのとか……"
 
 "Since when do you talk?"</source>
         <target state="translated">彼がどうやって全てのクソを追加するかのように――
@@ -1373,7 +1373,7 @@ Gordon and Kelly stood behind Reggie in a cramped office, trying to ignore the l
     <unit id="194">
       <segment>
         <source>Is it, like... when you know about it you get infected?</source>
-        <target state="translated">これって、その…知ったら感染するとか、そういうこと？</target>
+        <target state="translated">これって、その……知ったら感染するとか、そういうこと？</target>
       </segment>
     </unit>
     <unit id="195">
@@ -1506,7 +1506,7 @@ Gordon was frozen, staring at Kelly. "</source>
     <unit id="212">
       <segment>
         <source>In all the other chapters, it took a couple hours, even a day to set in, but the author wanted to make things seem more dangerous, didn't care about continuity, so when my partner got bit... she changed instantly."</source>
-        <target state="translated">他の章では、発症するまで数時間、時には一日かかった。だが作者は状況をもっと危険に見せたくて、話の一貫性のことなんか気にしなかったんだ。だから俺の相棒が噛まれた時…彼女は即座に変わっちまった。」</target>
+        <target state="translated">他の章では、発症するまで数時間、時には一日かかった。だが作者は状況をもっと危険に見せたくて、話の一貫性のことなんか気にしなかったんだ。だから俺の相棒が噛まれた時……彼女は即座に変わっちまった。」</target>
       </segment>
     </unit>
     <unit id="213">
@@ -1806,7 +1806,7 @@ Gordon willed himself not to throw the phone at the ground. "</source>
       <segment>
         <source>Ask Overvoid for help."</source>
         <target state="translated">オーバーヴォイドに助けを求めなさい。」</target>
-        <target state="translated">オーバーヴォイドに助けを求めなさい。」</target>
+      </segment>
     </unit>
     <unit id="254">
       <segment>
@@ -2053,7 +2053,7 @@ Gordon blinked hard, fat tears streaming down his face.</source>
         <source>Had he skipped the-
 
 Yes, he had.</source>
-        <target state="translated">彼はスキップできたのか──
+        <target state="translated">彼はスキップできたのか⸺
 
 ああ、できたのだ。</target>
       </segment>
@@ -2956,6 +2956,7 @@ Penelope frowned, but pulled out her phone and tapped at it for a second. "</sou
       <segment>
         <source>I... Overvoid?</source>
         <target state="translated">私……オーバーヴォイド？</target>
+      </segment>
     </unit>
     <unit id="415">
       <segment>
@@ -3198,7 +3199,7 @@ Sato stuck her hand out stiffly toward the group, not meeting their eyes.</sourc
     <unit id="444">
       <segment>
         <source>Uh, I'm Sam, these are..." She realised she was at a loss to describe her fellow MTF members.</source>
-        <target state="translated">ええと、私はサム。で、こちらは………」彼女は、同僚の機動部隊員たちをどう紹介すればいいか言葉に詰まった。</target>
+        <target state="translated">ええと、私はサム。で、こちらは……」彼女は、同僚の機動部隊員たちをどう紹介すればいいか言葉に詰まった。</target>
       </segment>
     </unit>
     <unit id="445">
@@ -3222,7 +3223,7 @@ Sato stuck her hand out stiffly toward the group, not meeting their eyes.</sourc
     <unit id="448">
       <segment>
         <source>-O[[/footnote]] "We're visiting from another section, looking for information on one of your contained anomalies?"</source>
-        <target state="translated">-O[[/footnote]] 「別の部門から来た者でして、あなたがたが収容しているアノマリーの一つについて情報を求めているのですが…」</target>
+        <target state="translated">-O[[/footnote]] 「別の部門から来た者でして、あなたがたが収容しているアノマリーの一つについて情報を求めているのですが……」</target>
       </segment>
     </unit>
     <unit id="449">
@@ -3244,7 +3245,7 @@ Sato nodded.</source>
     <unit id="451">
       <segment>
         <source>And you're coming to me specifically... 2338?"</source>
-        <target state="translated">それで、わざわざ私のところに…2338の件で？」</target>
+        <target state="translated">それで、わざわざ私のところに……2338の件で？」</target>
       </segment>
     </unit>
     <unit id="452">
@@ -3268,7 +3269,7 @@ Sato nodded.</source>
         <source>That might sound odd, but the department we're from..."
 
 "It's ok, I understand we have dozens of secret departments."</source>
-        <target state="translated">奇妙に聞こえるかもしれませんが、私たちの部門だとその…」
+        <target state="translated">奇妙に聞こえるかもしれませんが、私たちの部門だとその……」
 
 「大丈夫です、秘密の部署が山ほどあるのは承知していますから。」</target>
       </segment>

@@ -72,8 +72,8 @@
     <unit id="10">
       <segment>
         <source>With research into the mechanics of [[[SCP-1304]]] and observation of [[[scp-2916|SCP-2916-1]]] and [[[SCP-2747]]], subnarrative entities capable of acting on and escaping to their upper layer, Procedure Kuzco-Bueller has been developed by Subnarrativics, utilising [[[SCP-826]]], for the purpose of full narrative extraction - taking fictional entities and bringing them into our reality.</source>
-        <target state="translated">[[[SCP-1304]]] の機構解析と、上位層に作用しそこへ離脱する能力を有する下位物語実体である[[[scp-2916|SCP-2916-1]]] および [[[SCP-2747]]] の観察結果を踏まえ、下位物語学は [[[SCP-826]]] を利用したクスコ・ビューラー手順を開発した。これは「物語の完全抽出」――フィクション上の実体を取り出して我々の現実層へ移入する――を目的とする。</target>
-        <meta type="alternate-translation" key="1">SCP-1304 の機構研究と、上位層に干渉し脱出できる下位物語実体である SCP-2916-1 / SCP-2747 の観察に基づき、下位物語学は SCP-826 を用いるクスコ・ビューラー手順を策定した。目的は「物語の完全抽出」――フィクション中の実体を現実へ移すこと――である。</meta>
+        <target state="translated">[[[SCP-1304]]] の機構解析と、上位層に作用しそこへ離脱する能力を有する下位物語実体である[[[scp-2916|SCP-2916-1]]] および [[[SCP-2747]]] の観察結果を踏まえ、下位物語学は [[[SCP-826]]] を利用したクスコ・ビューラー手順を開発した。これは「物語の完全抽出」⸺フィクション上の実体を取り出して我々の現実層へ移入する⸺を目的とする。</target>
+        <meta type="alternate-translation" key="1">SCP-1304 の機構研究と、上位層に干渉し脱出できる下位物語実体である SCP-2916-1 / SCP-2747 の観察に基づき、下位物語学は SCP-826 を用いるクスコ・ビューラー手順を策定した。目的は「物語の完全抽出」⸺フィクション中の実体を現実へ移すこと⸺である。</meta>
         <note appliesTo="target" category="clarification">用語方針更新: "fiction(al)" は「虚構」ではなく「フィクション」で統一。先行訳「虚構上の実体」を訂正。</note>
       </segment>
     </unit>
@@ -86,7 +86,7 @@
     <unit id="12">
       <segment>
         <source>Put into plain English: we're going to make a canon.</source>
-        <target state="translated">平たく言えば――自前のカノンを作る。</target>
+        <target state="translated">平たく言えば⸺自前のカノンを作る。</target>
         <meta type="alternate-translation" key="1">要するに、我々独自のカノンを立ち上げる。</meta>
       </segment>
     </unit>
@@ -325,7 +325,7 @@
     <unit id="41">
       <segment>
         <source>I'm a narrative device as much as the rest of them, and they really need to respect my structure - if they had a handy roadmap at all times, where on earth would the conflict be?</source>
-        <target state="translated">私も他の皆と同様に物語上の装置なのだから、まったく財団は私の{{立ち位置^^ストラクチャー^^}}を尊重する必要があるはずだ――いつも財団に便利なロードマップがあったら、一体どこに葛藤が生まれるというのだ？</target>
+        <target state="translated">私も他の皆と同様に物語上の装置なのだから、まったく財団は私の{{立ち位置^^ストラクチャー^^}}を尊重する必要があるはずだ⸺いつも財団に便利なロードマップがあったら、一体どこに葛藤が生まれるというのだ？</target>
         <note appliesTo="target" category="style">「ストラクチャー」訳注マーク保持（用語ニュアンス補足）。</note>
       </segment>
     </unit>
@@ -341,14 +341,14 @@
     </unit>
     <unit id="43">
       <segment>
-        <source>We really should get along to our final member…||
+        <source>We really should get along to our final member……||
 
 
 ||~ Name: ||Reginald Impel||~ ID: ||MTF-ι-0-null||~ Callsign: || Dude in the Corner||
 ||~ Position: ||Foetal ||~ Recovered from:||||||  //N/A//||
 ||||||||||||~ Member Bio:||
 |||||||||||| Reggie presented himself to the Pataphysics department on 26 Oct. 2015, claiming to be a self-insert character for Horror Writer Entity swn001-1-RMPL ("[[*user Rimple]]").</source>
-        <target state="translated">では、いよいよ最後のメンバーの紹介に移るとしよう…。||
+        <target state="translated">では、いよいよ最後のメンバーの紹介に移るとしよう……。||
 
 
 ||~ 名前: ||レジナルド・インペル||~ ID: ||MTF-ι-0-null||~ コールサイン: || 隅の男||
@@ -428,7 +428,7 @@ Director Panagiotopolous stood at the head of the table, lost for words. "What o
         <source>
 "Here, it wasn't my fucking idea to-" Gordon was interrupted by Reggie, screaming through his gag. "</source>
         <target state="translated">
-「おい、ここに――これは俺のクソみたいな発案じゃ――」ゴードンの言葉は、猿ぐつわ越しに絶叫したレジーに遮られた。「</target>
+「おい、ここに⸺これは俺のクソみたいな発案じゃ⸺」ゴードンの言葉は、猿ぐつわ越しに絶叫したレジーに遮られた。「</target>
       </segment>
     </unit>
     <unit id="54">
@@ -521,7 +521,7 @@ Gordon hesitated for a second, then groaned as he sensed it himself. "</source>
     <unit id="67">
       <segment>
         <source>Why do you think he's-" He stopped as it clicked. "</source>
-        <target state="translated">なんであいつが――」舌打ちをし、言葉を切る。「</target>
+        <target state="translated">なんであいつが⸺」舌打ちをし、言葉を切る。「</target>
       </segment>
     </unit>
     <unit id="68">
@@ -566,7 +566,7 @@ Gordon hesitated for a second, then groaned as he sensed it himself. "</source>
 **Draft 2:**
 
 "So, ok, we're fighting a big tree?"</source>
-        <target state="translated">もし彼が飽きて ただ――
+        <target state="translated">もし彼が飽きて ただ⸺
 
 -----
 
@@ -650,7 +650,7 @@ Sally glanced over to Gordon, picking his teeth in the corner. "</source>
     <unit id="85">
       <segment>
         <source>But he tended to... bulldoze his way through them, as he is wont to with most things.</source>
-        <target state="translated">だが彼は…いつものことだが、ゴリ押しをする癖があるんだ。」</target>
+        <target state="translated">だが彼は……いつものことだが、ゴリ押しをする癖があるんだ。」</target>
       </segment>
     </unit>
     <unit id="86">
@@ -702,7 +702,7 @@ It was hard to feel bad for the asshole kicking Reggie in the shins, though.</so
 **Draft 3:**
 
 Gordon raised his head, alarmed.</source>
-        <target state="translated">冒険の幕開け、さあ――
+        <target state="translated">冒険の幕開け、さあ⸺
 
 -----
 
@@ -762,7 +762,7 @@ isn't working."</source>
 [[image gun_safety.png size="medium"]]
 [[/collapsible]]
 
-「ほら、これは――
+「ほら、これは⸺
 
 -----
 
