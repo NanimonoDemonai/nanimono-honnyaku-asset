@@ -32,7 +32,7 @@
     <unit id="5">
       <segment>
         <source>The most notable concentration of these points is, of course, the Database.</source>
-        <target state="translated">これらの接点が最も顕著に集中する場所は、無論「データベース」である。</target>
+        <target state="translated">これら概念点の接続が最も顕著に集中する場所は、無論「データベース」である。</target>
         <note appliesTo="target" category="style">強調の引用符を英語ダブルクォートから日本語かぎ括弧へ統一。</note>
       </segment>
     </unit>
