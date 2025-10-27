@@ -302,7 +302,7 @@
     <unit id="38">
       <segment>
         <source>Overvoid's presence can be detected within a work when descriptors, text boxes and occasionally background text begin referring to themselves in the first person or attempting to converse with the reader.</source>
-        <target state="translated">ある作品において、描写、テキストボックス、背景のテキストが、自身を一人称で語り始めたり、読者との対話を試みたりするようになることで、その作品内にオーバーヴォイドが存在していることを検知できる。</target>
+        <target state="translated">作品の描写、テキストボックス、時には背景のテキストが、一人称で語り出したり、読者に話しかけたりし始めたら、それはオーバーヴォイドの存在を示唆している。</target>
       </segment>
     </unit>
     <unit id="39">

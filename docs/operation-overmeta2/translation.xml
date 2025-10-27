@@ -1321,7 +1321,7 @@ They turned.</source>
         <target state="translated">
 
 ***
-&gt; ... 倫理委員会は、機動部隊υ-4への記憶処理手順の更新を承認しました。死亡した隊員への恋愛・性的・父性感情も封じ込めの対象となります。2015年12月15日付け。</target>
+&gt; …… 倫理委員会は、機動部隊υ-4への記憶処理手順の更新を承認しました。死亡した隊員への恋愛・性的・父性感情も封じ込めの対象となります。2015年12月15日付け。</target>
       </segment>
     </unit>
     <unit id="189">
@@ -2559,7 +2559,7 @@ He sprinted for the door.</source>
     <unit id="356">
       <segment>
         <source>"[[footnote]]It's important to remember here that Gordon is a man who is very open and in touch with his softer emotions, and is absolutely acting in a way that reflects how he feels internally.</source>
-        <target state="translated">"[[footnote]]ここで覚えておくべき重要なのは、ゴードンという男は自身の繊細な感情に対して非常にオープンであり、内面で感じていることをそのまま行動に表すということだ。</target>
+        <target state="translated">」[[footnote]]ここで覚えておくべき重要なのは、ゴードンという男は自身の繊細な感情に対して非常にオープンであり、内面で感じていることをそのまま行動に表すということだ。</target>
       </segment>
     </unit>
     <unit id="357">
@@ -2875,7 +2875,7 @@ Penelope frowned, but pulled out her phone and tapped at it for a second. "</sou
     <unit id="402">
       <segment>
         <source>"[[footnote]]Totally with her on this one.</source>
-        <target state="translated">"[[footnote]]彼女に完全に同意だ。</target>
+        <target state="translated">[[footnote]]彼女に完全に同意だ。</target>
       </segment>
     </unit>
     <unit id="403">
@@ -3341,7 +3341,7 @@ Sato nodded.</source>
 
 ***
 
-"[[[SCP-2338|... これで全部、私が知っていることはそれだけ]]].</target>
+"[[[SCP-2338|…… これで全部、私が知っていることはそれだけ]]].</target>
       </segment>
     </unit>
     <unit id="464">
@@ -3529,7 +3529,7 @@ Samantha and Gordon exchanged looks.</source>
 "There's something... incomplete here.</source>
         <target state="translated">
 
-「何かが... 未完了な感じだ。</target>
+「何かが…… 未完了な感じだ。</target>
       </segment>
     </unit>
     <unit id="488">
@@ -3899,7 +3899,7 @@ They slipped into the door marked //Observation Room//, careful to shut it secur
 "You getting anything, B- Sam?"</source>
         <target state="translated">
 
-「何か分かるか、バ... サム？」</target>
+「何か分かるか、バ……サム？」</target>
       </segment>
     </unit>
     <unit id="535">
@@ -3991,7 +3991,7 @@ Samantha frowned, but turned to observe the two in the pit. "</source>
     <unit id="546">
       <segment>
         <source>She's talking about the future... [[[after-that-until-then|or the past, I'm not sure]]]."</source>
-        <target state="translated">彼女は未来について話しているのか... [[[その後-それまで|過去について話しているのか、よくわかない]]]。</target>
+        <target state="translated">彼女は未来について話しているのか…… [[[その後-それまで|過去について話しているのか、よくわかない]]]。</target>
       </segment>
     </unit>
     <unit id="547">
