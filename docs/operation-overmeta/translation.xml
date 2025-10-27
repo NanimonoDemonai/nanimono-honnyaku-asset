@@ -39,7 +39,7 @@
     <unit id="6">
       <segment>
         <source>While the formation of these narrative planes is still being studied, the strongest coherent factor between them is Database Causal Inclusions - that is to say, instances of swn001-1 ("//Horror Writer Entities//").</source>
-        <target state="translated">これらの物語平面がいかに形成されるかは未だ研究途上だが、平面間の最も強いコヒーレント因子は「データベース因果内包」、すなわち swn001-1（「//ホラー作家実体群//」）の存在である。
+        <target state="translated">これら物語平面の形成過程については未だ研究の途上にあるものの、それぞれの平面に対し最も強く干渉する因子は「データベース因果内包」、すなわち swn001-1（「//ホラー作家実体群//」）であると判明している。
         </target>
         <note appliesTo="target" category="term">Database Causal Inclusion → データベース因果内包 / Horror Writer Entity → ホラー作家実体群 に統一。</note>
         <note appliesTo="source" category="comment">訳文にあまり自信がない。</note>
