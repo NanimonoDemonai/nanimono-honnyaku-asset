@@ -26,7 +26,7 @@
 &gt; The gist of this update is the incorporation of Doctor Huever's Hypercanon theory, which holds that our reality is not a single narrative bulk below the Alpha layer, but an n-dimensional set of narrative planes connecting at defined conceptual points.</source>
         <target state="translated">
 &gt;
-&gt; 今回の更新の要旨はヒューバー博士のハイパーカノン理論の採用である。この理論は、我々の現実がアルファ層下にある単一の{{物語束^^narrative bulk^^}}ではなく、特定の{{概念点^^conceptual point^^}}で接続される n 次元の物語平面集合であるとする。</target>
+&gt; 今回の更新の要旨はヒューバー博士のハイパーカノン理論の採用である。この理論において、我々の現実はアルファ層下にある単一の{{物語束^^narrative bulk^^}}ではなく、特定の{{概念点^^conceptual point^^}}で接続される n 次元の物語平面集合であるとされている。</target>
       </segment>
     </unit>
     <unit id="5">
@@ -238,13 +238,13 @@
     <unit id="30">
       <segment>
         <source>Regardless of physical form, presentation, and personality, Barker will always identify as female.</source>
-        <target state="translated">身体的な姿・外見・人格の如何にかかわらず、バーカーは常に女性として自己同定する。</target>
+        <target state="translated">身体的な姿・外見・人格の如何にかかわらず、バーカーは常に女性として自己を同定する。</target>
       </segment>
     </unit>
     <unit id="31">
       <segment>
         <source>In most of their identities, Barker has been diagnosed with Autistic Spectrum Disorder or some equivalent. _</source>
-        <target state="translated">多くのアイデンティティにおいて、バーカーは自閉スペクトラム症、または同等概念と診断されている。_</target>
+        <target state="translated">多くのアイデンティティにおいて、バーカーは自閉スペクトラム症、またはそれらの同等概念と診断されている。_</target>
       </segment>
     </unit>
     <unit id="32">
@@ -336,7 +336,7 @@
  I'm sorry, I'm babbling.</source>
         <target state="translated">  _
  _
-すまない、饒舌になりすぎた。</target>
+すまない、喋りすぎた。</target>
       </segment>
     </unit>
     <unit id="43">
@@ -377,13 +377,13 @@
  As attempts to remove Reggie from the narrative have proven unsuccessful, Reggie has been been assigned to MTF-ι-0, and is to accompany them at all times to allow for plot progression.</source>
         <target state="translated">
  _
- レジーを当物語から除去する試みが全て失敗に終わった。このためレジーはMTF-ι-0に配属され、プロットの進行を可能にするため常に同部隊に同行することになっている。</target>
+ レジーを当物語から除去する試みは全て失敗に終わった。このためレジーはMTF-ι-0に配属され、プロットの進行を可能にするため常に同部隊に同行することになっている。</target>
       </segment>
     </unit>
     <unit id="47">
       <segment>
         <source>Reggie is to be regularly acknowledged for the purposes of nominal inclusion within the story.</source>
-        <target state="translated">物語に名目上でも登場させる目的で、レジーは定期的に言及されることになっている。</target>
+        <target state="translated">物語へ形式的に登場させる目的で、レジーは定期的に言及されることになっている。</target>
       </segment>
     </unit>
     <unit id="49">
