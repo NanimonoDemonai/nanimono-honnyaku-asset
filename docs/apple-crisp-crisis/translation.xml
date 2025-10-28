@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="2.1" srcLang="en-US" trgLang="ja">
+  <file id="src" original="src.txt" datatype="plaintext">
+    <unit id="1">
+      <segment>
+        <source xml:space="preserve">"State your name for the record, and we can begin."</source>
+        <target xml:space="preserve" state="translated">「記録のために氏名を述べてください。そうしたら始めましょう。」</target>
+      </segment>
+    </unit>
+    <unit id="2">
+      <segment>
+        <source xml:space="preserve">
+
+"Really, Alice?"</source>
+        <target xml:space="preserve" state="translated">\n\n「マジかよ、アリス？」</target>
+      </segment>
+    </unit>
+    <unit id="3">
+      <segment>
+        <source xml:space="preserve">The man on the other side of the interview table shook his head.</source>
+        <target xml:space="preserve" state="translated">面接用テーブルの向こう側の男は首を横に振った。</target>
+      </segment>
+    </unit>
+    <unit id="4">
+      <segment>
+        <source xml:space="preserve"> "You gotta be so formal?"</source>
+        <target xml:space="preserve" state="translated"> 「そんなに形式ばる必要あるか？」</target>
+      </segment>
+    </unit>
+    <unit id="5">
+      <segment>
+        <source xml:space="preserve">
+
+"We're already skating on thin ice, I'd rather not risk any further ire from the higher-ups."</source>
+        <target xml:space="preserve" state="translated">\n\n「私たちはただでさえ薄氷を踏むような状況なのよ。これ以上お偉方の不興を買いたくないの。」</target>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment>
+        <source xml:space="preserve">
+
+The man sighed. "</source>
+        <target xml:space="preserve" state="translated">\n\n男はため息をついた。「</target>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment>
+        <source xml:space="preserve">Agent Robert Tofflemire, Mobile Task Force Sigma-10, the Sloth's Arm.</source>
+        <target xml:space="preserve" state="translated">機動部隊シグマ-10『ナマケモノの腕』所属、エージェント・ロバート・トフルマイアー。</target>
+      </segment>
+    </unit>
+    <unit id="8">
+      <segment>
+        <source xml:space="preserve">This statement is made regarding the events which occurred throughout Sloth's Pit, Wisconsin on Thanksgiving Day, 2018."</source>
+        <target xml:space="preserve" state="translated">本証言は2018年の感謝祭にウィスコンシン州スロース・ピット全域で発生した事象に関するものだ。」</target>
+      </segment>
+    </unit>
+    <unit id="9">
+      <segment>
+        <source xml:space="preserve">
+
+"Right.</source>
+        <target xml:space="preserve" state="translated">\n\n「ええ。</target>
+      </segment>
+    </unit>
+    <unit id="10">
+      <segment>
+        <source xml:space="preserve">Where were you when this all started?"</source>
+        <target xml:space="preserve" state="translated">すべての始まりの時、どこにいました？」</target>
+      </segment>
+    </unit>
+    <unit id="11">
+      <segment>
+        <source xml:space="preserve">
+
+-------
+
+"Waiting for the turkey to be accessible."</source>
+        <target xml:space="preserve" state="translated">\n\n-------\n\n「七面鳥にありつけるのを待っていたよ。」</target>
+      </segment>
+    </unit>
+    <unit id="12">
+      <segment>
+        <source xml:space="preserve">Dr. Thomas Bailey played with the wrapper of an energy bar. "</source>
+        <target xml:space="preserve" state="translated">トーマス・ベイリー博士はエナジーバーの包み紙で指遊びをしながら言った。「</target>
+      </segment>
+    </unit>
+    <unit id="13">
+      <segment>
+        <source xml:space="preserve">The Department of Gastronomy can put out a hell of a buffet spread, but there's not much room to actually... //spread// it in Sublevel 6."</source>
+        <target xml:space="preserve" state="translated">ガストロノミー部門はとんでもないご馳走を『広げて』くれるんだが、{{地下^^サブレベル^^}}6じゃ……じゃそれを実際に広げる場所がほとんどなくてね。」</target>
+      </segment>
+    </unit>
+    <unit id="14">
+      <segment>
+        <source xml:space="preserve">
+
+"You're not usually in this neck of the woods," Allison observed. "</source>
+        <target xml:space="preserve" state="translated">\n\n「あなたがこの辺りにいるの珍しいわね。」アリソンが指摘した。「</target>
+      </segment>
+    </unit>
+    <unit id="15">
+      <segment>
+        <source xml:space="preserve">Antarctica get a bit boring?"</source>
+        <target xml:space="preserve" state="translated">南極はちょっと退屈になった？」</target>
+      </segment>
+    </unit>
+    <unit id="16">
+      <segment>
+        <source xml:space="preserve">
+
+"Oh, no, never.</source>
+        <target xml:space="preserve" state="translated">\n\n「いや、まさか、そんなことは無い。</target>
+      </segment>
+    </unit>
+    <unit id="17">
+      <segment>
+        <source xml:space="preserve">It's just that-- well, Trev and I wanted to be here for when Tristan finally popped the question to Claire."</source>
+        <target xml:space="preserve" state="translated">いや、そのまあ⸺トレヴと俺は、トリスタンがようやくクレアにプロポーズする時に、ここに居合わせたかったんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="18">
+      <segment>
+        <source xml:space="preserve">
+
+"You mean Dr. Hennessy."</source>
+        <target xml:space="preserve" state="translated">\n\n「ヘネシー博士のことね。」</target>
+      </segment>
+    </unit>
+    <unit id="19">
+      <segment>
+        <source xml:space="preserve">
+
+"Yeah."</source>
+        <target xml:space="preserve" state="translated">\n\n「ああ。」</target>
+      </segment>
+    </unit>
+    <unit id="20">
+      <segment>
+        <source xml:space="preserve">Thomas scratched the back of his head. "</source>
+        <target xml:space="preserve" state="translated">トーマスは後頭部をかいた。「</target>
+      </segment>
+    </unit>
+    <unit id="21">
+      <segment>
+        <source xml:space="preserve">Idiot was planning to put the ring in the turkey.</source>
+        <target xml:space="preserve" state="translated">あのバカ、指輪を七面鳥の中に仕込むつもりだったんだ。</target>
+      </segment>
+    </unit>
+    <unit id="22">
+      <segment>
+        <source xml:space="preserve">Anyway, it was taking the line over fifteen minutes to let us get the main course, I figured I'd go ahead and look at the desserts first.</source>
+        <target xml:space="preserve" state="translated">とにかく、そのせいでメインディッシュまでの列が15分以上かかっててさ。じゃあ先にデザート覗こうかなって思って。</target>
+      </segment>
+    </unit>
+    <unit id="23">
+      <segment>
+        <source xml:space="preserve">Spoil my appetite a little."</source>
+        <target xml:space="preserve" state="translated">ちょっとつまんで、食欲を削っておこうと思ってね。」</target>
+      </segment>
+    </unit>
+    <unit id="24">
+      <segment>
+        <source xml:space="preserve">
+
+"What first drew your attention?"</source>
+        <target xml:space="preserve" state="translated">\n\n「最初に目を引いたのは？」</target>
+      </segment>
+    </unit>
+    <unit id="25">
+      <segment>
+        <source xml:space="preserve">
+
+-------
+
+"The apple crisp."</source>
+        <target xml:space="preserve" state="translated">\n\n⸺\n\n「アップル・クリスプだ。」</target>
+      </segment>
+    </unit>
+    <unit id="26">
+      <segment>
+        <source xml:space="preserve">Montgomery Reynolds admitted. "</source>
+        <target xml:space="preserve" state="translated">モンゴメリー・レイノルズが証言した。「</target>
+      </segment>
+    </unit>
+    <unit id="27">
+      <segment>
+        <source xml:space="preserve">The crop of Granny Smith hadn't come in this year, and gastronomy had tried some bizarre cooking process to try to make golden delicious apples taste like proper baking apples."</source>
+        <target xml:space="preserve" state="translated">今年はグラニースミス種が収穫できなくてな。ガストロノミー部門がゴールデンデリシャスを焼き菓子用っぽい風味にする妙な調理プロセスを試したんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="28">
+      <segment>
+        <source xml:space="preserve">
+
+"Did it work?"</source>
+        <target xml:space="preserve" state="translated">\n\n「うまくいった？」</target>
+      </segment>
+    </unit>
+    <unit id="29">
+      <segment>
+        <source xml:space="preserve">Allison frowned. "</source>
+        <target xml:space="preserve" state="translated">アリソンが眉をひそめた。「</target>
+      </segment>
+    </unit>
+    <unit id="30">
+      <segment>
+        <source xml:space="preserve">Didn't try it myself.</source>
+        <target xml:space="preserve" state="translated">私は食べなかったけど。</target>
+      </segment>
+    </unit>
+    <unit id="31">
+      <segment>
+        <source xml:space="preserve">Had a weird vibe about it."</source>
+        <target xml:space="preserve" state="translated">変な感じがしてね。」</target>
+      </segment>
+    </unit>
+    <unit id="32">
+      <segment>
+        <source xml:space="preserve">
+
+"Almost.</source>
+        <target xml:space="preserve" state="translated">\n\n「ほとんど、ってとこだな。</target>
+      </segment>
+    </unit>
+    <unit id="33">
+      <segment>
+        <source xml:space="preserve">Not crunchy enough for actual crisp.</source>
+        <target xml:space="preserve" state="translated">本当の"クリスプ"ってほどサクサクじゃない。</target>
+      </segment>
+    </unit>
+    <unit id="34">
+      <segment>
+        <source xml:space="preserve">More apple mush."</source>
+        <target xml:space="preserve" state="translated">どっちかと言えばリンゴのどろっとしたやつだ。」</target>
+      </segment>
+    </unit>
+    <unit id="35">
+      <segment>
+        <source xml:space="preserve">Reynolds cleared his throat. "</source>
+        <target xml:space="preserve" state="translated">レイノルズは咳払いした。「</target>
+      </segment>
+    </unit>
+    <unit id="36">
+      <segment>
+        <source xml:space="preserve">Katherine-- Dr. Sinclair-- got some pumpkin pie instead.</source>
+        <target xml:space="preserve" state="translated">キャサリン⸺シンクレア博士⸺は代わりにパンプキンパイを取ってた。</target>
+      </segment>
+    </unit>
+    <unit id="37">
+      <segment>
+        <source xml:space="preserve">Can't stand the taste of it myself."</source>
+        <target xml:space="preserve" state="translated">俺はあれの味が我慢ならんけどな。」</target>
+      </segment>
+    </unit>
+    <unit id="38">
+      <segment>
+        <source xml:space="preserve">
+
+Allison resisted the urge to make a comment about him being a pastry philistine. "</source>
+        <target xml:space="preserve" state="translated">\n\nアリソンは「お菓子のことをろくにわかっていなくせに」と突っ込みたくなる衝動をこらえた。「</target>
+      </segment>
+    </unit>
+    <unit id="39">
+      <segment>
+        <source xml:space="preserve">Anyway, when did you first notice the anomalies surrounding the apple crisp?"</source>
+        <target xml:space="preserve" state="translated">それで、アップル・クリスプを巡る異常に最初に気付いたのはいつ？」</target>
+      </segment>
+    </unit>
+    <unit id="40">
+      <segment>
+        <source xml:space="preserve">
+
+-------
+
+"Hard to say."</source>
+        <target xml:space="preserve" state="translated">\n\n⸺\n\n「何とも言いづらい。」</target>
+      </segment>
+    </unit>
+    <unit id="41">
+      <segment>
+        <source xml:space="preserve">Cassandra Pike picked at her teeth. "</source>
+        <target xml:space="preserve" state="translated">カサンドラ・パイクは歯に触れながら言った。「</target>
+      </segment>
+    </unit>
+    <unit id="42">
+      <segment>
+        <source xml:space="preserve">Claude and I were already in a bit of a bad mood.</source>
+        <target xml:space="preserve" state="translated">クロードと私は、すでにイライラしていたのよ。</target>
+      </segment>
+    </unit>
+    <unit id="43">
+      <segment>
+        <source xml:space="preserve">Our car had broken down on the way to the site, and we had to walk all the way up the hill in the rain.</source>
+        <target xml:space="preserve" state="translated">現場に向かう途中で車が故障して、雨の中丘を全部歩いて登らなきゃならなかったし。</target>
+      </segment>
+    </unit>
+    <unit id="44">
+      <segment>
+        <source xml:space="preserve">So, we were soaked by the time we got there, and 'mildly irritated' is his default mood."</source>
+        <target xml:space="preserve" state="translated">だから着いた頃にはびしょ濡れ。しかも、彼の気分はデフォルトで『やや苛立ち』なの。」</target>
+      </segment>
+    </unit>
+    <unit id="45">
+      <segment>
+        <source xml:space="preserve">
+
+"So, you were saying an argument wouldn't have been unusual at the time?"</source>
+        <target xml:space="preserve" state="translated">\n\n「つまり、その時口論になっても不思議じゃなかったと？」</target>
+      </segment>
+    </unit>
+    <unit id="46">
+      <segment>
+        <source xml:space="preserve">Alison leaned again the wall of the interview room.</source>
+        <target xml:space="preserve" state="translated">アリソンは取調室の壁にもたれた。</target>
+      </segment>
+    </unit>
+    <unit id="47">
+      <segment>
+        <source xml:space="preserve">Her stomach growled.</source>
+        <target xml:space="preserve" state="translated">彼女の腹が鳴った。</target>
+      </segment>
+    </unit>
+    <unit id="48">
+      <segment>
+        <source xml:space="preserve">
+
+Pike rubbed her face. "</source>
+        <target xml:space="preserve" state="translated">\n\nパイクは顔をこすった。「</target>
+      </segment>
+    </unit>
+    <unit id="49">
+      <segment>
+        <source xml:space="preserve">We're... improving, but at any given moment, we're about three bad sentences away from an argument.</source>
+        <target xml:space="preserve" state="translated">私たち……良くはなってきてるけど、ちょっとした一言で、いつでも口論になりかねないの。</target>
+      </segment>
+    </unit>
+    <unit id="50">
+      <segment>
+        <source xml:space="preserve">As much as movies would love you to believe, marriage doesn't make shit easier."</source>
+        <target xml:space="preserve" state="translated">映画なら結婚を良いものと思わせてくれるけれども、実際に結婚ってちっとも楽にならない。」</target>
+      </segment>
+    </unit>
+    <unit id="51">
+      <segment>
+        <source xml:space="preserve">
+
+"I can imagine."</source>
+        <target xml:space="preserve" state="translated">「想像に難くないですね。」</target>
+      </segment>
+    </unit>
+    <unit id="52">
+      <segment>
+        <source xml:space="preserve">Allison nodded. "</source>
+        <target xml:space="preserve" state="translated">アリソンは頷いた。「</target>
+      </segment>
+    </unit>
+    <unit id="53">
+      <segment>
+        <source xml:space="preserve">Anyway, this argument, what was it over?"</source>
+        <target xml:space="preserve" state="translated">それで、この口論は何についてのものだったんですか？」</target>
+      </segment>
+    </unit>
+    <unit id="54">
+      <segment>
+        <source xml:space="preserve">
+
+"Well, you know that Pathfinder game he runs?</source>
+        <target xml:space="preserve" state="translated">「ああ、彼がやってるパスファインダーのゲームのこと？</target>
+      </segment>
+    </unit>
+    <unit id="55">
+      <segment>
+        <source xml:space="preserve">He had said he'd wanted to do a session on Black Friday, but was backing out of it at the last minute, and wouldn't say why."</source>
+        <target xml:space="preserve" state="translated">彼はブラックフライデーにセッションをやりたいと言ってたのに、ドタキャンして、その理由を言わなかったの。」</target>
+      </segment>
+    </unit>
+    <unit id="56">
+      <segment>
+        <source xml:space="preserve">She clenched her fist. "</source>
+        <target xml:space="preserve" state="translated">彼女は拳を握りしめた。「</target>
+      </segment>
+    </unit>
+    <unit id="57">
+      <segment>
+        <source xml:space="preserve">And this was right as we were digging into the apple crisp."</source>
+        <target xml:space="preserve" state="translated">そして、ちょうど私たちがアップル・クリスプにかぶりつこうとした時に。」</target>
+      </segment>
+    </unit>
+    <unit id="58">
+      <segment>
+        <source xml:space="preserve">
+
+"Then what happened?"</source>
+        <target xml:space="preserve" state="translated">\n\n「それで、どうなったの？」</target>
+      </segment>
+    </unit>
+    <unit id="59">
+      <segment>
+        <source xml:space="preserve">\n\n-------\n\n"Monty is a man who likes his cider, you have to understand that."</source>
+        <target xml:space="preserve" state="translated">\n\n-------\n\n「モンティはシードルが好きな男なんだ、そこは理解してほしい。」</target>
+      </segment>
+    </unit>
+    <unit id="60">
+      <segment>
+        <source xml:space="preserve">Katherine Sinclair adjusted the ice pack on her head. "</source>
+        <target xml:space="preserve" state="translated">キャサリン・シンクレアは頭に氷のパックを当て直した。「</target>
+      </segment>
+    </unit>
+    <unit id="61">
+      <segment>
+        <source xml:space="preserve">Other than mead and this one IPA from Iowa, it's the only alcohol he actually likes."</source>
+        <target xml:space="preserve" state="translated">あとはミードと、アイオワ産のIPAだけ、彼が本当に好きなアルコールはこれだけなんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="62">
+      <segment>
+        <source xml:space="preserve">\n\n"The cider served wasn't alcoholic, though."</source>
+        <target xml:space="preserve" state="translated">「ただ、出されたシードルはアルコール入りじゃなかった。」</target>
+      </segment>
+    </unit>
+    <unit id="63">
+      <segment>
+        <source xml:space="preserve">Allison flipped through previous interviews on her tablet. "</source>
+        <target xml:space="preserve" state="translated">アリソンはタブレットで過去のインタビューをめくりながら言った。「</target>
+      </segment>
+    </unit>
+    <unit id="64">
+      <segment>
+        <source xml:space="preserve">Unless the apples somehow whammied that, too."</source>
+        <target xml:space="preserve" state="translated">また、リンゴが何かしら厄介ごとを引き起こしたんじゃないかな。」</target>
+      </segment>
+    </unit>
+    <unit id="65">
+      <segment>
+        <source xml:space="preserve">\n\n"Wouldn't surprise me.</source>
+        <target xml:space="preserve" state="translated">\n\n「驚きはしないことですね。」</target>
+      </segment>
+    </unit>
+    <unit id="66">
+      <segment>
+        <source xml:space="preserve">Anyway, I had decided to bring a book with me to read while we had dinner-- some dumb James Rollins novel.</source>
+        <target xml:space="preserve" state="translated">それはさておき、夕食中に読むために本を持ってくることにしたんだ⸺ジェームズ・ロリンズのバカみたいな小説をね。</target>
+      </segment>
+    </unit>
+    <unit id="67">
+      <segment>
+        <source xml:space="preserve">Tom Clancy for Creationists, they all blend together after a while.</source>
+        <target xml:space="preserve" state="translated">創造論者向けのトム・クランシー作品で、しばらくすると全部同じに見えてくる。</target>
+      </segment>
+    </unit>
+    <unit id="68">
+      <segment>
+        <source xml:space="preserve">Monty kept on telling me to put it down so we could talk but... I didn't feel like it, for some reason.</source>
+        <target xml:space="preserve" state="translated">モンティはそれを置いて話そうと言い続けていたけど……何故か気が進まなかった。</target>
+      </segment>
+    </unit>
+    <unit id="69">
+      <segment>
+        <source xml:space="preserve">I felt like I was pissed at him for nothing, and should have been ignoring him.</source>
+        <target xml:space="preserve" state="translated">彼にどうでもいいことで怒ってしまったけれど、無視しておくべきだった。</target>
+      </segment>
+    </unit>
+    <unit id="70">
+      <segment>
+        <source xml:space="preserve">I don't know //why//." She squeezed the ice. "</source>
+        <target xml:space="preserve" state="translated">「何でかは分からない。」彼女は氷をぎゅっと握りしめた。「</target>
+      </segment>
+    </unit>
+    <unit id="71">
+      <segment>
+        <source xml:space="preserve">I'm going to pre-empt your reaction here: I don't mean it in that sense.</source>
+        <target xml:space="preserve" state="translated">あなたの反応を先読みして言うけど、そういう意味じゃないから。</target>
+      </segment>
+    </unit>
+    <unit id="72">
+      <segment>
+        <source xml:space="preserve">After a few glasses of cider, Monty decided to take out his wand and start fiddling with--" Sinclair inadvertently snickered. "</source>
+        <target xml:space="preserve" state="translated">数杯のシードルの後、モンティは杖を取り出していじり始めた⸺」シンクレアはうっかりクスリと笑った。「</target>
+      </segment>
+    </unit>
+    <unit id="73">
+      <segment>
+        <source xml:space="preserve">God dammit.</source>
+        <target xml:space="preserve" state="translated">くそ。</target>
+      </segment>
+    </unit>
+    <unit id="74">
+      <segment>
+        <source xml:space="preserve">Why does thaumatology have to involve so much phallic imagery?"</source>
+        <target xml:space="preserve" state="translated">何で神秘学にはこんなに男性器のイメージが絡むんだ？」</target>
+      </segment>
+    </unit>
+    <unit id="75">
+      <segment>
+        <source xml:space="preserve">
+
+Allison turned her head to hide a smirk. "</source>
+        <target xml:space="preserve" state="translated">\n\nアリソンは微笑みを隠すために顔を背けた。「</target>
+      </segment>
+    </unit>
+    <unit id="76">
+      <segment>
+        <source xml:space="preserve">Since when does he have a wand?"</source>
+        <target xml:space="preserve" state="translated">「彼はいつから杖を持ってるの？」</target>
+      </segment>
+    </unit>
+    <unit id="77">
+      <segment>
+        <source xml:space="preserve">
+
+"We went on vacation to Universal Orlando last Christmas.</source>
+        <target xml:space="preserve" state="translated">「去年のクリスマスにユニバーサル・オーランドにバケーションに行ったんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="78">
+      <segment>
+        <source xml:space="preserve">Went to Harry Potterland, decided to, aheh, modify the $80 wands we got from Ollivander's.</source>
+        <target xml:space="preserve" state="translated">ハリー・ポッターランドに行って、オリバンダーの店で買った80ドルの杖を、ええと、改造することにしたんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="79">
+      <segment>
+        <source xml:space="preserve">Papework's all filled out!"</source>
+        <target xml:space="preserve" state="translated">書類は全部記入済みだ！」</target>
+      </segment>
+    </unit>
+    <unit id="80">
+      <segment>
+        <source xml:space="preserve">Sinclair said that last part far too quickly. "</source>
+        <target xml:space="preserve" state="translated">シンクレアはその最後の部分を言うのがあまりにも早すぎた。「</target>
+      </segment>
+    </unit>
+    <unit id="81">
+      <segment>
+        <source xml:space="preserve">Anyway, he decided it would be nice if he levitated over some more turkey for us.</source>
+        <target xml:space="preserve" state="translated">それはさておき、彼は私たちのために七面鳥を浮かせてくれるといいなと思ったんだ。</target>
+      </segment>
+    </unit>
+    <unit id="82">
+      <segment>
+        <source xml:space="preserve">We're not supposed to use magic outside of the lab without a special writ, but by the time I was telling him this--"\n\n"You had been beaned in the head by a hot ladle.</source>
+        <target xml:space="preserve" state="translated">私たちは特別な許可なしに実験室の外で魔法を使うことはできないんだけど、私が彼にこれを言ってる間に⸺」\n\n「熱いおたまで頭を殴られたんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="83">
+      <segment>
+        <source xml:space="preserve">Then what happened?"</source>
+        <target xml:space="preserve" state="translated">それで、どうなったの？」</target>
+      </segment>
+    </unit>
+    <unit id="84">
+      <segment>
+        <source xml:space="preserve">
+
+-------
+
+"I rushed to help Sinclair."</source>
+        <target xml:space="preserve" state="translated">\n\n-------\n\n「シンクレアを助けるために駆け寄った。」</target>
+      </segment>
+    </unit>
+    <unit id="85">
+      <segment>
+        <source xml:space="preserve">Gwen Liao had her hands folded on the table before her. "</source>
+        <target xml:space="preserve" state="translated">グウェン・リャオはテーブルの前で手を組んでいた。「</target>
+      </segment>
+    </unit>
+    <unit id="86">
+      <segment>
+        <source xml:space="preserve">Thankfully, her injuries were minor, just some first-degree burns.</source>
+        <target xml:space="preserve" state="translated">幸いにも、彼女の怪我は軽傷で、ただの一度火傷だった。</target>
+      </segment>
+    </unit>
+    <unit id="87">
+      <segment>
+        <source xml:space="preserve">I've seen worse from standing in a hot shower for too long.</source>
+        <target xml:space="preserve" state="translated">熱いシャワーを浴びすぎて見たことがあるよりはマシだ。</target>
+      </segment>
+    </unit>
+    <unit id="88">
+      <segment>
+        <source xml:space="preserve">But then I just started laying into Reynolds, saying he was acting really irresponsible."</source>
+        <target xml:space="preserve" state="translated">でも、そしたらレイノルズに対して、彼が本当に無責任に行動していると言い始めたんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="89">
+      <segment>
+        <source xml:space="preserve">
+
+"Did he seem drunk to you?"</source>
+        <target xml:space="preserve" state="translated">「彼は酔っ払ってるように見えた？」</target>
+      </segment>
+    </unit>
+    <unit id="90">
+      <segment>
+        <source xml:space="preserve">Allison raised her eyebrow.</source>
+        <target xml:space="preserve" state="translated">アリソンは眉を上げた。</target>
+      </segment>
+    </unit>
+    <unit id="91">
+      <segment>
+        <source xml:space="preserve">
+
+"I can't imagine why or how, but yes."</source>
+        <target xml:space="preserve" state="translated">「何でそうなるのか、どうやってそうなるのかは想像できないけど、はい。」</target>
+      </segment>
+    </unit>
+    <unit id="92">
+      <segment>
+        <source xml:space="preserve">The nurse nodded. "</source>
+        <target xml:space="preserve" state="translated">看護師は頷いた。「</target>
+      </segment>
+    </unit>
+    <unit id="93">
+      <segment>
+        <source xml:space="preserve">He seemed stunned for a moment, and clutched his head, as if he were disoriented and trying to get his bearings.</source>
+        <target xml:space="preserve" state="translated">彼は一瞬呆然とし、頭を抱え込んだ。まるで方向感覚を失い、自分の位置を把握しようとしているかのように。</target>
+      </segment>
+    </unit>
+    <unit id="94">
+      <segment>
+        <source xml:space="preserve">And at that point... well, chaos kind of started ensuing."</source>
+        <target xml:space="preserve" state="translated">その時点で……まあ、混沌が始まったんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="95">
+      <segment>
+        <source xml:space="preserve">
+
+"How so?</source>
+        <target xml:space="preserve" state="translated">「どういうこと？」</target>
+      </segment>
+    </unit>
+    <unit id="96">
+      <segment>
+        <source xml:space="preserve">In your own words."</source>
+        <target xml:space="preserve" state="translated">あなたの言葉で。」</target>
+      </segment>
+    </unit>
+    <unit id="97">
+      <segment>
+        <source xml:space="preserve">
+
+-------
+
+Dr. Margaret Reese sucked in air through her teeth. "</source>
+        <target xml:space="preserve" state="translated">\n\n⸺\n\nマーガレット・リース博士は歯を鳴らして息を吸い込んだ。「</target>
+      </segment>
+    </unit>
+    <unit id="98">
+      <segment>
+        <source xml:space="preserve">Well, for one thing, the Bailey Brothers started yelling at each other.</source>
+        <target xml:space="preserve" state="translated">まず一つには、ベイリー兄弟が互いに叫び始めたことだ。</target>
+      </segment>
+    </unit>
+    <unit id="99">
+      <segment>
+        <source xml:space="preserve">That's... unusual.</source>
+        <target xml:space="preserve" state="translated">それは……珍しいね。</target>
+      </segment>
+    </unit>
+    <unit id="100">
+      <segment>
+        <source xml:space="preserve">They get to see each other maybe once every two years, and they start arguing over... pretty much nothing, as far as I can tell."</source>
+        <target xml:space="preserve" state="translated">彼らは2年に1度くらいしか会えないのに、何もないことで口論を始めるんだから、私にはそうとしか思えない。」</target>
+      </segment>
+    </unit>
+    <unit id="101">
+      <segment>
+        <source xml:space="preserve">
+
+"Conflict for conflict's sake."</source>
+        <target xml:space="preserve" state="translated">「対立のための対立さ。」</target>
+      </segment>
+    </unit>
+    <unit id="102">
+      <segment>
+        <source xml:space="preserve">Alison tilted her head upwards, deep in thought.</source>
+        <target xml:space="preserve" state="translated">アリソンは考え込んで頭を上げた。</target>
+      </segment>
+    </unit>
+    <unit id="103">
+      <segment>
+        <source xml:space="preserve"> "That seems to be a common theme here."</source>
+        <target xml:space="preserve" state="translated"> 「ここではよくあるテーマみたいね。」</target>
+      </segment>
+    </unit>
+    <unit id="104">
+      <segment>
+        <source xml:space="preserve">
+
+"Yeah.</source>
+        <target xml:space="preserve" state="translated">「ああ。</target>
+      </segment>
+    </unit>
+    <unit id="105">
+      <segment>
+        <source xml:space="preserve">It took me a bit to realize it, but then John-- that is, Dr. West, put his hand on my fork and snatched it away from me.</source>
+        <target xml:space="preserve" state="translated">それに気付くのに少し時間がかかったけど、ジョン⸺つまりウェスト博士⸺が私のフォークに手を置いて奪い取ったんだ。</target>
+      </segment>
+    </unit>
+    <unit id="106">
+      <segment>
+        <source xml:space="preserve">We both realized at the same time that there was something in the food.</source>
+        <target xml:space="preserve" state="translated">私たちは同時に、食べ物の中に何かがあることに気付いた。</target>
+      </segment>
+    </unit>
+    <unit id="107">
+      <segment>
+        <source xml:space="preserve">I tried telling people to stop eating, but..."
+
+"That only made things worse."</source>
+        <target xml:space="preserve" state="translated">「みんなに食べるのをやめるように言おうとしたけど……」
+
+「それが逆効果になった。」</target>
+      </segment>
+    </unit>
+    <unit id="108">
+      <segment>
+        <source xml:space="preserve">
+
+-------
+
+"It's been a while since we've had a site-wide panic."</source>
+        <target xml:space="preserve" state="translated">\n\n⸺\n\n「サイト全体でパニックになるのは久しぶりだ。」</target>
+      </segment>
+    </unit>
+    <unit id="109">
+      <segment>
+        <source xml:space="preserve">Agent Seren Pryce adjusted her arm in the sling. "</source>
+        <target xml:space="preserve" state="translated">エージェント・セレン・プライスはスリングで腕を調整した。「</target>
+      </segment>
+    </unit>
+    <unit id="110">
+      <segment>
+        <source xml:space="preserve">It started on Sublevel 6, and just kind of.... spread upwards.</source>
+        <target xml:space="preserve" state="translated">それはサブレベル6で始まり、ただ上に向かって広がっていった。</target>
+      </segment>
+    </unit>
+    <unit id="111">
+      <segment>
+        <source xml:space="preserve">I think someone removed food from the site."</source>
+        <target xml:space="preserve" state="translated">誰かが現場から食べ物を持ち去ったんだと思う。」</target>
+      </segment>
+    </unit>
+    <unit id="112">
+      <segment>
+        <source xml:space="preserve">
+
+"And in the process, whatever was in the food spread to the rest of the site... and the rest of the town.</source>
+        <target xml:space="preserve" state="translated">そしてその過程で、食べ物の中にあった何かがサイトの他の部分……そして町の他の部分にまで広がった。」</target>
+      </segment>
+    </unit>
+    <unit id="113">
+      <segment>
+        <source xml:space="preserve">How's the arm?"</source>
+        <target xml:space="preserve" state="translated">腕の具合はどう？」</target>
+      </segment>
+    </unit>
+    <unit id="114">
+      <segment>
+        <source xml:space="preserve">
+
+"Sprained.</source>
+        <target xml:space="preserve" state="translated">「捻挫した。」</target>
+      </segment>
+    </unit>
+    <unit id="115">
+      <segment>
+        <source xml:space="preserve">Doc says I should stay away from firearms for a while, which... y'know, kind of sucks."</source>
+        <target xml:space="preserve" state="translated">医者はしばらくの間火器から離れているべきだと言ってるんだ、つまり……まあ、ちょっと困る。」</target>
+      </segment>
+    </unit>
+    <unit id="116">
+      <segment>
+        <source xml:space="preserve">Pryce grimaced as she took a sip of the water in front of her. "</source>
+        <target xml:space="preserve" state="translated">プライスは目の前の水を一口飲んで顔をしかめた。「</target>
+      </segment>
+    </unit>
+    <unit id="117">
+      <segment>
+        <source xml:space="preserve">Hopefully it'll get healed by New Year's."</source>
+        <target xml:space="preserve" state="translated">新年までには治るといいんだけど。」</target>
+      </segment>
+    </unit>
+    <unit id="118">
+      <segment>
+        <source xml:space="preserve">
+
+"Any idea who took the food from the site, then?"</source>
+        <target xml:space="preserve" state="translated">「じゃあ、誰が現場から食べ物を持ち去ったか心当たりはある？」</target>
+      </segment>
+    </unit>
+    <unit id="119">
+      <segment>
+        <source xml:space="preserve">
+
+-------
+
+"I didn't know it was anomalous!"</source>
+        <target xml:space="preserve" state="translated">\n\n⸺\n\n「それが異常だとは知らなかった！」</target>
+      </segment>
+    </unit>
+    <unit id="120">
+      <segment>
+        <source xml:space="preserve">Christopher Hastings, the so-called 'Action Botanist' of Site-87, protested to the allegations. "</source>
+        <target xml:space="preserve" state="translated">クリストファー・ヘイスティングス、いわゆるサイト-87の「アクション植物学者」がその告発に抗議した。「</target>
+      </segment>
+    </unit>
+    <unit id="121">
+      <segment>
+        <source xml:space="preserve">I just-- I had family in town, and we were going to meet at a restaurant to have Thanksgiving dinner.</source>
+        <target xml:space="preserve" state="translated">ただ⸺街に家族が来ていて、感謝祭のディナーをレストランで一緒に食べる予定だったんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="122">
+      <segment>
+        <source xml:space="preserve">I decided to take a bit of apple crisp for dessert."</source>
+        <target xml:space="preserve" state="translated">デザートにアップル・クリスプを少し持って行くことにしたんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="123">
+      <segment>
+        <source xml:space="preserve">
+
+"So it's definitely the apple crisp.</source>
+        <target xml:space="preserve" state="translated">「つまり、間違いなくアップル・クリスプだ。」</target>
+      </segment>
+    </unit>
+    <unit id="124">
+      <segment>
+        <source xml:space="preserve">Did you notice anything strange as you drove along?"</source>
+        <target xml:space="preserve" state="translated">運転中に何か変なことに気づかなかった？」</target>
+      </segment>
+    </unit>
+    <unit id="125">
+      <segment>
+        <source xml:space="preserve">
+
+"Yeah."</source>
+        <target xml:space="preserve" state="translated">「ああ。」</target>
+      </segment>
+    </unit>
+    <unit id="126">
+      <segment>
+        <source xml:space="preserve">Hastings  yawned. "</source>
+        <target xml:space="preserve" state="translated">ヘイスティングスはあくびをした。「</target>
+      </segment>
+    </unit>
+    <unit id="127">
+      <segment>
+        <source xml:space="preserve">Behind my car, I saw... weird, weird things happening.</source>
+        <target xml:space="preserve" state="translated">私の車の後ろで、変な、変なことが起こっているのを見たんだ。</target>
+      </segment>
+    </unit>
+    <unit id="128">
+      <segment>
+        <source xml:space="preserve">Like, remember a few years ago when that time-travelling redneck decided to try to rob a Dunkin' Donuts with a few dozen time-displaced copies of himself?"</source>
+        <target xml:space="preserve" state="translated">数年前、あの時間旅行する田舎者がダンキンドーナツを襲おうとして、自分の時間移動したコピーを数十体連れてきたのを覚えてる？」</target>
+      </segment>
+    </unit>
+    <unit id="129">
+      <segment>
+        <source xml:space="preserve">
+
+"God, don't remind me.</source>
+        <target xml:space="preserve" state="translated">「ああ、思い出させるな。</target>
+      </segment>
+    </unit>
+    <unit id="130">
+      <segment>
+        <source xml:space="preserve">Delta-T wouldn't get out of our hair for months."</source>
+        <target xml:space="preserve" state="translated">デルタ-Tは何ヶ月も私たちの邪魔をし続けた。」</target>
+      </segment>
+    </unit>
+    <unit id="131">
+      <segment>
+        <source xml:space="preserve">Allison groaned. "</source>
+        <target xml:space="preserve" state="translated">アリソンはうめいた。「</target>
+      </segment>
+    </unit>
+    <unit id="132">
+      <segment>
+        <source xml:space="preserve">But... you're saying you saw temporal anomalies?"</source>
+        <target xml:space="preserve" state="translated">でも……あなたは時間的異常を見たと言ってるの？」</target>
+      </segment>
+    </unit>
+    <unit id="133">
+      <segment>
+        <source xml:space="preserve">
+
+"Yeah.</source>
+        <target xml:space="preserve" state="translated">「ああ。</target>
+      </segment>
+    </unit>
+    <unit id="134">
+      <segment>
+        <source xml:space="preserve">Same redneck, except this time, he was riding a dinosaur."</source>
+        <target xml:space="preserve" state="translated">同じ田舎者だけど、今度は恐竜に乗ってた。」</target>
+      </segment>
+    </unit>
+    <unit id="135">
+      <segment>
+        <source xml:space="preserve">
+
+"What."</source>
+        <target xml:space="preserve" state="translated">「何だって？」</target>
+      </segment>
+    </unit>
+    <unit id="136">
+      <segment>
+        <source xml:space="preserve">
+
+"I know, right?</source>
+        <target xml:space="preserve" state="translated">「そうだろ？」</target>
+      </segment>
+    </unit>
+    <unit id="137">
+      <segment>
+        <source xml:space="preserve">There aren't even any dinosaur fossils in Wisconsin.</source>
+        <target xml:space="preserve" state="translated">ウィスコンシンには恐竜の化石すらないんだから。</target>
+      </segment>
+    </unit>
+    <unit id="138">
+      <segment>
+        <source xml:space="preserve">Don't know where the hell they came from."</source>
+        <target xml:space="preserve" state="translated">どこから来たのか全く分からない。」</target>
+      </segment>
+    </unit>
+    <unit id="139">
+      <segment>
+        <source xml:space="preserve">Hastings sighed and squinted, nursing a headache. "</source>
+        <target xml:space="preserve" state="translated">ヘイスティングスはため息をつき、頭を押さえながら言った。「</target>
+      </segment>
+    </unit>
+    <unit id="140">
+      <segment>
+        <source xml:space="preserve">Then... well, then I crashed my car into a six-foot-tall man-eating turkey."</source>
+        <target xml:space="preserve" state="translated">それから……まあ、6フィートの高さの人食い七面鳥に車をぶつけてしまったんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="141">
+      <segment>
+        <source xml:space="preserve">
+
+"How did you know it was man-eating?"</source>
+        <target xml:space="preserve" state="translated">「どうしてそれが人食いだと分かった？」</target>
+      </segment>
+    </unit>
+    <unit id="142">
+      <segment>
+        <source xml:space="preserve">
+
+"Well."</source>
+        <target xml:space="preserve" state="translated">「まあ。」</target>
+      </segment>
+    </unit>
+    <unit id="143">
+      <segment>
+        <source xml:space="preserve">Hastings chewed his lip. "</source>
+        <target xml:space="preserve" state="translated">ヘイスティングスは唇を噛んだ。「</target>
+      </segment>
+    </unit>
+    <unit id="144">
+      <segment>
+        <source xml:space="preserve">The fact that it was in the process of mauling a citizen was a pretty good clue."</source>
+        <target xml:space="preserve" state="translated">市民を襲っている最中だったってのは、かなりの手がかりだろ。」</target>
+      </segment>
+    </unit>
+    <unit id="145">
+      <segment>
+        <source xml:space="preserve">
+
+"Any idea what was happening back at the site, at that point?"</source>
+        <target xml:space="preserve" state="translated">「その時、現場では何が起こっていたのか心当たりはある？」</target>
+      </segment>
+    </unit>
+    <unit id="146">
+      <segment>
+        <source xml:space="preserve">
+
+------
+
+"Well, for one thing, I had started turning into a tree.</source>
+        <target xml:space="preserve" state="translated">\n\n⸺\n\n「まず一つには、木に変わり始めていた。」</target>
+      </segment>
+    </unit>
+    <unit id="147">
+      <segment>
+        <source xml:space="preserve">//Again//." Dr. Partridge slammed his left branch against the table before him. "</source>
+        <target xml:space="preserve" state="translated">//またか//。」パーチリッジ博士は目の前のテーブルに左の枝を叩きつけた。「</target>
+      </segment>
+    </unit>
+    <unit id="148">
+      <segment>
+        <source xml:space="preserve">I'm //sick// of being a goddamn cosmic punchline in this town!</source>
+        <target xml:space="preserve" state="translated">この町で神様のジョークのオチにされるのはもうたくさんだ!</target>
+      </segment>
+    </unit>
+    <unit id="149">
+      <segment>
+        <source xml:space="preserve">Just //sick// of it!"</source>
+        <target xml:space="preserve" state="translated">ただただ、うんざりだ！」</target>
+      </segment>
+    </unit>
+    <unit id="150">
+      <segment>
+        <source xml:space="preserve">
+
+Partridge's rant continued for several minutes.</source>
+        <target xml:space="preserve" state="translated">パーチリッジの愚痴は数分間続いた。</target>
+      </segment>
+    </unit>
+    <unit id="151">
+      <segment>
+        <source xml:space="preserve">Allison let him blow it off- this was the third time in five years it had happened, and she genuinely felt for him.</source>
+        <target xml:space="preserve" state="translated">アリソンは彼に愚痴を言わせてやった⸺これは5年で3度目のことで、彼女は本当に彼のことを気の毒に思っていた。</target>
+      </segment>
+    </unit>
+    <unit id="152">
+      <segment>
+        <source xml:space="preserve">The man was more than a punchline-- she had read about what he did in Guatemala.</source>
+        <target xml:space="preserve" state="translated">その男はただのジョークのオチ以上の存在だった⸺彼女は彼がグアテマラで何をしたのかを読んでいた。</target>
+      </segment>
+    </unit>
+    <unit id="153">
+      <segment>
+        <source xml:space="preserve">Saved dozens of lives.</source>
+        <target xml:space="preserve" state="translated">何十人もの命を救った。</target>
+      </segment>
+    </unit>
+    <unit id="154">
+      <segment>
+        <source xml:space="preserve">The Foundation Star he'd gotten in 2017 had been his second one.</source>
+        <target xml:space="preserve" state="translated">彼が2017年に受け取ったファウンデーションスターは2つ目のものだった。</target>
+      </segment>
+    </unit>
+    <unit id="155">
+      <segment>
+        <source xml:space="preserve">
+
+"Sorry."</source>
+        <target xml:space="preserve" state="translated">「ごめん。」</target>
+      </segment>
+    </unit>
+    <unit id="156">
+      <segment>
+        <source xml:space="preserve">Partridge held his head with his functional hand. "</source>
+        <target xml:space="preserve" state="translated">パーチリッジは機能する手で頭を押さえた。「</target>
+      </segment>
+    </unit>
+    <unit id="157">
+      <segment>
+        <source xml:space="preserve">Sorry.</source>
+        <target xml:space="preserve" state="translated">ごめん。</target>
+      </segment>
+    </unit>
+    <unit id="158">
+      <segment>
+        <source xml:space="preserve">Just.</source>
+        <target xml:space="preserve" state="translated">ただ。</target>
+      </segment>
+    </unit>
+    <unit id="159">
+      <segment>
+        <source xml:space="preserve">Frustrated by all of this, you know?"</source>
+        <target xml:space="preserve" state="translated">こんなことにイライラさせられてるんだ、分かるだろ？」</target>
+      </segment>
+    </unit>
+    <unit id="160">
+      <segment>
+        <source xml:space="preserve">
+
+"Surprised you didn't go for the pumpkin pie."</source>
+        <target xml:space="preserve" state="translated">「パンプキンパイに行かなかったのが意外だ。」</target>
+      </segment>
+    </unit>
+    <unit id="161">
+      <segment>
+        <source xml:space="preserve">
+
+"Don't trust them anymore."</source>
+        <target xml:space="preserve" state="translated">「もう彼らを信じない。」</target>
+      </segment>
+    </unit>
+    <unit id="162">
+      <segment>
+        <source xml:space="preserve">Partridge shook his head, the wood of his neck creaking. "</source>
+        <target xml:space="preserve" state="translated">パーチリッジは首を振り、その木製の首がきしんだ。「</target>
+      </segment>
+    </unit>
+    <unit id="163">
+      <segment>
+        <source xml:space="preserve">Not since poor Jeff Hubble got turned into a vampire by one."</source>
+        <target xml:space="preserve" state="translated">可哀想なジェフ・ハブルがそれによって吸血鬼にされて以来、そんなことは無い。」</target>
+      </segment>
+    </unit>
+    <unit id="164">
+      <segment>
+        <source xml:space="preserve">
+
+"Right."</source>
+        <target xml:space="preserve" state="translated">「そうだな。」</target>
+      </segment>
+    </unit>
+    <unit id="165">
+      <segment>
+        <source xml:space="preserve">Allison chewed the inside of her cheek. "</source>
+        <target xml:space="preserve" state="translated">アリソンは頬の内側を噛んだ。「</target>
+      </segment>
+    </unit>
+    <unit id="166">
+      <segment>
+        <source xml:space="preserve">God, that sounded like it was weird."</source>
+        <target xml:space="preserve" state="translated">神様、それは変な響きだった。」</target>
+      </segment>
+    </unit>
+    <unit id="167">
+      <segment>
+        <source xml:space="preserve">
+
+"It was."</source>
+        <target xml:space="preserve" state="translated">「そうだった。」</target>
+      </segment>
+    </unit>
+    <unit id="168">
+      <segment>
+        <source xml:space="preserve">Partridge tapped his half-wooden fingers against the table. "</source>
+        <target xml:space="preserve" state="translated">パーチリッジは自分の半分木製の指をテーブルにトントンと叩いた。「</target>
+      </segment>
+    </unit>
+    <unit id="169">
+      <segment>
+        <source xml:space="preserve">Anyway, uh.</source>
+        <target xml:space="preserve" state="translated">それはさておき、ええと。</target>
+      </segment>
+    </unit>
+    <unit id="170">
+      <segment>
+        <source xml:space="preserve">I didn't turn into one //immediately//. I was talking to Quentin Harrison, head of gastronomy.</source>
+        <target xml:space="preserve" state="translated">私はすぐにはそうならなかった。ガストロノミー部門の責任者、クエンティン・ハリソンと話していたんだ。</target>
+      </segment>
+    </unit>
+    <unit id="171">
+      <segment>
+        <source xml:space="preserve">He said that he found the skins of some of the apples used in the crisp, and they looked... well, wrong.</source>
+        <target xml:space="preserve" state="translated">彼はクリスプに使われたリンゴの皮をいくつか見つけて、それが……まあ、変に見えたと言った。</target>
+      </segment>
+    </unit>
+    <unit id="172">
+      <segment>
+        <source xml:space="preserve">He showed me some of his stock, and I saw a bunch of golden apples.</source>
+        <target xml:space="preserve" state="translated">彼は自分の在庫のいくつかを見せてくれて、私はたくさんの金色のリンゴを見た。</target>
+      </segment>
+    </unit>
+    <unit id="173">
+      <segment>
+        <source xml:space="preserve">The apple crisp was halfway in my mouth before he had opened the door to the fridge, and I swallowed it in surprise.</source>
+        <target xml:space="preserve" state="translated">アップル・クリスプは彼が冷蔵庫のドアを開ける前に私の口の中で半分になっていて、私は驚いてそれを飲み込んだ。</target>
+      </segment>
+    </unit>
+    <unit id="174">
+      <segment>
+        <source xml:space="preserve">Idiot."</source>
+        <target xml:space="preserve" state="translated">バカ。」</target>
+      </segment>
+    </unit>
+    <unit id="175">
+      <segment>
+        <source xml:space="preserve">
+
+"Well, at least it's only partial this time.</source>
+        <target xml:space="preserve" state="translated">「まあ、今回は部分的なものだけで済んだ。」</target>
+      </segment>
+    </unit>
+    <unit id="176">
+      <segment>
+        <source xml:space="preserve">Maybe you're building up a resistance to it."</source>
+        <target xml:space="preserve" state="translated">「もしかしたら、あなたはそれに対する耐性をつけているのかも。」</target>
+      </segment>
+    </unit>
+    <unit id="177">
+      <segment>
+        <source xml:space="preserve">
+
+"I'm actually thinking of getting a genetic test, at this point.</source>
+        <target xml:space="preserve" state="translated">「実際、今の時点で遺伝子検査を受けようか考えてる。」</target>
+      </segment>
+    </unit>
+    <unit id="178">
+      <segment>
+        <source xml:space="preserve">I'm Greek on my dad's side, and I can't help but wonder if there's some dryad in me."</source>
+        <target xml:space="preserve" state="translated">「父方はギリシャ人で、もしかしたら私の中にドライアドがいるんじゃないかと思うことがある。」</target>
+      </segment>
+    </unit>
+    <unit id="179">
+      <segment>
+        <source xml:space="preserve">Dr. Partridge sneezed.</source>
+        <target xml:space="preserve" state="translated">パーチリッジ博士がくしゃみをした。</target>
+      </segment>
+    </unit>
+    <unit id="180">
+      <segment>
+        <source xml:space="preserve">Apple seeds came from his nose. "...</source>
+        <target xml:space="preserve" state="translated">リンゴの種が彼の鼻から出てきた。「……」</target>
+      </segment>
+    </unit>
+    <unit id="181">
+      <segment>
+        <source xml:space="preserve">fuck, I //really// feel for King, now."</source>
+        <target xml:space="preserve" state="translated">くそ、今はキングに同情するわ。」</target>
+      </segment>
+    </unit>
+    <unit id="182">
+      <segment>
+        <source xml:space="preserve">
+
+"Anything else interesting happen, that you're aware of?"</source>
+        <target xml:space="preserve" state="translated">「他に何か面白いことが起こったか、知ってる範囲で？」</target>
+      </segment>
+    </unit>
+    <unit id="183">
+      <segment>
+        <source xml:space="preserve">
+
+-------
+
+"You know how //hard// it is to build a dark matter reactor?"</source>
+        <target xml:space="preserve" state="translated">\n\n⸺\n\n「ダークマター反応炉を作るのがどれだけ大変か、分かるだろ？」</target>
+      </segment>
+    </unit>
+    <unit id="184">
+      <segment>
+        <source xml:space="preserve">Johnathan West opened his hands, before clenching his fingers tight around each other. "</source>
+        <target xml:space="preserve" state="translated">ジョナサン・ウェストは手を広げてから、互いに指を強く絡ませた。「</target>
+      </segment>
+    </unit>
+    <unit id="185">
+      <segment>
+        <source xml:space="preserve">We've been working on it for over twenty years.</source>
+        <target xml:space="preserve" state="translated">それに20年以上取り組んできた。</target>
+      </segment>
+    </unit>
+    <unit id="186">
+      <segment>
+        <source xml:space="preserve">Marshall, Carter &amp; Dark are already rolling it out in some places.</source>
+        <target xml:space="preserve" state="translated">マーシャル、カーター＆ダークはすでにいくつかの場所でそれを展開している。</target>
+      </segment>
+    </unit>
+    <unit id="187">
+      <segment>
+        <source xml:space="preserve">The fact that a stoned-out-of-his-mind high-school science teacher was able to make one after eating a magic apple is..." He shook his head. "</source>
+        <target xml:space="preserve" state="translated">酔っ払っているはずのない高校の科学教師が、魔法のリンゴを食べた後にそれを作ることができたというのは……」彼は首を振った。「</target>
+      </segment>
+    </unit>
+    <unit id="188">
+      <segment>
+        <source xml:space="preserve">It's not a good look."</source>
+        <target xml:space="preserve" state="translated">それは良い見た目じゃない。」</target>
+      </segment>
+    </unit>
+    <unit id="189">
+      <segment>
+        <source xml:space="preserve">
+
+"I can't imagine."</source>
+        <target xml:space="preserve" state="translated">「想像できない。」</target>
+      </segment>
+    </unit>
+    <unit id="190">
+      <segment>
+        <source xml:space="preserve">By this point, it was late, and everyone involved was tired, but Allison had the patience of a saint from spending over three years in the company of Robert Tofflemire. "</source>
+        <target xml:space="preserve" state="translated">この時点で、すでに遅い時間で、関わっている全員が疲れていた。しかし、アリソンはロバート・トフルマイアーと3年以上一緒に過ごしてきたおかげで、聖人のような忍耐力を持っていた。「</target>
+      </segment>
+    </unit>
+    <unit id="191">
+      <segment>
+        <source xml:space="preserve">Thankfully, Wisconsin hasn't legalized marijuana, so he'll probably get a pretty hefty fine."</source>
+        <target xml:space="preserve" state="translated">幸いなことに、ウィスコンシン州ではマリファナが合法化されていないので、彼はおそらくかなりの罰金を科されるだろう。」</target>
+      </segment>
+    </unit>
+    <unit id="192">
+      <segment>
+        <source xml:space="preserve">
+
+"Didn't take you for someone who's anti-drug, Agent Carol."</source>
+        <target xml:space="preserve" state="translated">「あなたが反ドラッグ派だとは思わなかった、キャロル捜査官。」</target>
+      </segment>
+    </unit>
+    <unit id="193">
+      <segment>
+        <source xml:space="preserve">West raised his eyebrow.</source>
+        <target xml:space="preserve" state="translated">ウェストは眉をひそめた。</target>
+      </segment>
+    </unit>
+    <unit id="194">
+      <segment>
+        <source xml:space="preserve">
+
+"I'm not, but the //last// thing this town needs is a legal dispensery within 50 miles."</source>
+        <target xml:space="preserve" state="translated">「私はそうじゃないけど、この町にとって最も不必要なのは、50マイル以内に合法的な薬局ができることだ。」</target>
+      </segment>
+    </unit>
+    <unit id="195">
+      <segment>
+        <source xml:space="preserve">
+
+"Fair enough."</source>
+        <target xml:space="preserve" state="translated">「もっともだ。」</target>
+      </segment>
+    </unit>
+    <unit id="196">
+      <segment>
+        <source xml:space="preserve">West put his head in his hand. "</source>
+        <target xml:space="preserve" state="translated">ウェストは頭を手に置いた。「</target>
+      </segment>
+    </unit>
+    <unit id="197">
+      <segment>
+        <source xml:space="preserve">I used to loathe Halloween.</source>
+        <target xml:space="preserve" state="translated">私はかつてハロウィンが大嫌いだった。</target>
+      </segment>
+    </unit>
+    <unit id="198">
+      <segment>
+        <source xml:space="preserve">Now I hold contempt for //all// holidays.</source>
+        <target xml:space="preserve" state="translated">今ではすべての祝日を軽蔑している。</target>
+      </segment>
+    </unit>
+    <unit id="199">
+      <segment>
+        <source xml:space="preserve">No wonder our festology department decided to run for the hills.</source>
+        <target xml:space="preserve" state="translated">私たちの祭り学部門が逃げ出すことにしたのも無理はない。</target>
+      </segment>
+    </unit>
+    <unit id="200">
+      <segment>
+        <source xml:space="preserve">Something like this happens //every year//."
+
+"Could be worse.</source>
+        <target xml:space="preserve" state="translated">こんなことが毎年のように起こるんだから。」
+
+「もっと悪いこともある。」</target>
+      </segment>
+    </unit>
+    <unit id="201">
+      <segment>
+        <source xml:space="preserve">Remember the turkey golems?"</source>
+        <target xml:space="preserve" state="translated">七面鳥のゴーレムのことを覚えてる？」</target>
+      </segment>
+    </unit>
+       <unit id="202">
+      <segment>
+        <source xml:space="preserve">Allison's stomach rumbled at the thought of turkey.</source>
+        <target xml:space="preserve" state="translated">七面鳥のことを考えただけでアリソンの腹が鳴った。</target>
+      </segment>
+    </unit>
+    <unit id="203">
+      <segment>
+        <source xml:space="preserve">She hadn't eaten much today. "</source>
+        <target xml:space="preserve" state="translated">今日はあまり食べていないの。」</target>
+      </segment>
+    </unit>
+    <unit id="204">
+      <segment>
+        <source xml:space="preserve">I only have two interviews left-- one with Ewell, one with that guy from the Union."</source>
+        <target xml:space="preserve" state="translated">あと二つインタビューが残ってる⸺ユエルとの一つと、組合のあの男との一つ。」</target>
+      </segment>
+    </unit>
+    <unit id="205">
+      <segment>
+        <source xml:space="preserve">
+
+"Good luck."</source>
+        <target xml:space="preserve" state="translated">「頑張って。」</target>
+      </segment>
+    </unit>
+    <unit id="206">
+      <segment>
+        <source xml:space="preserve">West snorted. "</source>
+        <target xml:space="preserve" state="translated">ウェストは鼻を鳴らした。「</target>
+      </segment>
+    </unit>
+    <unit id="207">
+      <segment>
+        <source xml:space="preserve">I don't //know// what the recreational morgue is, and I don't //want// to know.</source>
+        <target xml:space="preserve" state="translated">レクリエーショナル・モルグが何かは知らないし、知りたくもない。」</target>
+      </segment>
+    </unit>
+    <unit id="208">
+      <segment>
+        <source xml:space="preserve">Man was white as a sheet when he got out of that building."</source>
+        <target xml:space="preserve" state="translated">あの男はその建物から出てきたとき、顔が真っ青だった。」</target>
+      </segment>
+    </unit>
+    <unit id="209">
+      <segment>
+        <source xml:space="preserve">West stood up. "</source>
+        <target xml:space="preserve" state="translated">ウェストは立ち上がった。「</target>
+      </segment>
+    </unit>
+    <unit id="210">
+      <segment>
+        <source xml:space="preserve">I take it you're coming downtown after you're done here?"</source>
+        <target xml:space="preserve" state="translated">ここが終わったらダウンタウンに行くんだろう？」</target>
+      </segment>
+    </unit>
+    <unit id="211">
+      <segment>
+        <source xml:space="preserve">
+
+"Yeah, gonna drive Bob and Ewell.</source>
+        <target xml:space="preserve" state="translated">「ああ、ボブとユエルを送っていくつもりだ。」</target>
+      </segment>
+    </unit>
+    <unit id="212">
+      <segment>
+        <source xml:space="preserve">Hopefully it'll have stopped raining by then."</source>
+        <target xml:space="preserve" state="translated">その頃には雨が止んでいるといいんだけど。」</target>
+      </segment>
+    </unit>
+    <unit id="213">
+      <segment>
+        <source xml:space="preserve">
+
+------
+
+An hour later, Allison Carol was sitting on main street, in the Cracker Barrel across the street from the Select 8 Cinema.</source>
+        <target xml:space="preserve" state="translated">\n\n⸺\n\n1時間後、アリソン・キャロルはメインストリートにあるセレクト8シネマの向かいにあるクラッカーバレルに座っていた。</target>
+      </segment>
+    </unit>
+    <unit id="214">
+      <segment>
+        <source xml:space="preserve">The restaurant was closed to the public-- Site-87 had reserved the entire thing as an emergency backup for Thanksgiving dinner.</source>
+        <target xml:space="preserve" state="translated">そのレストランは一般公開されておらず⸺サイト-87が感謝祭のディナー用に非常用バックアップとして全てを予約していた。</target>
+      </segment>
+    </unit>
+    <unit id="215">
+      <segment>
+        <source xml:space="preserve">She picked at her turkey, looking out the window, expecting something to happen.</source>
+        <target xml:space="preserve" state="translated">彼女は七面鳥をつつきながら窓の外を見て、何かが起こるのを期待していた。</target>
+      </segment>
+    </unit>
+    <unit id="216">
+      <segment>
+        <source xml:space="preserve">
+
+"What is it?"</source>
+        <target xml:space="preserve" state="translated">「何かあったの？」</target>
+      </segment>
+    </unit>
+    <unit id="217">
+      <segment>
+        <source xml:space="preserve">Robert frowned as he smothered his mashed potatoes in gravy.</source>
+        <target xml:space="preserve" state="translated">ロバートはマッシュポテトにグレービーをかけながら眉をひそめた。</target>
+      </segment>
+    </unit>
+    <unit id="218">
+      <segment>
+        <source xml:space="preserve">
+
+"I don't know."</source>
+        <target xml:space="preserve" state="translated">「分からない。」</target>
+      </segment>
+    </unit>
+    <unit id="219">
+      <segment>
+        <source xml:space="preserve">She shook her head. "</source>
+        <target xml:space="preserve" state="translated">彼女は首を振った。「</target>
+      </segment>
+    </unit>
+    <unit id="220">
+      <segment>
+        <source xml:space="preserve">I just... get a weird vibe from that place, now.</source>
+        <target xml:space="preserve" state="translated">今はその場所から変な感じがするの。</target>
+      </segment>
+    </unit>
+    <unit id="221">
+      <segment>
+        <source xml:space="preserve">Ever since the Pit Sloth.</source>
+        <target xml:space="preserve" state="translated">スロース・ピット以来ずっと。</target>
+      </segment>
+    </unit>
+    <unit id="222">
+      <segment>
+        <source xml:space="preserve">Ever since..."
+
+"I died?"</source>
+        <target xml:space="preserve" state="translated">それ以来ずっと……」
+
+「私が死んだ時から？」</target>
+      </segment>
+    </unit>
+    <unit id="223">
+      <segment>
+        <source xml:space="preserve">
+
+"Yeah."</source>
+        <target xml:space="preserve" state="translated">「ああ。」</target>
+      </segment>
+    </unit>
+    <unit id="224">
+      <segment>
+        <source xml:space="preserve">Allison looked down at her hands. "</source>
+        <target xml:space="preserve" state="translated">アリソンは自分の手を見下ろした。「</target>
+      </segment>
+    </unit>
+    <unit id="225">
+      <segment>
+        <source xml:space="preserve">Still trying to figure out what my deal is.</source>
+        <target xml:space="preserve" state="translated">自分が一体何者なのか、まだ分からないでいる。</target>
+      </segment>
+    </unit>
+    <unit id="226">
+      <segment>
+        <source xml:space="preserve">You can pull plot devices from your pocket.</source>
+        <target xml:space="preserve" state="translated">ポケットからプロットデバイスを引っ張り出せるんだ。</target>
+      </segment>
+    </unit>
+    <unit id="227">
+      <segment>
+        <source xml:space="preserve">I know I can do something, but I don't know what.</source>
+        <target xml:space="preserve" state="translated">何かできることは分かってるけど、何かは分からない。</target>
+      </segment>
+    </unit>
+    <unit id="228">
+      <segment>
+        <source xml:space="preserve">Union guy kept on calling me a Narrator."</source>
+        <target xml:space="preserve" state="translated">組合の男がずっと"ナレーター"と呼んでいた。」</target>
+        <note category="glossary">用語集: Narrator 初出。英語役割称号のため半角二重引用符で囲み。</note>
+      </segment>
+    </unit>
+    <unit id="229">
+      <segment>
+        <source xml:space="preserve">She poured herself a glass of cider from the pitcher on the table.</source>
+        <target xml:space="preserve" state="translated">彼女はテーブルのピッチャーからシードルをグラスに注いだ。</target>
+      </segment>
+    </unit>
+    <unit id="230">
+      <segment>
+        <source xml:space="preserve">She was at least confident that that wasn't anomalous.</source>
+        <target xml:space="preserve" state="translated">少なくとも、それが異常ではないと確信していた。</target>
+      </segment>
+    </unit>
+    <unit id="231">
+      <segment>
+        <source xml:space="preserve">
+
+"You have family from Missouri, don't you?"</source>
+        <target xml:space="preserve" state="translated">「ミズーリ州から家族が来てるんだろ？」</target>
+      </segment>
+    </unit>
+    <unit id="232">
+      <segment>
+        <source xml:space="preserve">Robert asked.</source>
+        <target xml:space="preserve" state="translated">ロバートが尋ねた。</target>
+      </segment>
+    </unit>
+    <unit id="233">
+      <segment>
+        <source xml:space="preserve">
+
+"They're not from [http://scp-wiki.net/SCP-2920 Amityville], if that's what you're asking.</source>
+        <target xml:space="preserve" state="translated">「もしそれを聞いているのなら、彼らは[http://scp-wiki.net/SCP-2920 アミティビル]出身ではない。」</target>
+      </segment>
+    </unit>
+    <unit id="234">
+      <segment>
+        <source xml:space="preserve">And they're only in my family by marriage."</source>
+        <target xml:space="preserve" state="translated">「そして、彼らは私の家族の中でも婚姻によってのみ関係している。」</target>
+      </segment>
+    </unit>
+    <unit id="235">
+      <segment>
+        <source xml:space="preserve">Allison looked out towards the cinema. "</source>
+        <target xml:space="preserve" state="translated">アリソンは映画館の方を見つめた。「</target>
+      </segment>
+    </unit>
+    <unit id="236">
+      <segment>
+        <source xml:space="preserve">I'm just... expecting things to go all tits-up.</source>
+        <target xml:space="preserve" state="translated">私はただ……全てがめちゃくちゃになるのを予想している。</target>
+      </segment>
+    </unit>
+    <unit id="237">
+      <segment>
+        <source xml:space="preserve">Maybe I should get out of town for a while.</source>
+        <target xml:space="preserve" state="translated">しばらく町を出た方がいいのかもしれない。</target>
+      </segment>
+    </unit>
+    <unit id="238">
+      <segment>
+        <source xml:space="preserve">Not that I'm sure the nexus would //let// me."</source>
+        <target xml:space="preserve" state="translated">ネクサスが私を//行かせて//くれるかは分からないけど。」</target>
+      </segment>
+    </unit>
+    <unit id="239">
+      <segment>
+        <source xml:space="preserve">
+
+"I went up to Superior last week.</source>
+        <target xml:space="preserve" state="translated">「先週スーペリアに行ったんだ。」</target>
+      </segment>
+    </unit>
+    <unit id="240">
+      <segment>
+        <source xml:space="preserve">Kirk..." He shook his head.</source>
+        <target xml:space="preserve" state="translated">カーク……」彼は首を振った。</target>
+      </segment>
+    </unit>
+    <unit id="241">
+      <segment>
+        <source xml:space="preserve">It was always hard to talk about his friend, taken by the Old Man. "</source>
+        <target xml:space="preserve" state="translated">彼の友人が老人に連れ去られたことについて話すのは、いつも難しかった。」</target>
+      </segment>
+    </unit>
+    <unit id="242">
+      <segment>
+        <source xml:space="preserve">Kirk's sister was in town.</source>
+        <target xml:space="preserve" state="translated">カークの妹が町に来ていた。</target>
+      </segment>
+    </unit>
+    <unit id="243">
+      <segment>
+        <source xml:space="preserve">I try to talk to her whenever I can."</source>
+        <target xml:space="preserve" state="translated">「彼女とは話すようにしている。」</target>
+      </segment>
+    </unit>
+    <unit id="244">
+      <segment>
+        <source xml:space="preserve">
+
+"She Foundation?"</source>
+        <target xml:space="preserve" state="translated">「彼女は財団に？」</target>
+      </segment>
+    </unit>
+    <unit id="245">
+      <segment>
+        <source xml:space="preserve">
+
+"Yeah."</source>
+        <target xml:space="preserve" state="translated">「ああ。」</target>
+      </segment>
+    </unit>
+    <unit id="246">
+      <segment>
+        <source xml:space="preserve">He poured himself another glass of cider. "</source>
+        <target xml:space="preserve" state="translated">彼は自分にもう一杯のシードルを注いだ。「</target>
+      </segment>
+    </unit>
+    <unit id="248">
+      <segment>
+        <source xml:space="preserve">Get some actual drinks and not this kiddie cider?"</source>
+        <target xml:space="preserve" state="translated">ちゃんとした飲み物を手に入れて、この子供騙しのシードルじゃなくて？」</target>
+      </segment>
+    </unit>
+    <unit id="249">
+      <segment>
+        <source xml:space="preserve">
+
+"Maybe."</source>
+        <target xml:space="preserve" state="translated">「多分。」</target>
+      </segment>
+    </unit>
+    <unit id="250">
+      <segment>
+        <source xml:space="preserve">Allison's attention kept on getting drawn back to the cinema.</source>
+        <target xml:space="preserve" state="translated">アリソンの視線は映画館に引き寄せられ続けた。</target>
+      </segment>
+    </unit>
+    <unit id="251">
+      <segment>
+        <source xml:space="preserve">She didn't know why.</source>
+        <target xml:space="preserve" state="translated">彼女には理由が分からなかった。</target>
+      </segment>
+    </unit>
+    <unit id="252">
+      <segment>
+        <source xml:space="preserve">The movie posters looked the same as they always did.</source>
+        <target xml:space="preserve" state="translated">映画のポスターはいつもと同じように見えた。</target>
+      </segment>
+    </unit>
+    <unit id="253">
+      <segment>
+        <source xml:space="preserve">//Fantastic Beasts//, //The Nun//, //The Grinch//, //Plague City//, //The Girl in the Spider's Web//-- "Wait."</source>
+        <target xml:space="preserve" state="translated">//ファンタスティック・ビースト//、//ザ・ナン//、//グリンチ//、//プレイグ・シティ//、//スパイダーズ・ウェブの少女//⸺「待って。」</target>
+      </segment>
+    </unit>
+    <unit id="254">
+      <segment>
+        <source xml:space="preserve">She frowned.</source>
+        <target xml:space="preserve" state="translated">彼女は眉をひそめた。</target>
+      </segment>
+    </unit>
+    <unit id="255">
+      <segment>
+        <source xml:space="preserve">
+
+Before her eyes, the poster for //The Nun// shifted into one for a film called "An Exciting Day in Boring, Oregon."</source>
+        <target xml:space="preserve" state="translated">彼女の目の前で、//ザ・ナン//のポスターが「退屈なオレゴンでの刺激的な一日」という映画のものに変わった。</target>
+      </segment>
+    </unit>
+    <unit id="256">
+      <segment>
+        <source xml:space="preserve">Allison rose from the table, drawing an odd look from Robert.</source>
+        <target xml:space="preserve" state="translated">アリソンはテーブルから立ち上がり、ロバートから不思議そうな視線を向けられた。</target>
+      </segment>
+    </unit>
+    <unit id="257">
+      <segment>
+        <source xml:space="preserve">He then looked out the window and saw it too.</source>
+        <target xml:space="preserve" state="translated">彼も窓の外を見て、それを見た。</target>
+      </segment>
+    </unit>
+    <unit id="258">
+      <segment>
+        <source xml:space="preserve">
+
+Soon, all of the personnel in the Cracker Barrel were outside the movie theater.</source>
+        <target xml:space="preserve" state="translated">やがて、クラッカーバレルの全ての職員が映画館の外に出ていた。</target>
+      </segment>
+    </unit>
+    <unit id="259">
+      <segment>
+        <source xml:space="preserve">The posters had been there before, back right after the Pit Sloth.</source>
+        <target xml:space="preserve" state="translated">そのポスターは以前にもそこにあった、スロース・ピットのすぐ後に。</target>
+      </segment>
+    </unit>
+    <unit id="260">
+      <segment>
+        <source xml:space="preserve">Just a picture and a title, no actors listed, no studio, nothing.</source>
+        <target xml:space="preserve" state="translated">ただの写真とタイトル、俳優の名前も、スタジオも、何も書かれていない。</target>
+      </segment>
+    </unit>
+    <unit id="261">
+      <segment>
+        <source xml:space="preserve">
+
+Now, there was a studio.</source>
+        <target xml:space="preserve" state="translated">今、スタジオがあった。</target>
+      </segment>
+    </unit>
+    <unit id="262">
+      <segment>
+        <source xml:space="preserve">Its logo was the image of a pair of golden apples, with a map of a globe imprinted over them, one hemisphere per apple.</source>
+        <target xml:space="preserve" state="translated">そのロゴは、地球儀の地図が刻まれた金色のリンゴ二つの画像だった。リンゴ一つにつき一つの半球。</target>
+      </segment>
+    </unit>
+    <unit id="263">
+      <segment>
+        <source xml:space="preserve">The name of the studio was "Discordant Orchard Pictures".</source>
+        <target xml:space="preserve" state="translated">そのスタジオの名前は"Discordant Orchard Pictures"、訳せば「不協和音の果樹園フィルムズ」だった。</target>
+        <meta type="alternate-translation" key="1">Discordant Orchard Pictures（原綴保持）</meta>
+        <meta type="alternate-translation" key="2">不協和果樹園ピクチャーズ</meta>
+        <note>固有スタジオ名。語感調整余地あり。原綴保持案とカタカナ案を提示。</note>
+      </segment>
+    </unit>
+    <unit id="264">
+      <segment>
+        <source xml:space="preserve">
+
+"Well."</source>
+        <target xml:space="preserve" state="translated">「まあ。」</target>
+      </segment>
+    </unit>
+    <unit id="265">
+      <segment>
+        <source xml:space="preserve">Allison swallowed. "</source>
+        <target xml:space="preserve" state="translated">アリソンは飲み込んだ。「</target>
+      </segment>
+    </unit>
+    <unit id="266">
+      <segment>
+        <source xml:space="preserve">That... can't be good."</source>
+        <target xml:space="preserve" state="translated">それは……良くないに違いない。」</target>
+      </segment>
+    </unit>
+    <unit id="267">
+      <segment>
+        <source xml:space="preserve">
+
+Dr. Partridge blinked nervously. "</source>
+        <target xml:space="preserve" state="translated">パーチリッジ博士は緊張してまばたきをした。「</target>
+      </segment>
+    </unit>
+    <unit id="268">
+      <segment>
+        <source xml:space="preserve">Jesus Christ.</source>
+        <target xml:space="preserve" state="translated">なんてこった。</target>
+      </segment>
+    </unit>
+    <unit id="269">
+      <segment>
+        <source xml:space="preserve">This isn't a horror film anymore, is it?"</source>
+        <target xml:space="preserve" state="translated">もうホラー映画じゃないよね？」</target>
+      </segment>
+    </unit>
+    <unit id="270">
+      <segment>
+        <source xml:space="preserve">
+
+Allison clenched her hand.</source>
+        <target xml:space="preserve" state="translated">アリソンは手を握りしめた。</target>
+      </segment>
+    </unit>
+    <unit id="271">
+      <segment>
+        <source xml:space="preserve">
+
+"It's an anthology."</source>
+        <target xml:space="preserve" state="translated">「オムニバス形式の話だ。」</target>
+      </segment>
+    </unit>
+    <unit id="272">
+      <segment>
+        <source xml:space="preserve"></source>
+        <target xml:space="preserve" state="translated"></target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
